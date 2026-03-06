@@ -1,0 +1,29 @@
+{
+  "FHRSID": 1703195,
+  "BusinessName": "ACME Burger Company",
+  "BusinessType": "Takeaway/sandwich shop",
+  "LocalAuthorityBusinessID": "160891",
+  "BusinessTypeID": 7844,
+  "LocalAuthorityCode": "555",
+  "LocalAuthorityName": "Caerphilly",
+  "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
+  "NewRatingPending": false,
+  "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
+  "Geocode": {
+    "Latitude": "51.5744275",
+    "Longitude": "-3.2207136"
+  },
+  "AddressLine1": "Unit 4 Ffos Caerffili",
+  "AddressLine2": "Park Lane",
+  "AddressLine3": "Caerphilly",
+  "PostCode": "CF83 1BN",
+  "SchemeType": "FHRS",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2024-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
+}
