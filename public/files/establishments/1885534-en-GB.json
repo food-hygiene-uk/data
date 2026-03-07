@@ -1,13 +1,13 @@
 {
   "FHRSID": 1885534,
-  "BusinessName": "FOREVER FOOD & WINE",
+  "BusinessName": "Forever Food Mart",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000080239",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "103",
   "LocalAuthorityName": "Hastings",
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
   "Geocode": {
     "Latitude": "50.855252",
@@ -18,8 +18,12 @@
   "AddressLine3": "East Sussex",
   "PostCode": "TN34 1JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "East Suffolk And North Essex Nhs Foundation",
+  "Geocode": {
+    "Latitude": "51.9101752",
+    "Longitude": "0.8992134"
+  },
+  "AddressLine1": "Colchester General Hospital",
   "AddressLine2": "Turner Road",
   "AddressLine3": "Colchester",
   "AddressLine4": "Essex",

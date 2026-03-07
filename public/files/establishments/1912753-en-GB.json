@@ -9,14 +9,20 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Walkden Town Centre",
-  "AddressLine2": "unit 18 Bridgewater Walk",
-  "AddressLine3": "Walkden",
+  "Geocode": {
+    "Latitude": "53.5250238",
+    "Longitude": "-2.4008327"
+  },
+  "AddressLine1": "Ellesmere Shopping Centre",
+  "AddressLine2": "Bolton Road",
   "PostCode": "M28 3ZH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

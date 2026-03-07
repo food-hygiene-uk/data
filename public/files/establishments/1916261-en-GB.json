@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916261,
-  "BusinessName": "Dovercourtgrill",
+  "BusinessName": "Dovercourt Grill",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00041/FOOD",
   "BusinessTypeID": 7844,
@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.933355",
+    "Longitude": "1.256488"
+  },
+  "AddressLine1": "487 Main Road",
+  "AddressLine2": "Harwich",
+  "AddressLine3": "Essex",
+  "PostCode": "CO12 4HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

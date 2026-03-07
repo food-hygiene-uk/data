@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.edinburgh.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@edinburgh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Registered Street Trader",
+  "Geocode": {
+    "Latitude": "55.9538277",
+    "Longitude": "-3.2164437"
+  },
+  "AddressLine1": "C/O Edinburgh Council",
   "AddressLine2": "Edinburgh",
   "PostCode": "EH5 2GF",
   "SchemeType": "FHIS",

@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8770037",
+    "Longitude": "0.8455934"
+  },
+  "AddressLine1": "11 Angora Business Park",
+  "AddressLine2": "Peartree Road",
+  "AddressLine3": "Stanway",
+  "AddressLine4": "Essex",
+  "PostCode": "CO3 0AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

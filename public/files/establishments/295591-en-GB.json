@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "222",
   "LocalAuthorityName": "North Kesteven",
   "LocalAuthorityWebSite": "http://www.n-kesteven.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTeam@n-kesteven.gov.uk",
   "Geocode": {
     "Latitude": "53.0461825",
@@ -17,8 +17,12 @@
   "AddressLine4": "Ruskington",
   "PostCode": "NG34 9DY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-01-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1917035,
-  "BusinessName": "Guru Nanak Darbar Gurdwara Wellbeing Centre",
+  "BusinessName": "Wellbeing Centre (Guru Nanak Darbar Gurdwara)",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "194800009",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Kent",
   "PostCode": "DA12 1LU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

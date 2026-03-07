@@ -13,12 +13,16 @@
     "Latitude": "52.6407964",
     "Longitude": "0.6913287"
   },
-  "AddressLine1": "Unit 1 Brandon Road",
-  "AddressLine3": "Swaffham",
-  "AddressLine4": "Norfolk",
+  "AddressLine1": "Swaffham Express Unit 1 Brandon Road",
+  "AddressLine3": "Swaffham Norfolk",
+  "PostCode": "PE37 7ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
