@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
   "Geocode": {
     "Latitude": "51.5612279",
@@ -17,12 +17,12 @@
   "AddressLine2": "Wembley",
   "PostCode": "HA9 0NP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-27",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

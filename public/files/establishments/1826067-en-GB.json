@@ -7,21 +7,21 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.4448974",
     "Longitude": "-3.5625236"
   },
-  "AddressLine1": "247 Torquay Road Paignton Devon",
+  "AddressLine1": "247 Torquay Road  Paignton",
   "PostCode": "TQ3 2HL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
