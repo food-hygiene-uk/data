@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6823656",
+    "Longitude": "-2.921312"
+  },
+  "AddressLine1": "41 Church Road",
+  "AddressLine2": "Banks",
+  "AddressLine3": "Lancashire",
+  "PostCode": "PR9 8ET",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
