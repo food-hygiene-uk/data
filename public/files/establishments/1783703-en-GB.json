@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5856764",
+    "Longitude": "-1.2935995"
+  },
+  "AddressLine1": "Bracknell Farm",
+  "AddressLine2": "Leicester Road",
+  "AddressLine3": "Thurlaston",
+  "AddressLine4": "Earl Shilton",
+  "PostCode": "LE9 7TJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

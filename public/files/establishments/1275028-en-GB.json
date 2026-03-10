@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "883",
   "LocalAuthorityName": "West Berkshire",
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
   "Geocode": null,
   "AddressLine1": "Hungerford Primary School Fairview Road",
@@ -15,12 +15,12 @@
   "AddressLine4": "West Berkshire",
   "PostCode": "RG17 0BT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

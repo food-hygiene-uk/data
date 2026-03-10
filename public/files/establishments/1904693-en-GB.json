@@ -1,6 +1,6 @@
 {
   "FHRSID": 1904693,
-  "BusinessName": "Tesco Stores Limited",
+  "BusinessName": "Tesco Express",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "25/00463/COMM",
   "BusinessTypeID": 7840,
@@ -15,8 +15,12 @@
   "AddressLine3": "London",
   "PostCode": "EC2R 6EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

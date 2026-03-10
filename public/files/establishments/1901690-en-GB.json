@@ -1,6 +1,6 @@
 {
   "FHRSID": 1901690,
-  "BusinessName": "Capones Prohibition Pizza And Fries/ Old Dean Kitchens",
+  "BusinessName": "Capones Prohibition Pizza/ Camberley Tandoori",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00132/CP",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "Surrey",
   "PostCode": "GU15 4DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

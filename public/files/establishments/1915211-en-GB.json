@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "855",
   "LocalAuthorityName": "Bristol",
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": {
     "Latitude": "51.4472473",
@@ -19,12 +19,8 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS1 6ZA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

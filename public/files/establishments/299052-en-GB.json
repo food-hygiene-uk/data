@@ -9,18 +9,17 @@
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Compston House B&B",
+  "Geocode": {
+    "Latitude": "54.4302398",
+    "Longitude": "-2.9643964"
+  },
+  "AddressLine1": "Compston House Hotel",
   "AddressLine2": "Compston Road",
   "AddressLine4": "Ambleside",
   "PostCode": "LA22 9DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-17",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "207",
   "LocalAuthorityName": "Wyre",
   "LocalAuthorityWebSite": "https://wyre.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialsafety@wyre.gov.uk",
   "Geocode": {
     "Latitude": "53.87741",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "FY5 1AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-07-22",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

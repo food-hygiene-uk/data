@@ -19,8 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "KT8 9HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-01-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

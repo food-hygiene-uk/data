@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portaferry",
-  "AddressLine3": "Newtownards",
+  "Geocode": {
+    "Latitude": "54.382123",
+    "Longitude": "-5.544948"
+  },
+  "AddressLine1": "2 High Street",
+  "AddressLine2": "Ballyphilip",
+  "AddressLine3": "Portaferry",
+  "AddressLine4": "Down",
   "PostCode": "BT22 1QT",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "110",
   "LocalAuthorityName": "Braintree",
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
   "RightToReply": "&lt;p&gt;\n\t25/2/26 - I agree with the inspection results but have since carried out the following improvements&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\t&amp;middot;&amp;nbsp; The establishment has been thoroughly cleaned and procedures are in place to ensure that cleanliness is maintained.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\t&amp;middot;&amp;nbsp; The establishment has been or will shortly be fully renovated.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\t&amp;middot;&amp;nbsp; The staff have been trained/re-trained/given instruction/are under revised supervisory arrangements&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tWe appreciate the council&amp;rsquo;s visit and take food safety seriously. The sole point noted was a sink, which was installed immediately after. We were informed that with that fitted we would&amp;rsquo;ve been a clear 5 rating, all our food safety and hygiene procedures were spot on. However, we were told we must pay &amp;pound;180 for a rescore, which we feel is unfair. Instead, we chose to donate that amount to charity. We remain committed to best practices and disagree with the &amp;pound;180 fee the council request for our score that we deserve.&lt;/p&gt;\n",
   "Geocode": {
@@ -20,8 +20,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM7 3QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5397832",
-    "Longitude": "-1.2750405"
-  },
-  "AddressLine1": "1 Ivy House Close",
-  "AddressLine2": "Sapcote",
-  "AddressLine3": "Leicester",
-  "AddressLine4": "Leicestershire",
-  "PostCode": "LE9 4NH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.2596545",
     "Longitude": "1.0660483"
@@ -17,12 +17,12 @@
   "AddressLine3": "Canterbury",
   "PostCode": "CT4 7BG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-20",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-02",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "287",
   "LocalAuthorityName": "Cannock Chase",
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
   "Geocode": {
     "Latitude": "52.7073527",
@@ -17,12 +17,12 @@
   "AddressLine4": "Cannock",
   "PostCode": "WS12 1JD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

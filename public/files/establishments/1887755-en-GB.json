@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4500639",
+    "Longitude": "-2.6049149"
+  },
+  "AddressLine1": "Flat 17 Quay Point",
+  "AddressLine2": "Lime Kiln Road",
+  "AddressLine3": "City Centre",
+  "AddressLine4": "Bristol",
+  "PostCode": "BS1 5AD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
