@@ -1,6 +1,6 @@
 {
   "FHRSID": 462260,
-  "BusinessName": "Wagyou Burger @ Square Pizza",
+  "BusinessName": "Square Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "6985",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "Rotherham",
   "PostCode": "S65 1QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2024-11-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

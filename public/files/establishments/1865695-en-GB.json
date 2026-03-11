@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@northdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.015353",
-    "Longitude": "-3.843402"
-  },
-  "AddressLine1": "129 Nadder Meadow",
-  "AddressLine2": "South Molton",
-  "AddressLine3": "Devon",
-  "PostCode": "EX36 4BS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6093806",
+    "Longitude": "-1.7013347"
+  },
+  "AddressLine1": "1 Lane Head Lane",
+  "AddressLine2": "Kirkburton",
+  "AddressLine3": "Huddersfield",
+  "PostCode": "HD8 0SQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7607655",
-    "Longitude": "-0.4980144"
-  },
-  "AddressLine2": "33 School End Crescent",
-  "AddressLine3": "Hemel Hempstead",
-  "AddressLine4": "Hertfordshire",
-  "PostCode": "HP1 2DZ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

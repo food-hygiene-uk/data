@@ -9,21 +9,19 @@
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8164698",
-    "Longitude": "-2.6582028"
-  },
-  "AddressLine1": "Old Whittingham Hospital Grounds",
+  "Geocode": null,
+  "AddressLine1": "Whittingham Club",
   "AddressLine2": "Whittingham Lane",
-  "AddressLine3": "Preston",
+  "AddressLine3": "Broughton",
+  "AddressLine4": "Preston",
   "PostCode": "PR3 2JE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-10",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

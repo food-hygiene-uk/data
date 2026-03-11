@@ -1,13 +1,13 @@
 {
   "FHRSID": 1538383,
   "BusinessName": "Carnalea Care Home",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "6064",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "802",
   "LocalAuthorityName": "Ards and North Down",
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
   "Geocode": {
     "Latitude": "54.661079",
@@ -17,12 +17,12 @@
   "AddressLine3": "Bangor",
   "PostCode": "BT19 1BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

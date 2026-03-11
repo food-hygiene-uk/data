@@ -1,6 +1,6 @@
 {
   "FHRSID": 1517476,
-  "BusinessName": "Chrissy At The Plough",
+  "BusinessName": "Simply Supper",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "91566",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

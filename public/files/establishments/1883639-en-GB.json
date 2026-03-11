@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.031691",
+    "Longitude": "-0.2299644"
+  },
+  "AddressLine1": "Astwick Bury Farm",
+  "AddressLine2": "Astwick Road",
+  "AddressLine3": "Astwick",
+  "AddressLine4": "Hitchin",
+  "PostCode": "SG5 4BH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.3604966",
-    "Longitude": "-2.9977899"
+    "Latitude": "53.3604564",
+    "Longitude": "-2.9977347"
   },
-  "AddressLine1": "9a Bebington Road",
-  "AddressLine2": "New Ferry",
-  "AddressLine3": "Wirral",
+  "AddressLine1": "9A Bebington Road",
+  "AddressLine3": "New Ferry",
+  "AddressLine4": "Wirral",
   "PostCode": "CH62 5BE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-11-15",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-03",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

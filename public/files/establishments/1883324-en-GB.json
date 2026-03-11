@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7699241",
+    "Longitude": "-1.7881997"
+  },
+  "AddressLine2": "30 Enfield Drive",
+  "AddressLine3": "Bradford",
+  "PostCode": "BD6 3HZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",
