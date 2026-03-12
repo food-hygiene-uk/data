@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "0502 0406 O/s Heaton Baptist Church Heaton Road",
+  "Geocode": {
+    "Latitude": "54.9831346",
+    "Longitude": "-1.5814641"
+  },
+  "AddressLine1": "158 Heaton Road",
   "AddressLine3": "Newcastle Upon Tyne",
+  "PostCode": "NE6 5HN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

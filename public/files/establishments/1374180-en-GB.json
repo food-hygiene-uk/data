@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "133",
   "LocalAuthorityName": "Eastleigh",
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
   "Geocode": {
     "Latitude": "50.9820179",
@@ -16,12 +16,12 @@
   "AddressLine1": "18A BOURNEMOUTH ROAD CHANDLER'S FORD EASTLEIGH SO53 3DB",
   "PostCode": "SO53 3DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-11-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

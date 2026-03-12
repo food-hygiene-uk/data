@@ -1,13 +1,13 @@
 {
   "FHRSID": 300715,
-  "BusinessName": "Premier Convenience Store",
+  "BusinessName": "Premier",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "07/01764/MIXED",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "110",
   "LocalAuthorityName": "Braintree",
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
   "Geocode": {
     "Latitude": "51.97804",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CO9 3PP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

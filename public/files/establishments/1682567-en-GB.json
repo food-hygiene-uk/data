@@ -9,15 +9,19 @@
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9130858",
+    "Longitude": "-1.5225094"
+  },
   "AddressLine1": "4 Arndale House",
   "AddressLine2": "Victoria Road",
   "AddressLine3": "Concord",
   "AddressLine4": "Washington",
+  "PostCode": "NE37 2SW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-17",
+  "RatingDate": "2025-12-12",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,

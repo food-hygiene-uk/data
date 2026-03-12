@@ -1,6 +1,6 @@
 {
   "FHRSID": 1894392,
-  "BusinessName": "Omega fire ministries manchester",
+  "BusinessName": "Omega Fire Ministries Manchester",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "AC082025-23866",
   "BusinessTypeID": 4613,
@@ -18,8 +18,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M40 8AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
