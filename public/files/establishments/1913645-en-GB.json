@@ -1,13 +1,13 @@
 {
   "FHRSID": 1913645,
-  "BusinessName": "AK Convenience Store",
+  "BusinessName": "HA Supermarket Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "48291",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": {
     "Latitude": "52.583559",
@@ -18,8 +18,12 @@
   "AddressLine3": "West Midlands",
   "PostCode": "WV1 2HY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

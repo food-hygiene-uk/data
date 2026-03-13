@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "856",
   "LocalAuthorityName": "South Gloucestershire",
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
   "Geocode": {
     "Latitude": "51.4813652038574",
@@ -19,12 +19,12 @@
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS16 5LR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

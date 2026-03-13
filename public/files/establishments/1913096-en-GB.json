@@ -1,25 +1,22 @@
 {
   "FHRSID": 1913096,
   "BusinessName": "Bakes By Dee",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "C096LW25BU/1",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Monmouthshire",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.62749",
-    "Longitude": "-2.6738474"
-  },
-  "AddressLine2": "25 Burnt Barn Road",
-  "AddressLine3": "Bulwark",
-  "AddressLine4": "Chepstow",
-  "PostCode": "NP16 5AR",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-02-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

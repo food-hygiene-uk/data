@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.7861966",
-    "Longitude": "-1.5461619"
-  },
-  "AddressLine1": "Hawthorns",
-  "AddressLine2": "2 Bushey Ground",
-  "AddressLine3": "Minster Lovell",
-  "AddressLine4": "Witney",
-  "PostCode": "OX29 0SW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

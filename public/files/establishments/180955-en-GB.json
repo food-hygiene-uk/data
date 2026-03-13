@@ -1,13 +1,13 @@
 {
   "FHRSID": 180955,
-  "BusinessName": "British Railway Club",
+  "BusinessName": "GWRSA Exeter West Railway Club",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000068192",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "073",
   "LocalAuthorityName": "Exeter City",
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
   "Geocode": {
     "Latitude": "50.717877",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX4 1AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

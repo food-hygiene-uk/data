@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Within Texaco Service Station",
+  "Geocode": {
+    "Latitude": "53.509153",
+    "Longitude": "-2.3328907"
+  },
+  "AddressLine1": "Save Service Station",
   "AddressLine2": "25a Chorley Road",
   "AddressLine3": "Swinton",
+  "PostCode": "M27 4AF",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

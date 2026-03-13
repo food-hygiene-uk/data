@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sholland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhs@sholland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.798995",
-    "Longitude": "-0.1276768"
-  },
-  "AddressLine1": "Former Unit 46 Springfields Outlet Centre Camel Gate",
+  "Geocode": null,
+  "AddressLine1": "Springfields Exhibition And Conference Centre Camel Gate",
   "AddressLine3": "Spalding",
   "AddressLine4": "Lincolnshire",
+  "PostCode": "PE12 6ET",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

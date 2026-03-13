@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7774",
+    "Longitude": "-2.492643"
+  },
+  "AddressLine1": "Valley View",
+  "AddressLine2": "Brains Green",
+  "AddressLine3": "Blakeney",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL15 4AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9854523",
+    "Longitude": "-2.258398"
+  },
+  "AddressLine1": "Pitfield Farm",
+  "AddressLine2": "Eldersfield",
+  "AddressLine3": "Worcestershire",
+  "PostCode": "GL19 4NW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-11-28",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

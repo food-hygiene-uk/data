@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4665029",
+    "Longitude": "-0.1154941"
+  },
+  "AddressLine1": "54 Barret House",
+  "AddressLine2": "Benedict Road",
+  "AddressLine3": "London",
+  "PostCode": "SW9 0UN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2024-06-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

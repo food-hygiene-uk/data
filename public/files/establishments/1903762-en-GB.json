@@ -1,25 +1,22 @@
 {
   "FHRSID": 1903762,
   "BusinessName": "JJ & CJ's Sweet Treats",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "C096SS42HI/1",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Monmouthshire",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6082983",
-    "Longitude": "-2.7611592"
-  },
-  "AddressLine2": "42 Highfield",
-  "AddressLine3": "Caerwent",
-  "AddressLine4": "Caldicot",
-  "PostCode": "NP26 5BJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

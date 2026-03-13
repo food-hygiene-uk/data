@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "210",
   "LocalAuthorityName": "Charnwood",
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
   "Geocode": {
     "Latitude": "52.741706",
@@ -17,12 +17,12 @@
   "AddressLine4": "Quorn",
   "PostCode": "LE12 8BB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-03-04",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-05",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 20,
+    "ConfidenceInManagement": 30
   }
 }

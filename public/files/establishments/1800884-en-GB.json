@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.936885",
+    "Longitude": "-1.510453"
+  },
+  "AddressLine1": "AFC TOTTON",
+  "AddressLine2": "SALISBURY ROAD",
+  "AddressLine3": "CALMORE",
+  "AddressLine4": "SOUTHAMPTON",
+  "PostCode": "SO40 2RW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

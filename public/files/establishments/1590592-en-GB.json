@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4817458",
+    "Longitude": "-2.2809154"
+  },
   "AddressLine1": "Salford Spiritualist Church",
-  "AddressLine2": "129 Cross Lane",
+  "AddressLine2": "Cross Lane",
   "AddressLine3": "Salford",
-  "PostCode": "M5 4HH",
+  "PostCode": "M5 4AE",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1907189,
-  "BusinessName": "Well",
+  "BusinessName": "Well Pharmacy",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx13791",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "Wednesbury",
   "PostCode": "WS10 7HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
