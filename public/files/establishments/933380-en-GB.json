@@ -9,7 +9,11 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.47768722",
+    "Longitude": "-2.93268008"
+  },
+  "AddressLine1": "Longtown Road",
   "AddressLine2": "Dundee",
   "PostCode": "DD4",
   "SchemeType": "FHIS",

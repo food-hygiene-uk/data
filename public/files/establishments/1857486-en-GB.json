@@ -1,13 +1,13 @@
 {
   "FHRSID": 1857486,
-  "BusinessName": "Wycombe Fresh Fish Ltd",
+  "BusinessName": "Wycombe Fresh Fish",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "25/00325/FFISHM",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
     "Latitude": "51.629899",
@@ -18,8 +18,12 @@
   "AddressLine3": "Buckinghamshire",
   "PostCode": "HP13 6RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

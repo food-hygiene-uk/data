@@ -9,7 +9,11 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4577431",
+    "Longitude": "-2.9744856"
+  },
+  "AddressLine1": "144 Nethergate",
   "AddressLine2": "Dundee",
   "PostCode": "DD1",
   "SchemeType": "FHIS",

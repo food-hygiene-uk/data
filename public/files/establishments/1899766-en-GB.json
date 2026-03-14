@@ -1,13 +1,13 @@
 {
   "FHRSID": 1899766,
   "BusinessName": "Mini Market Bella",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "56065",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
     "Latitude": "53.3637634",
@@ -18,8 +18,12 @@
   "AddressLine4": "Sheffield",
   "PostCode": "S2 4DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

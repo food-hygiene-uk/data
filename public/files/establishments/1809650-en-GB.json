@@ -1,18 +1,24 @@
 {
   "FHRSID": 1809650,
-  "BusinessName": "Butterfly Barn Studio",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Butterfly Barn",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "56635",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "210",
   "LocalAuthorityName": "Charnwood",
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6782321",
+    "Longitude": "-1.1224708"
+  },
+  "AddressLine2": "79 Sibson Road",
+  "AddressLine4": "Birstall",
+  "PostCode": "LE4 4DX",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
   "RatingDate": null,
   "Scores": null
 }

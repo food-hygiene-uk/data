@@ -9,7 +9,11 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4790797",
+    "Longitude": "-2.9792543"
+  },
+  "AddressLine1": "2 Fairfield Street",
   "AddressLine2": "Dundee",
   "PostCode": "DD3",
   "SchemeType": "FHIS",

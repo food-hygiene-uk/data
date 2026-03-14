@@ -1,6 +1,6 @@
 {
   "FHRSID": 1917093,
-  "BusinessName": "TNS Catering Management Limited",
+  "BusinessName": "TNS Catering Management Limited (At TVS Supply Chain)",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00009/COMM",
   "BusinessTypeID": 1,
@@ -19,8 +19,12 @@
   "AddressLine4": "Buckshaw Avenue",
   "PostCode": "PR6 7AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

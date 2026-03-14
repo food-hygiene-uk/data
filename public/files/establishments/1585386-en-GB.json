@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "114",
   "LocalAuthorityName": "Colchester",
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
   "Geocode": {
     "Latitude": "51.8988800048828",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CO6 1JS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

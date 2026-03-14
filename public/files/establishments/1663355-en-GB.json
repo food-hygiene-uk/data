@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "116",
   "LocalAuthorityName": "Harlow",
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
   "Geocode": {
     "Latitude": "51.753036",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM18 7NW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-04",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-20",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.256476",
+    "Longitude": "-1.506253"
+  },
+  "AddressLine1": "Ingmanthorpe Farm",
+  "AddressLine2": "Unnamed Section Of B6050",
+  "AddressLine3": "Ingmanthorpe",
+  "AddressLine4": "Cutthorpe",
+  "PostCode": "S42 7AX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-12-18",
+  "RatingDate": "2026-03-10",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

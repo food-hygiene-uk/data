@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "557",
   "LocalAuthorityName": "Ceredigion",
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
   "Geocode": {
     "Latitude": "52.2194508",
@@ -18,8 +18,12 @@
   "AddressLine4": "Ceredigion",
   "PostCode": "SY25 6JX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-02-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
