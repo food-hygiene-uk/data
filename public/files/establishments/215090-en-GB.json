@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "064",
   "LocalAuthorityName": "Chesterfield",
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
   "Geocode": {
     "Latitude": "53.2681579589844",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2018-01-11",
+  "RatingDate": "2026-02-09",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

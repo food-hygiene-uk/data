@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": {
     "Latitude": "53.712277",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2023-09-22",
+  "RatingDate": "2026-02-09",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
+    "Hygiene": 15,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

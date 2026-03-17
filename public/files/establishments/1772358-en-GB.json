@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "078",
   "LocalAuthorityName": "Teignbridge",
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
   "Geocode": {
     "Latitude": "50.5176246",
@@ -18,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "0",
   "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-08-18",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 20,
+    "Hygiene": 25,
     "Structural": 25,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 30
   }
 }

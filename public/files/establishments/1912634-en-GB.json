@@ -1,6 +1,6 @@
 {
   "FHRSID": 1912634,
-  "BusinessName": "Buxhall Village Hall",
+  "BusinessName": "Buxhall Village Hall - Tea Room",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "FR/000007094",
   "BusinessTypeID": 1,
@@ -9,15 +9,22 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Mill Road",
+  "Geocode": {
+    "Latitude": "52.1809017",
+    "Longitude": "0.9157681"
+  },
+  "AddressLine1": "Buxhall Village Hall Mill Road",
   "AddressLine2": "Buxhall",
   "AddressLine3": "STOWMARKET",
   "AddressLine4": "Suffolk",
   "PostCode": "IP14 3DS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

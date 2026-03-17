@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0455491",
-    "Longitude": "0.7643604"
-  },
-  "AddressLine1": "Mikey and Jordys Ice Cream 1 Winthrop Close",
-  "AddressLine2": "Newton Road",
-  "AddressLine3": "Chilton",
-  "AddressLine4": "SUDBURY",
-  "PostCode": "CO10 0PZ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

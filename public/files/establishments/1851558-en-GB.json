@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Stokesley 0 Middlesbrough",
-  "AddressLine2": "TS9 5AA",
+  "Geocode": {
+    "Latitude": "54.4692581",
+    "Longitude": "-1.1931922"
+  },
+  "AddressLine1": "9 Bridge Road",
+  "AddressLine4": "Stokesley",
+  "PostCode": "TS9 5AA",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

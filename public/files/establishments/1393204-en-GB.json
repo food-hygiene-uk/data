@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Parent For Commercial Premises And Flat",
-  "AddressLine2": "Heathland Avenue",
-  "AddressLine3": "Birmingham",
+  "Geocode": {
+    "Latitude": "52.4993459",
+    "Longitude": "-1.7910343"
+  },
+  "AddressLine1": "Heathway Public House",
+  "AddressLine2": "Parent For Commercial Premises And Flat",
+  "AddressLine3": "Heathland Avenue",
+  "AddressLine4": "Birmingham",
   "PostCode": "B34 6LS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-07",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-09",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Playing Field And Clubhouse",
+  "Geocode": {
+    "Latitude": "53.5072156",
+    "Longitude": "-2.3281563"
+  },
+  "AddressLine1": "Swinton Football Club",
   "AddressLine2": "Barton Road",
   "AddressLine3": "Swinton",
+  "PostCode": "M27 5LJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

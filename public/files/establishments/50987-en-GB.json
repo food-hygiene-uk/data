@@ -1,6 +1,6 @@
 {
   "FHRSID": 50987,
-  "BusinessName": "elysium health care",
+  "BusinessName": "Elysium health care",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "113809",
   "BusinessTypeID": 5,
@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.494158",
-    "Longitude": "-2.29259"
-  },
-  "AddressLine1": "Charles House",
+  "Geocode": null,
+  "AddressLine1": "Braeburn House",
   "AddressLine2": "Charles Street",
   "AddressLine3": "Salford",
   "PostCode": "M6 7DU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

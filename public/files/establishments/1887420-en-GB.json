@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9216424",
+    "Longitude": "-0.6076256"
+  },
+  "AddressLine1": "Unit 1",
+  "AddressLine2": "Ruston Road",
+  "AddressLine3": "Alma Park Industrial Estate",
+  "AddressLine4": "Grantham",
+  "PostCode": "NG31 9SW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

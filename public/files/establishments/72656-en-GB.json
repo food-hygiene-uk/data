@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "55.04304",
-    "Longitude": "-1.440737"
-  },
-  "AddressLine1": "23/24 Esplanade",
-  "AddressLine2": "Whitley Bay",
-  "AddressLine3": "Tyne And Wear",
-  "PostCode": "NE26 2AJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-15",
+  "RatingDate": "2026-03-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

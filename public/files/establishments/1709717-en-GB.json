@@ -7,13 +7,20 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3853666",
+    "Longitude": "-3.0211521"
+  },
+  "AddressLine1": "Argyle Industrial Estate 56 Appin Road",
+  "AddressLine3": "Tranmere",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH41 9HH",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-11-28",
+  "RatingDate": "2026-02-09",
   "Scores": {
     "Hygiene": 5,
     "Structural": 10,

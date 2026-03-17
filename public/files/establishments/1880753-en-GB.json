@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Stokesley 0 Middlesbrough",
+  "Geocode": {
+    "Latitude": "54.5157625",
+    "Longitude": "-1.1671247"
+  },
+  "AddressLine1": "Stokesley Middlesbrough",
   "AddressLine2": "TS9 5AD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

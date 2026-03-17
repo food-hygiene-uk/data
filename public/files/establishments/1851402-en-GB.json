@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bedale 0 DL8 1AF",
+  "Geocode": {
+    "Latitude": "54.290385",
+    "Longitude": "-1.5933349"
+  },
+  "AddressLine1": "7-9 North End",
+  "AddressLine4": "Bedale",
+  "PostCode": "DL8 1AF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
