@@ -9,13 +9,21 @@
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3986659",
+    "Longitude": "-2.3606586"
+  },
+  "AddressLine1": "133 Fairfield Park Road",
+  "AddressLine2": "Fairfield Park",
+  "AddressLine3": "Bath",
+  "AddressLine4": "Bath And North East Somerset",
+  "PostCode": "BA1 6JT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-20",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

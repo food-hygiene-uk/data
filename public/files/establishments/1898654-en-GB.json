@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Replacement Parish Centre High Street",
+  "Geocode": {
+    "Latitude": "52.4033036",
+    "Longitude": "-0.0799174"
+  },
+  "AddressLine1": "Warboys Community Centre High Street",
   "AddressLine3": "Warboys",
   "AddressLine4": "Cambridgeshire",
+  "PostCode": "PE28 2TA",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

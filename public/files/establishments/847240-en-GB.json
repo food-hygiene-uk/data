@@ -1,6 +1,6 @@
 {
   "FHRSID": 847240,
-  "BusinessName": "Lambourne End Outdoor Centre",
+  "BusinessName": "Lambourne End Centre",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000088015",
   "BusinessTypeID": 4613,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Manor Road",
+  "Geocode": {
+    "Latitude": "51.6320256",
+    "Longitude": "0.138729"
+  },
+  "AddressLine1": "Lambourne End Outdoor Centre Manor Road",
   "AddressLine2": "Romford",
   "AddressLine3": "Lambourne",
   "AddressLine4": "Essex",

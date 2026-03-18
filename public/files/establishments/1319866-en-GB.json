@@ -1,6 +1,6 @@
 {
   "FHRSID": 1319866,
-  "BusinessName": "King Harolds Head PH",
+  "BusinessName": "King Harolds Head",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000013046",
   "BusinessTypeID": 7843,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Nazeing Common",
+  "Geocode": {
+    "Latitude": "51.7270317",
+    "Longitude": "0.0428236"
+  },
+  "AddressLine1": "King Harolds Head PH Nazeing Common",
   "AddressLine2": "Nazeing",
   "AddressLine3": "Waltham Abbey",
   "AddressLine4": "Essex",

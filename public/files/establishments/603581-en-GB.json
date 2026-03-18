@@ -1,6 +1,6 @@
 {
   "FHRSID": 603581,
-  "BusinessName": "Somerville School",
+  "BusinessName": "Somerville Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000499653",
   "BusinessTypeID": 7845,
@@ -10,10 +10,9 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
-    "Latitude": "52.470649",
-    "Longitude": "-1.853982"
+    "Latitude": "52.4701718",
+    "Longitude": "-1.850822"
   },
-  "AddressLine1": "Somerville Junior And Infants School",
   "AddressLine2": "Somerville Road",
   "AddressLine3": "Bordesley Green",
   "AddressLine4": "Birmingham",
@@ -21,6 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-11-10",
-  "Scores": null
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

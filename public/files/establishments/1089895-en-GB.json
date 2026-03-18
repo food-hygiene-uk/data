@@ -1,6 +1,6 @@
 {
   "FHRSID": 1089895,
-  "BusinessName": "The Cartshed Restaurant",
+  "BusinessName": "The Cartshed restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000139066",
   "BusinessTypeID": 1,
@@ -13,18 +13,14 @@
     "Latitude": "51.7216955",
     "Longitude": "0.1336767"
   },
-  "AddressLine1": "The Cart Shed",
+  "AddressLine1": "The Cartshed Restaurant The Cart Shed",
   "AddressLine2": "Weald Place Farm",
   "AddressLine3": "Duck Lane",
   "AddressLine4": "Epping",
   "PostCode": "CM16 6NE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2019-02-07",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -1,22 +1,29 @@
 {
   "FHRSID": 1866963,
   "BusinessName": "Vivi & Noo Ltd",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "137070",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "701",
   "LocalAuthorityName": "Bedford",
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
-    "Latitude": "52.1392097473145",
-    "Longitude": "-0.463690012693405"
+    "Latitude": "52.1387979",
+    "Longitude": "-0.4510279"
   },
+  "AddressLine1": "The Old Coalhouse",
+  "AddressLine2": "28a Rosamond Road",
   "AddressLine3": "Bedford",
+  "PostCode": "MK40 3SS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

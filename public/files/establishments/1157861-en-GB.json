@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "within Premier Stores",
+  "Geocode": {
+    "Latitude": "53.4887663",
+    "Longitude": "-2.3266426"
+  },
+  "AddressLine1": "Ground Floor Part",
   "AddressLine2": "213 Eccles Old Road",
   "AddressLine3": "Salford",
   "PostCode": "M6 8HA",

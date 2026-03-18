@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Langland Rdoad",
+  "Geocode": {
+    "Latitude": "52.021221",
+    "Longitude": "-0.727384"
+  },
+  "AddressLine1": "Langland Community School",
+  "AddressLine2": "Langland Road",
   "AddressLine3": "Netherfield",
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK6 4HA",

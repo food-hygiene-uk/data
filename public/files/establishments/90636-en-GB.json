@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": {
-    "Latitude": "52.042121887207",
-    "Longitude": "-0.759115993976593"
+    "Latitude": "52.042122",
+    "Longitude": "-0.759116"
   },
   "AddressLine2": "1 Sunset Walk",
   "AddressLine3": "Central Milton Keynes",
+  "AddressLine4": "Milton Keynes",
   "PostCode": "MK9 3PD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2025-12-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

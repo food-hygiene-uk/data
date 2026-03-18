@@ -7,16 +7,24 @@
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.646768",
+    "Longitude": "-1.933062"
+  },
   "AddressLine1": "44 High Street",
   "AddressLine2": "Brownhills",
   "AddressLine3": "Walsall",
-  "PostCode": "West Midla",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WS8 6EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-10",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
+  }
 }

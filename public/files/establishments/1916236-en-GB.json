@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
-    "Latitude": "51.3990178",
-    "Longitude": "-3.2849462"
+    "Latitude": "51.399121",
+    "Longitude": "-3.2790999"
   },
-  "AddressLine1": "16A York Place",
+  "AddressLine1": "Unit 10 Goodsheds Container Village Hood Road",
   "AddressLine3": "Barry",
   "AddressLine4": "Vale Of Glamorgan",
-  "PostCode": "CF62 7ED",
+  "PostCode": "CF62 5QU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

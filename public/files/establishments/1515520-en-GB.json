@@ -1,16 +1,19 @@
 {
   "FHRSID": 1515520,
   "BusinessName": "Yo! To Go!",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "168605",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "within Tesco Extra",
+  "Geocode": {
+    "Latitude": "53.438002",
+    "Longitude": "-2.4228342"
+  },
+  "AddressLine1": "Cafe At Tesco Stores Ltd Fairhills Industrial Estate",
   "AddressLine2": "Woodrow Way",
   "AddressLine3": "Irlam",
   "PostCode": "M44 6BL",

@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6925512",
+    "Longitude": "-2.7206435"
+  },
+  "AddressLine1": "41 Downham Road",
+  "AddressLine2": "Leyland",
+  "AddressLine3": "Lancashire",
+  "PostCode": "PR25 1TY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

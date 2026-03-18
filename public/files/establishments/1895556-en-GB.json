@@ -1,6 +1,6 @@
 {
   "FHRSID": 1895556,
-  "BusinessName": "Split & Sip Events",
+  "BusinessName": "Little Bar Events",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "800032",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

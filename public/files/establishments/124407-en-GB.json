@@ -7,24 +7,19 @@
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.36462",
-    "Longitude": "-4.129138"
-  },
+  "Geocode": null,
   "AddressLine1": "Queen Annes Battery",
   "AddressLine2": "Queen Anne Place",
-  "AddressLine3": "Plymouth",
-  "AddressLine4": "Devon",
   "PostCode": "PL4 0TW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-06-20",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

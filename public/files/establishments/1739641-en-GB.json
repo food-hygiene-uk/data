@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "109",
   "LocalAuthorityName": "Basildon",
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
   "Geocode": {
     "Latitude": "51.5772793",
@@ -18,12 +18,12 @@
   "AddressLine4": "Basildon",
   "PostCode": "SS15 6TD",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-06-27",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-10",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

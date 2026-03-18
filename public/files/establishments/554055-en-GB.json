@@ -1,6 +1,6 @@
 {
   "FHRSID": 554055,
-  "BusinessName": "The Kings Oak Public House",
+  "BusinessName": "Kings Oak Hotel (2009) Ltd",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000200516",
   "BusinessTypeID": 7843,
@@ -9,18 +9,22 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Pauls Nursery Road",
-  "AddressLine2": "Loughton",
-  "AddressLine3": "Essex",
+  "Geocode": {
+    "Latitude": "51.6642677",
+    "Longitude": "0.0399927"
+  },
+  "AddressLine1": "The Kings Oak Public House",
+  "AddressLine2": "Pauls Nursery Road",
+  "AddressLine3": "Loughton",
+  "AddressLine4": "Essex",
   "PostCode": "IG10 4AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-14",
+  "RatingDate": "2026-02-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

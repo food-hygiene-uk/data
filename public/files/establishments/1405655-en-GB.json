@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5275945",
+    "Longitude": "-2.4166963"
+  },
   "AddressLine1": "Unit 2",
-  "AddressLine2": "within 2 U Food Smith Fold Lane",
+  "AddressLine2": "Smith Fold Lane",
   "AddressLine3": "Worsley",
   "SchemeType": "FHRS",
   "RatingValue": "5",

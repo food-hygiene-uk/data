@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": {
-    "Latitude": "53.227377",
-    "Longitude": "-4.1258768"
+    "Latitude": "53.2277439",
+    "Longitude": "-4.1259699"
   },
-  "AddressLine1": "Llys Gwynedd Tan Y Fynwent",
+  "AddressLine1": "Hafan Ffordd Garth",
   "AddressLine3": "Bangor",
   "AddressLine4": "Gwynedd",
   "PostCode": "LL57 1DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

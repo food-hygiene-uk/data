@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "within car park Kosher Savers",
+  "Geocode": {
+    "Latitude": "53.5069836",
+    "Longitude": "-2.2625224"
+  },
+  "AddressLine1": "Kosher Savers",
   "AddressLine2": "Knoll Street",
   "AddressLine3": "Salford",
   "PostCode": "M7 4ED",

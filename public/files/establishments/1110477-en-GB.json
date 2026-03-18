@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "143",
   "LocalAuthorityName": "Winchester City",
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
   "Geocode": {
     "Latitude": "51.1302750002159",
@@ -18,12 +18,12 @@
   "AddressLine3": "Itchen Abbas",
   "AddressLine4": "Hampshire",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-20",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

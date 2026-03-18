@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Within Garden Needs Nurseries",
+  "Geocode": {
+    "Latitude": "53.5117289",
+    "Longitude": "-2.2658823"
+  },
   "AddressLine2": "1 Radford Street",
   "AddressLine3": "Salford",
   "PostCode": "M7 4NT",

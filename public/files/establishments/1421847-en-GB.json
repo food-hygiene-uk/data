@@ -1,6 +1,6 @@
 {
   "FHRSID": 1421847,
-  "BusinessName": "Community Cafe",
+  "BusinessName": "Seedley Pavillion Community Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "167836",
   "BusinessTypeID": 1,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Seedley Pavillion adjacent 2 Gore Crescent Buile Hill Park",
+  "Geocode": {
+    "Latitude": "53.491046",
+    "Longitude": "-2.3061904"
+  },
+  "AddressLine1": "Buile Hill Park",
   "AddressLine2": "Eccles Old Road",
   "AddressLine3": "Salford",
+  "PostCode": "M6 8GL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

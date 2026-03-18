@@ -1,6 +1,6 @@
 {
   "FHRSID": 554177,
-  "BusinessName": "Baylis News",
+  "BusinessName": "Baylis News & Off- licence",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000200819",
   "BusinessTypeID": 4613,
@@ -13,13 +13,18 @@
     "Latitude": "51.6445042",
     "Longitude": "0.0527209"
   },
-  "AddressLine1": "159 High Road",
-  "AddressLine2": "Loughton",
-  "AddressLine3": "Essex",
+  "AddressLine1": "Baylis News",
+  "AddressLine2": "159 High Road",
+  "AddressLine3": "Loughton",
+  "AddressLine4": "Essex",
   "PostCode": "IG10 4LF",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

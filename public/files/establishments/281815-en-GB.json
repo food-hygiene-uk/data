@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "231",
   "LocalAuthorityName": "North Norfolk",
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
   "Geocode": {
     "Latitude": "52.772014",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingDate": "2026-02-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

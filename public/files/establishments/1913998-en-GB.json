@@ -1,6 +1,6 @@
 {
   "FHRSID": 1913998,
-  "BusinessName": "Pisgah Convenience",
+  "BusinessName": "Pisgah Convenience Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "800582",
   "BusinessTypeID": 4613,
@@ -18,8 +18,12 @@
   "AddressLine3": "Bridgend",
   "PostCode": "CF33 6BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

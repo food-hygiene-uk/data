@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "within St Marks Church",
+  "Geocode": {
+    "Latitude": "53.5033458",
+    "Longitude": "-2.3840845"
+  },
+  "AddressLine1": "St Marks Church",
   "AddressLine2": "Walkden Road",
   "AddressLine3": "Worsley",
   "PostCode": "M28 2WH",

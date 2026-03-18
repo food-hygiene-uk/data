@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Warrington Cross Roads",
+  "Geocode": {
+    "Latitude": "52.184759",
+    "Longitude": "-0.686285"
+  },
+  "AddressLine1": "Three Counties Filling Station",
+  "AddressLine2": "London Road",
   "AddressLine3": "Warrington",
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK46 4JQ",

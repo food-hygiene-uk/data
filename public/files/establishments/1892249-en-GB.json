@@ -1,6 +1,6 @@
 {
   "FHRSID": 1892249,
-  "BusinessName": "Stevington Venison",
+  "BusinessName": "Stalking4Dinner",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "137202",
   "BusinessTypeID": 7841,
@@ -16,8 +16,12 @@
   "AddressLine3": "Stevington",
   "AddressLine4": "Bedford",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

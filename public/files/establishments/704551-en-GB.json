@@ -1,6 +1,6 @@
 {
   "FHRSID": 704551,
-  "BusinessName": "The Crown Public House",
+  "BusinessName": "The Crown Waltham Abbey Ltd",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000109774",
   "BusinessTypeID": 7843,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Romeland",
+  "Geocode": {
+    "Latitude": "51.6876959",
+    "Longitude": "-0.004629"
+  },
+  "AddressLine1": "The Crown Public House Romeland",
   "AddressLine2": "Broxbourne",
   "AddressLine3": "Waltham Abbey",
   "AddressLine4": "Essex",

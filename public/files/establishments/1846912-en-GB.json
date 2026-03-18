@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Within Church Of St Thomas",
+  "Geocode": {
+    "Latitude": "53.4923744",
+    "Longitude": "-2.2866829"
+  },
+  "AddressLine1": "Church Of St Thomas",
   "AddressLine2": "Ford Lane",
   "AddressLine3": "Salford",
   "PostCode": "M6 6PE",

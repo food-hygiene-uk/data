@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Trinity Centre",
-  "AddressLine3": "Fishermead Boulevard",
-  "AddressLine4": "Fishermead",
+  "Geocode": {
+    "Latitude": "52.0366821289063",
+    "Longitude": "-0.746408998966217"
+  },
+  "AddressLine1": "Trinity Centre",
+  "AddressLine2": "Fishermead Boulevard",
+  "AddressLine3": "Fishermead",
+  "AddressLine4": "Milton Keynes",
   "PostCode": "MK6 2LA",
   "SchemeType": "FHRS",
   "RatingValue": "3",

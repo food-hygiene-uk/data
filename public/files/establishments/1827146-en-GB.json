@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "within Eccles Town Hall",
+  "Geocode": {
+    "Latitude": "53.4827124",
+    "Longitude": "-2.3379279"
+  },
+  "AddressLine1": "The Old Town Hall",
   "AddressLine2": "Church Street",
   "AddressLine3": "Eccles",
   "PostCode": "M30 0LH",
