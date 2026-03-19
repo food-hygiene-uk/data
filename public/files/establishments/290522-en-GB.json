@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "704",
   "LocalAuthorityName": "Cheshire West and Chester",
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
   "Geocode": {
     "Latitude": "53.1885455",
@@ -18,12 +18,12 @@
   "AddressLine4": "Cheshire",
   "PostCode": "CH1 2NW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

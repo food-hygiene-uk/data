@@ -1,6 +1,6 @@
 {
   "FHRSID": 251736,
-  "BusinessName": "Crystals and Curiosities",
+  "BusinessName": "Rainbow Hippie",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "21972",
   "BusinessTypeID": 7843,
@@ -17,8 +17,12 @@
   "AddressLine4": "Stockton-On-Tees",
   "PostCode": "TS18 2BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

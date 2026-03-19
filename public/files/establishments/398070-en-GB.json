@@ -1,6 +1,6 @@
 {
   "FHRSID": 398070,
-  "BusinessName": "Heather Garth Primary Academy",
+  "BusinessName": "Riverside Catering @ Heather Garth Primary Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "555",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Bolton Upon Dearne",
   "PostCode": "S63 8ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

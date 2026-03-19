@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Old Trent Road",
-  "AddressLine2": "Beckingham",
-  "AddressLine3": "Nottinghamshire",
+  "Geocode": {
+    "Latitude": "53.4014391",
+    "Longitude": "-0.805601"
+  },
+  "AddressLine1": "Willow Works",
+  "AddressLine2": "Old Trent Road",
+  "AddressLine3": "Beckingham",
+  "AddressLine4": "Nottinghamshire",
   "PostCode": "DN10 4PY",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "107",
   "LocalAuthorityName": "Wealden",
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": {
     "Latitude": "50.9706098",
@@ -18,8 +18,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "TN21 8HU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

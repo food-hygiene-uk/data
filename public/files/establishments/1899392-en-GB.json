@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "319",
   "LocalAuthorityName": "Rugby",
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
   "Geocode": {
     "Latitude": "52.3731625",
@@ -18,8 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "CV21 2RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

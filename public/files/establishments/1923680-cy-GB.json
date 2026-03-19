@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Sir Fynwy",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
   "Geocode": null,
   "AddressLine2": "Bulwark Industrial Estate",
@@ -15,8 +15,12 @@
   "AddressLine4": "Chepstow",
   "PostCode": "NP16 5QZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

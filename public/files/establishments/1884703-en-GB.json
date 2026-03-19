@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "428",
   "LocalAuthorityName": "Stockport",
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
   "Geocode": {
     "Latitude": "53.3698645",
@@ -18,8 +18,12 @@
   "AddressLine3": "Cheadle",
   "PostCode": "SK8 3PY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

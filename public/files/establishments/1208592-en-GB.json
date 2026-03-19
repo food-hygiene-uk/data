@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "329",
   "LocalAuthorityName": "Worthing",
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth.regulation@adur-worthing.gov.uk",
   "Geocode": {
     "Latitude": "50.8219206",
@@ -18,12 +18,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN14 8AG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-11-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

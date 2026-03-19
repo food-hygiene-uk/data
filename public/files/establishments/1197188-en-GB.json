@@ -1,6 +1,6 @@
 {
   "FHRSID": 1197188,
-  "BusinessName": "Eat Fan",
+  "BusinessName": "Eatfan",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "197557",
   "BusinessTypeID": 7841,
@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "439 Joseph Street",
+  "Geocode": {
+    "Latitude": "51.518717",
+    "Longitude": "-0.030368"
+  },
+  "AddressLine1": "Railway Arch",
+  "AddressLine2": "438 Burdett Road",
   "AddressLine3": "London",
-  "PostCode": "E3 4AT",
+  "PostCode": "E3 4JS",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-23",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

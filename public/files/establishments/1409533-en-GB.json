@@ -1,13 +1,13 @@
 {
   "FHRSID": 1409533,
   "BusinessName": "Bean & Gone",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "49483",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
     "Latitude": "53.4182789",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-12-19",
+  "RatingDate": "2026-02-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

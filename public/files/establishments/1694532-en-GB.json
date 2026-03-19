@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "417",
   "LocalAuthorityName": "North Tyneside",
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
   "Geocode": {
     "Latitude": "55.054109",
@@ -18,12 +18,12 @@
   "AddressLine3": "Tyne And Wear",
   "PostCode": "NE26 3HL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-01-31",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "521",
   "LocalAuthorityName": "Kingston-Upon-Thames",
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
   "Geocode": {
     "Latitude": "51.4106788",
@@ -17,12 +17,12 @@
   "AddressLine2": "Kingston Upon Thames",
   "PostCode": "KT1 1PE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

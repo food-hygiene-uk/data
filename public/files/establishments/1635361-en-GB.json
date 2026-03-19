@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.56669",
+    "Longitude": "-0.138187"
+  },
   "AddressLine1": "Muffin Break",
   "AddressLine2": "Food Court Retail Area",
   "AddressLine3": "The Whittington Hospital",
   "AddressLine4": "Magdala Avenue",
+  "PostCode": "N19 5NF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

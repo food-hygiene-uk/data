@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "403",
   "LocalAuthorityName": "Bolton",
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
   "Geocode": {
     "Latitude": "54.6053009033203",
@@ -18,12 +18,12 @@
   "AddressLine4": "Bolton",
   "PostCode": "BL4 9BW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7497529",
+    "Longitude": "0.5020715"
+  },
+  "AddressLine1": "53 Candytuft Road",
+  "AddressLine2": "Springfield",
+  "AddressLine3": "Chelmsford",
+  "AddressLine4": "Essex",
+  "PostCode": "CM1 6YS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-16",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

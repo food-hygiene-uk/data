@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "068",
   "LocalAuthorityName": "North East Derbyshire",
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
   "Geocode": {
     "Latitude": "53.321299",
@@ -18,8 +18,12 @@
   "AddressLine3": "Sheffield",
   "PostCode": "S21 1AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

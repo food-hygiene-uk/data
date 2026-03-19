@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "894",
   "LocalAuthorityName": "Thurrock",
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
   "Geocode": {
     "Latitude": "51.497049",
@@ -19,12 +19,12 @@
   "AddressLine4": "Grays",
   "PostCode": "RM16 2QH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 0,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

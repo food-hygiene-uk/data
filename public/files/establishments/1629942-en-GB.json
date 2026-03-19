@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "521",
   "LocalAuthorityName": "Kingston-Upon-Thames",
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
   "Geocode": {
     "Latitude": "51.4014861",
@@ -17,12 +17,12 @@
   "AddressLine2": "New Malden",
   "PostCode": "KT3 4BT",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-09-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
-    "Hygiene": 25,
-    "Structural": 25,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

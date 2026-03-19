@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": null,
   "AddressLine1": "Great Horwood Church Of England Combined School",
@@ -16,8 +16,12 @@
   "AddressLine4": "Buckinghamshire",
   "PostCode": "MK17 0RG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7306208",
+    "Longitude": "-0.3079319"
+  },
   "AddressLine1": "Wenzel's the Bakers Unit C1",
   "AddressLine2": "The Albert Bygrave Retail Park",
   "AddressLine3": "North Orbital Road",
   "AddressLine4": "St Albans",
+  "PostCode": "AL2 1DL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

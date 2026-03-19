@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.hyndburnbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7433174",
+    "Longitude": "-2.3996527"
+  },
+  "AddressLine1": "3 James Street",
+  "AddressLine2": "Oswaldtwistle",
+  "PostCode": "BB5 3LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

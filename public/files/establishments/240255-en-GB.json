@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
   "Geocode": {
     "Latitude": "52.4104742",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-07-24",
+  "RatingDate": "2026-02-16",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9004701",
+    "Longitude": "-0.2007537"
+  },
+  "AddressLine1": "Barts Burgers  (Pitch 11)",
+  "AddressLine2": "Queensway",
+  "AddressLine3": "Town Centre",
+  "AddressLine4": "Stevenage",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

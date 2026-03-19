@@ -1,13 +1,13 @@
 {
   "FHRSID": 943852,
-  "BusinessName": "Ashleigh's",
+  "BusinessName": "K. Ashleigh fishmongers",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "731",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.879389",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2017-01-31",
+  "RatingDate": "2026-02-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

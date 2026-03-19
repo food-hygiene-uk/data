@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "302",
   "LocalAuthorityName": "East Suffolk",
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.3446712",
@@ -19,12 +19,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "IP19 8AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-11",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }
