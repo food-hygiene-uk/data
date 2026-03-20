@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
-    "Latitude": "54.8700513",
-    "Longitude": "-1.8589939"
+    "Latitude": "54.8701263",
+    "Longitude": "-1.8589665"
   },
-  "AddressLine1": "9-12 FRONT STREET",
-  "AddressLine3": "SHOTLEY BRIDGE",
+  "AddressLine1": "Sale Pepe 10-12 Front Street Shotley Bridge",
+  "AddressLine3": "Consett",
   "PostCode": "DH8 0HH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

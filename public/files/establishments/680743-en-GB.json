@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "313",
   "LocalAuthorityName": "Tandridge",
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fsa_enforcement@tandridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "2 Chaldon Road",
+  "Geocode": {
+    "Latitude": "51.2826261",
+    "Longitude": "-0.0777718"
+  },
+  "AddressLine1": "17 Croydon Road",
   "AddressLine2": "Caterham",
   "AddressLine4": "Surrey",
   "PostCode": "CR3 6PA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
   }
 }

@@ -13,14 +13,17 @@
     "Latitude": "51.4130171",
     "Longitude": "-0.1831823"
   },
-  "AddressLine1": "Unit 1/1A The Pavillions",
-  "AddressLine2": "Merton Abbey Mills",
-  "AddressLine3": "Watermill Way",
-  "AddressLine4": "Colliers Wood",
+  "AddressLine1": "Unit 1/1a The Pavillions Merton Abbey Mills Watermill Way",
+  "AddressLine3": "Colliers Wood",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 2RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-07-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

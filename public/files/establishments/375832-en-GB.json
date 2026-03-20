@@ -10,19 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.39276",
-    "Longitude": "-0.219397"
+    "Latitude": "51.3923466",
+    "Longitude": "-0.2212748"
   },
-  "AddressLine1": "Camborne Road",
-  "AddressLine2": "Morden",
+  "AddressLine1": "St Martin's Church Camborne Road",
+  "AddressLine3": "Morden",
+  "AddressLine4": "Merton",
   "PostCode": "SM4 4JN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-01-25",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

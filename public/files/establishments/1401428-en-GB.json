@@ -1,6 +1,6 @@
 {
   "FHRSID": 1401428,
-  "BusinessName": "Delight Kebabs Pizza Fish",
+  "BusinessName": "Delight",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "46132",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine4": "Lincolnshire",
   "PostCode": "LN5 7JX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -16,8 +16,12 @@
   "AddressLine1": "UNIT A2 NORTH HAMILTON BUSINESS PARK HAMILTON WAY HEDGE END SOUTHAMPTON SO30 2JR",
   "PostCode": "SO30 2JR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

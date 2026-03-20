@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Cheshunt And Waltham Cross Conservative Club",
+  "AddressLine2": "Eleanor Cross Road",
+  "AddressLine3": "Waltham Cross",
+  "AddressLine4": "Hertfordshire",
+  "PostCode": "EN8 7LF",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

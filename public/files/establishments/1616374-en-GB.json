@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Debenhams",
-  "AddressLine2": "4 Queen's Road",
+  "Geocode": {
+    "Latitude": "51.421679",
+    "Longitude": "-0.2040874"
+  },
+  "AddressLine1": "Management Suite Wimbledon Quarter 4 Queen's Road",
   "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
+  "PostCode": "SW19 8ND",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

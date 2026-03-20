@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Former",
-  "AddressLine2": "72 Christchurch Road",
+  "Geocode": {
+    "Latitude": "51.4154733",
+    "Longitude": "-0.1779589"
+  },
+  "AddressLine1": "72 Christchurch Road",
   "AddressLine3": "Colliers Wood",
+  "AddressLine4": "Merton",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

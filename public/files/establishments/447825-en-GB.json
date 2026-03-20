@@ -1,6 +1,6 @@
 {
   "FHRSID": 447825,
-  "BusinessName": "Asda Express Halt (Shop)",
+  "BusinessName": "Asda Express PFS Halt",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000046746",
   "BusinessTypeID": 4613,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Halt Shop",
-  "AddressLine2": "Doldowlod",
-  "AddressLine3": "Llandrindod Wells",
-  "AddressLine4": "Powys",
+  "Geocode": {
+    "Latitude": "52.2609786987305",
+    "Longitude": "-3.49711108207703"
+  },
+  "AddressLine1": "Doldowlod",
+  "AddressLine2": "Llandrindod Wells",
+  "AddressLine3": "Powys",
   "PostCode": "LD1 6NN",
   "SchemeType": "FHRS",
   "RatingValue": "4",

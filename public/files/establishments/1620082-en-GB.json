@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.4061863",
-    "Longitude": "-0.1645338"
+    "Latitude": "51.4061732",
+    "Longitude": "-0.1645312"
   },
-  "AddressLine1": "1-3 Upper Green West",
-  "AddressLine2": "Mitcham",
+  "AddressLine1": "1 - 3 Upper Green West",
+  "AddressLine3": "Mitcham",
+  "AddressLine4": "Merton",
   "PostCode": "CR4 3AA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-11-26",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-06",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

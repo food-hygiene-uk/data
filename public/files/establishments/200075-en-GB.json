@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.435896",
-    "Longitude": "-0.191104"
+    "Latitude": "51.4368292",
+    "Longitude": "-0.1916059"
   },
-  "AddressLine1": "Unit 23",
-  "AddressLine2": "55-59 Weir Road",
+  "AddressLine1": "Unit 23 55 - 59 Weir Road",
   "AddressLine3": "Wimbledon",
-  "AddressLine4": "London",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 8UG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2025-03-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

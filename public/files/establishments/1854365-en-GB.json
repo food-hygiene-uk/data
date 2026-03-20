@@ -13,13 +13,17 @@
     "Latitude": "51.3830389",
     "Longitude": "-0.2243948"
   },
-  "AddressLine1": "Unit 2374 Safestore Morden",
-  "AddressLine2": "141 Garth Road",
+  "AddressLine1": "Unit 2374 Safestore Morden 141 Garth Road",
   "AddressLine3": "Morden",
+  "AddressLine4": "Merton",
   "PostCode": "SM4 4LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
-  "Geocode": {
-    "Latitude": "51.298645",
-    "Longitude": "-1.0392118"
-  },
-  "AddressLine1": "21 Deanlands Farm Way",
-  "AddressLine2": "Sherfield-on-loddon",
-  "AddressLine3": "Hook",
-  "AddressLine4": "Hampshire",
-  "PostCode": "RG27 0GF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1915683,
-  "BusinessName": "Hampton Food & Wine",
+  "BusinessName": "Vasantha Food And Wine LTD T/a Hampton Food & Wine",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "48300",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": {
     "Latitude": "52.5959198",
@@ -19,8 +19,12 @@
   "AddressLine4": "Wolverhampton",
   "PostCode": "WV10 0QQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

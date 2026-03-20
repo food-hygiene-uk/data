@@ -13,14 +13,16 @@
     "Latitude": "51.4281521",
     "Longitude": "-0.2060395"
   },
-  "AddressLine1": "School Building",
-  "AddressLine2": "Ricards Lodge High School",
-  "AddressLine3": "Lake Road",
-  "AddressLine4": "Wimbledon",
-  "PostCode": "SW19 7HB",
+  "AddressLine1": "School Building Ricards Lodge High School Lake Road",
+  "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

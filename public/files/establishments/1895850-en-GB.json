@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.421315",
-    "Longitude": "-0.160224"
+    "Latitude": "51.4209689",
+    "Longitude": "-0.1605886"
   },
   "AddressLine1": "287 Mitcham Road",
   "AddressLine2": "Tooting",
   "AddressLine3": "London",
+  "AddressLine4": "Merton",
   "PostCode": "SW17 9JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

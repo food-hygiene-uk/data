@@ -1,6 +1,6 @@
 {
   "FHRSID": 1900767,
-  "BusinessName": "Chartwells At St Martins East Woodhay C Of E Primary",
+  "BusinessName": "Chartwells At St Martins C Of E Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "25/00518/CP",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Newbury",
   "PostCode": "RG20 0AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

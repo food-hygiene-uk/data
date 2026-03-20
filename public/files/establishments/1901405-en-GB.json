@@ -13,14 +13,17 @@
     "Latitude": "51.3970126",
     "Longitude": "-0.1622506"
   },
-  "AddressLine1": "The Wilson Wellbeing Centre",
-  "AddressLine2": "The Wilson Hospital",
-  "AddressLine3": "Cranmer Road",
-  "AddressLine4": "Mitcham",
+  "AddressLine1": "The Wilson Wellbeing Centre The Wilson Hospital Cranmer Road",
+  "AddressLine3": "Mitcham",
+  "AddressLine4": "Merton",
   "PostCode": "CR4 4TP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

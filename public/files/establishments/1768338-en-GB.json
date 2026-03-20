@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.41527466",
+    "Longitude": "-0.19671095"
+  },
   "AddressLine1": "76 Kingston Road",
-  "AddressLine2": "Wimbledon",
+  "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

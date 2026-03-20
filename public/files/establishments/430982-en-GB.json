@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.4158963",
-    "Longitude": "-0.1922694"
+    "Latitude": "51.4158915",
+    "Longitude": "-0.192309"
   },
   "AddressLine1": "242 Merton Road",
-  "AddressLine2": "Wimbledon",
+  "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 1EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-12-23",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-10",
   "Scores": {
     "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

@@ -14,11 +14,16 @@
     "Longitude": "-0.1909669"
   },
   "AddressLine1": "212 Merton High Street",
-  "AddressLine2": "Colliers Wood",
+  "AddressLine3": "Colliers Wood",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 1AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-12-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

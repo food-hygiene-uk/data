@@ -9,12 +9,22 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.299965",
+    "Longitude": "-3.511156"
+  },
+  "AddressLine1": "2 Cambrian House",
+  "AddressLine2": "West Street",
+  "AddressLine3": "Rhayader",
   "AddressLine4": "Powys",
-  "PostCode": "LD6",
+  "PostCode": "LD6 5AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

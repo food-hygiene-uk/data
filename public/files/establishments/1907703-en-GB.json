@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2450593",
+    "Longitude": "-0.870597"
+  },
+  "AddressLine1": "358 Wellingborough Road",
+  "AddressLine2": "Northampton",
+  "AddressLine3": "NN1 4EX",
+  "PostCode": "NN1 4EX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

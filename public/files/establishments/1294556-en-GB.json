@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4064962",
-    "Longitude": "-0.2346302"
-  },
-  "AddressLine1": "Unit 104 Rainbow Industrial Park",
-  "AddressLine2": "2 Station Approach",
+  "Geocode": null,
+  "AddressLine1": "Unit 104 Rainbow Industrial Park 2 Station Approach",
   "AddressLine3": "Raynes Park",
+  "AddressLine4": "Merton",
   "PostCode": "SW20 0FT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-30",
+  "RatingDate": "2026-01-22",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

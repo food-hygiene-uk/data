@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.lisburncastlereagh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.Health@lisburncastlereagh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Moira",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.48171",
+    "Longitude": "-6.224775"
+  },
+  "AddressLine1": "95 Main Street",
+  "AddressLine2": "Carnalbanagh East",
+  "AddressLine3": "Moira",
+  "AddressLine4": "Armagh",
   "PostCode": "BT67 0LH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

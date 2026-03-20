@@ -1,6 +1,6 @@
 {
   "FHRSID": 1789018,
-  "BusinessName": "The Victoria Grazing Company",
+  "BusinessName": "The Victoria Grazing Company Ltd",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "85624",
   "BusinessTypeID": 7841,
@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7424694",
+    "Longitude": "-0.3452211"
+  },
+  "AddressLine1": "Danish Church",
+  "AddressLine2": "104 Osborne Street",
+  "AddressLine3": "Kingston Upon Hull",
+  "PostCode": "HU1 2PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

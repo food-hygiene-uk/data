@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Star",
-  "AddressLine2": "Dylife",
-  "AddressLine3": "Llanbrynmair",
-  "AddressLine4": "Powys",
+  "Geocode": {
+    "Latitude": "52.5343856811523",
+    "Longitude": "-3.67962098121643"
+  },
+  "AddressLine1": "Dylife",
+  "AddressLine2": "Llanbrynmair",
+  "AddressLine3": "Powys",
   "PostCode": "SY19 7BW",
   "SchemeType": "FHRS",
   "RatingValue": "4",

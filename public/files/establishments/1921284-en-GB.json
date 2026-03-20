@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "900",
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
-    "Latitude": "52.7020454",
-    "Longitude": "-2.490045"
+    "Latitude": "52.701947",
+    "Longitude": "-2.490431"
   },
   "AddressLine1": "102 Crescent Road",
   "AddressLine2": "Hadley",
   "AddressLine3": "Telford",
-  "AddressLine4": "Telford And Wrekin",
+  "AddressLine4": "Shropshire",
   "PostCode": "TF1 5JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-12",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

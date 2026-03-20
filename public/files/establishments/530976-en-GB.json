@@ -13,13 +13,17 @@
     "Latitude": "51.406458",
     "Longitude": "-0.1644989"
   },
-  "AddressLine1": "Burger House/Shmarrn Fluffy Pancakes",
-  "AddressLine2": "256A London Road",
+  "AddressLine1": "256A London Road",
   "AddressLine3": "Mitcham",
+  "AddressLine4": "Merton",
   "PostCode": "CR4 3HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-05-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

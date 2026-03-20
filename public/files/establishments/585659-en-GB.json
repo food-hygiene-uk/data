@@ -9,19 +9,20 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hall On Front Of",
-  "AddressLine2": "Holy Trinity Church",
-  "AddressLine3": "The Broadway",
-  "AddressLine4": "Wimbledon",
-  "PostCode": "SW19 1SB",
+  "Geocode": {
+    "Latitude": "51.419684",
+    "Longitude": "-0.1953469"
+  },
+  "AddressLine1": "Hall On Front Of Holy Trinity Church The Broadway",
+  "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-18",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-01-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

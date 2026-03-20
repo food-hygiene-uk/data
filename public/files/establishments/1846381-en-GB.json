@@ -1,6 +1,6 @@
 {
   "FHRSID": 1846381,
-  "BusinessName": "Chicken Cottage Wandsworth",
+  "BusinessName": "Chicken Cottage",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00177/COMM",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "SW8 3JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

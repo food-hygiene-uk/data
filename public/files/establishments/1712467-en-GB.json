@@ -9,15 +9,18 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record",
-  "AddressLine2": "The Broadway",
+  "Geocode": {
+    "Latitude": "51.4194153",
+    "Longitude": "-0.2007764"
+  },
+  "AddressLine1": "104 The Broadway",
   "AddressLine3": "Wimbledon",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 1RH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingDate": "2026-01-06",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,

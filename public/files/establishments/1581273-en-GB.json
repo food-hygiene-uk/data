@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.4160958",
-    "Longitude": "-0.1866282"
+    "Latitude": "51.4161645",
+    "Longitude": "-0.1866411"
   },
   "AddressLine1": "114 Merton High Street",
-  "AddressLine2": "Colliers Wood",
+  "AddressLine3": "Colliers Wood",
+  "AddressLine4": "Merton",
   "PostCode": "SW19 1BD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-02-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-29",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }
