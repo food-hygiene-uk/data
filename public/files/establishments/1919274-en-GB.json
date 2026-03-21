@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
   "Geocode": {
-    "Latitude": "54.532625",
-    "Longitude": "-6.7289283"
+    "Latitude": "54.5394528",
+    "Longitude": "-6.7306474"
   },
-  "AddressLine1": "9 Farlough Road",
-  "AddressLine2": "Gortin",
+  "AddressLine1": "32 Farlough Road",
+  "AddressLine2": "Farlough",
   "AddressLine3": "Dungannon",
   "AddressLine4": "Co. Tyrone",
-  "PostCode": "BT71 4DT",
+  "PostCode": "BT71 4DU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

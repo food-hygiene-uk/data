@@ -1,26 +1,29 @@
 {
   "FHRSID": 1883373,
-  "BusinessName": "Spooner Meals Catering Limited",
+  "BusinessName": "Spooner Meals Catering",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00283/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "894",
   "LocalAuthorityName": "Thurrock",
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
   "Geocode": {
     "Latitude": "51.4822432",
     "Longitude": "0.368747"
   },
-  "AddressLine1": "Spooner Meals Catering",
-  "AddressLine2": "7A Brentwood Road",
-  "AddressLine3": "Chadwell St Mary",
-  "AddressLine4": "Essex",
+  "AddressLine1": "7A Brentwood Road",
+  "AddressLine2": "Chadwell St Mary",
+  "AddressLine3": "Essex",
   "PostCode": "RM16 4JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,23 +1,27 @@
 {
   "FHRSID": 1876526,
   "BusinessName": "HAMMERSON HOUSE",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "25/00520/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5777101",
-    "Longitude": "-0.1719205"
+    "Latitude": "51.575572",
+    "Longitude": "-0.17233"
   },
-  "AddressLine1": "50A The Bishops Avenue",
+  "AddressLine1": "Hammerson House 50 The Bishops Avenue London",
   "PostCode": "N2 0BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

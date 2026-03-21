@@ -1,23 +1,27 @@
 {
   "FHRSID": 1884567,
   "BusinessName": "Caffe Nero",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "25/00533/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5768122",
-    "Longitude": "-0.2240507"
+    "Latitude": "51.576185",
+    "Longitude": "-0.224534"
   },
-  "AddressLine1": "Unit X1 Fenwicks Ground floor Brent Cross Shopping Centre",
+  "AddressLine1": "Brent Cross Shopping Centre  Prince Charles Drive London",
   "PostCode": "NW4 3FN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

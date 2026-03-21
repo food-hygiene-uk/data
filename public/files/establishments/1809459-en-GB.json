@@ -1,26 +1,27 @@
 {
   "FHRSID": 1809459,
-  "BusinessName": "Norfolk Catering Ltd",
+  "BusinessName": "Rivers Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "087712/CP",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "228",
   "LocalAuthorityName": "Broadland",
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6595566",
-    "Longitude": "1.2508938"
-  },
-  "AddressLine1": "Hellesdon Hospital",
+  "Geocode": null,
+  "AddressLine1": "Hellesdon Hospital (The Hub)",
   "AddressLine2": "Drayton High Road",
   "AddressLine3": "Hellesdon",
   "AddressLine4": "Norfolk",
-  "PostCode": "NR6 5BE",
+  "PostCode": "NR6 6AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

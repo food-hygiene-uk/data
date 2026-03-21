@@ -1,23 +1,27 @@
 {
   "FHRSID": 1905984,
   "BusinessName": "Tesco Stores Limited",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "26/00002/COMM",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7840,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5873",
-    "Longitude": "-0.1644"
+    "Latitude": "51.5873557",
+    "Longitude": "-0.1638555"
   },
-  "AddressLine1": "12-18 High Road",
+  "AddressLine1": "18 High Road London",
   "PostCode": "N2 9PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,26 +1,29 @@
 {
   "FHRSID": 1383009,
-  "BusinessName": "Seafood Platters",
+  "BusinessName": "Seafood Platters / The Butcher's Block",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "000220-21",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "429",
   "LocalAuthorityName": "Sunderland",
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Prince Of Wales",
-  "AddressLine2": "22 Ryhope Street South",
+  "Geocode": {
+    "Latitude": "54.8709695",
+    "Longitude": "-1.3681414"
+  },
+  "AddressLine1": "Seafood Platters",
+  "AddressLine2": "22C Ryhope Street South",
   "AddressLine3": "Sunderland",
   "PostCode": "SR2 0RW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-13",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

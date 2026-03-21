@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.3850797",
-    "Longitude": "-1.46102535"
+    "Latitude": "53.3852266",
+    "Longitude": "-1.4594961"
   },
-  "AddressLine2": "Furnival Road",
+  "AddressLine2": "2 Furnival Road",
   "AddressLine3": "Sheffield",
   "PostCode": "S4 7YA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

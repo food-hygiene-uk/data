@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.stockton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stockton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.621955871582",
+    "Longitude": "-1.38410794734955"
+  },
+  "AddressLine1": "Grindon Grange Farm",
+  "AddressLine2": "Grindon Lane",
+  "AddressLine4": "Thorpe Thewles",
+  "PostCode": "TS21 3HY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-28",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

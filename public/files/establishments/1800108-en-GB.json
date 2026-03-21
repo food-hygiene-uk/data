@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record                                                                                        Footpath From Holbrook Road",
-  "AddressLine2": "Long Lawford",
-  "AddressLine4": " Warwickshire",
+  "Geocode": {
+    "Latitude": "52.38094708",
+    "Longitude": "-1.30217383"
+  },
+  "AddressLine1": "Holbrook Road",
+  "AddressLine4": "Rugby",
   "PostCode": "CV23 9AL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

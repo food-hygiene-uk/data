@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "188",
   "LocalAuthorityName": "Folkestone and Hythe",
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
   "Geocode": {
     "Latitude": "51.0659622",
@@ -17,8 +17,12 @@
   "AddressLine3": "HYTHE",
   "PostCode": "CT21 6DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

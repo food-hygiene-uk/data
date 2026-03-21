@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "419",
   "LocalAuthorityName": "Rochdale",
   "LocalAuthorityWebSite": "http://www.rochdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health2@rochdale.gov.uk",
   "Geocode": {
     "Latitude": "53.616171",
@@ -18,12 +18,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "OL16 3BD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-20",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

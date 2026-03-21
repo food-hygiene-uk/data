@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5621424",
+    "Longitude": "-0.3186799"
+  },
+  "AddressLine1": "3 Court Parade",
+  "AddressLine2": "East Lane",
+  "AddressLine3": "Wembley",
+  "PostCode": "HA0 3HY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

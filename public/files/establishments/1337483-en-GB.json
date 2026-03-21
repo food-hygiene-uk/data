@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3628231",
+    "Longitude": "-1.470569"
+  },
+  "AddressLine1": "Unit R7k Sheaf Bank Business Park",
+  "AddressLine2": "20 Prospect Road",
+  "AddressLine3": "Lowfield",
+  "AddressLine4": "Sheffield",
+  "PostCode": "S2 3EN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-21",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

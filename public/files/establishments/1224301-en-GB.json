@@ -1,13 +1,13 @@
 {
   "FHRSID": 1224301,
-  "BusinessName": "Parantha Corner Ltd",
+  "BusinessName": "TK Parantha Corner",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000662492",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
     "Latitude": "52.5008806",
@@ -17,12 +17,12 @@
   "AddressLine2": "Birmingham",
   "PostCode": "B21 0RG",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-07-30",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-13",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 20,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1917073,
-  "BusinessName": "The Cheeky Moos",
+  "BusinessName": "The Cheeky Moo's",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "67343",
   "BusinessTypeID": 7846,
@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.5406150817871",
-    "Longitude": "1.73200500011444"
+    "Latitude": "52.542164",
+    "Longitude": "1.731672"
   },
   "AddressLine2": "Warren Road",
-  "AddressLine3": "Hopton",
-  "AddressLine4": "Great Yarmouth Norfolk",
+  "AddressLine3": "Hopton-On-Sea",
+  "AddressLine4": "Norfolk",
   "PostCode": "NR31 9BN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
