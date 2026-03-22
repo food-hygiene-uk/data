@@ -7,21 +7,21 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.4303388",
     "Longitude": "-3.5703379"
   },
-  "AddressLine1": "42 St Michaels Road Roundham With Hyde Paignton Torbay",
+  "AddressLine1": "42 St Michaels Road Paignton",
   "PostCode": "TQ4 5LR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
