@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": {
     "Latitude": "52.4759945",
@@ -17,8 +17,12 @@
   "AddressLine4": "Oldbury",
   "PostCode": "B68 8DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }
