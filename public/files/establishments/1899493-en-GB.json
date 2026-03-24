@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.46785097",
-    "Longitude": "-0.15041457"
-  },
+  "Geocode": null,
   "AddressLine1": "36 Queenstown Road",
-  "AddressLine2": "London",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW8 3RY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

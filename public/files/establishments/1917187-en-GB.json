@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5929742",
-    "Longitude": "-2.8173115"
-  },
-  "AddressLine1": "Woodview",
-  "AddressLine2": "Grange Wood",
-  "AddressLine3": "Knollbury",
-  "AddressLine4": "Magor",
-  "PostCode": "NP26 3BX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

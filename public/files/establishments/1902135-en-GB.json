@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Saint Cecilia's",
-  "AddressLine2": "Church Of England School",
-  "AddressLine3": "Sutherland Grove",
-  "AddressLine4": "London",
+  "AddressLine1": "Saint Cecilias Church Of England School Sutherland Grove",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW18 5JR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

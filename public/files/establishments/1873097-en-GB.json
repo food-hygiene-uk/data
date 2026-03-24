@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.417653",
-    "Longitude": "-2.865822"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Page Moss Parade",
   "AddressLine2": "Roby",
   "AddressLine3": "Knowsley",
   "PostCode": "L36 2PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2025-12-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

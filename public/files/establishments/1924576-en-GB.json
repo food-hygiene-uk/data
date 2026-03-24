@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Latte Da Coffee Shop Unit 1",
+  "AddressLine1": "Unit 1",
   "AddressLine2": "69 Park Road",
   "AddressLine3": "Dukinfield",
   "AddressLine4": "Tameside",
   "PostCode": "SK16 5LX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

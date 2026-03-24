@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "182",
   "LocalAuthorityName": "Dover",
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1863414",
-    "Longitude": "1.4032015"
-  },
+  "Geocode": null,
   "AddressLine1": "Rising Sun Cliffe Road",
   "AddressLine3": "Kingsdown",
   "AddressLine4": "Kent",
   "PostCode": "CT14 8AH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-27",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

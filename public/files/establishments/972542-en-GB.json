@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.371979",
-    "Longitude": "-1.41785"
-  },
+  "Geocode": null,
   "AddressLine2": "304-308 Prince Of Wales Road",
   "AddressLine3": "Sheffield",
   "PostCode": "S2 1FF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

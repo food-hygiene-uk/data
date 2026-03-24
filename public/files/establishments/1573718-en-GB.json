@@ -9,20 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4703138",
-    "Longitude": "-0.1721196"
-  },
+  "Geocode": null,
   "AddressLine1": "152 Battersea High Street",
-  "AddressLine2": "London",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW11 3JR",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-12-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-01-28",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

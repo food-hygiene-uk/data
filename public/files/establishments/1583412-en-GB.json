@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4770658",
-    "Longitude": "-1.87986242"
-  },
+  "Geocode": null,
   "AddressLine1": "Bus Garage",
   "AddressLine2": "Liverpool Street",
   "AddressLine3": "Birmingham",
   "PostCode": "B9 4DS",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-11-28",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

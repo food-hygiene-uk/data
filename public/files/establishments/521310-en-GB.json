@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.reigate-banstead.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3178345",
-    "Longitude": "-0.2119304"
-  },
+  "Geocode": null,
   "AddressLine1": "Strathmore House",
   "AddressLine2": "1 The Drive",
   "AddressLine3": "Banstead",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

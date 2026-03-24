@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "075",
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@northdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.081054",
-    "Longitude": "-4.058518"
-  },
+  "Geocode": null,
   "AddressLine1": "104 Boutport Street",
   "AddressLine2": "Barnstaple",
   "AddressLine3": "Devon",
   "PostCode": "EX31 1SY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-02",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

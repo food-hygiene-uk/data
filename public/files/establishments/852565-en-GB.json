@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "529",
   "LocalAuthorityName": "Sutton",
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.358966",
-    "Longitude": "-0.143491"
-  },
+  "Geocode": null,
   "AddressLine1": "50 Stafford Road",
   "AddressLine2": "Wallington",
   "PostCode": "SM6 9AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

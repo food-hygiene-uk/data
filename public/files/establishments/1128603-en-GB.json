@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "324",
   "LocalAuthorityName": "Arun",
   "LocalAuthorityWebSite": "http://www.arun.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@arun.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8101631",
-    "Longitude": "-0.4804784"
-  },
+  "Geocode": null,
   "AddressLine1": "27 Sea Road",
   "AddressLine3": "East Preston",
   "AddressLine4": "West Sussex",
   "PostCode": "BN16 1JN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-28",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

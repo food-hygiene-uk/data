@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "187",
   "LocalAuthorityName": "Sevenoaks",
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.294535",
-    "Longitude": "0.166687"
-  },
+  "Geocode": null,
   "AddressLine1": "122 London Road",
   "AddressLine2": "Dunton Green",
   "AddressLine3": "KENT",
   "PostCode": "TN13 2UT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-09-27",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

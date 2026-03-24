@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": {
-    "Latitude": "52.951658",
-    "Longitude": "-1.227916"
-  },
+  "Geocode": null,
   "AddressLine1": "Fernwood Infant School",
   "AddressLine2": "Arleston Drive",
   "AddressLine4": "Nottingham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-13",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

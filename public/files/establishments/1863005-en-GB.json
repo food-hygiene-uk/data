@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
-  "Geocode": {
-    "Latitude": "53.749942",
-    "Longitude": "-3.0306833"
-  },
+  "Geocode": null,
   "AddressLine1": "37 Wood Street",
   "AddressLine3": "Lytham St Annes",
   "AddressLine4": "Lancashire",
   "PostCode": "FY8 1QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

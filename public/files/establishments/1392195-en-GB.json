@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "164",
   "LocalAuthorityName": "Welwyn Hatfield",
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": {
-    "Latitude": "51.763202",
-    "Longitude": "-0.22554"
-  },
+  "Geocode": null,
   "AddressLine1": "15 The Arcade",
   "AddressLine2": "Hatfield",
   "AddressLine3": "Hertfordshire",
   "PostCode": "AL10 0JY",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 20,
+    "Structural": 20,
     "ConfidenceInManagement": 20
   }
 }

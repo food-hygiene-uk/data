@@ -1,6 +1,6 @@
 {
   "FHRSID": 1843039,
-  "BusinessName": "Gurt Sammich",
+  "BusinessName": "Macks Gert Sammich",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "264417",
   "BusinessTypeID": 7846,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4819876",
-    "Longitude": "-2.5260031"
-  },
+  "Geocode": null,
   "AddressLine2": "11b Straits Parade",
   "AddressLine3": "Fishponds",
   "AddressLine4": "Bristol",
   "PostCode": "BS16 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

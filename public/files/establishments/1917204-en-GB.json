@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7227363586426",
-    "Longitude": "-1.27400696277618"
-  },
+  "Geocode": null,
   "AddressLine1": "Island Harbour Marina",
   "AddressLine2": "Mill Lane",
   "AddressLine3": "Newport",
   "AddressLine4": "Isle Of Wight",
   "PostCode": "PO30 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

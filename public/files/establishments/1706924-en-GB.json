@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.59582",
-    "Longitude": "-2.12473"
-  },
+  "Geocode": null,
   "AddressLine1": "Units 1 And 2",
   "AddressLine2": "Crown Street",
   "AddressLine3": "Wolverhampton",
   "AddressLine4": "West Midlands",
   "PostCode": "WV1 1PX",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-12-10",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-18",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

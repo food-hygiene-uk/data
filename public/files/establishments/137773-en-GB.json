@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "880",
   "LocalAuthorityName": "Stoke-On-Trent",
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "53.0259039",
-    "Longitude": "-2.1798689"
-  },
+  "Geocode": null,
   "AddressLine2": "66 Trinity Street",
   "AddressLine3": "Hanley",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST1 5NB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-24",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

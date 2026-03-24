@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.432809",
-    "Longitude": "-0.154051"
-  },
-  "AddressLine1": "Rose And Crown",
-  "AddressLine2": "140 Tooting Bec Road",
+  "Geocode": null,
+  "AddressLine1": "Rose And Crown 140 Tooting Bec Road",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 8BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

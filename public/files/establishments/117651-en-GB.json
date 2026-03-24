@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "230",
   "LocalAuthorityName": "King's Lynn and West Norfolk",
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9397201538086",
-    "Longitude": "0.490070998668671"
-  },
+  "Geocode": null,
   "AddressLine1": "24 High Street",
   "AddressLine2": "Hunstanton",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-20",
+  "RatingDate": "2026-02-16",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

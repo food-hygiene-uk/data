@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5458908081055",
-    "Longitude": "0.709209978580475"
-  },
+  "Geocode": null,
   "AddressLine1": "Portacabins",
   "AddressLine2": "Former College Building",
   "AddressLine3": "Carnarvon Road",
   "AddressLine4": "Southend-On-Sea",
   "PostCode": "SS2 6LR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-04",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

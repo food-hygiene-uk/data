@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.506328",
-    "Longitude": "-2.579533"
-  },
+  "Geocode": null,
   "AddressLine1": "Charborough Road Primary School",
   "AddressLine2": "Charborough Road",
   "AddressLine3": "Filton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-30",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

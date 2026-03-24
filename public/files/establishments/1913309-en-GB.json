@@ -7,20 +7,21 @@
   "LocalAuthorityCode": "192",
   "LocalAuthorityName": "Tunbridge Wells",
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.126304",
-    "Longitude": "0.257647"
-  },
+  "Geocode": null,
   "AddressLine1": "Pantiles News",
   "AddressLine2": "66 The Pantiles",
   "AddressLine3": "Royal Tunbridge Wells",
   "AddressLine4": "Kent",
   "PostCode": "TN2 5TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "864",
   "LocalAuthorityName": "North Lincolnshire",
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.564937",
-    "Longitude": "-0.691881"
-  },
+  "Geocode": null,
   "AddressLine1": "Carisbrooke Manor Care Home",
   "AddressLine2": "Carisbrooke Manor Lane",
   "AddressLine3": "Burringham",
   "AddressLine4": "North Lincolnshire",
   "PostCode": "DN17 2AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-03",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

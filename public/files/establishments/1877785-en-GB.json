@@ -9,20 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.44631073",
-    "Longitude": "-0.14975172"
-  },
-  "AddressLine1": "92a Balham High Road",
-  "AddressLine2": "London",
+  "Geocode": null,
+  "AddressLine1": "The Hatch 92a Balham High Road",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW12 9AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-11-12",
+  "RatingDate": "2026-01-07",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

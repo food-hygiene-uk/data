@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3097503",
-    "Longitude": "1.101834"
-  },
+  "Geocode": null,
   "AddressLine1": "The Bull Auberge The Bull Auberge",
   "AddressLine2": "Ipswich Road",
   "AddressLine3": "Yaxley",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-09",
-  "Scores": null
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,28 +1,25 @@
 {
   "FHRSID": 1019408,
   "BusinessName": "EatBox",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "19135",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "202",
   "LocalAuthorityName": "Preston",
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7607002258301",
-    "Longitude": "-2.70452189445496"
-  },
+  "Geocode": null,
   "AddressLine2": "54 Friargate",
   "AddressLine3": "Preston",
   "PostCode": "PR1 2AT",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

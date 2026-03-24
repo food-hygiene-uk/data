@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919137,
-  "BusinessName": "Thee Cheney Arms",
+  "BusinessName": "The Cheney Arms",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00017/COMM",
   "BusinessTypeID": 7843,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7098982",
-    "Longitude": "-0.9842375"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Rearsby Lane",
   "AddressLine2": "Gaddesby",
   "AddressLine3": "Leicester",
   "PostCode": "LE7 4XE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

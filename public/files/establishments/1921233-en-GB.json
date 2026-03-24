@@ -7,20 +7,21 @@
   "LocalAuthorityCode": "192",
   "LocalAuthorityName": "Tunbridge Wells",
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.04733",
-    "Longitude": "0.509413"
-  },
+  "Geocode": null,
   "AddressLine1": "Lovely Chinese Take-Away",
   "AddressLine2": "1 Deanborough House",
   "AddressLine3": "Highgate Hill",
   "AddressLine4": "Hawkhurst",
   "PostCode": "TN18 4JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

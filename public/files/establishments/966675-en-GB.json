@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "570",
   "LocalAuthorityName": "Vale of Glamorgan",
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.396085",
-    "Longitude": "-3.360873"
-  },
+  "Geocode": null,
   "AddressLine1": "Highwayman Inn",
   "AddressLine3": "Nurston",
   "AddressLine4": "Vale Of Glamorgan",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2024-08-05",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }

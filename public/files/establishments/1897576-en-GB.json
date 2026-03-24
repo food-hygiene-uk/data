@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5301813",
-    "Longitude": "-1.7846197"
-  },
+  "Geocode": null,
   "AddressLine1": "Berkeley Farm",
   "AddressLine2": "Swindon Road",
   "AddressLine3": "Wroughton",
   "AddressLine4": "Swindon",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-10-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

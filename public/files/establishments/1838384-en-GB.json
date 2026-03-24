@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4468174",
-    "Longitude": "-0.1902616"
-  },
-  "AddressLine1": "Unit 15",
-  "AddressLine2": "9 Lydden Road",
+  "Geocode": null,
+  "AddressLine1": "Unit 15 9 Lydden Road",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW18 4LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

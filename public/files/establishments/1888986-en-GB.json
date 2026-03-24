@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3909301",
-    "Longitude": "0.502488"
-  },
+  "Geocode": null,
   "AddressLine1": "Royal Victoria & Bull Hotel",
   "AddressLine2": "16 - 18 High Street",
   "AddressLine3": "Rochester",
   "AddressLine4": "Medway",
   "PostCode": "ME1 1PX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

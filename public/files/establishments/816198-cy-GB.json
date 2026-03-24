@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "564",
   "LocalAuthorityName": "Casnewydd",
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5886524",
-    "Longitude": "-2.9956953"
-  },
+  "Geocode": null,
   "AddressLine1": "184 Upper Dock Street",
   "AddressLine2": "Newport",
   "AddressLine3": "South Wales",
   "PostCode": "NP20 1DG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-09-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

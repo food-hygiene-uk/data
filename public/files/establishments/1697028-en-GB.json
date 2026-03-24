@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.47491",
-    "Longitude": "-0.1404"
-  },
-  "AddressLine1": "Units 2 4 6 9",
-  "AddressLine2": "76 Stewarts Road",
+  "Geocode": null,
+  "AddressLine1": "Units 2 4 6 9 76 Stewarts Road",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW8 4DE",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2025-06-10",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

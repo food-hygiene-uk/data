@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5634009",
-    "Longitude": "-0.1285153"
-  },
+  "Geocode": null,
   "AddressLine1": "An's Oriental Supermarket",
   "AddressLine2": "Commercial Unit",
   "AddressLine3": "599 Holloway Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2023-11-07",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 15,
+    "Structural": 5,
     "ConfidenceInManagement": 20
   }
 }

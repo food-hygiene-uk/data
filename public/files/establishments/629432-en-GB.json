@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.585356",
-    "Longitude": "-1.798607"
-  },
+  "Geocode": null,
   "AddressLine1": "The Broadway",
   "AddressLine2": "Moredon",
   "AddressLine3": "Swindon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-14",
+  "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

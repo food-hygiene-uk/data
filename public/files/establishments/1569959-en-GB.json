@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "080",
   "LocalAuthorityName": "Torridge",
   "LocalAuthorityWebSite": "http://www.torridge.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@torridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.019693",
-    "Longitude": "-4.207184"
-  },
+  "Geocode": null,
   "AddressLine1": "36 Mill Street",
   "AddressLine2": "Bideford",
   "AddressLine3": "Devon",
   "PostCode": "EX39 2JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-05",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

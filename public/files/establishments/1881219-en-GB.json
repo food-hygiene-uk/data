@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "207",
   "LocalAuthorityName": "Wyre",
   "LocalAuthorityWebSite": "https://wyre.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialsafety@wyre.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8772384",
-    "Longitude": "-3.0402939"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Victoria Square",
   "AddressLine2": "Thornton Cleveleys",
   "AddressLine3": "Lancashire",
   "PostCode": "FY5 1AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

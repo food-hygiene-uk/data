@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5669603",
-    "Longitude": "-1.8265106"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop",
   "AddressLine2": "Service Station",
   "AddressLine3": "Shaw Road",
   "AddressLine4": "Shaw",
   "PostCode": "SN5 5XS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

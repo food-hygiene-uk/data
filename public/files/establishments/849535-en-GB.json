@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.481562",
-    "Longitude": "-2.888053"
-  },
+  "Geocode": null,
   "AddressLine1": "120 Cherryfield Drive",
   "AddressLine2": "Kirkby Town Centre",
   "AddressLine3": "Knowsley",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-18",
-  "Scores": null
+  "RatingDate": "2024-07-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

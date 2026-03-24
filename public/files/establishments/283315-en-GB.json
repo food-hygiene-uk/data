@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.768947",
-    "Longitude": "-1.533512"
-  },
+  "Geocode": null,
   "AddressLine1": "11 High Street",
   "AddressLine2": "Woodville",
   "AddressLine3": "Swadlincote Derbyshire",
   "PostCode": "DE11 7EH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-18",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

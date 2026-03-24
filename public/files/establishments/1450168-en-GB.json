@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7350819",
-    "Longitude": "0.4667473"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Norman Court",
   "AddressLine2": "Burgess Springs",
   "AddressLine3": "Chelmsford",
   "PostCode": "CM1 1DR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-04",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

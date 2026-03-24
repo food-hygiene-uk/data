@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.5972833",
-    "Longitude": "-1.1947587"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Skelmorlie",
   "AddressLine2": "1 Spring Gardens",
   "AddressLine3": "Ventnor",
   "AddressLine4": "Isle Of Wight",
   "PostCode": "PO38 1QX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

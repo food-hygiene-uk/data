@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4360801",
-    "Longitude": "-0.160212"
-  },
+  "Geocode": null,
   "AddressLine1": "18 Trinity Road",
   "AddressLine2": "Wandsworth",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 7RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

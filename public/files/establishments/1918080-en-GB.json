@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.764836",
-    "Longitude": "-0.884393"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Bowley Court",
   "AddressLine2": "Melton Mowbray",
   "PostCode": "LE13 1XY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

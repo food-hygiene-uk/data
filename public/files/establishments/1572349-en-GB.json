@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4554654",
-    "Longitude": "-0.2117554"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Keswick Road",
-  "AddressLine2": "London",
-  "PostCode": "SW15 2JE",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-01-31",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-21",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

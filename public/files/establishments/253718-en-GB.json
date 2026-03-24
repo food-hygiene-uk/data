@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.584109",
-    "Longitude": "-1.748921"
-  },
+  "Geocode": null,
   "AddressLine1": "73 Ermin Street",
   "AddressLine2": "Stratton St Margaret",
   "AddressLine3": "Swindon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-07",
+  "RatingDate": "2026-03-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

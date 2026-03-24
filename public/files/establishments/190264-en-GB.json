@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.156",
-    "Longitude": "-0.16306"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit U15",
   "AddressLine2": "South Terminal Airside",
   "AddressLine3": "London Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

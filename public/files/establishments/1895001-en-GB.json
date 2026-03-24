@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7937364",
-    "Longitude": "-2.8990197"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit H4 Bradkirk Business Park Weeton Road",
   "AddressLine3": "Medlar With Wesham",
   "AddressLine4": "Lancashire",
   "PostCode": "PR4 3FZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

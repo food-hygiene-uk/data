@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.104729",
-    "Longitude": "-0.188325"
-  },
+  "Geocode": null,
   "AddressLine1": "Black Horse Inn",
   "AddressLine2": "17 High Street",
   "AddressLine3": "Tattershall Lincoln",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2019-12-19",
+  "RatingDate": "2026-02-16",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

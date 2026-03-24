@@ -7,21 +7,18 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.0404586791992",
-    "Longitude": "-1.2104469537735"
-  },
+  "Geocode": null,
   "AddressLine2": "Spring Street",
   "PostCode": "NG15 7BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

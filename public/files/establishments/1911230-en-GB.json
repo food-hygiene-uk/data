@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2486829",
-    "Longitude": "-3.1360193"
-  },
+  "Geocode": null,
   "AddressLine1": "The George And Dragon",
   "AddressLine2": "60 Church Street",
   "AddressLine3": "Flint",
   "AddressLine4": "Flintshire",
   "PostCode": "CH6 5AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3945384",
-    "Longitude": "0.4977262"
-  },
+  "Geocode": null,
   "AddressLine1": "22 High Street",
   "AddressLine2": "Strood",
   "AddressLine3": "Rochester",
   "AddressLine4": "Medway",
   "PostCode": "ME2 4AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

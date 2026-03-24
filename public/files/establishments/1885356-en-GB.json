@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4298371",
-    "Longitude": "-2.8033367"
-  },
+  "Geocode": null,
   "AddressLine1": "13 - 15 Atherton Street",
   "AddressLine2": "Prescot",
   "AddressLine3": "Knowsley",
   "PostCode": "L34 5QN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "883",
   "LocalAuthorityName": "West Berkshire",
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4008375",
-    "Longitude": "-1.3241033"
-  },
+  "Geocode": null,
   "AddressLine1": "The Globe 148 Bartholomew Street",
   "AddressLine3": "Newbury",
   "AddressLine4": "West Berkshire",
   "PostCode": "RG14 5HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

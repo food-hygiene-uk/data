@@ -9,20 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4307399",
-    "Longitude": "-0.1654761"
-  },
-  "AddressLine1": "224-226 Upper Tooting Road",
-  "AddressLine2": "London",
+  "Geocode": null,
+  "AddressLine1": "224 - 226 Upper Tooting Road",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 7EW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-08",
+  "RatingDate": "2026-01-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

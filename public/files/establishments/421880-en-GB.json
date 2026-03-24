@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "514",
   "LocalAuthorityName": "Haringey",
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": {
-    "Latitude": "51.570478",
-    "Longitude": "-0.103233"
-  },
+  "Geocode": null,
   "AddressLine1": "327A Green Lanes",
   "AddressLine2": "Hornsey",
   "AddressLine3": "London",
   "PostCode": "N4 1BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-10",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

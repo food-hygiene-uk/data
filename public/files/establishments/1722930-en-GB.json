@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "514",
   "LocalAuthorityName": "Haringey",
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": {
-    "Latitude": "51.58146",
-    "Longitude": "-0.0764191"
-  },
+  "Geocode": null,
   "AddressLine2": "643 Seven Sisters Road",
   "AddressLine3": "Tottenham",
   "AddressLine4": "London",
   "PostCode": "N15 5LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

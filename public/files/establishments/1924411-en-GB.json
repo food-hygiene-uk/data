@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8867697",
-    "Longitude": "0.8264384"
-  },
+  "Geocode": null,
   "AddressLine1": "Starbuck Coffee Company Unit 4",
   "AddressLine2": "Stane Leisure Park",
   "AddressLine3": "London Road",
   "AddressLine4": "Stanway",
   "PostCode": "CO3 8DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

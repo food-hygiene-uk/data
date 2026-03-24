@@ -10,13 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Nightingale And Elsley School Complex",
-  "AddressLine2": "Beechcroft Road",
+  "AddressLine1": "Nightingale Community Academy Beechcroft Road",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 7DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

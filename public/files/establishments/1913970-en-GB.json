@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5059098",
-    "Longitude": "-2.4877801"
-  },
+  "Geocode": null,
   "AddressLine1": "Little Pioneers Emersons Green",
   "AddressLine2": "Fieldfare",
   "AddressLine3": "Emersons Green",
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS16 7FN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

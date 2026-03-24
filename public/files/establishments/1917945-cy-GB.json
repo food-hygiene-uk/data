@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
-  "Geocode": {
-    "Latitude": "52.057804",
-    "Longitude": "-4.342794"
-  },
+  "Geocode": null,
   "AddressLine1": "Food Centre Wales Horeb Business Park",
   "AddressLine3": "Horeb",
   "AddressLine4": "Ceredigion",
   "PostCode": "SA44 4JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

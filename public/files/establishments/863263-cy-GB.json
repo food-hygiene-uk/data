@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
-  "Geocode": {
-    "Latitude": "52.433567",
-    "Longitude": "-4.017348"
-  },
+  "Geocode": null,
   "AddressLine1": "Plas Gogerddan",
   "AddressLine3": "Penrhyncoch",
   "AddressLine4": "Ceredigion",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-08-19",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

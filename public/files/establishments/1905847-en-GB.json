@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.474293",
-    "Longitude": "-2.855599"
-  },
+  "Geocode": null,
   "AddressLine1": "Texaco Service Station",
   "AddressLine2": "Gale Road",
   "AddressLine3": "Knowsley Industrial Park",
   "AddressLine4": "Kirkby",
   "PostCode": "L33 7YB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-03-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

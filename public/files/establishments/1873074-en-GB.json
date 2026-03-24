@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.06025",
-    "Longitude": "-1.309225"
-  },
+  "Geocode": null,
   "AddressLine1": "Abbey Mill",
   "AddressLine2": "Colebrook Street",
   "AddressLine3": "Winchester",
   "AddressLine4": "Hampshire",
   "PostCode": "SO23 9LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

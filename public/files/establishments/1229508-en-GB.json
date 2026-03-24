@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "148",
   "LocalAuthorityName": "Malvern Hills",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.311416",
-    "Longitude": "-2.593501"
-  },
+  "Geocode": null,
   "AddressLine1": "8A Teme Street",
   "AddressLine2": "Tenbury Wells",
   "AddressLine3": "Worcestershire",
   "PostCode": "WR15 8BA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

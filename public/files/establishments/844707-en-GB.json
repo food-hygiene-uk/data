@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "814",
   "LocalAuthorityName": "Newry, Mourne and Down",
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.280795",
-    "Longitude": "-5.591753"
-  },
+  "Geocode": null,
   "AddressLine1": "83 Strangford Road",
   "AddressLine3": "Ardglass",
   "AddressLine4": "Down",
   "PostCode": "BT30 7SP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 0
   }
 }

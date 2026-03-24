@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0036885",
-    "Longitude": "1.0592081"
-  },
+  "Geocode": null,
   "AddressLine1": "Starbucks Coffee  A12 Southbound",
   "AddressLine2": "London Road",
   "AddressLine3": "Capel St Mary",
   "AddressLine4": "IPSWICH",
   "PostCode": "IP9 2JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

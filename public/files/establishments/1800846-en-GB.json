@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.454318",
-    "Longitude": "-0.2110576"
-  },
-  "AddressLine1": "Shell Putney service station",
-  "AddressLine2": "134 West Hill",
+  "Geocode": null,
+  "AddressLine1": "Shell Putney Service Station 134 West Hill",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW15 2UE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

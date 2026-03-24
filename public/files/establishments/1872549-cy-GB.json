@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4371871948242",
-    "Longitude": "-3.18015503883362"
-  },
+  "Geocode": null,
   "AddressLine1": "Victoria Tea Room & Ice Cream Parlour 3A Cornerswell Road",
   "AddressLine3": "Penarth",
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF64 2UW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

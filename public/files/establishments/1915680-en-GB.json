@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5646820068359",
-    "Longitude": "-2.07691502571106"
-  },
+  "Geocode": null,
   "AddressLine1": "Bilston Retail Market",
   "AddressLine2": "Market Way",
   "AddressLine3": "Wolverhampton",
   "AddressLine4": "West Midlands",
   "PostCode": "WV14 0DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

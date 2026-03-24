@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "112",
   "LocalAuthorityName": "Castle Point",
   "LocalAuthorityWebSite": "http://www.castlepoint.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@castlepoint.gov.uk",
-  "Geocode": {
-    "Latitude": "51.552703",
-    "Longitude": "0.611501"
-  },
+  "Geocode": null,
   "AddressLine1": "263 London Road",
   "AddressLine2": "Hadleigh",
   "AddressLine3": "Benfleet",
   "AddressLine4": "Essex",
   "PostCode": "SS7 2BN",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-27",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-16",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 0
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4838003149649",
-    "Longitude": "-3.1989795240666"
-  },
+  "Geocode": null,
   "AddressLine1": "St Marys Primary School Wyndham Crescent",
   "AddressLine2": "Pontcanna",
   "AddressLine3": "Cardiff",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-01-16",
+  "RatingDate": "2026-03-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

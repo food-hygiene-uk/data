@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.106695",
-    "Longitude": "0.794407"
-  },
+  "Geocode": null,
   "AddressLine1": "25 Church Street",
   "AddressLine2": "Lavenham",
   "AddressLine3": "SUDBURY",
   "AddressLine4": "Suffolk",
   "PostCode": "CO10 9QT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

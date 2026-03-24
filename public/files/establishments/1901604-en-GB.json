@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3640776",
-    "Longitude": "0.6095912"
-  },
+  "Geocode": null,
   "AddressLine1": "18 Station Road",
   "AddressLine2": "Rainham",
   "AddressLine3": "Gillingham",
   "AddressLine4": "Medway",
   "PostCode": "ME8 7PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

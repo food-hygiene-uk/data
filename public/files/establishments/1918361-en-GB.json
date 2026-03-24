@@ -7,19 +7,19 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7091268",
-    "Longitude": "-1.6617315"
-  },
-  "AddressLine1": "Smilers Sandwich Bar",
-  "AddressLine2": "154 High Street",
-  "AddressLine3": "Heckmondwike",
+  "Geocode": null,
+  "AddressLine1": "154 High Street",
+  "AddressLine2": "Heckmondwike",
   "PostCode": "WF16 0DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-16",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

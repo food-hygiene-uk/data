@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4813232421875",
-    "Longitude": "-3.69847297668457"
-  },
+  "Geocode": null,
   "AddressLine1": "55 New Road",
   "AddressLine3": "Porthcawl",
   "AddressLine4": "Bridgend",
   "PostCode": "CF36 5DH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

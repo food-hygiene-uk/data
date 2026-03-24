@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5488187",
-    "Longitude": "-2.432342"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1",
   "AddressLine2": "Apollo Park",
   "AddressLine3": "Armstrong Way",
   "AddressLine4": "Yate",
   "PostCode": "BS37 5AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

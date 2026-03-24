@@ -9,22 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4333795",
-    "Longitude": "-0.1889222"
-  },
-  "AddressLine1": "Unit 41",
-  "AddressLine2": "Delta House",
-  "AddressLine3": "Riverside Road",
-  "AddressLine4": "London",
+  "Geocode": null,
+  "AddressLine1": "Unit 41 Delta House Riverside Road",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 0BA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2024-10-02",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

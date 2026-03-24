@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "184",
   "LocalAuthorityName": "Gravesham",
   "LocalAuthorityWebSite": "http://www.gravesham.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.ratingscheme@gravesham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.442136",
-    "Longitude": "0.37165"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Milton Road",
   "AddressLine2": "Gravesend",
   "AddressLine3": "Kent",
   "PostCode": "DA12 2RE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-01-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-17",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.799282",
-    "Longitude": "-1.506645"
-  },
+  "Geocode": null,
   "AddressLine1": "330 York Road",
   "AddressLine2": "Leeds",
   "PostCode": "LS9 9DN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-23",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

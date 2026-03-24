@@ -7,18 +7,15 @@
   "LocalAuthorityCode": "219",
   "LocalAuthorityName": "Boston",
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.973703",
-    "Longitude": "-0.037086"
-  },
+  "Geocode": null,
   "AddressLine2": "Peck Avenue",
   "AddressLine4": "Boston",
   "PostCode": "PE21 8DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
   "Scores": null
 }

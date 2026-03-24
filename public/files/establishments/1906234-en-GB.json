@@ -1,6 +1,6 @@
 {
   "FHRSID": 1906234,
-  "BusinessName": "Green House",
+  "BusinessName": "The Greenhouse",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "265669",
   "BusinessTypeID": 7843,
@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.452691",
-    "Longitude": "-2.599649"
-  },
-  "AddressLine1": "Greenhouse",
+  "Geocode": null,
   "AddressLine2": "37 College Green",
   "AddressLine3": "City Centre",
   "AddressLine4": "Bristol",
   "PostCode": "BS1 5SP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
