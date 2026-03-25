@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9139041",
+    "Longitude": "-1.3034178"
+  },
   "AddressLine1": "1D LOWER NORTHAM ROAD HEDGE END SOUTHAMPTON SO30 4FN",
   "PostCode": "SO30 4FN",
   "SchemeType": "FHRS",

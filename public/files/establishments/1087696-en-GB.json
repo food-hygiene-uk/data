@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.36660943",
@@ -18,12 +18,12 @@
   "AddressLine4": "Wirral",
   "PostCode": "CH42 8LW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-05",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-17",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 25,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 30
   }
 }

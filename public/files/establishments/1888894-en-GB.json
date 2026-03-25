@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "564",
   "LocalAuthorityName": "Newport",
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
   "Geocode": {
-    "Latitude": "51.5854694",
-    "Longitude": "-2.9933607"
+    "Latitude": "51.5847387",
+    "Longitude": "-2.9925798"
   },
-  "AddressLine1": "Unit 21-22",
+  "AddressLine1": "Unit 21",
   "AddressLine2": "Kingsway Centre",
   "AddressLine3": "John Frost Square",
   "AddressLine4": "Newport",
   "PostCode": "NP20 1EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

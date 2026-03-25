@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.758279",
+    "Longitude": "0.13284"
+  },
   "AddressLine1": "The Red Lion Public House",
   "AddressLine2": "Potter Street",
   "AddressLine3": "Harlow",

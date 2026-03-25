@@ -7,24 +7,23 @@
   "LocalAuthorityCode": "569",
   "LocalAuthorityName": "Torfaen",
   "LocalAuthorityWebSite": "http://www.torfaen.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealthprotection@torfaen.gov.uk",
   "Geocode": {
-    "Latitude": "51.7811050415039",
-    "Longitude": "-3.12033891677856"
+    "Latitude": "51.781104",
+    "Longitude": "-3.12034"
   },
-  "AddressLine1": "Whistle Inn",
   "AddressLine2": "Whistle Road",
   "AddressLine3": "Garn Yr Erw",
   "AddressLine4": "Blaenavon",
   "PostCode": "NP4 9SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2025-02-25",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-02-17",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

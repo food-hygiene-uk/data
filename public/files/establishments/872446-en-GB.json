@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.766221",
+    "Longitude": "0.093228"
+  },
   "AddressLine1": "Units 19 & 20 The Water Gardens",
   "AddressLine2": "Haydens Road",
   "AddressLine3": "Harlow",

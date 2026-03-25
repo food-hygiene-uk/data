@@ -1,9 +1,9 @@
 {
   "FHRSID": 1874946,
   "BusinessName": "The Cob Cabin",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "9104197",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "263",
   "LocalAuthorityName": "Mansfield",
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG18 5RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8894831",
+    "Longitude": "-0.4823613"
+  },
+  "AddressLine1": "Unit C",
+  "AddressLine2": "5 Cradock Road",
+  "AddressLine4": "Luton",
+  "PostCode": "LU4 0JF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

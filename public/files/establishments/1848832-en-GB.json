@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.8658816",
+    "Longitude": "-2.4030851"
+  },
+  "AddressLine2": "17 Central Avenue",
+  "AddressLine3": "Clitheroe",
+  "AddressLine4": "Lancashire",
+  "PostCode": "BB7 2PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

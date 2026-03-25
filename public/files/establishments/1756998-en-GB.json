@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2334295",
+    "Longitude": "-2.3274801"
+  },
   "AddressLine1": "Trinity Street",
   "AddressLine2": "Frome",
   "AddressLine3": "Somerset",

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hill Farm Academy Hill Farm Primary School Foster Road",
+  "Geocode": {
+    "Latitude": "52.42749838",
+    "Longitude": "-1.52357659"
+  },
+  "AddressLine1": "Foster Road",
   "AddressLine4": "Coventry",
   "PostCode": "CV6 3BL",
   "SchemeType": "FHRS",

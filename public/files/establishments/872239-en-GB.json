@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.771353",
+    "Longitude": "0.086291"
+  },
   "AddressLine1": "Restaurant & Ward Kitchens",
   "AddressLine2": "Hamstel Road",
   "AddressLine3": "Harlow",

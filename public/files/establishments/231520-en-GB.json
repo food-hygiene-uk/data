@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.974625",
+    "Longitude": "-0.022701"
+  },
   "AddressLine1": "Lloyds Pharmacy",
   "AddressLine2": "South Square",
   "AddressLine4": "Boston",

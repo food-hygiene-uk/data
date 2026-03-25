@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.642318",
+    "Longitude": "-0.574464"
+  },
+  "AddressLine1": "Paper Stock House",
+  "AddressLine2": "Amersham Road",
+  "AddressLine3": "Chalfont St Giles",
+  "AddressLine4": "Buckinghamshire",
+  "PostCode": "HP8 4RU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

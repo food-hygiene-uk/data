@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.775356",
+    "Longitude": "0.1334411"
+  },
   "AddressLine1": "Unit D",
   "AddressLine2": "North Square",
   "AddressLine3": "Newhall",

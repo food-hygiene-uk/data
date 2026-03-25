@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.619408",
+    "Longitude": "-1.160626"
+  },
   "AddressLine1": "10 Fullhurst Avenue",
   "AddressLine2": "Leicester",
   "PostCode": "LE3 1BH",

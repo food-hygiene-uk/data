@@ -1,24 +1,28 @@
 {
   "FHRSID": 1889613,
-  "BusinessName": "InShanghai",
+  "BusinessName": "KING BUFFET",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "G3LQZ1-RE9BNW-A3M3RM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
-    "Latitude": "54.7764758",
-    "Longitude": "-1.5783649"
+    "Latitude": "54.7773555",
+    "Longitude": "-1.5783394"
   },
-  "AddressLine1": "30B THE RIVERWALK MILLBURNGATE",
+  "AddressLine1": "30B THE RIVERWALK MILBURNGATE",
   "AddressLine3": "DURHAM",
   "PostCode": "DH1 4SL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

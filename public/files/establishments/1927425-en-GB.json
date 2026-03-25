@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.85650811",
+    "Longitude": "-4.26019593"
+  },
   "AddressLine2": "65 Broomielaw",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

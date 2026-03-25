@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.569106",
+    "Longitude": "-0.346855"
+  },
   "AddressLine1": "11 Northolt Road",
   "AddressLine2": "South Harrow",
   "PostCode": "HA2 0LH",

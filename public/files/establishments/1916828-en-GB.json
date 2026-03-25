@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "URBAN ROAD",
+  "Geocode": {
+    "Latitude": "53.0998802185059",
+    "Longitude": "-1.25273203849792"
+  },
+  "AddressLine2": "Urban Road",
   "PostCode": "NG17 8DB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

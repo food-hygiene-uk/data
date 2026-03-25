@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "128",
   "LocalAuthorityName": "Stroud",
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": null,
   "AddressLine1": "Layby Northbound A38",
@@ -15,12 +15,12 @@
   "AddressLine3": "Gossington",
   "AddressLine4": "Slimbridge",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-18",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-17",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

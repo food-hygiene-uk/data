@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
-    "Latitude": "52.155905",
-    "Longitude": "-1.508881"
+    "Latitude": "52.1557203",
+    "Longitude": "-1.5085377"
   },
-  "AddressLine1": "Carpenters Arms",
+  "AddressLine1": "Kineton Post Office",
   "AddressLine2": "Banbury Street",
   "AddressLine3": "Kineton",
   "AddressLine4": "Warwick",
   "PostCode": "CV35 0JS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

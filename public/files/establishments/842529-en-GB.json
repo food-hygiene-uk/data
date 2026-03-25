@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "131",
   "LocalAuthorityName": "Basingstoke and Deane",
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
   "Geocode": {
     "Latitude": "51.264861",
@@ -19,12 +19,8 @@
   "AddressLine4": "Hampshire",
   "PostCode": "RG21 7LS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

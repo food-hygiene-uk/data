@@ -9,21 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.725461",
-    "Longitude": "-1.590041"
-  },
-  "AddressLine1": "54 HIGH STREET",
-  "AddressLine2": "MILFORD-ON-SEA",
-  "AddressLine3": "LYMINGTON",
-  "PostCode": "SO41 0QD",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-02-11",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

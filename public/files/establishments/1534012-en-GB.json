@@ -1,30 +1,30 @@
 {
   "FHRSID": 1534012,
-  "BusinessName": "Eat in House Ltd",
+  "BusinessName": "Eat In House Ltd",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000144145",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.644917",
-    "Longitude": "0.088908"
+    "Latitude": "51.6445892",
+    "Longitude": "0.0887155"
   },
-  "AddressLine1": "Unit D2",
+  "AddressLine1": "Eat in House Ltd Unit D2",
   "AddressLine2": "Seedbed Centre",
   "AddressLine3": "Langston Road",
   "AddressLine4": "Loughton",
   "PostCode": "IG10 3TQ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

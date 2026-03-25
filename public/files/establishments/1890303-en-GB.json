@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Northallerton 0 North Yorkshire",
-  "AddressLine2": "DL7 8PP",
+  "Geocode": {
+    "Latitude": "54.3405218",
+    "Longitude": "-1.4342286"
+  },
+  "AddressLine1": "89 High Street",
+  "AddressLine4": "Northallerton",
+  "PostCode": "DL7 8PP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

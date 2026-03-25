@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916816,
-  "BusinessName": "Hucknall Caf e & Coffee Shop",
+  "BusinessName": "Hucknall Cafe & Coffee Shop",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "28876",
   "BusinessTypeID": 1,
@@ -16,8 +16,12 @@
   "AddressLine2": "68 High Street",
   "PostCode": "NG15 7AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

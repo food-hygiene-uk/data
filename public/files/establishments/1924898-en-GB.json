@@ -1,18 +1,30 @@
 {
   "FHRSID": 1924898,
   "BusinessName": "Onest",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000150878",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6552041",
+    "Longitude": "0.0657308"
+  },
+  "AddressLine1": "We Are Onest Ltd",
+  "AddressLine2": "134 Church Hill",
+  "AddressLine3": "Loughton",
+  "AddressLine4": "Essex",
+  "PostCode": "IG10 1LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

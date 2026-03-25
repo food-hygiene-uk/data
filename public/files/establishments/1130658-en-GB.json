@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.772641",
+    "Longitude": "-1.20771"
+  },
   "AddressLine2": "56a The Rushes",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 5BL",

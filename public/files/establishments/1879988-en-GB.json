@@ -1,6 +1,6 @@
 {
   "FHRSID": 1879988,
-  "BusinessName": "Greenhills Farm",
+  "BusinessName": "Bay Vine Yard",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx14999",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "Whitby",
   "PostCode": "YO22 4PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

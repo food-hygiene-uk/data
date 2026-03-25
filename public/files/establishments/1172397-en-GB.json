@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9519764",
+    "Longitude": "-1.1439769"
+  },
   "AddressLine2": "1 Broadway",
   "AddressLine4": "Nottingham",
   "SchemeType": "FHRS",

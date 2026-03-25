@@ -1,6 +1,6 @@
 {
   "FHRSID": 1915327,
-  "BusinessName": "Go Polanco",
+  "BusinessName": "Go Polanco LTD",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "5332567",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine2": "Blackpool",
   "PostCode": "FY4 2JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
