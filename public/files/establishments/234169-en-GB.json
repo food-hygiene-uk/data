@@ -7,21 +7,23 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.881549",
+    "Longitude": "-1.54718"
+  },
   "AddressLine1": "Burton Road",
   "AddressLine2": "Findern",
   "AddressLine3": "Derby",
-  "AddressLine4": "Golden Spice Kebab House",
   "PostCode": "DE65 6BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

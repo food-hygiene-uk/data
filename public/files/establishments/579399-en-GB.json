@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": {
     "Latitude": "50.7484855651855",
@@ -19,12 +19,12 @@
   "AddressLine4": "Holsworthy",
   "PostCode": "EX22 6RL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

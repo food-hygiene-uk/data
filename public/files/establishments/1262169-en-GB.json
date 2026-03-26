@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.3609848022461",
     "Longitude": "1.02324903011322"
@@ -18,12 +18,12 @@
   "AddressLine4": "Kent",
   "PostCode": "CT5 1BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

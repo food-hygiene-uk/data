@@ -14,12 +14,16 @@
     "Longitude": "-0.2613989"
   },
   "AddressLine1": "207 Upper Richmond Road West",
-  "AddressLine2": "East Sheen",
-  "AddressLine3": "London",
+  "AddressLine3": "East Sheen",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "SW14 8QT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -13,12 +13,17 @@
     "Latitude": "51.4527528",
     "Longitude": "-0.3583098"
   },
-  "AddressLine1": "22-24 High Street",
-  "AddressLine2": "Whitton",
+  "AddressLine1": "22 - 24 High Street",
+  "AddressLine3": "Whitton",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 7LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

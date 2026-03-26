@@ -14,11 +14,16 @@
     "Longitude": "-0.3062554"
   },
   "AddressLine1": "11 Bridge Street",
-  "AddressLine2": "Richmond",
+  "AddressLine3": "Richmond",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW9 1TQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-02-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

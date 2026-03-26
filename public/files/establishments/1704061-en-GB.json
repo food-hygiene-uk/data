@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.44828015",
-    "Longitude": "-0.31646644"
-  },
-  "AddressLine1": "Orleans House Gallery",
-  "AddressLine2": "Orleans Road",
+  "Geocode": null,
+  "AddressLine1": "Orleans House Gallery Orleans Road",
   "AddressLine3": "Twickenham",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW1 3BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

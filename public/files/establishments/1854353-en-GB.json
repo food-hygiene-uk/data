@@ -14,12 +14,16 @@
     "Longitude": "-0.233557"
   },
   "AddressLine1": "195 Castelnau",
-  "AddressLine2": "Barnes",
-  "AddressLine3": "London",
+  "AddressLine3": "Barnes",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "SW13 9ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-07-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1574347,
-  "BusinessName": "34 Hampton Road",
+  "BusinessName": "Meet & Deep",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000433050",
   "BusinessTypeID": 4613,
@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Twickenham",
+  "Geocode": {
+    "Latitude": "51.4420626",
+    "Longitude": "-0.3443614"
+  },
+  "AddressLine1": "34 Hampton Road",
+  "AddressLine3": "Twickenham",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 5QB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

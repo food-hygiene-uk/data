@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.436009",
+    "Longitude": "-0.128398"
+  },
+  "AddressLine1": "12 De Montfort Parade",
+  "AddressLine2": "Streatham High Road",
+  "AddressLine3": "London",
+  "PostCode": "SW16 1BU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-12-18",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-12-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

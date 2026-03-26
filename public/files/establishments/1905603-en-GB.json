@@ -1,6 +1,6 @@
 {
   "FHRSID": 1905603,
-  "BusinessName": "Thomas's College",
+  "BusinessName": "Harrisons Catering at Thomas's College",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000496209",
   "BusinessTypeID": 1,
@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Queens Road",
-  "AddressLine2": "Richmond",
+  "AddressLine1": "Thomas's College Queens Road",
+  "AddressLine3": "Richmond",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW10 6JW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

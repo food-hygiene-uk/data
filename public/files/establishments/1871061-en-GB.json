@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "429",
   "LocalAuthorityName": "Sunderland",
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Front Street",
@@ -15,8 +15,12 @@
   "AddressLine3": "Houghton-le-Spring",
   "PostCode": "DH4 6LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

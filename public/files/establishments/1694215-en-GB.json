@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
-    "Latitude": "51.5372848510742",
-    "Longitude": "-0.493384003639221"
+    "Latitude": "51.5367843",
+    "Longitude": "-0.4934373"
   },
-  "AddressLine1": "Cloud IX Kitchens",
+  "AddressLine1": "Cloud iX Kitchens",
   "AddressLine2": "4 Eskdale Road",
   "AddressLine4": "Uxbridge",
   "PostCode": "UB8 2RT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

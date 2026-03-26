@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Thomson House School",
-  "AddressLine2": "Vernon Road",
+  "AddressLine1": "Thomson House School Vernon Road",
   "AddressLine3": "East Sheen",
-  "AddressLine4": "London",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "SW14 8NH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

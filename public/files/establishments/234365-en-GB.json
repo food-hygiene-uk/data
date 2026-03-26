@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.4804864",
@@ -18,12 +18,12 @@
   "AddressLine4": "Rothwell",
   "PostCode": "LN7 6AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-10-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

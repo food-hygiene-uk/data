@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.514007",
@@ -18,12 +18,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M29 8NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

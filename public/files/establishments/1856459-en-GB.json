@@ -1,6 +1,6 @@
 {
   "FHRSID": 1856459,
-  "BusinessName": "Downsend 6th Form Centre",
+  "BusinessName": "Accent Catering Servcies @ Downsend 6th Form Centre",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "2849",
   "BusinessTypeID": 7845,
@@ -17,8 +17,12 @@
   "AddressLine2": "Fetcham",
   "PostCode": "KT22 9UT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

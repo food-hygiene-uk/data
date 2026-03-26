@@ -1,22 +1,25 @@
 {
   "FHRSID": 1880766,
-  "BusinessName": "The Bay Horse",
+  "BusinessName": "The Bay Horse Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "Cx15827",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Main Street",
-  "AddressLine2": "Goldsborough",
-  "AddressLine4": "Knaresborough",
+  "AddressLine1": "The Bay Horse Inn Church Street",
+  "AddressLine4": "Goldsborough",
   "PostCode": "HG5 8NW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

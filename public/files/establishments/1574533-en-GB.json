@@ -14,11 +14,16 @@
     "Longitude": "-0.303596"
   },
   "AddressLine1": "86 Hill Rise",
-  "AddressLine2": "Richmond",
+  "AddressLine3": "Richmond",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW10 6UB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-03-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

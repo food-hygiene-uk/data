@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1044",
+    "Longitude": "-1.2411499"
+  },
   "AddressLine2": "29 Marlborough Road",
   "PostCode": "NG17 7HN",
   "SchemeType": "FHRS",

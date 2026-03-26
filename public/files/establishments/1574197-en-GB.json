@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.476988",
+    "Longitude": "-0.286071"
+  },
   "AddressLine1": "4 Station Parade",
-  "AddressLine2": "Kew",
   "AddressLine3": "Richmond",
+  "AddressLine4": "Richmond Upon Thames",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

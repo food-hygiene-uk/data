@@ -13,12 +13,17 @@
     "Latitude": "51.4469944",
     "Longitude": "-0.3285968"
   },
-  "AddressLine1": "11 London Road",
-  "AddressLine2": "Twickenham",
+  "AddressLine1": "Blues Smokehouse 11 London Road",
+  "AddressLine3": "Twickenham",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW1 3SX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

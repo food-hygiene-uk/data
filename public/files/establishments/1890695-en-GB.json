@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": null,
   "AddressLine1": "106-108 High Street",
   "AddressLine4": "West Bromwich",
   "PostCode": "B70 7NN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sudbrook Park",
-  "AddressLine2": "Sudbrook Lane",
+  "Geocode": {
+    "Latitude": "51.4394893",
+    "Longitude": "-0.2973861"
+  },
+  "AddressLine1": "Richmond Park Golf Club Sudbrook Park Sudbrook Lane",
   "AddressLine3": "Petersham",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW10 7AT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

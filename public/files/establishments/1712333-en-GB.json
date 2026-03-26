@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "881",
   "LocalAuthorityName": "Swindon",
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
   "Geocode": {
     "Latitude": "51.524549",
@@ -18,12 +18,12 @@
   "AddressLine3": "Swindon",
   "PostCode": "SN4 9LN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

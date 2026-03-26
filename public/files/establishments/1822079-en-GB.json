@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "415",
   "LocalAuthorityName": "Manchester",
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
   "Geocode": {
     "Latitude": "53.4320573",
@@ -17,8 +17,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M19 1FN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

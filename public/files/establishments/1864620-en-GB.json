@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.574462",
@@ -17,8 +17,12 @@
   "AddressLine4": "Ruislip",
   "PostCode": "HA4 8HR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

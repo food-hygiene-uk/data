@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.4319795",
-    "Longitude": "-0.3454452"
+    "Latitude": "51.431992",
+    "Longitude": "-0.3455005"
   },
   "AddressLine1": "202 Stanley Road",
-  "AddressLine2": "Teddington",
+  "AddressLine3": "Teddington",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW11 8UE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

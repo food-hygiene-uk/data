@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "030",
   "LocalAuthorityName": "Huntingdonshire",
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
   "Geocode": {
     "Latitude": "52.5785695",
@@ -18,12 +18,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE8 6JB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

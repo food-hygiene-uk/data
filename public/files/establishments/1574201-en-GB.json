@@ -13,12 +13,17 @@
     "Latitude": "51.4179407",
     "Longitude": "-0.3181667"
   },
-  "AddressLine1": "27 Wick Road",
-  "AddressLine2": "Teddington",
+  "AddressLine1": "The Lion 27 Wick Road",
+  "AddressLine3": "Teddington",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW11 9DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

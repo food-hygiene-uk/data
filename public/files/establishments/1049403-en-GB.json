@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "867",
   "LocalAuthorityName": "Isle of Wight",
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
   "Geocode": {
     "Latitude": "50.6959231",
@@ -19,12 +19,12 @@
   "AddressLine4": "Newport",
   "PostCode": "PO30 5LE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-05",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

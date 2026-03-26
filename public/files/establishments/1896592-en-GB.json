@@ -13,12 +13,17 @@
     "Latitude": "51.4157074",
     "Longitude": "-0.3166955"
   },
-  "AddressLine1": "5-7 Cedars Road",
-  "AddressLine2": "Hampton Wick",
+  "AddressLine1": "5 - 7 Cedars Road",
+  "AddressLine3": "Hampton Wick",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "KT1 4BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2025-11-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1058466",
+    "Longitude": "-1.243858"
+  },
   "AddressLine2": "27 Alexandra Street",
   "PostCode": "NG17 7JL",
   "SchemeType": "FHRS",

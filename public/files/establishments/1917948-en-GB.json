@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "553",
   "LocalAuthorityName": "Bridgend",
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
   "Geocode": {
     "Latitude": "51.5051475",
@@ -17,8 +17,12 @@
   "AddressLine3": "Bridgend",
   "PostCode": "CF31 1DU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

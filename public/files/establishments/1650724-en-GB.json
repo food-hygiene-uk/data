@@ -10,13 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
-  "AddressLine1": "The King's C Of E Primary School",
-  "AddressLine2": "Cumberland Road",
+  "AddressLine1": "The Queens C Of E Primary School Cumberland Road",
   "AddressLine3": "Kew",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW9 3HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

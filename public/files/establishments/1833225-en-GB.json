@@ -1,13 +1,13 @@
 {
   "FHRSID": 1833225,
-  "BusinessName": "Bertosnunthorpe Food NE Ltd",
+  "BusinessName": "Bertos Nunthorpe",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "86175",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "861",
   "LocalAuthorityName": "Middlesbrough",
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
   "Geocode": {
     "Latitude": "54.529542",
@@ -17,8 +17,12 @@
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS7 0AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

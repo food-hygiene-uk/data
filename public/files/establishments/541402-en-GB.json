@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "867",
   "LocalAuthorityName": "Isle of Wight",
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
   "Geocode": {
     "Latitude": "50.6618614196777",
@@ -19,12 +19,12 @@
   "AddressLine4": "Isle Of Wight",
   "PostCode": "PO36 9AS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-31",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

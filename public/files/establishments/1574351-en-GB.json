@@ -14,11 +14,16 @@
     "Longitude": "-0.3314283"
   },
   "AddressLine1": "27 Heath Road",
-  "AddressLine2": "Twickenham",
+  "AddressLine3": "Twickenham",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW1 4AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

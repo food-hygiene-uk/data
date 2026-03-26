@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
-    "Latitude": "53.770967",
-    "Longitude": "-1.668166"
+    "Latitude": "53.7713545",
+    "Longitude": "-1.665966"
   },
+  "AddressLine1": "Greyhound Inn",
   "AddressLine2": "23 Tong Lane",
   "AddressLine3": "Tong",
   "AddressLine4": "Bradford",
   "PostCode": "BD4 0RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

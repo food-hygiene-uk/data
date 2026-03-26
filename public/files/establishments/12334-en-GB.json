@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "143",
   "LocalAuthorityName": "Winchester City",
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
   "Geocode": {
     "Latitude": "51.07143",
@@ -18,12 +18,8 @@
   "AddressLine3": "Hampshire",
   "PostCode": "SO22 6RX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-10",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.4957123",
@@ -18,8 +18,12 @@
   "AddressLine4": "Caistor",
   "PostCode": "LN7 6UP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-18",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

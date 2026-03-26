@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.7213105",
@@ -18,8 +18,12 @@
   "AddressLine3": "Calderdale",
   "PostCode": "HX1 2RZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
