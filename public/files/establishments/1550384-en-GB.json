@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@cumberland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.7054464",
+    "Longitude": "-3.502845"
+  },
+  "AddressLine1": "22C SOLWAY TRADING ESTATE",
+  "AddressLine4": "MARYPORT",
+  "PostCode": "CA15 8NF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

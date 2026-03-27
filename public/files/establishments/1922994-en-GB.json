@@ -14,11 +14,17 @@
     "Longitude": "-5.9572609"
   },
   "AddressLine1": "174 Church Road",
+  "AddressLine2": "Glengormly",
   "AddressLine3": "Newtownabbey",
+  "AddressLine4": "Antrim",
   "PostCode": "BT36 6HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

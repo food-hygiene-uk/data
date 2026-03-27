@@ -1,6 +1,6 @@
 {
   "FHRSID": 16222,
-  "BusinessName": "Our Lady Hoc Church Hall",
+  "BusinessName": "Our Lady Help Of Christians Church",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "05/25953/COMM",
   "BusinessTypeID": 7841,
@@ -16,8 +16,12 @@
   "AddressLine1": "Our Lady Help Of Christians ChurchMadeira RoadWest ByfleetSurrey",
   "PostCode": "KT14 6DH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

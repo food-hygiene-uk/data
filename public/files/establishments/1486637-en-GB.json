@@ -1,13 +1,13 @@
 {
   "FHRSID": 1486637,
   "BusinessName": "Sea Salt",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "12262",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "307",
   "LocalAuthorityName": "Guildford",
   "LocalAuthorityWebSite": "http://www.guildford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
   "Geocode": {
     "Latitude": "51.30002",
@@ -18,12 +18,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU23 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-10",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-23",
   "Scores": {
     "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2044213",
+    "Longitude": "-2.2126236"
+  },
+  "AddressLine1": "At The Goodrest",
+  "AddressLine2": "Barker Street",
+  "AddressLine3": "Worcester",
+  "PostCode": "WR3 8NP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

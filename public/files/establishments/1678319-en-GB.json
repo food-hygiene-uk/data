@@ -7,17 +7,23 @@
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Crown of India",
-  "AddressLine2": "214 Ocean Road",
-  "AddressLine3": "South Shields",
-  "AddressLine4": "Tyne & Wear",
+  "Geocode": {
+    "Latitude": "55.000164",
+    "Longitude": "-1.424904"
+  },
+  "AddressLine1": "214 Ocean Road",
+  "AddressLine2": "South Shields",
+  "AddressLine3": "Tyne & Wear",
   "PostCode": "NE33 2JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

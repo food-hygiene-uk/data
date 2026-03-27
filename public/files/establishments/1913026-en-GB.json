@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
-    "Latitude": "53.7259118",
-    "Longitude": "-1.8809459"
+    "Latitude": "53.7257861",
+    "Longitude": "-1.8810675"
   },
-  "AddressLine1": "Former",
-  "AddressLine2": "296D - 296E Queens Road",
-  "AddressLine3": "King Cross",
-  "AddressLine4": "Halifax",
+  "AddressLine1": "296A Queens Road",
+  "AddressLine2": "King Cross",
+  "AddressLine3": "Halifax",
+  "AddressLine4": "Calderdale",
   "PostCode": "HX1 4NS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

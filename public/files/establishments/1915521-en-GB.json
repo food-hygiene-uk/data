@@ -1,26 +1,22 @@
 {
   "FHRSID": 1915521,
   "BusinessName": "Asylum Coffee",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "C/26/00025/COM",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "125",
   "LocalAuthorityName": "Cotswold",
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.6965273",
-    "Longitude": "-1.8258817"
-  },
-  "AddressLine1": "Unit J26",
-  "AddressLine2": "Jenners Farm",
-  "AddressLine3": "High Street",
-  "AddressLine4": "Meysey Hampton",
-  "PostCode": "GL7 5JW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

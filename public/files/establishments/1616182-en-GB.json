@@ -9,20 +9,19 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": {
-    "Latitude": "54.74899639",
-    "Longitude": "-6.33768324"
-  },
+  "Geocode": null,
   "AddressLine1": "Church Road",
   "AddressLine2": "Randalstown",
+  "AddressLine3": "Randalstown",
+  "AddressLine4": "Antrim",
   "PostCode": "BT41 3AJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-21",
+  "RatingDate": "2026-03-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,29 +1,26 @@
 {
   "FHRSID": 999593,
-  "BusinessName": "The Only Way is Fish",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "The only way is fish",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000137965",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.71493",
-    "Longitude": "0.245543"
+    "Latitude": "51.7149243",
+    "Longitude": "0.2455825"
   },
-  "AddressLine1": "26 Fyfield Road",
-  "AddressLine2": "Ongar",
-  "AddressLine3": "Essex",
+  "AddressLine1": "The Only Way is Fish",
+  "AddressLine2": "26 Fyfield Road",
+  "AddressLine3": "Ongar",
+  "AddressLine4": "Essex",
   "PostCode": "CM5 0AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-09",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -1,18 +1,22 @@
 {
   "FHRSID": 1907407,
-  "BusinessName": "Naija Xpress Foods By Ade",
+  "BusinessName": "NaijaXpress Foods & Grocery",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "9102805",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "408",
   "LocalAuthorityName": "Doncaster",
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

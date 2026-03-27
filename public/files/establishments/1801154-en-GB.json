@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8800596",
-    "Longitude": "-1.30247"
-  },
-  "AddressLine2": "71 Wilne Road",
-  "AddressLine4": "Sawley",
-  "PostCode": "NG10 3AP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
