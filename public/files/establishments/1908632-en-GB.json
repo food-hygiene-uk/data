@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
   "Geocode": {
-    "Latitude": "52.9225093",
-    "Longitude": "-1.4774279"
+    "Latitude": "52.9224864",
+    "Longitude": "-1.4778217"
   },
-  "AddressLine1": "St James Chambers",
-  "AddressLine2": "St James Street",
+  "AddressLine2": "9-11 St James Street",
   "AddressLine3": "Derby",
   "PostCode": "DE1 1QZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

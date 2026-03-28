@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9258668",
-    "Longitude": "-1.1153342"
-  },
-  "AddressLine1": "130 Waltham Close",
-  "AddressLine2": "West Bridgford",
-  "AddressLine3": "Nottinghamshire",
-  "PostCode": "NG2 6LE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

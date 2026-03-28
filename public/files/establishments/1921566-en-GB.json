@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9048071",
-    "Longitude": "-1.0281296"
-  },
-  "AddressLine1": "23 Briargate",
-  "AddressLine2": "Cotgrave",
-  "AddressLine3": "Nottinghamshire",
-  "PostCode": "NG12 3NT",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

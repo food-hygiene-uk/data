@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "560",
   "LocalAuthorityName": "Flintshire",
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
   "Geocode": {
     "Latitude": "53.2063073",
@@ -19,8 +19,12 @@
   "AddressLine4": "Flintshire",
   "PostCode": "CH5 1SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-02-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

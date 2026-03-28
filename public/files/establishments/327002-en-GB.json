@@ -1,13 +1,13 @@
 {
   "FHRSID": 327002,
-  "BusinessName": "Eastburn Stores and Post Office",
+  "BusinessName": "Eastburn Stores",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "52943",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.896246",
@@ -17,8 +17,12 @@
   "AddressLine3": "Steeton With Eastburn",
   "PostCode": "BD20 8UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

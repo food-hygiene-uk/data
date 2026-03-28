@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Workshop Office And Premises Knights Way",
+  "Geocode": {
+    "Latitude": "52.7450305",
+    "Longitude": "-2.7413216"
+  },
+  "AddressLine1": "Unit 1 Archers Way",
   "AddressLine3": "Shrewsbury",
   "AddressLine4": "Shropshire",
   "PostCode": "SY1 3AB",

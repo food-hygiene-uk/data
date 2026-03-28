@@ -1,13 +1,13 @@
 {
   "FHRSID": 648033,
-  "BusinessName": "Kingsley Healthcare (Oaklands Care Home)",
+  "BusinessName": "Oaklands Nursing Home",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "P006329",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "233",
   "LocalAuthorityName": "South Norfolk",
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
   "Geocode": {
     "Latitude": "52.375484",
@@ -19,12 +19,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "IP21 4EE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-02-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-03",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }
