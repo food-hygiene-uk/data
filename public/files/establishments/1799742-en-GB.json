@@ -17,8 +17,12 @@
   "AddressLine2": "Birmingham",
   "PostCode": "B2 4UJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2025-05-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
+  }
 }

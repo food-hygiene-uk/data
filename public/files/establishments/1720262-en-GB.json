@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B38 8RU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }
