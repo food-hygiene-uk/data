@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "140",
   "LocalAuthorityName": "Rushmoor",
   "LocalAuthorityWebSite": "http://www.rushmoor.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@rushmoor.gov.uk",
   "Geocode": {
     "Latitude": "51.2496491",
@@ -17,12 +17,12 @@
   "AddressLine2": "Aldershot",
   "AddressLine3": "Hampshire",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-03-04",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

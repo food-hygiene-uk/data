@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "134",
   "LocalAuthorityName": "Fareham",
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
   "Geocode": {
     "Latitude": "50.880808",
@@ -19,12 +19,12 @@
   "AddressLine4": "Fareham",
   "PostCode": "PO15 7LA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

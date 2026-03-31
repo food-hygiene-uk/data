@@ -10,14 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Goat Gummies Ltd 6 Love Lane",
-  "AddressLine2": "Woodford Green",
-  "AddressLine3": "Chigwell",
-  "AddressLine4": "Essex",
-  "PostCode": "IG8 8BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

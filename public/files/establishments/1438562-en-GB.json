@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.8855149",
@@ -17,8 +17,12 @@
   "AddressLine4": "Kingsway",
   "PostCode": "LU1 1FW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

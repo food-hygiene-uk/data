@@ -1,6 +1,6 @@
 {
   "FHRSID": 554207,
-  "BusinessName": "!",
+  "BusinessName": "Manor Supermarket",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000200895",
   "BusinessTypeID": 4613,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Manor Supermarket",
-  "AddressLine2": "169 Manor Road",
-  "AddressLine3": "Chigwell",
-  "AddressLine4": "Essex",
+  "Geocode": {
+    "Latitude": "51.61308",
+    "Longitude": "0.0911"
+  },
+  "AddressLine1": "169 Manor Road",
+  "AddressLine2": "Chigwell",
+  "AddressLine3": "Essex",
   "PostCode": "IG7 5QB",
   "SchemeType": "FHRS",
   "RatingValue": "3",

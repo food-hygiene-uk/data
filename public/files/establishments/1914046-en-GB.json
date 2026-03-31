@@ -9,13 +9,22 @@
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Groomsport",
-  "AddressLine3": "Bangor",
+  "Geocode": {
+    "Latitude": "54.6697419",
+    "Longitude": "-5.5959794"
+  },
+  "AddressLine1": "5 Lower Balloo Road",
+  "AddressLine2": "Balloo Lower",
+  "AddressLine3": "Groomsport",
+  "AddressLine4": "Down",
   "PostCode": "BT19 6LU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

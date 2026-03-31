@@ -1,9 +1,9 @@
 {
   "FHRSID": 1914047,
   "BusinessName": "TukTuk Asian Bistro",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "7150",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "802",
   "LocalAuthorityName": "Ards and North Down",
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
@@ -19,8 +19,12 @@
   "AddressLine4": "Down",
   "PostCode": "BT20 5AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

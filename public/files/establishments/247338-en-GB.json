@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": {
     "Latitude": "52.588016",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-22",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

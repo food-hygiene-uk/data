@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.509888",
@@ -18,12 +18,12 @@
   "AddressLine3": "West Ealing",
   "PostCode": "W13 9HH",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-09-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

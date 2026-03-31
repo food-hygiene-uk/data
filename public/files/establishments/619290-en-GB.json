@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "138",
   "LocalAuthorityName": "New Forest",
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
   "Geocode": {
     "Latitude": "50.820404",
@@ -18,12 +18,12 @@
   "AddressLine3": "BROCKENHURST",
   "PostCode": "SO42 7YG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-08-31",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

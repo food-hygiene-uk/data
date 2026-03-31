@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "530",
   "LocalAuthorityName": "Tower Hamlets",
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
   "Geocode": {
     "Latitude": "51.533424",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "E2 9BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

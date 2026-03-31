@@ -1,13 +1,13 @@
 {
   "FHRSID": 664194,
-  "BusinessName": "Your Store",
+  "BusinessName": "C",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "14/00056/COMM",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "068",
   "LocalAuthorityName": "North East Derbyshire",
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
   "Geocode": {
     "Latitude": "53.188476",
@@ -18,12 +18,12 @@
   "AddressLine3": "Chesterfield",
   "PostCode": "S42 5RA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-23",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

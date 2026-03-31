@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.1005206",
     "Longitude": "0.6619953"
   },
-  "AddressLine1": "Unit 5",
+  "AddressLine1": "Groove n' Graze at Beau Studios Unit 5",
   "AddressLine2": "Clockhouse Farm",
   "AddressLine3": "Cavendish Lane",
   "AddressLine4": "Glemsford",
   "PostCode": "CO10 7PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

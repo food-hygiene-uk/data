@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "311",
   "LocalAuthorityName": "Spelthorne",
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
   "Geocode": {
     "Latitude": "51.4324851",
@@ -18,12 +18,12 @@
   "AddressLine3": "Ashford",
   "PostCode": "TW15 2PH",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
