@@ -10,15 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
   "Geocode": {
-    "Latitude": "50.3699197",
-    "Longitude": "-4.1532795"
+    "Latitude": "50.3703",
+    "Longitude": "-4.1532"
   },
-  "AddressLine2": "86-88 Union Street",
-  "AddressLine3": "Plymouth",
+  "AddressLine2": "86 Manor Gardens",
   "PostCode": "PL1 3EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

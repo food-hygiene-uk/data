@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
   "Geocode": {
     "Latitude": "53.0982878",
@@ -16,12 +16,12 @@
   "AddressLine2": "11 Kingsway",
   "PostCode": "NG17 7BB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

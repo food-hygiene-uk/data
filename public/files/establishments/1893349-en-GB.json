@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "157",
   "LocalAuthorityName": "East Hertfordshire",
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
   "Geocode": null,
   "AddressLine1": "Hertford Heath J M I School",
@@ -16,8 +16,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG13 7QW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5825853",
-    "Longitude": "-0.0022358"
-  },
-  "AddressLine1": "79 Chestnut Avenue South",
-  "AddressLine3": "Walthamstow",
-  "AddressLine4": "London",
-  "PostCode": "E17 9EJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 271564,
-  "BusinessName": "Willowcroft Community School",
+  "BusinessName": "Dolce at Willowcroft Community School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "AD:03491",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
     "Latitude": "51.602917",
@@ -18,12 +18,8 @@
   "AddressLine4": "Oxon",
   "PostCode": "OX11 8BA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-06",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

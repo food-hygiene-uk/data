@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "206",
   "LocalAuthorityName": "West Lancashire",
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
   "Geocode": {
     "Latitude": "53.601735",
@@ -19,12 +19,12 @@
   "AddressLine4": "Burscough",
   "PostCode": "L40 5TN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-26",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

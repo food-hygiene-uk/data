@@ -1,25 +1,30 @@
 {
   "FHRSID": 1841710,
   "BusinessName": "Disco Dough",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "520933",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "563",
   "LocalAuthorityName": "Castell-nedd Port Talbot",
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
   "Geocode": {
-    "Latitude": "51.6797263",
-    "Longitude": "-3.7689657"
+    "Latitude": "51.678864",
+    "Longitude": "-3.774461"
   },
-  "AddressLine2": "7 Pen Y Bryn",
+  "AddressLine1": "Railway Tavern",
+  "AddressLine2": "Dulais Fach Road",
   "AddressLine3": "Tonna",
   "AddressLine4": "Neath Port Talbot",
-  "PostCode": "SA11 3JR",
+  "PostCode": "SA10 8EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

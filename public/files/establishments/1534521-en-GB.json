@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "140",
   "LocalAuthorityName": "Rushmoor",
   "LocalAuthorityWebSite": "http://www.rushmoor.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@rushmoor.gov.uk",
   "Geocode": {
     "Latitude": "51.242166",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hampshire",
   "PostCode": "GU12 4DB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

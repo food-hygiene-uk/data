@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "067",
   "LocalAuthorityName": "High Peak",
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
   "Geocode": {
     "Latitude": "53.3598861694336",
@@ -18,12 +18,12 @@
   "AddressLine3": "Derbyshire",
   "PostCode": "SK22 4PW",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-08-05",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-24",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

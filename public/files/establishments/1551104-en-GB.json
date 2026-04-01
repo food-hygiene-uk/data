@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2230306",
+    "Longitude": "-2.9811009"
+  },
+  "AddressLine1": "Communal Hall",
+  "AddressLine2": "Trowbridge Close",
+  "AddressLine3": "Highbridge",
+  "PostCode": "TA9 3AZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

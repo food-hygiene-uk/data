@@ -1,9 +1,9 @@
 {
   "FHRSID": 1862766,
-  "BusinessName": "Roots & Relish",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessName": "Oxford Masala Club",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "100120920632",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

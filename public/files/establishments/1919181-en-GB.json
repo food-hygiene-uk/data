@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919181,
-  "BusinessName": "Smith-James Catering",
+  "BusinessName": "Smith-James Lets Eat",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00038/CP",
   "BusinessTypeID": 7846,
@@ -19,8 +19,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "EN11 0EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -16,8 +16,12 @@
   "AddressLine1": "LEA PRE SCHOOL LEA AND GARSDON PRIMARY SCHOOL SCHOOL LANE",
   "AddressLine3": "LEA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-10-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

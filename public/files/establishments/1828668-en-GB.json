@@ -7,19 +7,24 @@
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.5793596",
-    "Longitude": "-2.0082099"
+    "Latitude": "52.566483",
+    "Longitude": "-2.0361901"
   },
-  "AddressLine1": "80 Primley Avenue",
-  "AddressLine2": "Walsall",
-  "AddressLine3": "West Midlands",
-  "PostCode": "WS2 9UW",
+  "AddressLine1": "/MMC Kichi'n",
+  "AddressLine2": "84 Pinfold Street",
+  "AddressLine3": "Darlaston",
+  "AddressLine4": "Walsall",
+  "PostCode": "WS10 8TB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

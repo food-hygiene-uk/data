@@ -1,29 +1,29 @@
 {
   "FHRSID": 43995,
-  "BusinessName": "Katsouris's (Cafe)",
+  "BusinessName": "Katsouris Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "107",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
   "Geocode": {
     "Latitude": "53.5909908",
     "Longitude": "-2.2952659"
   },
-  "AddressLine2": "Market Hall Shops 22-25/48",
+  "AddressLine2": "Market Hall Shops 22-25",
   "AddressLine3": "Bury Market",
   "AddressLine4": "1 Murray Road",
   "PostCode": "BL9 0BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-25",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

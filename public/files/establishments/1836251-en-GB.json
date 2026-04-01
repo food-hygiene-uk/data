@@ -1,6 +1,6 @@
 {
   "FHRSID": 1836251,
-  "BusinessName": "Cafe at Lake Y",
+  "BusinessName": "The Wheelhouse Café at Lake Y",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000223447",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Doncaster",
   "PostCode": "DN9 3NP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

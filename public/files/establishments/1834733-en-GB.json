@@ -1,6 +1,6 @@
 {
   "FHRSID": 1834733,
-  "BusinessName": "Elm Lodge Residential Care",
+  "BusinessName": "Elm Lodge",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000223070",
   "BusinessTypeID": 5,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Elm Lodge",
-  "AddressLine2": "Cluntergate",
-  "AddressLine3": "Horbury",
-  "AddressLine4": "Wakefield",
+  "Geocode": {
+    "Latitude": "53.65934",
+    "Longitude": "-1.548652"
+  },
+  "AddressLine1": "Cluntergate",
+  "AddressLine2": "Horbury",
+  "AddressLine3": "Wakefield",
   "PostCode": "WF4 5DB",
   "SchemeType": "FHRS",
   "RatingValue": "4",

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1863183,
   "BusinessName": "The Jericho Kitchen Cookery School",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "10095366955",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "WALLINGFORD",
   "PostCode": "OX10 6SL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

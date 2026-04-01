@@ -1,9 +1,9 @@
 {
   "FHRSID": 1899014,
   "BusinessName": "Good Grounds",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "HW1TV7-5ZWJ4Q-J2LVVP",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
