@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": {
     "Latitude": "52.5510951",
@@ -17,8 +17,12 @@
   "AddressLine4": "Wednesbury",
   "PostCode": "WS10 7AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

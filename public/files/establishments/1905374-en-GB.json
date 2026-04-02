@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7343323",
-    "Longitude": "-1.8280182"
-  },
-  "AddressLine1": "4 Longfield Avenue",
-  "AddressLine2": "Northowram",
-  "AddressLine3": "Halifax",
-  "AddressLine4": "Calderdale",
-  "PostCode": "HX3 7BS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

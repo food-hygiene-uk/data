@@ -10,17 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
-    "Latitude": "51.6680131",
-    "Longitude": "-3.1443373"
+    "Latitude": "51.60539047",
+    "Longitude": "-3.09408127"
   },
-  "AddressLine1": "2 Greenfield Houses",
-  "AddressLine2": "Ashfield Road",
-  "AddressLine3": "Newbridge",
-  "AddressLine4": "Newport",
-  "PostCode": "NP11 4QW",
+  "AddressLine2": "Clyde Street",
+  "AddressLine3": "Risca",
+  "AddressLine4": "NP11 6BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

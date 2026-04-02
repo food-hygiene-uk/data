@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.5715939",
@@ -16,12 +16,8 @@
   "AddressLine1": "13 Claremont Way London",
   "PostCode": "NW2 1AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-10-30",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": null
 }

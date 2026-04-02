@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
     "Latitude": "50.7999801635742",
@@ -17,12 +17,12 @@
   "AddressLine2": "Portsmouth",
   "PostCode": "PO1 3HY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

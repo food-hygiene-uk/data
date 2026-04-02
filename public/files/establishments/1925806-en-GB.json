@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "556",
   "LocalAuthorityName": "Cardiff",
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": null,
   "AddressLine1": "Plas Bryn Pentrebane Road",
   "AddressLine2": "Fairwater",
   "AddressLine3": "Cardiff",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -13,14 +13,18 @@
     "Latitude": "51.1343173",
     "Longitude": "0.2654101"
   },
-  "AddressLine1": "Phones 4 U",
+  "AddressLine1": "Dulces Patisserie",
   "AddressLine2": "141 Royal Victoria Place",
   "AddressLine3": "Royal Tunbridge Wells",
   "AddressLine4": "Kent",
   "PostCode": "TN1 2SR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

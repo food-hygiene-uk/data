@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "515",
   "LocalAuthorityName": "Harrow",
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
   "Geocode": {
     "Latitude": "51.6013162",
@@ -17,12 +17,12 @@
   "AddressLine2": "Harrow",
   "PostCode": "HA3 5EE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2023-11-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 20,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

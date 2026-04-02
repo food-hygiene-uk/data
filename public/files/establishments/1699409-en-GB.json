@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cherwell 2 Middleton Close",
+  "Geocode": {
+    "Latitude": "52.06866179",
+    "Longitude": "-1.31598681"
+  },
+  "AddressLine1": "Unit 1 Middleton Close",
   "AddressLine3": "Banbury",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX16 4RS",

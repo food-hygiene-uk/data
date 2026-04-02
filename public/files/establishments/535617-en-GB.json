@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.519847",
@@ -16,12 +16,12 @@
   "AddressLine2": "29 Store Street",
   "PostCode": "WC1E 7BS",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-11-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

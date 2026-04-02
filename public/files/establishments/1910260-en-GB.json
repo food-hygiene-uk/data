@@ -7,12 +7,24 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3659776",
+    "Longitude": "-1.0171982"
+  },
+  "AddressLine1": "4 York Studios",
+  "AddressLine2": "Cold Ashby Road",
+  "AddressLine3": "Guilsborough",
+  "AddressLine4": "West Northamptonshire",
+  "PostCode": "NN6 8QP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

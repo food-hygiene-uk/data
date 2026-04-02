@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7103226",
-    "Longitude": "-1.9070175"
-  },
-  "AddressLine1": "7B Church View",
-  "AddressLine2": "Sowerby Bridge",
-  "AddressLine3": "Calderdale",
-  "PostCode": "HX6 2LW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

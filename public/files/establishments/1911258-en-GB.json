@@ -1,9 +1,9 @@
 {
   "FHRSID": 1911258,
   "BusinessName": "Sweet and Cheesy Events",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/000004114",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

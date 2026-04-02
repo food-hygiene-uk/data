@@ -1,19 +1,19 @@
 {
   "FHRSID": 1750154,
-  "BusinessName": "Metro Superstore Ltd",
+  "BusinessName": "Metro superstore",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000055240",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
     "Latitude": "51.6102477",
     "Longitude": "0.0611265"
   },
-  "AddressLine1": "785 Chigwell Road",
+  "AddressLine1": "Metro Superstore Ltd 785 Chigwell Road",
   "AddressLine2": "Woodford Green",
   "AddressLine3": "Chigwell",
   "AddressLine4": "Essex",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-08-12",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

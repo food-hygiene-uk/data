@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": {
     "Latitude": "51.737727",
@@ -18,12 +18,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP3 9SB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-02-23",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

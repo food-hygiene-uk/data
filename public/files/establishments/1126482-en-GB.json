@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": {
     "Latitude": "53.720736",
@@ -17,12 +17,12 @@
   "AddressLine2": "Batley",
   "PostCode": "WF17 8HA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-17",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

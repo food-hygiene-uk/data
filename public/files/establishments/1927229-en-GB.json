@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "11 Beach Road",
+  "Geocode": {
+    "Latitude": "52.6786631",
+    "Longitude": "1.7057855"
+  },
+  "AddressLine2": "11 Beach road",
   "AddressLine3": "Scratby",
-  "AddressLine4": "Ormesby St Margaret W Scratby",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR29 3AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

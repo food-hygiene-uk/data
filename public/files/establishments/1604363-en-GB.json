@@ -1,6 +1,6 @@
 {
   "FHRSID": 1604363,
-  "BusinessName": "FACE (Foundation For Active Community Engagement)",
+  "BusinessName": "FACE (Kingswood)",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "CP/001148",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS15 4RQ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

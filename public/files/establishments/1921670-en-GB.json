@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "120",
   "LocalAuthorityName": "Tendring",
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
   "Geocode": {
     "Latitude": "51.8524828",
@@ -19,8 +19,12 @@
   "AddressLine4": "Colchester",
   "PostCode": "CO7 8LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

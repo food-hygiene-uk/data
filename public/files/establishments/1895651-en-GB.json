@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Hub Buccaneer Way",
+  "Geocode": {
+    "Latitude": "51.8311567",
+    "Longitude": "-1.3102114"
+  },
+  "AddressLine1": "The Hub At Aerox Park Langford Lane",
   "AddressLine3": "Kidlington",
   "AddressLine4": "Oxfordshire",
-  "PostCode": "OX5 1ZA",
+  "PostCode": "OX5 1HT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

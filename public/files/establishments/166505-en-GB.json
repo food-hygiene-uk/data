@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.297744",
+    "Longitude": "-0.700498"
+  },
+  "AddressLine1": "63 Croyland Road",
+  "AddressLine2": "Wellingborough",
+  "AddressLine3": "Northamptonshire",
+  "PostCode": "NN8 2AU",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

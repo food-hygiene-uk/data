@@ -9,11 +9,8 @@
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fsa_enforcement@tandridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2405372",
-    "Longitude": "-0.1003728"
-  },
-  "AddressLine1": " 25 High Street",
+  "Geocode": null,
+  "AddressLine1": "25 High Street",
   "AddressLine2": "Bletchingley",
   "AddressLine4": "Surrey",
   "PostCode": "RH1 4PB",
@@ -22,8 +19,8 @@
   "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2024-07-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

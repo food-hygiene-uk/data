@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "106",
   "LocalAuthorityName": "Rother",
   "LocalAuthorityWebSite": "http://www.rother.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": null,
   "AddressLine1": "Cherry Tree Inn Dale Hill",
@@ -15,12 +15,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "TN5 7DG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Swansea",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.6194506",
@@ -17,12 +17,12 @@
   "AddressLine4": "Swansea",
   "PostCode": "SA1 1EG",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2025-01-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-02-25",
   "Scores": {
     "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,13 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": null,
-  "AddressLine1": "Crossmaglen",
-  "AddressLine3": "Newry",
+  "Geocode": {
+    "Latitude": "54.0775383",
+    "Longitude": "-6.6089301"
+  },
+  "AddressLine1": "3 North Street",
+  "AddressLine2": "Crossmaglen",
+  "AddressLine3": "Crossmaglen",
+  "AddressLine4": "Armagh",
   "PostCode": "BT35 9AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

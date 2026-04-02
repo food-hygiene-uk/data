@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
   "Geocode": {
     "Latitude": "51.4939995",
@@ -17,12 +17,12 @@
   "AddressLine3": "LONDON",
   "PostCode": "SW1P 4BY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

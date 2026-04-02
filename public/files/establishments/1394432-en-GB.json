@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "551",
   "LocalAuthorityName": "Anglesey",
   "LocalAuthorityWebSite": "http://www.ynysmon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "iechydyramgylchedd@ynysmon.gov.uk",
   "Geocode": {
     "Latitude": "53.3103972",
@@ -18,8 +18,12 @@
   "AddressLine4": "Isle Of Anglesey",
   "PostCode": "LL65 1RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

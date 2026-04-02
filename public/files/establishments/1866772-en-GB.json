@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
     "Latitude": "51.151588",
@@ -16,8 +16,12 @@
   "AddressLine1": "St Lawrence Primary School Amery Hill Alton GU34 2BY",
   "PostCode": "GU34 2BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
