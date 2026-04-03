@@ -1,6 +1,6 @@
 {
   "FHRSID": 1626596,
-  "BusinessName": "The Yeaveley Arms",
+  "BusinessName": "Pear Tree Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "FR/000001949",
   "BusinessTypeID": 7843,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Pear Tree Inn",
-  "AddressLine2": "Leapley Lane",
-  "AddressLine3": "Yeaveley",
-  "AddressLine4": "Derbyshire",
+  "Geocode": {
+    "Latitude": "52.960042",
+    "Longitude": "-1.722322"
+  },
+  "AddressLine1": "Leapley Lane",
+  "AddressLine2": "Yeaveley",
+  "AddressLine3": "Derbyshire",
   "PostCode": "DE6 2DT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

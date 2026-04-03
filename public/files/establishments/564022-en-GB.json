@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": {
-    "Latitude": "51.44383",
-    "Longitude": "0.233311"
+    "Latitude": "51.4442934",
+    "Longitude": "0.2330142"
   },
-  "AddressLine1": "118 St Vincents Road",
-  "AddressLine2": "Dartford",
-  "AddressLine3": "Kent",
+  "AddressLine1": "Sally Sues",
+  "AddressLine2": "118 St Vincents Road",
+  "AddressLine3": "Dartford",
+  "AddressLine4": "Kent",
   "PostCode": "DA1 1XE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-10",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

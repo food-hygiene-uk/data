@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Pine Croft Stores",
-  "AddressLine2": "Pine Croft",
-  "AddressLine3": "Ashbourne",
-  "AddressLine4": "Derbyshire",
+  "Geocode": {
+    "Latitude": "53.0060211",
+    "Longitude": "-1.7257644"
+  },
+  "AddressLine1": "2 Pine Croft",
+  "AddressLine2": "Ashbourne",
+  "AddressLine3": "Derbyshire",
   "PostCode": "DE6 1HS",
   "SchemeType": "FHRS",
   "RatingValue": "4",

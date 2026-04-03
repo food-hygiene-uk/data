@@ -13,14 +13,17 @@
     "Latitude": "51.1238029",
     "Longitude": "-0.0049281"
   },
-  "AddressLine1": "Digbys Dog Grooming Ltd",
-  "AddressLine2": "74 High Street",
-  "AddressLine3": "East Grinstead",
-  "AddressLine4": "West Sussex",
+  "AddressLine1": "74 High Street",
+  "AddressLine2": "East Grinstead",
+  "AddressLine3": "West Sussex",
   "PostCode": "RH19 3DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

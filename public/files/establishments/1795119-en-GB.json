@@ -1,13 +1,13 @@
 {
   "FHRSID": 1795119,
-  "BusinessName": "Noya Mediterranean restaurant",
+  "BusinessName": "Noya restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9105296",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3850057",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-23",
+  "RatingDate": "2026-02-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

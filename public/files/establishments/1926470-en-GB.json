@@ -10,13 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Mount St James",
-  "AddressLine2": "Blackburn",
-  "AddressLine3": "Lancashire",
-  "PostCode": "BB1 2DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

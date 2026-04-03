@@ -1,6 +1,6 @@
 {
   "FHRSID": 1915658,
-  "BusinessName": "Clubszone CZ Limited",
+  "BusinessName": "Clubszone",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/FST/077/CP",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicester",
   "PostCode": "LE4 5HH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

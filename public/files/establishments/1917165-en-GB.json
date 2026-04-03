@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6242005",
+    "Longitude": "-2.3675432"
+  },
+  "AddressLine1": "12 The Chipping",
+  "AddressLine2": "Kingswood",
+  "AddressLine3": "Wotton-Under-Edge",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL12 8RT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

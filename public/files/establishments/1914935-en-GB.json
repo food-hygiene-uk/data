@@ -1,18 +1,29 @@
 {
   "FHRSID": 1914935,
-  "BusinessName": "Yue Lai Yue Hao",
+  "BusinessName": "Wongs",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP/113686",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "pprotection@solihull.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4438762",
+    "Longitude": "-1.7851094"
+  },
+  "AddressLine1": "91 Hobs Moat Road",
+  "AddressLine2": "Elmdon",
+  "AddressLine3": "Solihull",
+  "PostCode": "B92 8JL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

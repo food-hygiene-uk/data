@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4735828",
+    "Longitude": "-0.3893553"
+  },
   "AddressLine2": "372 Bath Road",
   "AddressLine3": "Hounslow",
+  "PostCode": "TW4 7HT",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

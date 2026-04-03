@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.52835",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-05-20",
+  "RatingDate": "2026-02-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }

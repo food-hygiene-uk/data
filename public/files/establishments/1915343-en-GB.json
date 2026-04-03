@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.45533",
-    "Longitude": "-2.3326662"
-  },
-  "AddressLine2": "451 Barton Road",
-  "AddressLine3": "Stretford",
-  "AddressLine4": "Manchester",
-  "PostCode": "M32 9TA",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

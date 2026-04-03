@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4702743",
+    "Longitude": "-0.397744"
+  },
   "AddressLine1": "Vista Business Centre",
   "AddressLine2": "50 Salisbury Road",
   "AddressLine3": "Hounslow",
+  "PostCode": "TW4 6JQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

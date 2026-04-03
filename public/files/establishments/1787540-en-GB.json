@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "189",
   "LocalAuthorityName": "Swale",
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
   "Geocode": {
     "Latitude": "51.2961496",
@@ -19,12 +19,12 @@
   "AddressLine4": "Kent",
   "PostCode": "ME13 9BH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

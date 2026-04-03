@@ -1,24 +1,22 @@
 {
   "FHRSID": 1889957,
   "BusinessName": "Crumbs and Coffee",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "55558",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.434879",
-    "Longitude": "-0.3798966"
-  },
-  "AddressLine2": "18 Stourton Avenue",
-  "AddressLine3": "Feltham",
-  "PostCode": "TW13 6LG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

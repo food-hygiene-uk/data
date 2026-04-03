@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.907424",
+    "Longitude": "1.121192"
+  },
+  "AddressLine1": "Spring Farm",
+  "AddressLine2": "Colchester Road",
+  "AddressLine3": "Wix",
+  "AddressLine4": "Manningtree",
+  "PostCode": "CO11 2RN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-30",
+  "RatingDate": "2026-03-31",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

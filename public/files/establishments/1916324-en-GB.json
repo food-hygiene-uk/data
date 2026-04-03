@@ -1,13 +1,13 @@
 {
   "FHRSID": 1916324,
-  "BusinessName": "The Azuki Dinning",
+  "BusinessName": "The Azuki Room",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00096/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
   "Geocode": {
     "Latitude": "51.5163192749023",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC4A 1HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,25 +1,30 @@
 {
   "FHRSID": 1919376,
-  "BusinessName": "Brokenrice",
+  "BusinessName": "Broken Rice",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00052/FOOD",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "266",
   "LocalAuthorityName": "Rushcliffe",
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
   "Geocode": {
-    "Latitude": "52.929807",
-    "Longitude": "-1.126995"
+    "Latitude": "52.9308894",
+    "Longitude": "-1.125973"
   },
-  "AddressLine1": "12 Tudor Road",
-  "AddressLine2": "West Bridgford",
-  "AddressLine3": "Nottinghamshire",
-  "PostCode": "NG2 6EE",
+  "AddressLine1": "Brokenrice",
+  "AddressLine2": "12 Tudor Square",
+  "AddressLine3": "West Bridgford",
+  "AddressLine4": "Nottinghamshire",
+  "PostCode": "NG2 6BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1695112,
-  "BusinessName": "The gateway cafe",
+  "BusinessName": "The Gateway Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9102786",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": {
     "Latitude": "52.6037199",
@@ -18,12 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "B78 1PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-26",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "565",
   "LocalAuthorityName": "Sir Benfro",
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
   "Geocode": {
     "Latitude": "51.8002481",
@@ -17,8 +17,12 @@
   "AddressLine3": "Haverfordwest",
   "PostCode": "SA61 1ST",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

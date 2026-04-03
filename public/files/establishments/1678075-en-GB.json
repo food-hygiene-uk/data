@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": {
     "Latitude": "54.9745714",
@@ -19,8 +19,12 @@
   "AddressLine4": "Tyne & Wear",
   "PostCode": "NE31 2YA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-26",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

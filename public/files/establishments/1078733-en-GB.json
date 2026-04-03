@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.852249",
+    "Longitude": "-4.470841"
+  },
+  "AddressLine1": "Norton Barton",
+  "AddressLine2": "Launcells",
+  "AddressLine3": "Bude",
+  "AddressLine4": "Cornwall",
+  "PostCode": "EX23 9LG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-13",
+  "RatingDate": "2026-03-30",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

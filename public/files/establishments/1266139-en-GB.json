@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
     "Latitude": "54.8535923",
@@ -17,12 +17,12 @@
   "AddressLine3": "BOURNMOOR",
   "PostCode": "DH4 6DY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-15",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-26",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

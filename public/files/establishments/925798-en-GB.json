@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": null,
   "AddressLine1": "Utc Warrington",
   "AddressLine2": "Dallam Lane",
   "PostCode": "WA2 7NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

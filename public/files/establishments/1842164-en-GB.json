@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
     "Latitude": "51.6204643",
@@ -19,8 +19,12 @@
   "AddressLine4": "Newport",
   "PostCode": "NP11 7PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

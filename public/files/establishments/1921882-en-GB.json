@@ -1,13 +1,13 @@
 {
   "FHRSID": 1921882,
-  "BusinessName": "Muchos Nachos At The Crown",
+  "BusinessName": "Muchos Nachos",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00043/FOOD",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "325",
   "LocalAuthorityName": "Chichester",
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
   "Geocode": {
     "Latitude": "50.831189",
@@ -18,8 +18,12 @@
   "AddressLine3": "West Sussex",
   "PostCode": "PO19 8HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7926569",
+    "Longitude": "1.1479811"
+  },
+  "AddressLine1": "89 Old Road",
+  "AddressLine2": "Clacton On Sea",
+  "AddressLine3": "Essex",
+  "PostCode": "CO15 1HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

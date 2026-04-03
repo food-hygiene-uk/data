@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
     "Latitude": "51.3723025",
@@ -18,12 +18,12 @@
   "AddressLine3": "Surrey Street",
   "AddressLine4": "Croydon",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

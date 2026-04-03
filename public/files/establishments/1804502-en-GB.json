@@ -1,6 +1,6 @@
 {
   "FHRSID": 1804502,
-  "BusinessName": "Hanworth Air Parks and Library",
+  "BusinessName": "Hanworth Air Parks and Library Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "142552",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine3": "Feltham",
   "PostCode": "TW13 5EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

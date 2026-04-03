@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "072",
   "LocalAuthorityName": "East Devon",
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
   "Geocode": {
     "Latitude": "50.754988",
@@ -18,12 +18,12 @@
   "AddressLine3": "Exeter",
   "PostCode": "EX5 2QB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

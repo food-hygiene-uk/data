@@ -1,13 +1,13 @@
 {
   "FHRSID": 1911903,
-  "BusinessName": "Manny Eats @ J9 Foodbarn",
+  "BusinessName": "Mannys Eats @ J9 Foodbarn",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "9103064",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": {
     "Latitude": "52.5500393",
@@ -18,8 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "B76 0DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

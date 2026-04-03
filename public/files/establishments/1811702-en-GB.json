@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7686141",
+    "Longitude": "-1.5312371"
+  },
+  "AddressLine1": "WALHAMPTON SCHOOL",
+  "AddressLine2": "MAIN ROAD",
+  "AddressLine3": "WALHAMPTON",
+  "AddressLine4": "LYMINGTON",
+  "PostCode": "SO41 5ZG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

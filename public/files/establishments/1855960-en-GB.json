@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.244805",
+    "Longitude": "-0.916095"
+  },
+  "AddressLine1": "24 Dallington Road",
+  "AddressLine2": "Dallington",
+  "AddressLine3": "Northampton",
+  "AddressLine4": "NN5 7BG",
+  "PostCode": "NN5 7BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

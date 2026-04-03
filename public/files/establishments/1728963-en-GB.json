@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "074",
   "LocalAuthorityName": "Mid Devon",
   "LocalAuthorityWebSite": "http://www.middevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@middevon.gov.uk",
   "Geocode": {
     "Latitude": "50.8879697",
@@ -19,12 +19,12 @@
   "AddressLine4": "Chulmleigh",
   "PostCode": "EX18 7ER",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

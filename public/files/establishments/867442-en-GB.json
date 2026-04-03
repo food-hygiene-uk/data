@@ -1,13 +1,13 @@
 {
   "FHRSID": 867442,
   "BusinessName": "Jaffa Bake House",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "2016/00085/COMB",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "513",
   "LocalAuthorityName": "Hammersmith and Fulham",
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
   "Geocode": {
     "Latitude": "51.483608",
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW6 1NP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-03",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-02-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

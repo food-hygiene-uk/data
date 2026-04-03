@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": {
     "Latitude": "52.598275",
@@ -18,12 +18,12 @@
   "AddressLine3": "West Midlands",
   "PostCode": "WV11 1XT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

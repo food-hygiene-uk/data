@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "New Quay Street  Teignmouth",
+  "Geocode": {
+    "Latitude": "50.5445445",
+    "Longitude": "-3.4985457"
+  },
+  "AddressLine1": "New Quay Inn Teignmouth",
   "PostCode": "TQ14 8DA",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

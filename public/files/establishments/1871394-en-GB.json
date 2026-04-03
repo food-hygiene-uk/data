@@ -1,6 +1,6 @@
 {
   "FHRSID": 1871394,
-  "BusinessName": "The Social Picnic \\& Hamilton's Events",
+  "BusinessName": "Hamilton's Events \\& The Social Picnic",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "25/00189/CP",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
