@@ -1,21 +1,27 @@
 {
-  "FHRSID": 918347,
-  "BusinessName": "Cafe 2 U North Down",
-  "BusinessType": "Mobile caterer",
-  "LocalAuthorityBusinessID": "235471",
-  "BusinessTypeID": 7846,
+  "FHRSID": 1931603,
+  "BusinessName": "Platito by Mangan",
+  "BusinessType": "Takeaway/sandwich shop",
+  "LocalAuthorityBusinessID": "276064",
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5976528",
+    "Longitude": "-5.9580037"
+  },
+  "AddressLine3": "105 Springfield Road",
+  "AddressLine4": "Belfast",
+  "PostCode": "BT12 7AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-07-01",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 0,
     "ConfidenceInManagement": 0
   }

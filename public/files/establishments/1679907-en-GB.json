@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "532",
   "LocalAuthorityName": "Wandsworth",
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.424806",
-    "Longitude": "-0.165507"
-  },
-  "AddressLine1": "Tooting United Reformed Church",
-  "AddressLine2": "Rookstone Road",
+  "Geocode": null,
+  "AddressLine1": "Tooting United Reformed Church Rookstone Road",
   "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW17 9NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-17",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-02-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 484195,
-  "BusinessName": "Millenium Food And Wine",
+  "BusinessName": "Millenium Food & Wine",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "42510/0119/2/000",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "522",
   "LocalAuthorityName": "Lambeth",
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
   "Geocode": {
     "Latitude": "51.49421",
@@ -17,12 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SE11 6SF",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-02-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-27",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

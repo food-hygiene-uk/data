@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "231",
   "LocalAuthorityName": "North Norfolk",
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
   "Geocode": {
     "Latitude": "52.942486",
@@ -18,12 +18,12 @@
   "AddressLine3": "Norfolk",
   "PostCode": "NR26 8RF",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-02-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-13",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
   }
 }
