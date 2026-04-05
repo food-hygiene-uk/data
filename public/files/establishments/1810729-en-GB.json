@@ -7,20 +7,16 @@
   "LocalAuthorityCode": "857",
   "LocalAuthorityName": "Bath and North East Somerset",
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3721496",
-    "Longitude": "-2.4018824"
-  },
-  "AddressLine1": "63 Haycombe Drive",
-  "AddressLine2": "Southdown",
-  "AddressLine3": "Bath",
-  "AddressLine4": "Bath And North East Somerset",
-  "PostCode": "BA2 1PG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
