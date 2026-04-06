@@ -1,8 +1,8 @@
 {
-  "FHRSID": 1900109,
-  "BusinessName": "Snack Attack / The Bay Cafe",
+  "FHRSID": 1931624,
+  "BusinessName": "DRINKS N THINGS LTD",
   "BusinessType": "Mobile caterer",
-  "LocalAuthorityBusinessID": "800099",
+  "LocalAuthorityBusinessID": "801109",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tudful",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
