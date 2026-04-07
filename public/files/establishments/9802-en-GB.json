@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "214",
   "LocalAuthorityName": "Melton",
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
   "Geocode": {
     "Latitude": "52.6843450000127",
@@ -18,12 +18,12 @@
   "AddressLine3": "Melton Mowbray",
   "PostCode": "LE14 4FF",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-26",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

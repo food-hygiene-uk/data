@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "120",
   "LocalAuthorityName": "Tendring",
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
   "Geocode": {
     "Latitude": "51.797941",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CO15 6DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

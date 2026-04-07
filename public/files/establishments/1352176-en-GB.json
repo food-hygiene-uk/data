@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "872",
   "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
     "Latitude": "50.717161",
@@ -17,12 +17,12 @@
   "AddressLine3": "Poole",
   "PostCode": "BH15 4HW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-28",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

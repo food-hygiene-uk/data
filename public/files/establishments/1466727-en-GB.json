@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "212",
   "LocalAuthorityName": "Hinckley and Bosworth",
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
   "Geocode": {
     "Latitude": "52.6865286",
@@ -18,12 +18,12 @@
   "AddressLine3": "Leicestershire",
   "PostCode": "LE67 9UT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-24",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": null,
   "AddressLine2": "West End Park",
@@ -15,12 +15,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS48 4BT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

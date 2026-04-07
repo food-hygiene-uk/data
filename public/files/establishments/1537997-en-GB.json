@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "pprotection@solihull.gov.uk",
   "Geocode": {
     "Latitude": "52.4704502",
@@ -18,12 +18,12 @@
   "AddressLine3": "Solihull",
   "PostCode": "B37 7RY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-02-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

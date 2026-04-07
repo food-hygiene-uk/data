@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "512",
   "LocalAuthorityName": "Hackney",
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
   "Geocode": {
     "Latitude": "51.55258",
@@ -18,12 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "E5 0LP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

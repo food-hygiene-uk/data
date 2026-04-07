@@ -1,13 +1,13 @@
 {
   "FHRSID": 214945,
-  "BusinessName": "After School Club Ltd",
+  "BusinessName": "Mary Swanwick After School Club Ltd",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000001734",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "064",
   "LocalAuthorityName": "Chesterfield",
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
   "Geocode": {
     "Latitude": "53.2721900939941",
@@ -18,12 +18,12 @@
   "AddressLine4": "Chesterfield",
   "PostCode": "S41 9QW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-27",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

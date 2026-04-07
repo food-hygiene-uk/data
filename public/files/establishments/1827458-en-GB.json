@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "524",
   "LocalAuthorityName": "Merton",
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
-    "Latitude": "51.399733",
-    "Longitude": "-0.196715"
+    "Latitude": "51.3993703",
+    "Longitude": "-0.1969495"
   },
-  "AddressLine1": "21 Morden Court Parade",
-  "AddressLine2": "London Road",
+  "AddressLine1": "21 Morden Court Parade London Road",
   "AddressLine3": "Morden",
+  "AddressLine4": "Merton",
   "PostCode": "SM4 5HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-08-28",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-02",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 20,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }
