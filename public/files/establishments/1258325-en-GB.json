@@ -10,20 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
   "Geocode": {
-    "Latitude": "52.739387512207",
-    "Longitude": "-2.10210704803467"
+    "Latitude": "52.7388733",
+    "Longitude": "-2.1039573"
   },
-  "AddressLine1": "Lower Drayton Lane",
-  "AddressLine2": "Penkridge",
-  "AddressLine3": "South Staffordshire",
+  "AddressLine1": "Lower Drayton Farm",
+  "AddressLine2": "Lower Drayton Lane",
+  "AddressLine3": "Penkridge",
+  "AddressLine4": "STAFFORD",
   "PostCode": "ST19 5RE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-22",
+  "RatingDate": "2026-03-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

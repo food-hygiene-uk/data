@@ -9,12 +9,17 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.1359755",
+    "Longitude": "-2.1141854"
+  },
   "AddressLine2": "HUSH Private Gym",
+  "AddressLine3": "226 Hardgate",
+  "AddressLine4": "Aberdeen",
   "PostCode": "AB10 6AA",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "1999-04-01",
+  "RatingValue": "Improvement Required",
+  "RatingKey": "fhis_improvement_required_en-GB",
+  "RatingDate": "2026-03-10",
   "Scores": null
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 95956,
-  "BusinessName": "Andy's Off Licence",
+  "BusinessName": "Grocers Off Licence",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "289",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
   "Geocode": {
     "Latitude": "53.488271",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-02-20",
+  "RatingDate": "2026-03-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 15,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 20
   }
 }

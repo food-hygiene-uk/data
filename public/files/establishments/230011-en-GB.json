@@ -1,6 +1,6 @@
 {
   "FHRSID": 230011,
-  "BusinessName": "Orian Solutions Ltd",
+  "BusinessName": "Black Combe Junior School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000028984",
   "BusinessTypeID": 7845,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@cumberland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Black Combe Junior School",
-  "AddressLine2": "Moor Road",
-  "AddressLine3": "Millom",
-  "AddressLine4": "Cumbria",
+  "Geocode": {
+    "Latitude": "54.208939",
+    "Longitude": "-3.277314"
+  },
+  "AddressLine1": "Moor Road",
+  "AddressLine2": "Millom",
+  "AddressLine3": "Cumbria",
   "PostCode": "LA18 5DT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

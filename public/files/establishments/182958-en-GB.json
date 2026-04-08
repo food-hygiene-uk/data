@@ -1,6 +1,6 @@
 {
   "FHRSID": 182958,
-  "BusinessName": "The Willows Childrens Home",
+  "BusinessName": "The Willows Community Home",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000084866",
   "BusinessTypeID": 5,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.538439",
-    "Longitude": "-2.758058"
-  },
-  "AddressLine1": "The Willows Community Home",
-  "AddressLine2": "354 Birleywood",
-  "AddressLine3": "Digmoor",
-  "AddressLine4": "Skelmersdale",
+  "Geocode": null,
+  "AddressLine1": "354 Birleywood",
+  "AddressLine2": "Digmoor",
+  "AddressLine3": "Skelmersdale",
+  "AddressLine4": "Lancashire",
   "PostCode": "WN8 9BL",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

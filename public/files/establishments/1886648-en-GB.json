@@ -1,9 +1,9 @@
 {
   "FHRSID": 1886648,
-  "BusinessName": "Old Royal Oak",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "The Old Royal Oak",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "Cx13802",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
@@ -14,8 +14,12 @@
   "AddressLine4": "Knaresborough",
   "PostCode": "HG5 8AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

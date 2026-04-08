@@ -1,13 +1,13 @@
 {
   "FHRSID": 1744097,
-  "BusinessName": "Ikkan Sushi & Ikkan Poke",
+  "BusinessName": "Ikkan Sushi",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "214182",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "530",
   "LocalAuthorityName": "Tower Hamlets",
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
   "Geocode": {
     "Latitude": "51.5332981",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "E2 9DT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-06",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-17",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

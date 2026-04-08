@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6125805",
-    "Longitude": "-3.0070087"
-  },
-  "AddressLine1": "14 Haldane Place",
-  "AddressLine2": "Newport",
-  "AddressLine3": "South Wales",
-  "PostCode": "NP20 6FG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

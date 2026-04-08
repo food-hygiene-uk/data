@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Marine Parade St Nicholas Cliff",
+  "Geocode": {
+    "Latitude": "54.280995",
+    "Longitude": "-0.3983009"
+  },
+  "AddressLine1": "1 - 2 Marine Parade St Nicholas Cliff",
   "AddressLine4": "Scarborough",
   "PostCode": "YO11 2ER",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tydfil",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": {
     "Latitude": "51.743423",
@@ -17,12 +17,12 @@
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF47 8DU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-03-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-03-03",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

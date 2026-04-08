@@ -1,9 +1,9 @@
 {
   "FHRSID": 1924535,
   "BusinessName": "Peninsula Biltong",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "FR/000007134",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

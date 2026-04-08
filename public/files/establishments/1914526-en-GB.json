@@ -1,6 +1,6 @@
 {
   "FHRSID": 1914526,
-  "BusinessName": "Puck",
+  "BusinessName": "Coffee and Paste",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "FR/202500184",
   "BusinessTypeID": 7846,
@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7592538",
+    "Longitude": "-0.3294363"
+  },
+  "AddressLine1": "54 Culver Road",
+  "AddressLine2": "St Albans",
+  "AddressLine3": "Hertfordshire",
+  "PostCode": "AL1 4ED",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

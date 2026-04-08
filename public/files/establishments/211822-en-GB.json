@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "897",
   "LocalAuthorityName": "Blackburn",
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
   "Geocode": {
     "Latitude": "53.7494199",
@@ -18,12 +18,12 @@
   "AddressLine4": "Blackburn With Darwen",
   "PostCode": "BB2 1HP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2022-05-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-03",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

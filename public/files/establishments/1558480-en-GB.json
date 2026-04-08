@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "112",
   "LocalAuthorityName": "Castle Point",
   "LocalAuthorityWebSite": "http://www.castlepoint.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@castlepoint.gov.uk",
   "Geocode": {
     "Latitude": "51.553661",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "SS7 5HA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

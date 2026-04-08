@@ -1,13 +1,13 @@
 {
   "FHRSID": 1908379,
-  "BusinessName": "Edithjames Catering @the Nags Head",
+  "BusinessName": "Edithjames Catering @The Nags Head",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/1962/CP",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "209",
   "LocalAuthorityName": "Blaby",
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
   "Geocode": {
     "Latitude": "52.6508224",
@@ -19,8 +19,12 @@
   "AddressLine4": "Leicester",
   "PostCode": "LE3 8BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,12 +7,24 @@
   "LocalAuthorityCode": "552",
   "LocalAuthorityName": "Blaenau Gwent",
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7004929",
+    "Longitude": "-3.1289705"
+  },
+  "AddressLine1": "Ridgemont Bungalow",
+  "AddressLine2": "Hyde Place",
+  "AddressLine3": "Llanhilleth",
+  "AddressLine4": "Abertillery",
+  "PostCode": "NP13 2RT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

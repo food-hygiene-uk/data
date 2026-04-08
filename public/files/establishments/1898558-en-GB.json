@@ -1,9 +1,9 @@
 {
   "FHRSID": 1898558,
   "BusinessName": "Yorkshire Mushroom Company",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "Cx17572",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "419",
   "LocalAuthorityName": "Rochdale",
   "LocalAuthorityWebSite": "http://www.rochdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health2@rochdale.gov.uk",
   "Geocode": {
     "Latitude": "53.6233789",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-02-25",
+  "RatingDate": "2026-03-10",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

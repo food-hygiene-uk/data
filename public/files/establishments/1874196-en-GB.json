@@ -1,9 +1,9 @@
 {
   "FHRSID": 1874196,
   "BusinessName": "Flour \\& Bean",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "25/00280/FD_HS",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "232",
   "LocalAuthorityName": "Norwich City",
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
@@ -17,8 +17,12 @@
   "AddressLine2": "Norwich",
   "PostCode": "NR4 7HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
