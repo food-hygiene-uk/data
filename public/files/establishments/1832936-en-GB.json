@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5125021",
+    "Longitude": "-2.1224422"
+  },
+  "AddressLine1": "11 Woodthorne Close",
+  "AddressLine2": "Lower Gornal",
+  "AddressLine3": "Dudley",
+  "PostCode": "DY3 2PL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

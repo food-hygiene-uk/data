@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "129",
   "LocalAuthorityName": "Tewkesbury",
   "LocalAuthorityWebSite": "http://www.tewkesbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehenquiries@tewkesbury.gov.uk",
   "Geocode": {
     "Latitude": "51.9949743",
@@ -18,12 +18,12 @@
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL20 5JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-31",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

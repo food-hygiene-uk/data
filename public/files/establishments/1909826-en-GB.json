@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "515",
   "LocalAuthorityName": "Harrow",
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
   "Geocode": {
     "Latitude": "51.6060805",
@@ -16,8 +16,12 @@
   "AddressLine1": "855 Honeypot Lane",
   "PostCode": "HA7 1AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

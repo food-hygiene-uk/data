@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "520",
   "LocalAuthorityName": "Kensington and Chelsea",
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
   "Geocode": {
     "Latitude": "51.5164833068848",
@@ -17,12 +17,12 @@
   "AddressLine2": "LONDON",
   "PostCode": "W11 1PY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-25",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,12 +7,22 @@
   "LocalAuthorityCode": "288",
   "LocalAuthorityName": "East Staffordshire",
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7974545",
+    "Longitude": "-1.6428495"
+  },
+  "AddressLine1": "240 Uxbridge Street",
+  "AddressLine2": "Burton upon Trent",
+  "PostCode": "DE14 3LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

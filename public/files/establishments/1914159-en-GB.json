@@ -1,9 +1,9 @@
 {
   "FHRSID": 1914159,
   "BusinessName": "Spudlickers mobile",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "D1VKTE-MHSLZ1-JH0RAJ",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

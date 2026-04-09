@@ -1,18 +1,30 @@
 {
   "FHRSID": 1918602,
   "BusinessName": "Flavour Bombs",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "95049",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7045253",
+    "Longitude": "-0.5265025"
+  },
+  "AddressLine1": "Unit 3 Hatton House",
+  "AddressLine2": "Flaunden Lane",
+  "AddressLine3": "Flaunden",
+  "AddressLine4": "Hemel Hempstead",
+  "PostCode": "HP3 0PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

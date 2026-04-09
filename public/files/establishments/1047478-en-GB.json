@@ -1,6 +1,6 @@
 {
   "FHRSID": 1047478,
-  "BusinessName": "Jackie Crampton",
+  "BusinessName": "Cake & That",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "209335",
   "BusinessTypeID": 7841,
@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7899949",
+    "Longitude": "-0.4285005"
+  },
+  "AddressLine1": "19 Badgers Wood",
+  "AddressLine2": "Cottingham",
+  "AddressLine3": "East Riding Of Yorkshire",
+  "PostCode": "HU16 5ST",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-31",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
