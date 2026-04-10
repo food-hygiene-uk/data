@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "894",
   "LocalAuthorityName": "Thurrock",
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
   "Geocode": {
     "Latitude": "51.4898567199707",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-10",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

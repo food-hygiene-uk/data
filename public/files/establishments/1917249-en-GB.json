@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "215",
   "LocalAuthorityName": "North West Leicestershire",
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
   "Geocode": {
     "Latitude": "52.7240068",
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicestershire",
   "PostCode": "LE67 3EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

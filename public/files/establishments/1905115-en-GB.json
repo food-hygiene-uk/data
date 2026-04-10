@@ -7,18 +7,22 @@
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": {
-    "Latitude": "53.8065754",
-    "Longitude": "-1.6369575"
+    "Latitude": "53.806576",
+    "Longitude": "-1.636422"
   },
-  "AddressLine1": "324 Stanningley Road",
+  "AddressLine1": "304 Stanningley Road",
   "AddressLine2": "Leeds",
   "PostCode": "LS13 3EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1882301,
-  "BusinessName": "Gardeners Arms",
+  "BusinessName": "The Gardeners Arms",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "321597",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.517122",
@@ -18,8 +18,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M46 0PG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

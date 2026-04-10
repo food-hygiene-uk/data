@@ -1,13 +1,13 @@
 {
   "FHRSID": 395093,
-  "BusinessName": "The Reading Room",
+  "BusinessName": "The Reading Room Coffee House",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/100016346",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.4125482",
@@ -18,12 +18,12 @@
   "AddressLine4": "Wirral",
   "PostCode": "CH44 9DL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

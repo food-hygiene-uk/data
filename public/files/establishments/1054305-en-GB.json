@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
   "Geocode": {
     "Latitude": "51.5838092",
@@ -18,12 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "E17 9HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

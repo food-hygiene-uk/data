@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
   "Geocode": {
     "Latitude": "52.4107159",
@@ -17,12 +17,12 @@
   "AddressLine4": "Coventry",
   "PostCode": "CV1 1JD",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-01-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }

@@ -7,18 +7,22 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
-    "Latitude": "51.3843154",
-    "Longitude": "-0.098077"
+    "Latitude": "51.3841743469238",
+    "Longitude": "-0.0981779992580414"
   },
-  "AddressLine1": "31 Whitehorse Road",
+  "AddressLine1": "27 Whitehorse Road",
   "AddressLine2": "Croydon",
   "PostCode": "CR0 2JH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

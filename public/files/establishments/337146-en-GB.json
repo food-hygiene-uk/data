@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "157",
   "LocalAuthorityName": "East Hertfordshire",
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
   "Geocode": {
     "Latitude": "51.814891",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hertfordshire",
   "PostCode": "CM21 9JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-18",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

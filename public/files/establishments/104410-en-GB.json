@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "313",
   "LocalAuthorityName": "Tandridge",
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fsa_enforcement@tandridge.gov.uk",
   "Geocode": {
     "Latitude": "51.2920476",
@@ -18,12 +18,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "CR3 6TA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-21",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

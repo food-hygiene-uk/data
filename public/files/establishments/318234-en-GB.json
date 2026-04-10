@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": {
     "Latitude": "51.6075611",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2016-01-06",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": {
     "Latitude": "53.645961",
@@ -17,12 +17,12 @@
   "AddressLine2": "Huddersfield",
   "PostCode": "HD1 2QD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-05-18",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

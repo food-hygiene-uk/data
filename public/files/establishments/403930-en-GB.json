@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "804",
   "LocalAuthorityName": "Mid and East Antrim",
   "LocalAuthorityWebSite": "http://www.midandeastantrim.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ballymena.envhealth@midandeastantrim.gov.uk",
   "Geocode": {
     "Latitude": "54.851038",
@@ -20,6 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-25",
-  "Scores": null
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

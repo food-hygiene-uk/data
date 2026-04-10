@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "269",
   "LocalAuthorityName": "Oxford City",
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
   "Geocode": {
     "Latitude": "51.776777",
@@ -18,12 +18,12 @@
   "AddressLine3": "Oxfordshire",
   "PostCode": "OX2 7HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-30",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

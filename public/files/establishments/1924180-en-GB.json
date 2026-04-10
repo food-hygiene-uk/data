@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "164",
   "LocalAuthorityName": "Welwyn Hatfield",
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
   "Geocode": {
     "Latitude": "51.7363129",
@@ -19,8 +19,12 @@
   "AddressLine4": "Hertford",
   "PostCode": "SG13 8QT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

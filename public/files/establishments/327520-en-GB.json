@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
-    "Latitude": "53.825815",
-    "Longitude": "-1.899272"
+    "Latitude": "53.8260611",
+    "Longitude": "-1.8990104"
   },
-  "AddressLine2": "36A Halifax Road",
+  "AddressLine2": "36a-36b Halifax Road",
   "AddressLine3": "Cullingworth",
   "AddressLine4": "Bingley",
   "PostCode": "BD13 5DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

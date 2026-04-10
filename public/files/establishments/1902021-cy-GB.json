@@ -1,6 +1,6 @@
 {
   "FHRSID": 1902021,
-  "BusinessName": "Creditsafe Business Solutions Limited - BaxterStorey",
+  "BusinessName": "Rays Bistro - BaxterStorey",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "800194",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Cardiff",
   "PostCode": "CF23 8AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-04-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

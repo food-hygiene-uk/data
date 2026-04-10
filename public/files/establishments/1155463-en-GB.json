@@ -1,13 +1,13 @@
 {
   "FHRSID": 1155463,
-  "BusinessName": "Lunch Box",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Nil Lebanese",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "7028",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
   "Geocode": {
     "Latitude": "51.4920861",
@@ -17,12 +17,8 @@
   "AddressLine3": "Chiswick",
   "PostCode": "W4 4AR",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-11-12",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

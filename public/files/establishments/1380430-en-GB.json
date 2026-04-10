@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "056",
   "LocalAuthorityName": "Westmorland and Furness",
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
   "Geocode": {
     "Latitude": "54.3785511",
@@ -17,12 +17,12 @@
   "AddressLine4": "Windermere",
   "PostCode": "LA23 1EA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-09-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

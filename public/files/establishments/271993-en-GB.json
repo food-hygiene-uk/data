@@ -1,13 +1,13 @@
 {
   "FHRSID": 271993,
-  "BusinessName": "'H' Cafe",
+  "BusinessName": "H Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "AD:26875",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
     "Latitude": "51.658336",
@@ -19,12 +19,12 @@
   "AddressLine4": "WALLINGFORD",
   "PostCode": "OX10 7LY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

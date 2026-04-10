@@ -1,13 +1,13 @@
 {
   "FHRSID": 493553,
-  "BusinessName": "Fresh Chaska",
+  "BusinessName": "Original Immys",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "53182",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
     "Latitude": "53.528139",
@@ -17,8 +17,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL4 5PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

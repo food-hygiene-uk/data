@@ -1,23 +1,27 @@
 {
   "FHRSID": 1921435,
-  "BusinessName": "Greek Me/Shawarma Co/Pita Guys/Chohee/Wow Tacos",
+  "BusinessName": "Greek Boys/Greek Me/Shawarma Co/Habibi/Hala H/Pita Guys",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00081/COMM",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6271802",
-    "Longitude": "-0.1747902"
+    "Latitude": "51.627076",
+    "Longitude": "-0.174928"
   },
-  "AddressLine1": "1156 High Road",
+  "AddressLine1": "1156 High Road London",
   "PostCode": "N20 0RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

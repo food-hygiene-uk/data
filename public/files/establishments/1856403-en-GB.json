@@ -1,13 +1,13 @@
 {
   "FHRSID": 1856403,
   "BusinessName": "MNM",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "25/00594/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
   "Geocode": {
     "Latitude": "51.5117874145508",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC3M 6BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-05",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

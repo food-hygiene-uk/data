@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "272",
   "LocalAuthorityName": "West Oxfordshire",
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
   "Geocode": {
     "Latitude": "51.940423",
@@ -19,12 +19,12 @@
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX7 5YF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

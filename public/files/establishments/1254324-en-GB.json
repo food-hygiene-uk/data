@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "287",
   "LocalAuthorityName": "Cannock Chase",
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
   "Geocode": {
     "Latitude": "52.7079597",
@@ -17,12 +17,12 @@
   "AddressLine4": "Hednesford",
   "PostCode": "WS12 1AY",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-12-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

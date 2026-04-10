@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "302",
   "LocalAuthorityName": "East Suffolk",
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.1899322",
@@ -19,12 +19,12 @@
   "AddressLine4": "Benhall",
   "PostCode": "IP17 1JX",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

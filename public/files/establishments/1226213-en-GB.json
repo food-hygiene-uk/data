@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "328",
   "LocalAuthorityName": "Mid Sussex",
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": {
     "Latitude": "51.1263474",
@@ -19,12 +19,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "RH19 1EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-02",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

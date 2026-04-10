@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "159",
   "LocalAuthorityName": "North Hertfordshire",
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
   "Geocode": {
     "Latitude": "51.9504042",
@@ -18,12 +18,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG5 1NB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

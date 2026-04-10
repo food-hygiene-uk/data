@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
   "Geocode": {
     "Latitude": "51.4925532",
@@ -18,12 +18,12 @@
   "AddressLine3": "Brentford",
   "PostCode": "TW8 9JU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-01-31",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

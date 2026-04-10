@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919604,
-  "BusinessName": "Nwanyinnewi Nigerian Home Kitchen Limited",
+  "BusinessName": "Nwanyinnewi Nigerian Home Kitchen",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00132/COMM",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
