@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Silver Oak The Bagel Bar",
-  "AddressLine2": "4 Buttermarket",
-  "AddressLine3": "Ely",
-  "AddressLine4": "Cambridgeshire",
+  "Geocode": {
+    "Latitude": "52.399223",
+    "Longitude": "0.265871"
+  },
+  "AddressLine1": "4 Buttermarket",
+  "AddressLine2": "Ely",
+  "AddressLine3": "Cambridgeshire",
   "PostCode": "CB7 4NY",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

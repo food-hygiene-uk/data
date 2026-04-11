@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8889604",
+    "Longitude": "-0.4398651"
+  },
+  "AddressLine2": "329a Dunstable Road",
+  "AddressLine4": "Luton",
+  "PostCode": "LU4 8BU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

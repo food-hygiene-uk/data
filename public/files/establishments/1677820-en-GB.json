@@ -1,13 +1,13 @@
 {
   "FHRSID": 1677820,
   "BusinessName": "Dave Hodgson (butcher)",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/000000199",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": {
     "Latitude": "54.9805358",
@@ -19,12 +19,12 @@
   "AddressLine4": "Tyne & Wear",
   "PostCode": "NE32 3LN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-03-12",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-06",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

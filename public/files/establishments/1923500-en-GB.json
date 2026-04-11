@@ -7,12 +7,24 @@
   "LocalAuthorityCode": "128",
   "LocalAuthorityName": "Stroud",
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.785829",
+    "Longitude": "-2.195615"
+  },
+  "AddressLine1": "Falcon Hotel",
+  "AddressLine2": "New Street",
+  "AddressLine3": "Painswick",
+  "AddressLine4": "Stroud",
+  "PostCode": "GL6 6UN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

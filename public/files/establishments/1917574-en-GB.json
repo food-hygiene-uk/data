@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.n-kesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTeam@n-kesteven.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1684277",
+    "Longitude": "-0.5383304"
+  },
+  "AddressLine1": "Unit N3 Quarry Industrial Estate",
+  "AddressLine2": "Grantham Road",
+  "AddressLine4": "Waddington",
+  "PostCode": "LN5 9NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

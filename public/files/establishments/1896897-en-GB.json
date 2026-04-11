@@ -7,12 +7,22 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5219785",
+    "Longitude": "-2.0020875"
+  },
+  "AddressLine1": "49 Creed Way",
+  "AddressLine4": "West Bromwich",
+  "PostCode": "B70 9JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

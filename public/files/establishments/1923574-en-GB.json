@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "223",
   "LocalAuthorityName": "South Holland",
   "LocalAuthorityWebSite": "http://www.sholland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhs@sholland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Sutton St. James",
   "AddressLine3": "Spalding",
   "PostCode": "PE12 0EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

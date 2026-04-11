@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sea Park  Hopeman  Elgin  Moray",
+  "Geocode": {
+    "Latitude": "57.7100426",
+    "Longitude": "-3.4347579"
+  },
+  "AddressLine1": "The Boatyard  Sea Park  Hopeman  Elgin  Moray",
   "PostCode": "IV30 5RY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

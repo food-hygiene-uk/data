@@ -1,6 +1,6 @@
 {
   "FHRSID": 1921840,
-  "BusinessName": "Sweets 'n Naf",
+  "BusinessName": "Sweets 'n' Naf",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00040/FOOD",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@darlington.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

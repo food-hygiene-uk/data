@@ -1,9 +1,9 @@
 {
   "FHRSID": 1914205,
   "BusinessName": "Afri-Natural Foods And Chocolate UK Ltd",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Importers/Exporters",
   "LocalAuthorityBusinessID": "26/00026/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 14,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

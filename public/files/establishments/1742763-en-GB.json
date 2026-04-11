@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "515",
   "LocalAuthorityName": "Harrow",
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
   "Geocode": {
     "Latitude": "51.611424",
@@ -17,12 +17,12 @@
   "AddressLine2": "Edgware",
   "PostCode": "HA8 7DB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-17",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
