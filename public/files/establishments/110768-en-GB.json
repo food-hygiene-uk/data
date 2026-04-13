@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "54.081278",
@@ -18,12 +18,12 @@
   "AddressLine3": "East Riding Of Yorkshire",
   "PostCode": "YO15 2NS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-12",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

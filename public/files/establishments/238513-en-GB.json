@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "224",
   "LocalAuthorityName": "South Kesteven",
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
   "Geocode": {
     "Latitude": "52.676551",
@@ -18,12 +18,12 @@
   "AddressLine4": "Lincolnshire",
   "PostCode": "PE6 8AN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
