@@ -19,8 +19,12 @@
   "AddressLine4": "Harlow",
   "PostCode": "CM20 1FS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

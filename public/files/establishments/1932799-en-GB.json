@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "880",
   "LocalAuthorityName": "Stoke-On-Trent",
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
   "Geocode": {
     "Latitude": "52.9841748",
@@ -17,8 +17,12 @@
   "AddressLine3": "Stoke-On-Trent",
   "PostCode": "ST3 1QN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

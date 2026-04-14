@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.1316533",
@@ -18,8 +18,12 @@
   "AddressLine3": "Towcester",
   "PostCode": "NN12 6BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

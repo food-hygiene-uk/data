@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "803",
   "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
   "Geocode": null,
   "AddressLine1": "Lurgan",
   "AddressLine3": "Craigavon",
   "PostCode": "BT66 6DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

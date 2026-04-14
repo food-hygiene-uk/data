@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4316668",
-    "Longitude": "-0.0005695"
-  },
-  "AddressLine1": "250 Whitefoot Lane",
-  "AddressLine2": "Bromley",
-  "PostCode": "BR1 5SQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-01-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

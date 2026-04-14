@@ -1,6 +1,6 @@
 {
   "FHRSID": 1880976,
-  "BusinessName": "Nacho cheesy",
+  "BusinessName": "Foot Long Fries and Nachos",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "7069",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

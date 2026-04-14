@@ -1,13 +1,13 @@
 {
   "FHRSID": 272087,
-  "BusinessName": "Asda Stores Ltd",
+  "BusinessName": "Asda Stores",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "AD:33774",
   "BusinessTypeID": 7840,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
     "Latitude": "51.74134",
@@ -18,12 +18,12 @@
   "AddressLine4": "OXFORD",
   "PostCode": "OX33 1YZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

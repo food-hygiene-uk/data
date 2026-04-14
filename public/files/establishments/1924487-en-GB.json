@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
-    "Latitude": "51.813413",
-    "Longitude": "-0.824072"
+    "Latitude": "51.7985196",
+    "Longitude": "-0.8153389"
   },
-  "AddressLine1": "Sir Henry Floyd Grammar School",
-  "AddressLine2": "Oxford Road",
-  "AddressLine3": "Aylesbury",
-  "AddressLine4": "Buckinghamshire",
-  "PostCode": "HP21 8PE",
+  "AddressLine1": "Kitchens at",
+  "AddressLine2": "The Mandeville School Specialist Sports College",
+  "AddressLine3": "Ellen Road",
+  "AddressLine4": "Aylesbury",
+  "PostCode": "HP21 8ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

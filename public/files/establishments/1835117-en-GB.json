@@ -1,9 +1,9 @@
 {
   "FHRSID": 1835117,
   "BusinessName": "Evolve Fitness",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "25/00371/COMM",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC3A 7DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

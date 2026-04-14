@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "078",
   "LocalAuthorityName": "Teignbridge",
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
   "Geocode": {
     "Latitude": "50.529672",
@@ -16,12 +16,12 @@
   "AddressLine1": "2 Wolborough Street Newton Abbot Devon",
   "PostCode": "TQ12 1JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

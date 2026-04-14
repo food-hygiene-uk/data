@@ -1,6 +1,6 @@
 {
   "FHRSID": 554590,
-  "BusinessName": "Poppys Cafe",
+  "BusinessName": "Poppy's",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000201778",
   "BusinessTypeID": 1,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Poppy's",
-  "AddressLine2": "309 High Street",
-  "AddressLine3": "Epping",
-  "AddressLine4": "Essex",
+  "Geocode": {
+    "Latitude": "51.6932563781738",
+    "Longitude": "0.098642997443676"
+  },
+  "AddressLine1": "309 High Street",
+  "AddressLine2": "Epping",
+  "AddressLine3": "Essex",
   "PostCode": "CM16 4DE",
   "SchemeType": "FHRS",
   "RatingValue": "5",

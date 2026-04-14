@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.363563",
     "Longitude": "1.0441943"
@@ -16,12 +16,8 @@
   "AddressLine2": "Whitstable",
   "PostCode": "CT5 2AN",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-23",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": null
 }

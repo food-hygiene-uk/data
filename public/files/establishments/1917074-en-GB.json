@@ -1,13 +1,13 @@
 {
   "FHRSID": 1917074,
-  "BusinessName": "Hide Out Café",
+  "BusinessName": "Hide Out Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "67350",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
     "Latitude": "52.5803533",
@@ -15,11 +15,15 @@
   },
   "AddressLine2": "38 Almond Road",
   "AddressLine3": "Gorleston",
-  "AddressLine4": "Great Yarmouth Norfolk",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR31 8AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

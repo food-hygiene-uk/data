@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B6 5HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2025-11-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

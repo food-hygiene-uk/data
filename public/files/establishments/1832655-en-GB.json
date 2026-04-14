@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6340975",
+    "Longitude": "1.2439331"
+  },
+  "AddressLine1": "74 Earlham Green Lane",
+  "AddressLine2": "Norwich",
+  "PostCode": "NR5 8HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "403",
   "LocalAuthorityName": "Bolton",
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
   "Geocode": {
     "Latitude": "53.5842165",
@@ -18,8 +18,12 @@
   "AddressLine3": "Bolton",
   "PostCode": "BL1 3AS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
+  }
 }

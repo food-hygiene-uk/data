@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
   "Geocode": {
     "Latitude": "52.9112930297852",
@@ -18,8 +18,12 @@
   "AddressLine3": "Derby",
   "PostCode": "DE23 6RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

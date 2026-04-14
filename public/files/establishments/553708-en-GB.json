@@ -1,9 +1,9 @@
 {
   "FHRSID": 553708,
-  "BusinessName": "Clark Baker",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessName": "North Weald Par 3",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000096199",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
@@ -16,8 +16,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM16 6BH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

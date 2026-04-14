@@ -1,9 +1,9 @@
 {
   "FHRSID": 554502,
   "BusinessName": "Ongar Youth Centre",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000201546",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CM5 0GA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-04-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

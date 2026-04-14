@@ -1,26 +1,29 @@
 {
   "FHRSID": 589447,
-  "BusinessName": "Buckhurst Hill Community Association",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessName": "Bedford House Community Association",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000200659",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.627848",
-    "Longitude": "0.0383725"
+    "Latitude": "51.627791",
+    "Longitude": "0.038981"
   },
-  "AddressLine1": "Bedford House Community Association",
-  "AddressLine2": "4 Westbury Road",
-  "AddressLine3": "Buckhurst Hill",
-  "AddressLine4": "Essex",
+  "AddressLine1": "4 Westbury Road",
+  "AddressLine2": "Buckhurst Hill",
+  "AddressLine3": "Essex",
   "PostCode": "IG9 5NW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-04-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

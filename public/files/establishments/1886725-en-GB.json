@@ -9,13 +9,20 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.2725695",
+    "Longitude": "-0.9348835"
+  },
+  "AddressLine1": "Unit 5 Manor Vale Lane",
+  "AddressLine2": "Kirkbymoorside",
+  "AddressLine4": "York",
+  "PostCode": "YO62 6EG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-20",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 0,
     "ConfidenceInManagement": 0
   }

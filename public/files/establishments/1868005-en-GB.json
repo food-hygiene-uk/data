@@ -1,13 +1,13 @@
 {
   "FHRSID": 1868005,
-  "BusinessName": "Shrinath cash & Carry",
+  "BusinessName": "Shrinath cash & Carry Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "206569",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5452194",
@@ -18,8 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "NW3 5EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
