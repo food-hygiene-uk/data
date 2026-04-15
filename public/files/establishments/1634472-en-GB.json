@@ -1,9 +1,9 @@
 {
   "FHRSID": 1634472,
   "BusinessName": "Elite Youth Sports / Elite Camps Abingdon",
-  "BusinessType": "Hospitals/Childcare/Caring Premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "EH:05602",
-  "BusinessTypeID": 5,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine3": "ABINGDON",
   "PostCode": "OX14 1RF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

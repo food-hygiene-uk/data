@@ -7,12 +7,24 @@
   "LocalAuthorityCode": "152",
   "LocalAuthorityName": "Wychavon",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1197622",
+    "Longitude": "-2.0320343"
+  },
+  "AddressLine1": "The Springs",
+  "AddressLine2": "Salters Lane",
+  "AddressLine3": "Lower Moor",
+  "AddressLine4": "Fladbury",
+  "PostCode": "WR10 2PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

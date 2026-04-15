@@ -1,6 +1,6 @@
 {
   "FHRSID": 301363,
-  "BusinessName": "The Museum Inn",
+  "BusinessName": "The Museum Inn Ltd",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "66691",
   "BusinessTypeID": 7843,
@@ -8,7 +8,7 @@
   "LocalAuthorityName": "Cumberland",
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "environmental.health@cumberland.gov.uk",
+  "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
   "Geocode": {
     "Latitude": "54.895941",
     "Longitude": "-2.9809793"
@@ -17,12 +17,8 @@
   "AddressLine3": "Carlisle",
   "PostCode": "CA2 7QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-18",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

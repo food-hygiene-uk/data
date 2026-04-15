@@ -8,7 +8,7 @@
   "LocalAuthorityName": "Cumberland",
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "environmental.health@cumberland.gov.uk",
+  "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
   "Geocode": {
     "Latitude": "54.9895858764648",
     "Longitude": "-2.57848310470581"
@@ -17,8 +17,12 @@
   "AddressLine3": "Gilsland",
   "PostCode": "CA8 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

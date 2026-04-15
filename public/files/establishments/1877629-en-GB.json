@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.507037",
-    "Longitude": "-2.630304"
-  },
-  "AddressLine1": "Woodstock Special School",
+  "Geocode": null,
+  "AddressLine1": "North Star 82",
   "AddressLine2": "Rectory Gardens",
   "AddressLine3": "Henbury",
   "AddressLine4": "Bristol",
   "PostCode": "BS10 7AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1908940,
-  "BusinessName": "St Wilfrid's Church Grappenhall",
+  "BusinessName": "The Beacon at St Wilfrid's Church",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "132274",
   "BusinessTypeID": 1,
@@ -13,8 +13,12 @@
   "AddressLine2": "Church Lane",
   "PostCode": "WA4 3EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4993364",
-    "Longitude": "-2.6105377"
-  },
-  "AddressLine1": "Lloyds Pharmacy Greenway Community Practice",
+  "Geocode": null,
+  "AddressLine1": "Greenway Community Practice",
   "AddressLine2": "Greystoke Avenue",
   "AddressLine3": "Southmead",
   "AddressLine4": "Bristol",
   "PostCode": "BS10 6AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

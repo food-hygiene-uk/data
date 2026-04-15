@@ -7,21 +7,19 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9491199",
-    "Longitude": "-2.0183735"
-  },
+  "Geocode": null,
   "AddressLine1": "Craven Nursery Park Snaygill Industrial Estate",
   "AddressLine4": "Skipton",
+  "PostCode": "BD23 9EJ",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-25",
+  "RatingDate": "2026-03-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

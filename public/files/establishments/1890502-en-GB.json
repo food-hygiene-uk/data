@@ -1,6 +1,6 @@
 {
   "FHRSID": 1890502,
-  "BusinessName": "Cabot Learning Federation",
+  "BusinessName": "Cabot Learning Federation, Begbook Primary Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "265370",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS16 1HG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

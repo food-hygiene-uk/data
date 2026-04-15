@@ -1,6 +1,6 @@
 {
   "FHRSID": 271839,
-  "BusinessName": "3 Tails Ltd at The Butchers Arms",
+  "BusinessName": "The Butchers Arms",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "AD:18168",
   "BusinessTypeID": 7843,
@@ -18,8 +18,12 @@
   "AddressLine4": "READING",
   "PostCode": "RG4 5RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

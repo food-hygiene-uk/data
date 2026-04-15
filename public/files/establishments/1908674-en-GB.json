@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.872481",
-    "Longitude": "-2.3937719"
-  },
-  "AddressLine1": "Cabin 37 Clitheroe Market",
-  "AddressLine2": "New Market Street",
-  "AddressLine3": "Clitheroe",
-  "AddressLine4": "Lancashire",
-  "PostCode": "BB7 2JW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "105",
   "LocalAuthorityName": "Lewes",
   "LocalAuthorityWebSite": "http://www.lewes-eastbourne.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth.ldc@lewes-eastbourne.gov.uk",
   "Geocode": {
     "Latitude": "50.8740082",
@@ -17,8 +17,12 @@
   "AddressLine3": "Lewes",
   "PostCode": "BN7 2DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

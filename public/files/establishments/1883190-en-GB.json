@@ -1,13 +1,13 @@
 {
   "FHRSID": 1883190,
   "BusinessName": "MR MOSS",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "137148",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "701",
   "LocalAuthorityName": "Bedford",
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
     "Latitude": "52.1392097473145",
@@ -16,8 +16,12 @@
   "AddressLine3": "Kempston",
   "AddressLine4": "Bedford",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

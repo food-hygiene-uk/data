@@ -1,6 +1,6 @@
 {
   "FHRSID": 1904765,
-  "BusinessName": "Westbrook Library Friends CIC",
+  "BusinessName": "Westbrook Library and Comminty Centre",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "132253",
   "BusinessTypeID": 4613,
@@ -9,16 +9,16 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4083886",
-    "Longitude": "-2.6315646"
-  },
-  "AddressLine1": "Westbrook Library",
+  "Geocode": null,
   "AddressLine2": "401 Westbrook Centre",
   "PostCode": "WA5 8UG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

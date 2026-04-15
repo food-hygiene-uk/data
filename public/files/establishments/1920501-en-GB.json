@@ -1,6 +1,6 @@
 {
   "FHRSID": 1920501,
-  "BusinessName": "The Coop",
+  "BusinessName": "The COOP",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "26/00045/FOOD",
   "BusinessTypeID": 7840,
@@ -18,8 +18,12 @@
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL53 9ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
