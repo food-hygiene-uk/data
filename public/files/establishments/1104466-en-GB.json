@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.366377",
-    "Longitude": "-0.179106"
-  },
+  "Geocode": null,
   "AddressLine1": "114 Westmead Road",
   "AddressLine2": "Sutton",
   "PostCode": "SM1 4JE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-15",
-  "Scores": null
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

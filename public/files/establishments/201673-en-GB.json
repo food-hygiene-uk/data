@@ -7,23 +7,21 @@
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.576945",
-    "Longitude": "-2.007172"
-  },
+  "Geocode": null,
   "AddressLine1": "Reservoir Place",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
+  "AddressLine4": "WS2 9RX",
   "PostCode": "WS2 9RX",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2018-02-09",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

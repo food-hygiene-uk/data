@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9214982",
-    "Longitude": "-1.4828532"
-  },
+  "Geocode": null,
   "AddressLine2": "17 Abbey Street",
   "AddressLine3": "Derby",
   "PostCode": "DE22 3SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

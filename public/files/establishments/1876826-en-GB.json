@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "55.0205904",
-    "Longitude": "-1.5368128"
-  },
+  "Geocode": null,
   "AddressLine1": "Panko Streetfood",
   "AddressLine2": "Asda Superstore",
   "AddressLine3": "Whitley Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-04",
+  "RatingDate": "2026-04-15",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

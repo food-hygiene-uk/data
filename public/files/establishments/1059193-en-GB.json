@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5222158",
-    "Longitude": "-0.1140022"
-  },
+  "Geocode": null,
   "AddressLine2": "57 Gray's Inn Road",
   "AddressLine4": "London",
   "PostCode": "WC1X 8PP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-01-27",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3041494",
-    "Longitude": "-1.1270039"
-  },
+  "Geocode": null,
   "AddressLine1": "44 Newcastle Avenue",
   "AddressLine2": "Worksop",
   "AddressLine3": "Nottinghamshire",
   "PostCode": "S80 1ET",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

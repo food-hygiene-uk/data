@@ -7,20 +7,21 @@
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5349969",
-    "Longitude": "0.7919154"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Vanguard Way",
   "AddressLine2": "Shoeburyness",
   "AddressLine3": "Southend-on-sea",
   "AddressLine4": "Essex",
   "PostCode": "SS3 9QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

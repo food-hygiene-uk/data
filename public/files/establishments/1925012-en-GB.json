@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wokingham.gov.uk/welcome/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@wokingham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4057551",
+    "Longitude": "-0.9523788"
+  },
+  "AddressLine2": "35 Bolton Drive",
+  "AddressLine3": "Shinfield",
+  "AddressLine4": "Reading",
+  "PostCode": "RG2 9RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

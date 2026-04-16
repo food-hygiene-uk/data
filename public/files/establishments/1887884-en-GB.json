@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9799176",
-    "Longitude": "-0.2286994"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Station Parade",
   "AddressLine3": "Letchworth Garden City",
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG6 3AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

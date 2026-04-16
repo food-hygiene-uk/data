@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "416",
   "LocalAuthorityName": "Newcastle Upon Tyne",
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": {
-    "Latitude": "54.9690841",
-    "Longitude": "-1.6419659"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Mill Lane",
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE4 6TD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-28",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

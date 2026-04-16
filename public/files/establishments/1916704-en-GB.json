@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "116",
   "LocalAuthorityName": "Harlow",
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.770653",
-    "Longitude": "0.094796"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Terminus Street",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",
   "PostCode": "CM20 1ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

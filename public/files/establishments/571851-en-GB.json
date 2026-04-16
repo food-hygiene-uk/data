@@ -7,21 +7,24 @@
   "LocalAuthorityCode": "290",
   "LocalAuthorityName": "Newcastle-Under-Lyme",
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
   "Geocode": {
-    "Latitude": "53.007905",
-    "Longitude": "-2.324936"
+    "Latitude": "53.0079909",
+    "Longitude": "-2.3260467"
   },
-  "AddressLine2": "KEELE ROAD MADELEY HEATH NR CREWE",
+  "AddressLine1": "The Old Swan",
+  "AddressLine2": "Swan Bank",
+  "AddressLine3": "Madeley Heath",
+  "AddressLine4": "Newcastle Under Lyme",
   "PostCode": "CW3 9LD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

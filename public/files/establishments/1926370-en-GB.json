@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": {
-    "Latitude": "53.25489",
-    "Longitude": "-0.9250277"
-  },
+  "Geocode": null,
   "AddressLine1": "Starbucks",
   "AddressLine2": "Great North Road",
   "AddressLine3": "Markham Moor",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "DN22 0QU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

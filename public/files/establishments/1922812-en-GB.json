@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7408291",
-    "Longitude": "0.6888581"
-  },
+  "Geocode": null,
   "AddressLine1": "Bentalls Complex",
   "AddressLine2": "Colchester Road",
   "AddressLine3": "Heybridge",
   "AddressLine4": "Essex",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-12-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

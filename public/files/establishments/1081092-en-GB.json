@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "859",
   "LocalAuthorityName": "Hartlepool",
   "LocalAuthorityWebSite": "http://www.hartlepool.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "jane.kett@hartlepool.gov.uk",
-  "Geocode": {
-    "Latitude": "54.6858100891113",
-    "Longitude": "-1.21696901321411"
-  },
+  "Geocode": null,
   "AddressLine2": "91a York Road",
   "AddressLine3": "Hartlepool",
   "PostCode": "TS26 8AD",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

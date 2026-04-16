@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "085",
   "LocalAuthorityName": "Dorset",
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
     "Latitude": "50.6078910827637",
@@ -18,12 +18,12 @@
   "AddressLine4": "Dorset",
   "PostCode": "BH19 2LY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-20",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

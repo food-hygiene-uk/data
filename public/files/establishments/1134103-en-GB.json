@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "264",
   "LocalAuthorityName": "Newark and Sherwood",
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
   "Geocode": null,
   "AddressLine1": "High Street",
@@ -15,12 +15,12 @@
   "AddressLine3": "Newark On Trent",
   "PostCode": "NG23 7LB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

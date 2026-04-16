@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "528",
   "LocalAuthorityName": "Southwark",
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4588890075684",
-    "Longitude": "-0.0779730007052422"
-  },
+  "Geocode": null,
   "AddressLine1": "Dulwich Grove United Reformed",
   "AddressLine3": "East Dulwich Grove",
   "AddressLine4": "London",
   "PostCode": "SE22 8RH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

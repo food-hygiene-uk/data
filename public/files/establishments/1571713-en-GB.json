@@ -1,24 +1,26 @@
 {
   "FHRSID": 1571713,
-  "BusinessName": "Cafe Fleur",
+  "BusinessName": "Cafe Tamra",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000431223",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "532",
   "LocalAuthorityName": "Wandsworth",
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4557714",
-    "Longitude": "-0.1889143"
-  },
+  "Geocode": null,
   "AddressLine1": "198 St Anns Hill",
-  "AddressLine2": "London",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW18 2RT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-01",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

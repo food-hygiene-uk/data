@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "198",
   "LocalAuthorityName": "Fylde",
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
   "Geocode": {
     "Latitude": "53.7525247",
@@ -18,12 +18,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "PR4 1XQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-02",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

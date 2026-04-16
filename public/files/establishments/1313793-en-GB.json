@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.530004",
-    "Longitude": "0.021878"
-  },
+  "Geocode": null,
   "AddressLine1": "92 High Street",
   "AddressLine2": "Plaistow",
   "AddressLine3": "London",
   "PostCode": "E13 0AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 10,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 30
   }
 }

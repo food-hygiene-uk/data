@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "027",
   "LocalAuthorityName": "Cambridge City",
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2038844",
-    "Longitude": "0.1184962"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Free School Lane",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB2 3QA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

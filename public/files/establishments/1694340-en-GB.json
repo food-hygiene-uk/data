@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.oadby-wigston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@oadby-wigston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5994364",
-    "Longitude": "-1.0628002"
-  },
+  "Geocode": null,
   "AddressLine1": "Oadby Express",
   "AddressLine2": "Tesco Express (4636)",
   "AddressLine3": "167 Uplands Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-05",
+  "RatingDate": "2026-03-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

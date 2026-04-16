@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "067",
   "LocalAuthorityName": "High Peak",
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.362699",
-    "Longitude": "-2.0023965"
-  },
+  "Geocode": null,
   "AddressLine1": "50 Albion Road",
   "AddressLine2": "New Mills",
   "AddressLine3": "Derbyshire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-18",
-  "Scores": null
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

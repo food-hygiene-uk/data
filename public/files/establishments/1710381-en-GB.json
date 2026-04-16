@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4686124",
-    "Longitude": "1.7452738"
-  },
+  "Geocode": null,
   "AddressLine1": "147 London Road South",
   "AddressLine2": "Lowestoft",
   "AddressLine3": "Suffolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingDate": "2026-04-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

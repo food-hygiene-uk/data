@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "027",
   "LocalAuthorityName": "Cambridge City",
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1994478",
-    "Longitude": "0.1269867"
-  },
+  "Geocode": null,
   "AddressLine1": "110 Regent Street",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB2 1DP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

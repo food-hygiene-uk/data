@@ -7,19 +7,20 @@
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": {
-    "Latitude": "54.5966523",
-    "Longitude": "-5.8743525"
-  },
+  "Geocode": null,
   "AddressLine1": "Strandtown Primary School",
   "AddressLine3": "177 North Road",
   "AddressLine4": "Belfast",
   "PostCode": "BT4 3DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

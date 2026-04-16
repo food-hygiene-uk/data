@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "136",
   "LocalAuthorityName": "Hart",
   "LocalAuthorityWebSite": "https://www.hart.gov.uk/environment/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@hart.gov.uk",
   "Geocode": {
     "Latitude": "51.277861",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hampshire",
   "PostCode": "GU52 7QL",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-06-26",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

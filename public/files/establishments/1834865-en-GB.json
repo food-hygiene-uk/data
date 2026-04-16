@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9145028",
-    "Longitude": "-1.4767602"
-  },
+  "Geocode": null,
   "AddressLine1": "Premises",
   "AddressLine2": "123 Normanton Road",
   "AddressLine3": "Derby",
@@ -20,9 +17,9 @@
   "SchemeType": "FHRS",
   "RatingValue": "0",
   "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-09-16",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 25,
+    "Hygiene": 20,
     "Structural": 20,
     "ConfidenceInManagement": 30
   }

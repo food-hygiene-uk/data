@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "080",
   "LocalAuthorityName": "Torridge",
   "LocalAuthorityWebSite": "http://www.torridge.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@torridge.gov.uk",
   "Geocode": {
     "Latitude": "50.951389",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-30",
+  "RatingDate": "2026-03-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

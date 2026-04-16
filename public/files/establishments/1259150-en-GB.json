@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "067",
   "LocalAuthorityName": "High Peak",
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3432540893555",
-    "Longitude": "-1.77593994140625"
-  },
+  "Geocode": null,
   "AddressLine1": "Cross Street",
   "AddressLine2": "Castleton",
   "AddressLine3": "Derbyshire",
   "PostCode": "S33 8WH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

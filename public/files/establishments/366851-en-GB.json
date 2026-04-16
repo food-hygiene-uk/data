@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "1",
+  "Geocode": {
+    "Latitude": "53.488162",
+    "Longitude": "-1.253644"
+  },
+  "AddressLine1": "1 Grange Way",
   "AddressLine2": "Denaby Main",
   "AddressLine3": "Doncaster",
   "PostCode": "DN12 4DA",

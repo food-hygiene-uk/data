@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.218583",
-    "Longitude": "1.344923"
-  },
+  "Geocode": null,
   "AddressLine1": "The Westbury Centre",
   "AddressLine2": "Fairfield Road",
   "AddressLine3": "Framlingham",
   "AddressLine4": "Woodbridge",
   "PostCode": "IP13 9LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

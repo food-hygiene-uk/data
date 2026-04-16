@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.gedling.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthhousinghandover@gedling.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9644",
-    "Longitude": "-1.078401"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1",
   "AddressLine2": "Victoria Road",
   "AddressLine3": "Netherfield",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG4 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
