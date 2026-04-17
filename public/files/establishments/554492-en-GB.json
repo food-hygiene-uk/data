@@ -1,9 +1,9 @@
 {
   "FHRSID": 554492,
   "BusinessName": "The Red School",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000201531",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
@@ -19,8 +19,12 @@
   "AddressLine4": "Epping",
   "PostCode": "CM16 6EY",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-09-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

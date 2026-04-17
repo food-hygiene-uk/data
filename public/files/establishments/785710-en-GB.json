@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.529158",
+    "Longitude": "-0.132077"
+  },
   "AddressLine2": "40 Doric Way",
   "PostCode": "NW1 1LH",
   "SchemeType": "FHRS",

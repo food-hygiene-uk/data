@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8937665",
+    "Longitude": "-0.200309"
+  },
   "AddressLine1": "Currys Unit 10",
   "AddressLine2": "Roaring Meg Retail Park",
   "AddressLine3": "London Road",

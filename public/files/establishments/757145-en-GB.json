@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.615251",
+    "Longitude": "-0.276049"
+  },
   "AddressLine1": "189 Station Road Edgware",
   "PostCode": "HA8 7JX",
   "SchemeType": "FHRS",

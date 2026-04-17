@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.585409",
+    "Longitude": "-0.200184"
+  },
   "AddressLine1": "Hallswelle Parade  Finchley Road London",
   "PostCode": "NW11 0DL",
   "SchemeType": "FHRS",

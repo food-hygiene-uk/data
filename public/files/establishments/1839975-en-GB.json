@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1290392",
+    "Longitude": "-1.2553628"
+  },
   "AddressLine2": "116 Outram Street",
   "PostCode": "NG17 4FT",
   "SchemeType": "FHRS",

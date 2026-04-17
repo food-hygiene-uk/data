@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.582623",
+    "Longitude": "-0.23049"
+  },
   "AddressLine1": "58 Vivian Avenue London",
   "PostCode": "NW4 3XH",
   "SchemeType": "FHRS",

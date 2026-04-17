@@ -1,29 +1,18 @@
 {
   "FHRSID": 1796600,
   "BusinessName": "Gokorec",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000197264",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6534699",
-    "Longitude": "-0.0409588"
-  },
-  "AddressLine1": "Durants Park",
-  "AddressLine2": "Hertford Road",
-  "AddressLine3": "ENFIELD",
-  "PostCode": "EN3 7ED",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-16",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

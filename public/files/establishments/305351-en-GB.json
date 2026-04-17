@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "160",
   "LocalAuthorityName": "St Albans City",
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
   "Geocode": {
     "Latitude": "52.6325",
@@ -18,12 +18,12 @@
   "AddressLine3": "St Albans",
   "AddressLine4": "Hertfordshire",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-02-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 0,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

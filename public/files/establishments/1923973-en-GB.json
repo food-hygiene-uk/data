@@ -1,13 +1,13 @@
 {
   "FHRSID": 1923973,
-  "BusinessName": "Pizza Devil Limited",
+  "BusinessName": "Pizza Devil Limited / Grill Angel",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "EHFDI/00037/26",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.3832077",
@@ -19,8 +19,12 @@
   "AddressLine4": "Louth",
   "PostCode": "LN11 0WA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

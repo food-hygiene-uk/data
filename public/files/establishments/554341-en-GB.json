@@ -1,6 +1,6 @@
 {
   "FHRSID": 554341,
-  "BusinessName": "Molen's Cafe",
+  "BusinessName": "Molens",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000201216",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Molens 209D",
+  "Geocode": {
+    "Latitude": "51.6468436",
+    "Longitude": "0.0547057"
+  },
+  "AddressLine1": "209D",
   "AddressLine2": "209 High Road",
   "AddressLine3": "Loughton",
   "AddressLine4": "Essex",

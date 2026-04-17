@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.770653",
+    "Longitude": "0.094796"
+  },
   "AddressLine1": "6 Terminus Street",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

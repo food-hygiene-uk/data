@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.3544311523438",
+    "Longitude": "-3.58100008964539"
+  },
+  "AddressLine1": "The Kiosk",
+  "AddressLine2": "Coronation Park",
+  "AddressLine3": "North Embankment",
+  "AddressLine4": "Dartmouth",
+  "PostCode": "TQ6 9RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

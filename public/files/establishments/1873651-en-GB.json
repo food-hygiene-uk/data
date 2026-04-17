@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5137422",
-    "Longitude": "-0.2997668"
-  },
+  "Geocode": null,
   "AddressLine1": "Ground Floor Breakout Area",
-  "AddressLine2": "Saunders House",
+  "AddressLine2": "Unit 7 Ground Floor",
   "AddressLine3": "52-53 The Mall",
   "AddressLine4": "Ealing",
   "PostCode": "W5 3TA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

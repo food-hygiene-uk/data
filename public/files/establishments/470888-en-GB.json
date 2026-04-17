@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.522785",
+    "Longitude": "-0.141305"
+  },
   "AddressLine2": "100 Cleveland Street",
   "PostCode": "W1T 6NS",
   "SchemeType": "FHRS",

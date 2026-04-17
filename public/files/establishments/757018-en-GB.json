@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.580626",
+    "Longitude": "-0.2044"
+  },
   "AddressLine1": "48 Leeside Crescent London",
   "PostCode": "NW11 0LA",
   "SchemeType": "FHRS",

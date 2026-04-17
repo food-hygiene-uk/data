@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.602958",
+    "Longitude": "-0.269945"
+  },
   "AddressLine1": "194 Burnt Oak Broadway Edgware",
   "PostCode": "HA8 0AS",
   "SchemeType": "FHRS",

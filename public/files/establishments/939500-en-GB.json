@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.517499",
+    "Longitude": "-0.119438"
+  },
   "AddressLine2": "236-237 High Holborn",
   "PostCode": "WC1V 7DN",
   "SchemeType": "FHRS",

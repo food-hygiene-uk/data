@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.518782",
+    "Longitude": "-0.132142"
+  },
   "AddressLine2": "11-13 Bayley Street",
   "PostCode": "WC1B 3HD",
   "SchemeType": "FHRS",

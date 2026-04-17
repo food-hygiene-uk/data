@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "868",
   "LocalAuthorityName": "York",
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
   "Geocode": {
     "Latitude": "53.9598755",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-11-07",
+  "RatingDate": "2026-03-12",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 20
   }
 }

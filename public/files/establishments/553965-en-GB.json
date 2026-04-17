@@ -1,6 +1,6 @@
 {
   "FHRSID": 553965,
-  "BusinessName": "Fairfield Catering Company Limited",
+  "BusinessName": "Roding Valley High School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000200373",
   "BusinessTypeID": 7845,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Roding Valley High School",
-  "AddressLine2": "Alderton Hill",
-  "AddressLine3": "Loughton",
-  "AddressLine4": "Essex",
+  "Geocode": {
+    "Latitude": "51.643384",
+    "Longitude": "0.056013"
+  },
+  "AddressLine1": "Alderton Hill",
+  "AddressLine2": "Loughton",
+  "AddressLine3": "Essex",
   "PostCode": "IG10 3JA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

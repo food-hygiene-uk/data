@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "064",
   "LocalAuthorityName": "Chesterfield",
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
   "Geocode": {
     "Latitude": "53.2326159",
@@ -17,8 +17,12 @@
   "AddressLine4": "Chesterfield",
   "PostCode": "S40 2JX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

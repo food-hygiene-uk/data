@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "320",
   "LocalAuthorityName": "Stratford-on-Avon",
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.28449",
@@ -19,12 +19,12 @@
   "AddressLine4": "Southam",
   "PostCode": "CV47 9PH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

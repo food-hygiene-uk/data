@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit G",
+  "Geocode": {
+    "Latitude": "54.5713571",
+    "Longitude": "-1.2497559"
+  },
+  "AddressLine1": "5 Derwent Street",
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS1 5QW",
   "SchemeType": "FHRS",

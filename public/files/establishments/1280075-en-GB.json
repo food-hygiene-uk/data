@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6021591",
+    "Longitude": "-0.2649652"
+  },
   "AddressLine1": "63 Watling Avenue Edgware",
   "PostCode": "HA8 0LD",
   "SchemeType": "FHRS",

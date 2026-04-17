@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "pprotection@solihull.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Blythe Valley Park",
+  "Geocode": {
+    "Latitude": "52.3727226257324",
+    "Longitude": "-1.8004709482193"
+  },
+  "AddressLine1": "Virgin Active",
   "AddressLine2": "Blythe Gate",
   "AddressLine3": "Shirley",
   "AddressLine4": "Solihull",
+  "PostCode": "B90 8AT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

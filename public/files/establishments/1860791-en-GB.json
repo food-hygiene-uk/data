@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "860",
   "LocalAuthorityName": "Redcar and Cleveland",
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
   "Geocode": {
     "Latitude": "54.5523148",
@@ -17,8 +17,12 @@
   "AddressLine3": "Liverton Mines",
   "PostCode": "TS13 4QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

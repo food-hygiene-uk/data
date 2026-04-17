@@ -1,6 +1,6 @@
 {
   "FHRSID": 554583,
-  "BusinessName": "Boots the Chenist",
+  "BusinessName": "Boots the Chemist",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000201756",
   "BusinessTypeID": 4613,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.6995539",
-    "Longitude": "0.1115037"
+    "Latitude": "51.699294",
+    "Longitude": "0.111093"
   },
-  "AddressLine1": "Boots the Chemist",
-  "AddressLine2": "223 High Street",
-  "AddressLine3": "Epping",
-  "AddressLine4": "Essex",
+  "AddressLine1": "223 High Street",
+  "AddressLine2": "Epping",
+  "AddressLine3": "Essex",
   "PostCode": "CM16 4BL",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

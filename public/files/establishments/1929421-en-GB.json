@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.022935",
-    "Longitude": "-2.228384"
-  },
-  "AddressLine1": "Hempstalls Primary School",
-  "AddressLine2": "Collard Avenue",
-  "AddressLine3": "Newcastle Under Lyme",
-  "AddressLine4": "Staffordshire",
-  "PostCode": "ST5 9LH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

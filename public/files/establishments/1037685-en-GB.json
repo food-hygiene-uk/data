@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "408",
   "LocalAuthorityName": "Doncaster",
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
   "Geocode": null,
   "AddressLine1": "Wickes Leicester Avenue",
@@ -15,8 +15,12 @@
   "AddressLine3": "Doncaster",
   "PostCode": "DN2 6DR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9799176",
+    "Longitude": "-0.2286994"
+  },
   "AddressLine1": "2 Station Parade",
   "AddressLine3": "Letchworth Garden City",
   "AddressLine4": "Hertfordshire",

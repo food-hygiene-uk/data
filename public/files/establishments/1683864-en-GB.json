@@ -1,6 +1,6 @@
 {
   "FHRSID": 1683864,
-  "BusinessName": "Perfect Waves Cafe",
+  "BusinessName": "Perfect Waves Cafe and Owens Organic Coffee",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "FR/000003462",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine3": "Ivybridge",
   "PostCode": "PL21 9JL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-10-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

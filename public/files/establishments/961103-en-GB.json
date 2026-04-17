@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.869877",
+    "Longitude": "-0.191537"
+  },
   "AddressLine1": "Knebworth Golf Club Deards End Lane",
   "AddressLine3": "Knebworth",
   "AddressLine4": "Hertfordshire",

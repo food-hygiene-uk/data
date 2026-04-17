@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.779827",
+    "Longitude": "0.119808"
+  },
   "AddressLine1": "5 Ward Hatch",
   "AddressLine2": "Mowbray Road",
   "AddressLine3": "Harlow",

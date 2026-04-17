@@ -1,13 +1,13 @@
 {
   "FHRSID": 1206606,
-  "BusinessName": "The Goodness Brewing Company Ltd",
+  "BusinessName": "TGB Bars LTD",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "PI/000155198",
   "BusinessTypeID": 7839,
   "LocalAuthorityCode": "514",
   "LocalAuthorityName": "Haringey",
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
   "Geocode": {
     "Latitude": "51.5941862",
@@ -19,12 +19,12 @@
   "AddressLine4": "Wood Green",
   "PostCode": "N22 6TZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-20",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.583002",
+    "Longitude": "-0.199846"
+  },
   "AddressLine1": "Temple Fortune Parade  Finchley Road London",
   "PostCode": "NW11 0QS",
   "SchemeType": "FHRS",
