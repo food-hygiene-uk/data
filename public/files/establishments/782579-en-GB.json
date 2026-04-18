@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "106",
   "LocalAuthorityName": "Rother",
   "LocalAuthorityWebSite": "http://www.rother.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Bull Cross Lane",
@@ -17,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-18",
-  "Scores": null
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

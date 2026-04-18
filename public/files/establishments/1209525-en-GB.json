@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "School Lane",
-  "AddressLine2": "Milton Of Campsie",
+  "Geocode": {
+    "Latitude": "55.964900970459",
+    "Longitude": "-4.16089916229248"
+  },
+  "AddressLine1": "Milton Of Campsie Hall",
+  "AddressLine2": "School Lane",
+  "AddressLine3": "Milton Of Campsie",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 8DD",
   "SchemeType": "FHIS",

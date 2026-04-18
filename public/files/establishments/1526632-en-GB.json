@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Beech Road",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.8985633850098",
+    "Longitude": "-4.214280128479"
+  },
+  "AddressLine1": "Auchinairn ELCC",
+  "AddressLine2": "Beech Road",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 1NE",
   "SchemeType": "FHIS",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9430281",
+    "Longitude": "-4.3155772"
+  },
   "AddressLine1": "2 Hillhead Street",
   "AddressLine2": "Milngavie",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G62 8AF",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

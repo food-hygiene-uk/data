@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Stockiemuir Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9345054626465",
+    "Longitude": "-4.34432077407837"
+  },
+  "AddressLine1": "BP Service Station",
+  "AddressLine2": "Stockiemuir Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 3SE",
   "SchemeType": "FHIS",

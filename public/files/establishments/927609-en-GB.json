@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Millersneuk Road",
-  "AddressLine2": "Lenzie",
+  "Geocode": {
+    "Latitude": "55.9210144",
+    "Longitude": "-4.1515072"
+  },
+  "AddressLine1": "Unit 5 To 8 The Grove",
+  "AddressLine2": "Millersneuk Road",
+  "AddressLine3": "Lenzie",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 5JD",
   "SchemeType": "FHIS",

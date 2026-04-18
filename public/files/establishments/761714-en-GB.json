@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lidl Milton Road",
-  "AddressLine2": "Kirkintilloch",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.9446868896484",
+    "Longitude": "-4.15487194061279"
+  },
+  "AddressLine1": "Lidl",
+  "AddressLine2": "Unit 1A",
+  "AddressLine3": "Milton Road",
+  "AddressLine4": "Kirkintilloch",
   "PostCode": "G66 1SY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

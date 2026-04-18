@@ -1,13 +1,13 @@
 {
   "FHRSID": 1101416,
-  "BusinessName": "Total Tots Lancaster",
+  "BusinessName": "Total Tots Ltd",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "58071",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "200",
   "LocalAuthorityName": "Lancaster City",
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
   "Geocode": {
     "Latitude": "54.0678122",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "LA1 3SW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-13",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

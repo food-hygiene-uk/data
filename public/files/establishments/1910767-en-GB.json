@@ -1,21 +1,25 @@
 {
   "FHRSID": 1910767,
-  "BusinessName": "Filthys deli Seaham",
+  "BusinessName": "Filthy's Deli Seaham",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "KGW0ML-Z1300N-0BVCTJ",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Mill Inn Stockton Road",
   "AddressLine3": "Seaham",
   "PostCode": "SR7 0HP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

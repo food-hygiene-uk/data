@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8976586",
+    "Longitude": "-4.2305115"
+  },
   "AddressLine1": "28 Colston Drive",
   "AddressLine2": "Bishopbriggs",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G64 2AZ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "550",
   "LocalAuthorityName": "Conwy",
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
   "Geocode": {
     "Latitude": "53.3266555",
@@ -19,12 +19,12 @@
   "AddressLine4": "Sir Conwy",
   "PostCode": "LL30 2PE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2024-08-14",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-03-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

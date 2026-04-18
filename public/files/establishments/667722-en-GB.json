@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "100 Main Street",
-  "AddressLine2": "Twechar",
+  "Geocode": {
+    "Latitude": "55.9529266357422",
+    "Longitude": "-4.08339500427246"
+  },
+  "AddressLine1": "Twechar Primary School",
+  "AddressLine2": "100 Main Street",
+  "AddressLine3": "Twechar",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G65 9TA",
   "SchemeType": "FHIS",

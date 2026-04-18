@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Brackenbrae Road",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9053365",
+    "Longitude": "-4.2313524"
+  },
+  "AddressLine1": "Brackenbrae House",
+  "AddressLine2": "Brackenbrae Road",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 2BU",
   "SchemeType": "FHIS",

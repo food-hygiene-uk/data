@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9066390991211",
+    "Longitude": "-4.33369493484497"
+  },
   "AddressLine1": "Crarae Avenue",
   "AddressLine2": "Bearsden",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G61 1HY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

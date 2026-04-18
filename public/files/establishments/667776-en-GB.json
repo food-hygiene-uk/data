@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 3 Iceland Crosshill Road",
-  "AddressLine2": "Bishopbriggs",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.9206817",
+    "Longitude": "-4.208211"
+  },
+  "AddressLine1": "Unit 3",
+  "AddressLine2": "Strathkelvin Retail Park",
+  "AddressLine3": "Crosshill Road",
+  "AddressLine4": "Bishopbriggs",
   "PostCode": "G64 2TS",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

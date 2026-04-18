@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "School Lane",
-  "AddressLine2": "Lennoxtown",
+  "Geocode": {
+    "Latitude": "55.9744186401367",
+    "Longitude": "-4.19992685317993"
+  },
+  "AddressLine1": "Lennoxtown Primary School",
+  "AddressLine2": "School Lane",
+  "AddressLine3": "Lennoxtown",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 7LX",
   "SchemeType": "FHIS",

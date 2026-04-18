@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Next Crosshill Road",
-  "AddressLine2": "Bishopbriggs",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.920185",
+    "Longitude": "-4.2098472"
+  },
+  "AddressLine1": "Next",
+  "AddressLine2": "Unit 1D",
+  "AddressLine3": "Crosshill Road",
+  "AddressLine4": "Bishopbriggs",
   "PostCode": "G64 2TS",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Marks And Spencers 1 Main Street",
-  "AddressLine2": "Milngavie",
+  "Geocode": {
+    "Latitude": "55.9408226013184",
+    "Longitude": "-4.31765604019165"
+  },
+  "AddressLine1": "Marks And Spencers",
+  "AddressLine2": "1 Main Street",
+  "AddressLine3": "Milngavie",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G62 6BH",
   "SchemeType": "FHIS",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9584503173828",
+    "Longitude": "-4.15874481201172"
+  },
   "AddressLine1": "Kincaid Field",
   "AddressLine2": "Milton Of Campsie",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 8BX",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

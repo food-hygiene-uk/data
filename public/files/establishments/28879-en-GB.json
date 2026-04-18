@@ -1,6 +1,6 @@
 {
   "FHRSID": 28879,
-  "BusinessName": "Bay Leaf",
+  "BusinessName": "The Bay Leaf",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "09/00033/FH",
   "BusinessTypeID": 1,
@@ -16,8 +16,12 @@
   "AddressLine1": "39 Market Street Heanor Derbyshire",
   "PostCode": "DE75 7NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

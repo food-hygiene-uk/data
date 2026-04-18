@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9148750305176",
+    "Longitude": "-4.30626487731934"
+  },
   "AddressLine1": "Inveroran Drive",
   "AddressLine2": "Bearsden",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G61 2PL",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

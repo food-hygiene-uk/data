@@ -1,13 +1,13 @@
 {
   "FHRSID": 349656,
-  "BusinessName": "Spittal Foodstore & Bakery",
+  "BusinessName": "Spittal Food Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "36393",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": {
     "Latitude": "55.756572",
@@ -18,12 +18,8 @@
   "AddressLine3": "Northumberland",
   "PostCode": "TD15 1RD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-09",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.517701",
+    "Longitude": "-0.210494"
+  },
   "AddressLine1": "171 Ladbroke Grove",
   "AddressLine2": "LONDON",
+  "PostCode": "W10 6HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Rosslyn Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9245796203613",
+    "Longitude": "-4.35438299179077"
+  },
+  "AddressLine1": "Castlehill Primary School",
+  "AddressLine2": "Rosslyn Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 4DL",
   "SchemeType": "FHIS",

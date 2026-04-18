@@ -1,6 +1,6 @@
 {
   "FHRSID": 1589902,
-  "BusinessName": "Morrisons Daily",
+  "BusinessName": "Morrison's Daily",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "23/00011/MIXED",
   "BusinessTypeID": 7840,
@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Esso Service Station",
-  "AddressLine2": "Bath Road",
-  "AddressLine3": "Keynsham",
-  "AddressLine4": "Bath And North East Somerset",
+  "Geocode": {
+    "Latitude": "51.4093074",
+    "Longitude": "-2.4731915"
+  },
+  "AddressLine1": "Morrisons Daily",
+  "AddressLine2": "Esso Service Station",
+  "AddressLine3": "Bath Road",
+  "AddressLine4": "Keynsham",
   "PostCode": "BS31 1TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

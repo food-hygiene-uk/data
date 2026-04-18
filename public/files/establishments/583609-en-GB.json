@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 12 To 15 Lenzie Road",
-  "AddressLine2": "Kirkintilloch",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.934440612793",
+    "Longitude": "-4.15387010574341"
+  },
+  "AddressLine1": "Unit 12",
+  "AddressLine2": "Whitegates",
+  "AddressLine3": "Lenzie Road",
+  "AddressLine4": "Kirkintilloch",
   "PostCode": "G66 3BQ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

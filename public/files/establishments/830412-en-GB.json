@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Stirling Drive",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9125938415527",
+    "Longitude": "-4.23111295700073"
+  },
+  "AddressLine1": "Balmuildy Primary School",
+  "AddressLine2": "Stirling Drive",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 3AJ",
   "SchemeType": "FHIS",

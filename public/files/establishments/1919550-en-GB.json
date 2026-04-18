@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2977679",
+    "Longitude": "-1.3275472"
+  },
+  "AddressLine1": "28 Spinkhill View",
+  "AddressLine2": "Renishaw",
+  "AddressLine3": "Sheffield",
+  "PostCode": "S21 3WN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

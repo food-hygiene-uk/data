@@ -1,6 +1,6 @@
 {
   "FHRSID": 1690352,
-  "BusinessName": "Jack & Boules Bar & Toddy's Tavern (Boulebar)",
+  "BusinessName": "Boule Bar",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "23/00291/COMM",
   "BusinessTypeID": 7846,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SE1 9PP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

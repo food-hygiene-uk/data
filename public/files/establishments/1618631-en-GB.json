@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Milngavie Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9314956665039",
+    "Longitude": "-4.31093502044678"
+  },
+  "AddressLine1": "Allander Sports Complex",
+  "AddressLine2": "Milngavie Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 3DF",
   "SchemeType": "FHIS",

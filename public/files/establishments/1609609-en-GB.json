@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Duntocher Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9263171",
+    "Longitude": "-4.350802"
+  },
+  "AddressLine1": "St Nicholas Primary School",
+  "AddressLine2": "Duntocher Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 4QL",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2023-03-14",
+  "RatingDate": "2026-03-10",
   "Scores": null
 }

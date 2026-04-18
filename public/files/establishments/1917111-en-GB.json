@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "197",
   "LocalAuthorityName": "Chorley",
   "LocalAuthorityWebSite": "http://www.chorley.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Environmental.health@chorley.gov.uk",
   "Geocode": {
     "Latitude": "53.6509632",
@@ -17,8 +17,12 @@
   "AddressLine2": "Chorley",
   "PostCode": "PR7 2SQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

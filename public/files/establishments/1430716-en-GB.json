@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kenmure Avenue",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9041438",
+    "Longitude": "-4.2257485"
+  },
+  "AddressLine1": "6 The Cross Court",
+  "AddressLine2": "Kenmure Avenue",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 2RD",
   "SchemeType": "FHIS",

@@ -10,17 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
-    "Latitude": "52.2566615",
-    "Longitude": "-0.6226393"
+    "Latitude": "52.1392097473145",
+    "Longitude": "-0.463690012693405"
   },
-  "AddressLine1": "Greys Farm",
-  "AddressLine2": "Wymington Road",
   "AddressLine3": "Podington",
   "AddressLine4": "Bedford",
-  "PostCode": "NN29 7HP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

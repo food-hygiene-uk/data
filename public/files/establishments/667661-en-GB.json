@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kirriemuir Road",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9076499938965",
+    "Longitude": "-4.20466995239258"
+  },
+  "AddressLine1": "Thomas Muir Primary School",
+  "AddressLine2": "Kirriemuir Road",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 1DL",
   "SchemeType": "FHIS",

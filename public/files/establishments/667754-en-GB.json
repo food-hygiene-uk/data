@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 1A Marks And Spencer Crosshill Road",
-  "AddressLine2": "Bishopbriggs",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.9208675",
+    "Longitude": "-4.2078694"
+  },
+  "AddressLine1": "Unit 1A Marks And Spencer",
+  "AddressLine2": "Strathkelvin Retail Park",
+  "AddressLine3": "Crosshill Road",
+  "AddressLine4": "Bishopbriggs",
   "PostCode": "G64 2TS",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

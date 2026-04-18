@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 11 Grampian Way",
-  "AddressLine2": "Bearsden",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.932559967041",
+    "Longitude": "-4.34966421127319"
+  },
+  "AddressLine1": "Unit 11",
+  "AddressLine2": "Baljaffray Shopping Centre",
+  "AddressLine3": "Grampian Way",
+  "AddressLine4": "Bearsden",
   "PostCode": "G61 4RN",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2025-02-27",
+  "RatingDate": "2025-02-26",
   "Scores": null
 }

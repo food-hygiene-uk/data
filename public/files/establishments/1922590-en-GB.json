@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9575342",
+    "Longitude": "-0.5034425"
+  },
+  "AddressLine1": "The Family Nook",
+  "AddressLine2": "Orchard House",
+  "AddressLine3": "20 Lower Street",
+  "AddressLine4": "Pulborough",
+  "PostCode": "RH20 2BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

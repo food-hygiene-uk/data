@@ -1,6 +1,6 @@
 {
   "FHRSID": 1918330,
-  "BusinessName": "Banktop Bakery",
+  "BusinessName": "Bank Top Bakery",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00025/MIXED",
   "BusinessTypeID": 7841,
@@ -13,14 +13,17 @@
     "Latitude": "54.5213525",
     "Longitude": "-1.5487441"
   },
-  "AddressLine1": "Bank Top Bakery",
-  "AddressLine2": "Ground Floor",
-  "AddressLine3": "127 Victoria Road",
-  "AddressLine4": "Darlington",
+  "AddressLine1": "Ground Floor",
+  "AddressLine2": "127 Victoria Road",
+  "AddressLine3": "Darlington",
   "PostCode": "DL1 5JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

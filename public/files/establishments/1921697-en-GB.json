@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5424975",
+    "Longitude": "-0.208893"
+  },
+  "AddressLine1": "6B The Avenue",
+  "AddressLine2": "London",
+  "PostCode": "NW6 7YD",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

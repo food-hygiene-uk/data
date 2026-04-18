@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lammermoor Road",
-  "AddressLine2": "Kirkintilloch",
+  "Geocode": {
+    "Latitude": "55.935962677002",
+    "Longitude": "-4.13627910614014"
+  },
+  "AddressLine1": "Oxgang Primary School",
+  "AddressLine2": "Lammermoor Road",
+  "AddressLine3": "Kirkintilloch",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 2AB",
   "SchemeType": "FHIS",

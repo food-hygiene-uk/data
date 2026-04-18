@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9410629272461",
+    "Longitude": "-4.2122368812561"
+  },
   "AddressLine1": "West Road",
   "AddressLine2": "Torrance",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G64 4DE",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

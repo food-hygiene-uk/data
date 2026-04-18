@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9329392",
+    "Longitude": "-4.11830185"
+  },
   "AddressLine1": "Bankhead Road",
-  "AddressLine2": "Kirkintilloch",
-  "AddressLine3": "Waterside",
+  "AddressLine2": "Waterside",
+  "AddressLine3": "Kirkintilloch",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 3FU",
   "SchemeType": "FHIS",

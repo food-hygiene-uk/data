@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Andrews Way",
+  "Geocode": {
+    "Latitude": "55.9277305603027",
+    "Longitude": "-4.34461688995361"
+  },
+  "AddressLine1": "Stockiemuir Road",
   "AddressLine2": "Bearsden",
-  "AddressLine4": "East Dunbartonshire",
-  "PostCode": "G61 3AX",
+  "AddressLine3": "East Dunbartonshire",
+  "PostCode": "G61 3SF",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

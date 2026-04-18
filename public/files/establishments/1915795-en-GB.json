@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Cherry Bs Mobile Catering",
+  "AddressLine2": "High View Road",
+  "AddressLine3": "South Normanton",
+  "AddressLine4": "Alfreton",
+  "PostCode": "DE55 2DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

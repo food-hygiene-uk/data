@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "128",
   "LocalAuthorityName": "Stroud",
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": {
     "Latitude": "51.688513",
@@ -19,12 +19,12 @@
   "AddressLine4": "Gloucestershire",
   "PostCode": "GL13 9BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

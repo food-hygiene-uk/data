@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Thorn Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9195785522461",
+    "Longitude": "-4.34737300872803"
+  },
+  "AddressLine1": "Bearsden Golf Club",
+  "AddressLine2": "Thorn Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 4BP",
   "SchemeType": "FHIS",

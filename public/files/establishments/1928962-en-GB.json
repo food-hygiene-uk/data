@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "055",
   "LocalAuthorityName": "Cumberland",
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
   "Geocode": {
     "Latitude": "54.6636167",
@@ -17,8 +17,12 @@
   "AddressLine4": "COCKERMOUTH",
   "PostCode": "CA13 9LU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Nursing Home Service Street",
-  "AddressLine2": "Lennoxtown",
-  "AddressLine4": "East Dunbartonshire",
+  "Geocode": {
+    "Latitude": "55.9754943847656",
+    "Longitude": "-4.20473194122314"
+  },
+  "AddressLine1": "Nursing Home",
+  "AddressLine2": "Whitefield Lodge",
+  "AddressLine3": "Service Street",
+  "AddressLine4": "Lennoxtown",
   "PostCode": "G66 7JW",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

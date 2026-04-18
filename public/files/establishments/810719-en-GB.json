@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.934196472168",
+    "Longitude": "-4.31485795974731"
+  },
   "AddressLine1": "Glasgow Road",
   "AddressLine2": "Milngavie",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G62 6HJ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

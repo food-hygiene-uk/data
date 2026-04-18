@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.141425",
+    "Longitude": "-1.568017"
+  },
+  "AddressLine1": "20 School Road",
+  "AddressLine2": "Bedlington",
+  "AddressLine3": "Northumberland",
+  "PostCode": "NE22 7JQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

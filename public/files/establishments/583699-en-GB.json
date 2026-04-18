@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Craighead Road",
-  "AddressLine2": "Milton Of Campsie",
+  "Geocode": {
+    "Latitude": "55.9652276",
+    "Longitude": "-4.1607885"
+  },
+  "AddressLine1": "Craighead Nursery",
+  "AddressLine2": "Craighead Road",
+  "AddressLine3": "Milton Of Campsie",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G66 8DL",
   "SchemeType": "FHIS",

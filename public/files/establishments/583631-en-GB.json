@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9193801879883",
+    "Longitude": "-4.15378713607788"
+  },
   "AddressLine1": "Regent Square",
   "AddressLine2": "Lenzie",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 5AE",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

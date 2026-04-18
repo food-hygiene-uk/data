@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9313468933105",
+    "Longitude": "-4.18824577331543"
+  },
   "AddressLine1": "Glasgow Road",
   "AddressLine2": "Kirkintilloch",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 1RH",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

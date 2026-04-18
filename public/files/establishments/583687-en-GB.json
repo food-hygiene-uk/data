@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.919189453125",
+    "Longitude": "-4.14737510681152"
+  },
   "AddressLine1": "Lindsaybeg Road",
   "AddressLine2": "Lenzie",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 5HZ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Roman Road",
-  "AddressLine2": "Bearsden",
+  "Geocode": {
+    "Latitude": "55.9188493",
+    "Longitude": "-4.3271629"
+  },
+  "AddressLine1": "24th Bearsden Scout Hall",
+  "AddressLine2": "Roman Road",
+  "AddressLine3": "Bearsden",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G61 2SL",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2024-09-01",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": null
 }

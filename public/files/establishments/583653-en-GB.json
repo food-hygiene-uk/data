@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9453735351563",
+    "Longitude": "-4.12424182891846"
+  },
   "AddressLine1": "Mauchline Court",
   "AddressLine2": "Kirkintilloch",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 2SA",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

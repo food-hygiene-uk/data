@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "209",
   "LocalAuthorityName": "Blaby",
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
   "Geocode": {
     "Latitude": "52.5852508",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-11-01",
+  "RatingDate": "2026-03-13",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Hayloft 1 Langbank Holdings Dowan Road",
-  "AddressLine2": "Milngavie",
+  "Geocode": {
+    "Latitude": "55.9343414306641",
+    "Longitude": "-4.28803300857544"
+  },
+  "AddressLine1": "1 Langbank Holdings",
+  "AddressLine2": "Dowan Road",
+  "AddressLine3": "Milngavie",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G62 6EL",
   "SchemeType": "FHIS",

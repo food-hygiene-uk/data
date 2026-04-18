@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9291038513184",
+    "Longitude": "-4.16420316696167"
+  },
   "AddressLine1": "Westergreens Avenue",
   "AddressLine2": "Kirkintilloch",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G66 4AT",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

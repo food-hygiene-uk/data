@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "South Crosshill Road",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9072768",
+    "Longitude": "-4.2194803"
+  },
+  "AddressLine1": "Bright Horizons",
+  "AddressLine2": "South Crosshill Road",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 2LZ",
   "SchemeType": "FHIS",

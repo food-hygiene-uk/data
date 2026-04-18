@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9270133972168",
+    "Longitude": "-4.23290300369263"
+  },
   "AddressLine1": "Cadder Road",
   "AddressLine2": "Bishopbriggs",
-  "AddressLine4": "East Dunbartonshire",
+  "AddressLine3": "East Dunbartonshire",
   "PostCode": "G64 3QD",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

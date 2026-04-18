@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eastdunbarton.gov.uk/home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastdunbarton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Brackenbrae Road",
-  "AddressLine2": "Bishopbriggs",
+  "Geocode": {
+    "Latitude": "55.9086303710938",
+    "Longitude": "-4.2310619354248"
+  },
+  "AddressLine1": "Bishopbriggs Golf Club",
+  "AddressLine2": "Brackenbrae Road",
+  "AddressLine3": "Bishopbriggs",
   "AddressLine4": "East Dunbartonshire",
   "PostCode": "G64 2DX",
   "SchemeType": "FHIS",

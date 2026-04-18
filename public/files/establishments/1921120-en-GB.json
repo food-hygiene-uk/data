@@ -7,18 +7,24 @@
   "LocalAuthorityCode": "131",
   "LocalAuthorityName": "Basingstoke and Deane",
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
   "Geocode": {
-    "Latitude": "51.2896107",
-    "Longitude": "-1.0585723"
+    "Latitude": "51.288001",
+    "Longitude": "-1.0643"
   },
   "AddressLine1": "1 Reading Road",
   "AddressLine2": "Chineham",
-  "AddressLine3": "Hampshire",
+  "AddressLine3": "Basingstoke",
+  "AddressLine4": "Hampshire",
+  "PostCode": "RG24 8LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

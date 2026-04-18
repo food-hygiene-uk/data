@@ -1,9 +1,9 @@
 {
   "FHRSID": 1915568,
   "BusinessName": "Manyaman",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "CP/26/0037",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "328",
   "LocalAuthorityName": "Mid Sussex",
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
