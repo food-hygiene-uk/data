@@ -1,16 +1,19 @@
 {
   "FHRSID": 1872495,
   "BusinessName": "Hotel Chocolat Retail Ltd",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "66015",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "777",
   "LocalAuthorityName": "Highland",
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 34 Eastgate Shopping Centre",
+  "Geocode": {
+    "Latitude": "57.4794795",
+    "Longitude": "-4.2210677"
+  },
+  "AddressLine1": "Unit 17 Eastgate Shopping Centre",
   "AddressLine2": "11 Eastgate",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

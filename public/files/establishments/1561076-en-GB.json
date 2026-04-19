@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
     "Latitude": "53.5764911",
@@ -17,12 +17,12 @@
   "AddressLine4": "Cudworth",
   "PostCode": "S72 8UH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

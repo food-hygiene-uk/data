@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6309834",
-    "Longitude": "-0.0166123"
-  },
-  "AddressLine1": "Cafe Chingford Golf Driving Range 293 Waltham Way",
+  "Geocode": null,
+  "AddressLine1": "Chingford Rugby Football Club 291 Waltham Way",
   "AddressLine3": "Chingford",
   "AddressLine4": "London",
   "PostCode": "E4 8AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-03-27",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }
