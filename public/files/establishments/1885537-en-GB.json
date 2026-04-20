@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "103",
   "LocalAuthorityName": "Hastings",
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
   "RightToReply": "&lt;table border=&quot;1&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:633px;&quot; width=&quot;633&quot;&gt;\n\t&lt;tbody&gt;\n\t\t&lt;tr&gt;\n\t\t\t&lt;td style=&quot;width:633px;height:126px;&quot;&gt;\n\t\t\t\t&lt;p&gt;\n\t\t\t\t\tSanitization: We have switched to a dual-action disinfectant that meets BS EN 1276 and BS EN 13697 standards. All staff have been briefed on the required contact time for this specific product.&lt;br /&gt;\n\t\t\t\t\tHot Water Provision: We have verified that the bar sink does provide hot water. However, as it can take time to reach the required temperature, we have implemented a &amp;quot;flush&amp;quot; protocol at the start of every shift. We are also consulting a plumber for a permanent solution&lt;br /&gt;\n\t\t\t\t\tPest Proofing: All structural gaps identified in the back room have been professionally sealed by a builder. We have also added a &amp;quot;Gaps and Cracks&amp;quot; check to our bi-weekly internal audit.&lt;br /&gt;\n\t\t\t\t\tStorage &amp;amp; Flooring: All stock is now stored off the floor on appropriate shelving. We have a contractor scheduled to lay industrial vinyl flooring this month to ensure the surface is non-absorbent and easy to clean - He is quoting next week.&lt;br /&gt;\n\t\t\t\t\tTraining: All staff members have been enrolled in Level 1 Food Hygiene Training, with a mandatory completion deadline of 30th April.&lt;br /&gt;\n\t\t\t\t\t&lt;br /&gt;\n\t\t\t\t\tDocumentation: The Safer Food, Better Business (SFBB) pack is now fully completed, and our daily/weekly opening and closing checks are being strictly recorded.&lt;/p&gt;\n\t\t\t&lt;/td&gt;\n\t\t&lt;/tr&gt;\n\t&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n",
   "Geocode": {
@@ -19,8 +19,12 @@
   "AddressLine3": "East Sussex",
   "PostCode": "TN37 6DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

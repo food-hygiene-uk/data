@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "307",
   "LocalAuthorityName": "Guildford",
   "LocalAuthorityWebSite": "http://www.guildford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
   "Geocode": {
     "Latitude": "51.2216415405273",
@@ -18,12 +18,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU3 1AL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }
