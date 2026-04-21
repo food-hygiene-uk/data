@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "219",
   "LocalAuthorityName": "Boston",
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
   "Geocode": {
     "Latitude": "52.951725",
@@ -17,12 +17,12 @@
   "AddressLine4": "Wyberton Boston",
   "PostCode": "PE21 7BS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-22",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Unit 6 Felinfoel business hub",
+  "AddressLine2": "Ynys Wen",
+  "AddressLine3": "Llanelli",
+  "AddressLine4": "Carmarthenshire",
+  "PostCode": "SA14 8BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

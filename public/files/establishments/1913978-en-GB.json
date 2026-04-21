@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9390678",
-    "Longitude": "-1.2054777"
-  },
-  "AddressLine1": "Chasefield",
-  "AddressLine2": "Clewers Hill",
-  "AddressLine3": "Waltham Chase",
-  "AddressLine4": "Southampton",
-  "PostCode": "SO32 2LN",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

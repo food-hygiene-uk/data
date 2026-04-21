@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.7955645",
     "Longitude": "-1.7539901"
   },
-  "AddressLine1": "Darley Street Market",
+  "AddressLine1": "Unit 32-34 Darley Street Market",
   "AddressLine2": "16-24 Darley Street",
   "AddressLine3": "Bradford",
-  "PostCode": "BD1 3HH",
+  "PostCode": "BD1 3AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

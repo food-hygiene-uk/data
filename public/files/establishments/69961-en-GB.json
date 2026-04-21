@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
   "Geocode": {
     "Latitude": "53.04801",
@@ -16,12 +16,12 @@
   "AddressLine2": "45 Hayden Lane",
   "PostCode": "NG15 8BS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-20",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-16",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1912772,
-  "BusinessName": "C & g retail",
+  "BusinessName": "C & G Retail (Spar)",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "6383",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine3": "Strabane",
   "PostCode": "BT82 8jg",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

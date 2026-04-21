@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "073",
   "LocalAuthorityName": "Exeter City",
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
   "Geocode": {
     "Latitude": "50.7211941",
@@ -17,12 +17,12 @@
   "AddressLine2": "Exeter",
   "PostCode": "EX4 3HY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

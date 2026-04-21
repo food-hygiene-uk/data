@@ -1,13 +1,13 @@
 {
   "FHRSID": 1926415,
   "BusinessName": "Southwold And Reydon Chinese Take Away",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00141/CP",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "302",
   "LocalAuthorityName": "East Suffolk",
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.3417033",
@@ -19,8 +19,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "IP18 6SZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1883107,
-  "BusinessName": "Cha Cha Chi",
+  "BusinessName": "Cha Cha Chai",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "158307",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
   "Geocode": {
     "Latitude": "52.9080541",
@@ -17,8 +17,12 @@
   "AddressLine3": "Derby",
   "PostCode": "DE23 6PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

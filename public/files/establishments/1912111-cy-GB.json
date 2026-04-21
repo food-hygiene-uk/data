@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "73 HighStreet",
+  "Geocode": {
+    "Latitude": "51.625707",
+    "Longitude": "-3.941683"
+  },
+  "AddressLine2": "73-74 High Street",
   "AddressLine4": "City Centre",
   "PostCode": "SA1 1LN",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "501",
   "LocalAuthorityName": "Barking and Dagenham",
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
   "Geocode": {
     "Latitude": "51.5352808",
@@ -18,8 +18,12 @@
   "AddressLine4": "Barking",
   "PostCode": "IG11 7LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.535998",
-    "Longitude": "-0.4395093"
-  },
-  "AddressLine2": "41 Lawrence Road",
-  "AddressLine4": "Hayes",
-  "PostCode": "UB4 8QB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

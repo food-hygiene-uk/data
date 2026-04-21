@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "078",
   "LocalAuthorityName": "Teignbridge",
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
   "Geocode": {
     "Latitude": "50.546949",
@@ -16,12 +16,12 @@
   "AddressLine1": "32 Regent Street Teignmouth Devon",
   "PostCode": "TQ14 8SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-03-06",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

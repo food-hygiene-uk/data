@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
     "Latitude": "51.5430514",
@@ -19,12 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "E20 1EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-07",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-16",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1919048,
   "BusinessName": "This Is Gas Limited",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00291/TAKUNS",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
   "Geocode": {
     "Latitude": "51.5692718",
@@ -18,8 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "SS9 5PR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

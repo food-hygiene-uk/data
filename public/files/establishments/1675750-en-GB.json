@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.2848098",
     "Longitude": "1.0875811"
@@ -18,12 +18,12 @@
   "AddressLine4": "Canterbury",
   "PostCode": "CT1 1BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-12",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }
