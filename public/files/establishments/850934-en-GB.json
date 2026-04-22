@@ -1,13 +1,13 @@
 {
   "FHRSID": 850934,
-  "BusinessName": "Venice pizzeria",
+  "BusinessName": "Venice Pizzeria",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/100047934",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.411992",
@@ -18,12 +18,12 @@
   "AddressLine4": "Wirral",
   "PostCode": "CH44 9DD",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-17",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1921708,
-  "BusinessName": "H&R KEBAB LTD",
+  "BusinessName": "Bodrum Fish and Chips",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/FST/128/CP",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "878",
   "LocalAuthorityName": "Leicester City",
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": {
     "Latitude": "52.6606638",
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicester",
   "PostCode": "LE4 5QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

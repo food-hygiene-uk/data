@@ -1,29 +1,28 @@
 {
   "FHRSID": 945786,
-  "BusinessName": "Yummy Pizza",
+  "BusinessName": "Golden Bite Pizza & Chicken",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "48799",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
   "Geocode": {
-    "Latitude": "51.5625757",
-    "Longitude": "-0.3050298"
+    "Latitude": "51.562475",
+    "Longitude": "-0.30566"
   },
-  "AddressLine1": "Front",
-  "AddressLine2": "193 East Lane",
-  "AddressLine3": "Wembley",
+  "AddressLine1": "193 East Lane",
+  "AddressLine2": "Wembley",
   "PostCode": "HA0 3NG",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-03-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-31",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

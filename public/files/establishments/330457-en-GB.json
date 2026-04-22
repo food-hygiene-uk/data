@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "221",
   "LocalAuthorityName": "Lincoln City",
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
   "Geocode": {
     "Latitude": "53.2329902648926",
@@ -18,12 +18,12 @@
   "AddressLine4": "Lincolnshire",
   "PostCode": "LN2 1LT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-09",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

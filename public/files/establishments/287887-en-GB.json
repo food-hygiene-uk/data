@@ -1,13 +1,13 @@
 {
   "FHRSID": 287887,
-  "BusinessName": "Jannat",
+  "BusinessName": "Spices",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "6600",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": {
     "Latitude": "55.174381",
@@ -18,8 +18,12 @@
   "AddressLine3": "Northumberland",
   "PostCode": "NE63 0PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

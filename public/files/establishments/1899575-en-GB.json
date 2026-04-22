@@ -1,13 +1,13 @@
 {
   "FHRSID": 1899575,
-  "BusinessName": "Rodi's Cafe And Sandwich Bar",
+  "BusinessName": "Rodi's Kitchen",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "25/00199/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "309",
   "LocalAuthorityName": "Reigate and Banstead",
   "LocalAuthorityWebSite": "http://www.reigate-banstead.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
   "Geocode": {
     "Latitude": "51.2405617",
@@ -19,8 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "RH1 1QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

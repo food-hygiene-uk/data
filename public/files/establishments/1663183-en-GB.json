@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "212",
   "LocalAuthorityName": "Hinckley and Bosworth",
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
   "Geocode": {
     "Latitude": "52.577734",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-10-04",
+  "RatingDate": "2026-03-24",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

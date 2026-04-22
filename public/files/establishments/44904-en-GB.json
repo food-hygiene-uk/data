@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "102",
   "LocalAuthorityName": "Eastbourne",
   "LocalAuthorityWebSite": "https://www.lewes-eastbourne.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer_first@lewes-eastbourne.gov.uk",
   "Geocode": {
     "Latitude": "50.751727",
@@ -18,12 +18,12 @@
   "AddressLine3": "East Sussex",
   "PostCode": "BN20 7XN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

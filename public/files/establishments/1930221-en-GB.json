@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "RESIDENTIAL ACCOMMODATION DURHAM CITY GOLF CLUB",
+  "Geocode": {
+    "Latitude": "54.7481039",
+    "Longitude": "-1.602249"
+  },
+  "AddressLine1": "DURHAM CITY GOLF CLUB",
   "AddressLine3": "LANGLEY MOOR",
   "PostCode": "DH7 8HL",
   "SchemeType": "FHRS",

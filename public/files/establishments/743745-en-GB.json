@@ -1,13 +1,13 @@
 {
   "FHRSID": 743745,
-  "BusinessName": "Aromica Take Way",
+  "BusinessName": "Aromica Take Away",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26609",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "866",
   "LocalAuthorityName": "Hull City",
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
   "Geocode": {
     "Latitude": "53.7663955688477",
@@ -17,8 +17,12 @@
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU5 1NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

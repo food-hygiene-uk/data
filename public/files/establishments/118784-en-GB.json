@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "122",
   "LocalAuthorityName": "Uttlesford",
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
   "Geocode": {
     "Latitude": "51.872575",
@@ -18,12 +18,12 @@
   "AddressLine3": "Dunmow",
   "PostCode": "CM6 1DL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-17",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

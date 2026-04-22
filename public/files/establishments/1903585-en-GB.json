@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.harborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@harborough.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.477373",
+    "Longitude": "-0.924996"
+  },
+  "AddressLine1": "Bluewave Fish Bar",
+  "AddressLine2": "28 Coventry Road",
+  "AddressLine3": "Market Harborough",
+  "AddressLine4": "Leicestershire",
+  "PostCode": "LE16 9BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

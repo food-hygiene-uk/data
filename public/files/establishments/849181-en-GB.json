@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "410",
   "LocalAuthorityName": "Gateshead",
   "LocalAuthorityWebSite": "http://www.gateshead.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
   "Geocode": {
     "Latitude": "54.95363",
@@ -18,12 +18,12 @@
   "AddressLine4": "Gateshead",
   "PostCode": "NE8 1SR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-09-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-31",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

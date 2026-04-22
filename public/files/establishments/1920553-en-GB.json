@@ -1,6 +1,6 @@
 {
   "FHRSID": 1920553,
-  "BusinessName": "Alpha & omega African Food Store",
+  "BusinessName": "Alpha & Omega African Food Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "266008",
   "BusinessTypeID": 4613,
@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": {
-    "Latitude": "51.412502",
-    "Longitude": "-2.611158"
+    "Latitude": "51.4125481",
+    "Longitude": "-2.6114274"
   },
-  "AddressLine1": "The Gatehouse Centre",
+  "AddressLine1": "Unit 4 The Gatehouse Centre",
   "AddressLine2": "Hareclive Road",
   "AddressLine3": "Hartcliffe",
   "AddressLine4": "Bristol",
   "PostCode": "BS13 9JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

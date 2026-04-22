@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4105178",
+    "Longitude": "-0.0251184"
+  },
+  "AddressLine1": "12A High Street",
+  "AddressLine3": "Beckenham",
+  "PostCode": "BR3 1AZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

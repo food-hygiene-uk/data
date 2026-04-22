@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "New Chester Road",
+  "Geocode": {
+    "Latitude": "53.3843855",
+    "Longitude": "-3.0150176"
+  },
+  "AddressLine1": "Green Lane Service Station New Chester Road",
   "AddressLine3": "Tranmere",
   "AddressLine4": "Wirral",
   "PostCode": "CH41 9AZ",

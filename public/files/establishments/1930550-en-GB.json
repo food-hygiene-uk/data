@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "032",
   "LocalAuthorityName": "South Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
   "Geocode": null,
   "AddressLine1": "Costa Coffee At Cambridge North Station Milton Avenue",
@@ -15,8 +15,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB4 0AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

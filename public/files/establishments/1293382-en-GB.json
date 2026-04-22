@@ -7,12 +7,22 @@
   "LocalAuthorityCode": "138",
   "LocalAuthorityName": "New Forest",
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.754969",
+    "Longitude": "-1.6593228"
+  },
+  "AddressLine1": "0 WHITEFIELD ROAD",
+  "AddressLine2": "NEW MILTON",
+  "PostCode": "BH25 6DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

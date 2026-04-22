@@ -1,13 +1,13 @@
 {
   "FHRSID": 1620414,
   "BusinessName": "The County Restaurant",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "321010",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
     "Latitude": "54.5971039",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingDate": "2026-04-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }
