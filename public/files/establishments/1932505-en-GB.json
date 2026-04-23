@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "811",
   "LocalAuthorityName": "Mid Ulster",
   "LocalAuthorityWebSite": "http://www.midulstercouncil.org",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
   "Geocode": {
     "Latitude": "54.541322",
@@ -19,8 +19,12 @@
   "AddressLine4": "Co. Tyrone",
   "PostCode": "BT71 4LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

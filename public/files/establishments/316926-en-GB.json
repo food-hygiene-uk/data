@@ -1,6 +1,6 @@
 {
   "FHRSID": 316926,
-  "BusinessName": "Enfield Town Conservative Club",
+  "BusinessName": "ENFIELD TOWN CONSERVATIVE CLUB",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000089955",
   "BusinessTypeID": 7843,
@@ -9,21 +9,19 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.652559",
-    "Longitude": "-0.088382"
-  },
-  "AddressLine1": "Enfield Town Club",
-  "AddressLine2": "8 Old Park Avenue",
-  "AddressLine3": "ENFIELD",
+  "Geocode": null,
+  "AddressLine1": "Enfield Town Conservative Club",
+  "AddressLine2": "Enfield Town Club",
+  "AddressLine3": "8 Old Park Avenue",
+  "AddressLine4": "ENFIELD",
   "PostCode": "EN2 6PR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-05-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6553082",
-    "Longitude": "-0.0958313"
-  },
-  "AddressLine1": "5 The Oaks",
-  "AddressLine2": "8 Bycullah Road",
-  "AddressLine3": "ENFIELD",
-  "PostCode": "EN2 8EQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

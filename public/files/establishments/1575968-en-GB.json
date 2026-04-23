@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8980957",
+    "Longitude": "-2.4499526"
+  },
   "AddressLine2": "Auchenblae Village Hall",
   "AddressLine3": "Monboddo Street",
-  "AddressLine4": "Auchenblae Laurencekirk",
+  "AddressLine4": "Auchenblae",
   "PostCode": "AB30 1XQ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

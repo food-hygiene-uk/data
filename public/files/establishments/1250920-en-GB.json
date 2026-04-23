@@ -1,6 +1,6 @@
 {
   "FHRSID": 1250920,
-  "BusinessName": "Foodart Direct",
+  "BusinessName": "FoodArt Direct",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000185220",
   "BusinessTypeID": 4613,
@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.670388",
-    "Longitude": "-0.041252"
+    "Latitude": "51.67017",
+    "Longitude": "-0.0412"
   },
-  "AddressLine1": "614-616 Hertford Road",
-  "AddressLine2": "ENFIELD",
+  "AddressLine1": "Foodart Direct",
+  "AddressLine2": "614-616 Hertford Road",
+  "AddressLine3": "ENFIELD",
   "PostCode": "EN3 5TD",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-05-23",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-18",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

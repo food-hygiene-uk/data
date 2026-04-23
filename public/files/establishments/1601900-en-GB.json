@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.610875",
+    "Longitude": "-0.067819"
+  },
+  "AddressLine1": "St John And St James C Of E Primary School",
+  "AddressLine2": "Grove Street",
+  "AddressLine3": "LONDON",
+  "PostCode": "N18 2TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-19",
+  "RatingDate": "2026-04-13",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

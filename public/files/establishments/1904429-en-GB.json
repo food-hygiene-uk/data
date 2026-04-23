@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.623149",
+    "Longitude": "-0.059583"
+  },
+  "AddressLine1": "1 West Mall",
+  "AddressLine2": "LONDON",
+  "PostCode": "N9 0AL",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1925949,
-  "BusinessName": "Hong Kong",
+  "BusinessName": "Hong Kong Takeaway",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/1983/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "209",
   "LocalAuthorityName": "Blaby",
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
   "Geocode": {
     "Latitude": "52.5742503",
@@ -19,8 +19,12 @@
   "AddressLine4": "Leicestershire",
   "PostCode": "LE8 4DW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-11",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

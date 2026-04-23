@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Geordie's Pond",
-  "AddressLine3": "Kinaldie Holdings",
-  "AddressLine4": "Arbroath",
-  "PostCode": "DD11 5SX",
+  "Geocode": {
+    "Latitude": "56.6352514",
+    "Longitude": "-2.5477466"
+  },
+  "AddressLine1": "Cotmore Cottage Main Road Inverkeilor Arbroath",
+  "PostCode": "DD11 5RN",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

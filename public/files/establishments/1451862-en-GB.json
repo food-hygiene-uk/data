@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Edward Roberts Court",
+  "Geocode": {
+    "Latitude": "54.0100263",
+    "Longitude": "-2.7851163"
+  },
+  "AddressLine1": "Unit 25 Edward Roberts Court",
   "AddressLine2": "Tower Avenue",
   "AddressLine3": "Lancaster University",
   "AddressLine4": "Lancaster",
-  "PostCode": "LA1 4XX",
+  "PostCode": "LA1 4YT",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

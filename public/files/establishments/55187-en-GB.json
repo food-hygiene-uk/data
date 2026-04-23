@@ -9,10 +9,11 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Railway Station",
-  "AddressLine2": "Park Road",
-  "AddressLine3": "Brechin",
+  "Geocode": {
+    "Latitude": "56.7317457",
+    "Longitude": "-2.6524935"
+  },
+  "AddressLine1": "Railway Station Park Road Brechin",
   "PostCode": "DD9 7AF",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

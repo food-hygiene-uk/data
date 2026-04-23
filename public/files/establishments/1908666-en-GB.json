@@ -1,25 +1,29 @@
 {
   "FHRSID": 1908666,
   "BusinessName": "Phat Bite Edmonton",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000208283",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.6167294",
-    "Longitude": "-0.0855387"
+    "Latitude": "51.616742",
+    "Longitude": "-0.085568"
   },
   "AddressLine1": "12 Kendal Parade",
   "AddressLine2": "Great Cambridge Road",
-  "AddressLine3": "Edmonton",
+  "AddressLine3": "LONDON",
   "PostCode": "N18 1ND",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-12",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

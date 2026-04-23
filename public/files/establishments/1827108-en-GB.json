@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6465651",
+    "Longitude": "-0.0796618"
+  },
+  "AddressLine1": "13 Blakeney Court",
+  "AddressLine2": "126 London Road",
+  "AddressLine3": "ENFIELD",
+  "PostCode": "EN2 6HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-12-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

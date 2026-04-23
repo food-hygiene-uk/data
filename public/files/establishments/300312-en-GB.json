@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "110",
   "LocalAuthorityName": "Braintree",
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
   "Geocode": {
     "Latitude": "51.878614",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CM7 1RB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-18",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -13,12 +13,17 @@
     "Latitude": "51.6116558",
     "Longitude": "-0.0632563"
   },
-  "AddressLine1": "40 Buckstone Road",
-  "AddressLine2": "Edmonton",
+  "AddressLine1": "Gyamfua's Tasty Kitchen",
+  "AddressLine2": "40 Buckstone Road",
+  "AddressLine3": "LONDON",
   "PostCode": "N18 2RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-02-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

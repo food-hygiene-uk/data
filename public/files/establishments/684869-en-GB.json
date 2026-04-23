@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "148",
   "LocalAuthorityName": "Malvern Hills",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.111297",
@@ -18,8 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "WR14 3HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

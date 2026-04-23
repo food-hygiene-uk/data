@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6293508",
+    "Longitude": "-0.0631093"
+  },
+  "AddressLine1": "46 Chichester Road",
+  "AddressLine2": "LONDON",
+  "PostCode": "N9 9DQ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

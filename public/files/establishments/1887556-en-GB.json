@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.648442",
+    "Longitude": "-0.0376775"
+  },
+  "AddressLine1": "17 Alexandra Road",
+  "AddressLine2": "Enfield",
+  "PostCode": "EN3 7EJ",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

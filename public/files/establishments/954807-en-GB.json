@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.61473",
+    "Longitude": "-0.096254"
+  },
+  "AddressLine1": "33 Cherry Blossom Close",
+  "AddressLine2": "LONDON",
+  "PostCode": "N13 6BQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

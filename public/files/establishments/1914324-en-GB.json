@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6354682",
-    "Longitude": "0.1744299"
-  },
-  "AddressLine1": "29 Gosmoor Lane",
-  "AddressLine2": "Elm",
-  "AddressLine3": "Wisbech",
-  "PostCode": "PE14 0AH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

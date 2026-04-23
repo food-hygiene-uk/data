@@ -1,6 +1,6 @@
 {
   "FHRSID": 316150,
-  "BusinessName": "Behar News",
+  "BusinessName": "Behar news",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000014359",
   "BusinessTypeID": 4613,
@@ -10,19 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.617916",
-    "Longitude": "-0.059618"
+    "Latitude": "51.6178987",
+    "Longitude": "-0.0595671"
   },
-  "AddressLine1": "6 Brettenham Road",
-  "AddressLine2": "LONDON",
+  "AddressLine1": "Behar News",
+  "AddressLine2": "6 Brettenham Road",
+  "AddressLine3": "LONDON",
   "PostCode": "N18 2ET",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-11-01",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

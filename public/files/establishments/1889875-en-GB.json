@@ -1,9 +1,9 @@
 {
   "FHRSID": 1889875,
   "BusinessName": "Good Heavens (Kitchen 10)",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000207985",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
@@ -19,8 +19,12 @@
   "AddressLine4": "LONDON",
   "PostCode": "N18 1UB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Pasties And Puddings",
-  "AddressLine2": "Water Lane",
-  "AddressLine3": "Bakewell",
-  "AddressLine4": "Derbyshire",
+  "Geocode": {
+    "Latitude": "53.2132611",
+    "Longitude": "-1.674469"
+  },
+  "AddressLine1": "3 Water Lane",
+  "AddressLine2": "Bakewell",
+  "AddressLine3": "Derbyshire",
   "PostCode": "DE45 1EU",
   "SchemeType": "FHRS",
   "RatingValue": "4",

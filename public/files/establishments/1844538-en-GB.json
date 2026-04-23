@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5173624",
@@ -18,8 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "WC1A 1JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

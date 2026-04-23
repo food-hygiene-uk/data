@@ -9,11 +9,11 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Leisure Centre",
-  "AddressLine2": "Ethiebeaton Park",
-  "AddressLine3": "Ethiebeaton",
-  "AddressLine4": "Monifieth Dundee",
+  "Geocode": {
+    "Latitude": "56.4904727",
+    "Longitude": "-2.8352344"
+  },
+  "AddressLine1": "Leisure Centre Ethiebeaton Park Ethiebeaton Monifieth Dundee",
   "PostCode": "DD5 4HB",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

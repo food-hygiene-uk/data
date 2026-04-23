@@ -1,28 +1,29 @@
 {
   "FHRSID": 1714559,
   "BusinessName": "EASYHAPPY",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "9104829",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "900",
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
   "NewRatingPending": false,
   "Geocode": {
-    "Latitude": "52.6951235",
-    "Longitude": "-2.4490116"
+    "Latitude": "52.694999",
+    "Longitude": "-2.449307"
   },
-  "AddressLine1": "50 Market Street Oakengates Telford TF2 6DU",
+  "AddressLine1": "50 Market Street",
+  "AddressLine2": "Oakengates",
   "AddressLine3": "Telford",
   "AddressLine4": "Shropshire",
   "PostCode": "TF2 6DU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-18",
+  "RatingDate": "2026-04-15",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

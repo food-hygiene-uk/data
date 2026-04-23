@@ -1,26 +1,28 @@
 {
   "FHRSID": 1712638,
-  "BusinessName": "St Pauls Church & St Georges Church",
+  "BusinessName": "St Pauls Church",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "24/43/FOOD",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "074",
   "LocalAuthorityName": "Mid Devon",
   "LocalAuthorityWebSite": "http://www.middevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@middevon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Pauls Church",
-  "AddressLine2": "Church Street",
-  "AddressLine3": "Tiverton",
-  "AddressLine4": "Devon",
+  "Geocode": {
+    "Latitude": "50.9029038",
+    "Longitude": "-3.4925773"
+  },
+  "AddressLine1": "Church Street",
+  "AddressLine2": "Tiverton",
+  "AddressLine3": "Devon",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

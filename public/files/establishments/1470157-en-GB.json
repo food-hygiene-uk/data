@@ -9,14 +9,20 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6090723",
+    "Longitude": "-0.0894061"
+  },
+  "AddressLine1": "70 Empire Avenue",
+  "AddressLine2": "LONDON",
+  "PostCode": "N18 1AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-29",
+  "RatingDate": "2026-03-27",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

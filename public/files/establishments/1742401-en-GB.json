@@ -1,6 +1,6 @@
 {
   "FHRSID": 1742401,
-  "BusinessName": "weecook hot box",
+  "BusinessName": "Weecook Hot Box",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "22475",
   "BusinessTypeID": 7846,
@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "2 Dewar Place",
-  "AddressLine3": "Arbroath",
-  "PostCode": "DD11 3LS",
+  "Geocode": {
+    "Latitude": "56.5723968",
+    "Longitude": "-2.6077792"
+  },
+  "AddressLine1": "Unit 2 Dewar Place Kirkton Industrial Estate Arbroath",
+  "PostCode": "DD11 3BG",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

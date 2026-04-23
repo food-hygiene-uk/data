@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.619321",
+    "Longitude": "-0.113282"
+  },
+  "AddressLine1": "60 Aldermans Hill",
+  "AddressLine2": "LONDON",
+  "PostCode": "N13 4PP",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

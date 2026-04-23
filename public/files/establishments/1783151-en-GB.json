@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.613401250431",
-    "Longitude": "-0.137947550335111"
+    "Latitude": "51.6140022277832",
+    "Longitude": "-0.136935994029045"
   },
   "AddressLine1": "Garfield Primary",
   "AddressLine2": "Upper Park Road",
-  "AddressLine3": "Southgate",
+  "AddressLine3": "LONDON",
   "PostCode": "N11 1BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

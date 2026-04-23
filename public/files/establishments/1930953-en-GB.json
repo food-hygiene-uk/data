@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "417",
   "LocalAuthorityName": "North Tyneside",
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
   "Geocode": null,
   "AddressLine1": "112 Church Way/Saville Street",
@@ -15,8 +15,12 @@
   "AddressLine3": "Tyne And Wear",
   "PostCode": "NE29 6QW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

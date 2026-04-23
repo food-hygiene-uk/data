@@ -1,6 +1,6 @@
 {
   "FHRSID": 1849487,
-  "BusinessName": "RJ TASTY FEAST",
+  "BusinessName": "RJ Tasty Feast",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx20773",
   "BusinessTypeID": 4613,
@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3789317",
+    "Longitude": "-1.503392"
+  },
+  "AddressLine1": "194 Fenside Avenue",
+  "AddressLine4": "Coventry",
+  "PostCode": "CV3 5NJ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

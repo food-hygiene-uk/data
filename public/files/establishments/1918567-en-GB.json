@@ -1,9 +1,9 @@
 {
   "FHRSID": 1918567,
-  "BusinessName": "Tala Fast Food Ltd",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Tala Fast Food Lebanese",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "2026/00066/COMB",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "513",
   "LocalAuthorityName": "Hammersmith and Fulham",
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW6 1NJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

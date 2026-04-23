@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.647863",
+    "Longitude": "-0.045537"
+  },
+  "AddressLine1": "23 Eagle Close",
+  "AddressLine2": "ENFIELD",
+  "PostCode": "EN3 4RS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -7,18 +7,23 @@
   "LocalAuthorityCode": "085",
   "LocalAuthorityName": "Dorset",
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.6086166",
-    "Longitude": "-2.455214"
+    "Latitude": "50.6083488464355",
+    "Longitude": "-2.4553530216217"
   },
-  "AddressLine1": "62 St. Thomas Street",
+  "AddressLine1": "62 St Thomas Street",
   "AddressLine3": "Weymouth",
+  "AddressLine4": "Dorset",
   "PostCode": "DT4 8EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

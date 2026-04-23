@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.640269",
+    "Longitude": "-0.094029"
+  },
+  "AddressLine1": "Grange Park Methodist Church",
+  "AddressLine2": "Park Drive",
+  "AddressLine3": "LONDON",
+  "PostCode": "N21 2EU",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",

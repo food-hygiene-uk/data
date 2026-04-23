@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.674767",
+    "Longitude": "-0.095373"
+  },
+  "AddressLine1": "Nursery",
+  "AddressLine2": "Theobalds Park Road",
+  "AddressLine3": "ENFIELD",
+  "PostCode": "EN2 9BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

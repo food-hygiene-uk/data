@@ -1,6 +1,6 @@
 {
   "FHRSID": 65872,
-  "BusinessName": "A Taste of Heim",
+  "BusinessName": "A Taste Of Heim",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "14832",
   "BusinessTypeID": 7843,
@@ -9,10 +9,11 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Arbroath Indoor Bowling Club",
-  "AddressLine2": "Cairnie Road",
-  "AddressLine3": "Arbroath",
+  "Geocode": {
+    "Latitude": "56.5651017",
+    "Longitude": "-2.6028376"
+  },
+  "AddressLine1": "The Stadium Cairnie Road Arbroath",
   "PostCode": "DD11 3DY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
