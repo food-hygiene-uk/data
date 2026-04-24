@@ -1,9 +1,9 @@
 {
   "FHRSID": 1560230,
   "BusinessName": "The Station Cafe",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "147699",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
@@ -15,8 +15,12 @@
   "AddressLine4": "Market Rasen",
   "PostCode": "LN8 3AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

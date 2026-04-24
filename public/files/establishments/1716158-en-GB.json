@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "896",
   "LocalAuthorityName": "Medway",
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
   "Geocode": {
     "Latitude": "51.3347799",
@@ -19,12 +19,12 @@
   "AddressLine4": "Medway",
   "PostCode": "ME5 8TH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-06-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

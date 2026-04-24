@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "803",
   "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
   "Geocode": {
     "Latitude": "54.3712479",
@@ -21,6 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-28",
-  "Scores": null
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

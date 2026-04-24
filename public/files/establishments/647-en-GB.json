@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "062",
   "LocalAuthorityName": "Amber Valley",
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": {
     "Latitude": "53.069898",
@@ -16,12 +16,12 @@
   "AddressLine1": "53 Church Street Riddings Alfreton Derbyshire",
   "PostCode": "DE55 4BX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-04",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

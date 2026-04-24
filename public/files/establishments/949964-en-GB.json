@@ -1,9 +1,9 @@
 {
   "FHRSID": 949964,
   "BusinessName": "Fat Eddies Diner",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "140166",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine4": "Welton",
   "PostCode": "LN2 3HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,20 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.927179",
-    "Longitude": "-1.788354"
-  },
-  "AddressLine1": "14 BRIDGE STREET",
-  "AddressLine2": "FORDINGBRIDGE",
-  "PostCode": "SP6 1AH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -7,18 +7,23 @@
   "LocalAuthorityCode": "532",
   "LocalAuthorityName": "Wandsworth",
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
     "Latitude": "51.456839",
     "Longitude": "-0.202527"
   },
   "AddressLine1": "66 West Hill",
-  "AddressLine2": "London",
+  "AddressLine3": "London",
+  "AddressLine4": "Wandsworth",
   "PostCode": "SW18 1RU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

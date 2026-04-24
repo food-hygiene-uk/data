@@ -7,19 +7,24 @@
   "LocalAuthorityCode": "409",
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
   "Geocode": {
     "Latitude": "52.4900728",
     "Longitude": "-2.0825549"
   },
-  "AddressLine1": "101 Halesowen Road",
-  "AddressLine2": "Netherton",
-  "AddressLine3": "Dudley",
+  "AddressLine1": "My Local Off Licence",
+  "AddressLine2": "101 Halesowen Road",
+  "AddressLine3": "Netherton",
+  "AddressLine4": "Dudley",
   "PostCode": "DY2 9PY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

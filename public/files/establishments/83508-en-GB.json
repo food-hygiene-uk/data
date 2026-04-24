@@ -1,13 +1,13 @@
 {
   "FHRSID": 83508,
-  "BusinessName": "Village Stores",
+  "BusinessName": "The Village Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "20486",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "889",
   "LocalAuthorityName": "Halton",
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
   "Geocode": {
     "Latitude": "53.3304882",
@@ -18,12 +18,12 @@
   "AddressLine3": "Halton",
   "PostCode": "WA7 2AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-03-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1918879,
   "BusinessName": "Choices Event Catering",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "703293",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "801",
   "LocalAuthorityName": "Antrim and Newtownabbey",
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
@@ -19,8 +19,12 @@
   "AddressLine4": "Antrim",
   "PostCode": "BT37 9UB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

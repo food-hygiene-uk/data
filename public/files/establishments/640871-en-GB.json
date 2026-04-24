@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.533468",
-    "Longitude": "0.059564"
-  },
-  "AddressLine1": "Alphabet House Nursery School Food",
+  "Geocode": null,
+  "AddressLine1": "Alphabet House Nursery School",
   "AddressLine2": "Canberra Road",
   "AddressLine3": "East Ham",
   "AddressLine4": "London",
   "PostCode": "E6 2RW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

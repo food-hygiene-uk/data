@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.0212783813477",
-    "Longitude": "-1.21613895893097"
+    "Latitude": "52.0905968",
+    "Longitude": "-1.0349833"
   },
-  "AddressLine1": "The Old Dairy",
-  "AddressLine2": "Charlton House Farm",
-  "AddressLine3": "Hinton In The Hedges",
-  "PostCode": "NN13 5LH",
+  "AddressLine1": "Moonshadows",
+  "AddressLine2": "74 West End",
+  "AddressLine3": "Silverstone",
+  "PostCode": "NN12 8UY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

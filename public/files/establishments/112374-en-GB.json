@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "53.794621",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hull",
   "PostCode": "HU11 4LB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-12-17",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

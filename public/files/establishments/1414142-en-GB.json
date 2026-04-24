@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "210",
   "LocalAuthorityName": "Charnwood",
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
   "Geocode": {
     "Latitude": "52.772161",
@@ -17,12 +17,12 @@
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 1TH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-08",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

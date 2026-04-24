@@ -1,9 +1,9 @@
 {
   "FHRSID": 1863139,
-  "BusinessName": "Panzarotti pizzeria",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Panzarotti Pizzeria",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "3578",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine4": "Gainsborough",
   "PostCode": "DN21 2DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

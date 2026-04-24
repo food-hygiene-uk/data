@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.863241",
+    "Longitude": "-1.426608"
+  },
+  "AddressLine1": "CABOT DRIVE",
+  "AddressLine2": "DIBDEN",
+  "AddressLine3": "SOUTHAMPTON",
+  "PostCode": "SO45 5UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

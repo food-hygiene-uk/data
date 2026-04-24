@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "569",
   "LocalAuthorityName": "Torfaen",
   "LocalAuthorityWebSite": "http://www.torfaen.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealthprotection@torfaen.gov.uk",
   "Geocode": {
     "Latitude": "51.72341",
@@ -18,12 +18,12 @@
   "AddressLine4": "Pontypool",
   "PostCode": "NP4 7BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2024-10-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-03-19",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }
