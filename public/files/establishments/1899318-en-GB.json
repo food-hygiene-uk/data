@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cobham Village Club",
-  "AddressLine2": "16 Portsmouth Road",
-  "AddressLine3": "Cobham",
-  "AddressLine4": "Surrey",
+  "Geocode": {
+    "Latitude": "51.33225",
+    "Longitude": "-0.418778"
+  },
+  "AddressLine1": "16 Portsmouth Road",
+  "AddressLine2": "Cobham",
+  "AddressLine3": "Surrey",
   "PostCode": "KT11 1HZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

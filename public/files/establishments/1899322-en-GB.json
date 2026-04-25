@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Little Borough",
-  "AddressLine2": "90 Church Street",
-  "AddressLine3": "Weybridge",
-  "AddressLine4": "Surrey",
+  "Geocode": {
+    "Latitude": "51.3710722",
+    "Longitude": "-0.4629374"
+  },
+  "AddressLine1": "90 Church Street",
+  "AddressLine2": "Weybridge",
+  "AddressLine3": "Surrey",
   "PostCode": "KT13 8DL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919999,
-  "BusinessName": "Yo! To Go!",
+  "BusinessName": "Yo To Go",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "J0CXMJ-RN1EG8-RCDLCZ",
   "BusinessTypeID": 7844,
@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
   "Geocode": null,
-  "AddressLine2": "within Asda Stores Ltd",
-  "AddressLine4": "Holles Street",
+  "AddressLine1": "Inside Asda",
+  "AddressLine2": "Holles Street",
+  "AddressLine4": "Grimsby",
   "PostCode": "DN32 9DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3792509",
+    "Longitude": "-0.4300443"
+  },
+  "AddressLine1": "Bramble Bar",
+  "AddressLine2": "5 Cricket Way",
+  "AddressLine3": "Weybridge",
+  "AddressLine4": "Surrey",
+  "PostCode": "KT13 9LP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

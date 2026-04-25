@@ -1,6 +1,6 @@
 {
   "FHRSID": 51425,
-  "BusinessName": "The Lotus Flower Thai Restaurant",
+  "BusinessName": "Lotus Flower Thai Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "11520",
   "BusinessTypeID": 1,
@@ -10,21 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
-    "Latitude": "51.021522",
-    "Longitude": "-3.103481"
+    "Latitude": "51.0214606",
+    "Longitude": "-3.1034252"
   },
-  "AddressLine1": "The Lotus Flower",
-  "AddressLine2": "89-91 Station Road",
+  "AddressLine2": "89 Station Road",
   "AddressLine3": "Taunton",
   "AddressLine4": "Somerset",
   "PostCode": "TA1 1PB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-18",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

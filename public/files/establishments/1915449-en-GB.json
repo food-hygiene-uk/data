@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushmoor.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@rushmoor.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3134252",
-    "Longitude": "-0.7673487"
-  },
-  "AddressLine1": "40 Ratcliffe Road",
-  "AddressLine2": "Farnborough",
-  "AddressLine3": "Hampshire",
-  "PostCode": "GU14 9AS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

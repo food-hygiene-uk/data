@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Esher Tandoori",
-  "AddressLine2": "11 Church Street",
-  "AddressLine3": "Esher",
-  "AddressLine4": "Surrey",
+  "Geocode": {
+    "Latitude": "51.369864",
+    "Longitude": "-0.366223"
+  },
+  "AddressLine1": "11 Church Street",
+  "AddressLine2": "Esher",
+  "AddressLine3": "Surrey",
   "PostCode": "KT10 8QS",
   "SchemeType": "FHRS",
   "RatingValue": "5",

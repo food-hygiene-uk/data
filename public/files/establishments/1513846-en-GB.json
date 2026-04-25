@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2231276",
-    "Longitude": "-0.1113959"
-  },
-  "AddressLine1": "Pastures Farm Ermine Street",
-  "AddressLine3": "Caxton",
-  "AddressLine4": "Cambridgeshire",
-  "PostCode": "CB23 3PF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2022-05-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3615098",
+    "Longitude": "-0.3644024"
+  },
+  "AddressLine1": "12 Copsem Lane",
+  "AddressLine2": "Esher",
+  "AddressLine3": "Surrey",
+  "PostCode": "KT10 9EU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.stockton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stockton.gov.uk",
-  "Geocode": {
-    "Latitude": "54.6170018",
-    "Longitude": "-1.2886544"
-  },
-  "AddressLine2": "26 Dunsley Drive",
-  "AddressLine4": "Billingham",
-  "PostCode": "TS23 3DH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

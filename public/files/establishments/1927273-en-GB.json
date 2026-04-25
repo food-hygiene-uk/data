@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unity Way",
+  "Geocode": {
+    "Latitude": "52.2882148",
+    "Longitude": "0.0508842"
+  },
+  "AddressLine1": "1 The Green Pathfinder Way",
   "AddressLine3": "Northstowe",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB24 1FD",

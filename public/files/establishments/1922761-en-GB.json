@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.329378",
+    "Longitude": "-0.3674975"
+  },
   "AddressLine1": "24 Waverley Road",
   "AddressLine2": "Oxshott",
   "AddressLine3": "Leatherhead",
   "AddressLine4": "Surrey",
-  "PostCode": "KT13 8UT",
+  "PostCode": "KT22 0RZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

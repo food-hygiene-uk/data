@@ -1,9 +1,9 @@
 {
   "FHRSID": 1924688,
   "BusinessName": "Impact Food Group",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "FR/000011661",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "523",
   "LocalAuthorityName": "Lewisham",
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
@@ -16,8 +16,12 @@
   "AddressLine4": "London",
   "PostCode": "SE14 5SF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

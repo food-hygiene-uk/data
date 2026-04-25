@@ -1,6 +1,6 @@
 {
   "FHRSID": 1920006,
-  "BusinessName": "YO! To Go",
+  "BusinessName": "Yo To Go",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "SNMD9T-YMA0A2-PAPM7E",
   "BusinessTypeID": 7844,
@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5388551",
-    "Longitude": "-0.0463395"
-  },
-  "AddressLine1": "Inside Tesco Store Hewitts Circus Retail Park Hewitts Avenue",
+  "Geocode": null,
+  "AddressLine1": "Inside Tescos",
+  "AddressLine2": "Hewitts Circus Retail Park",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 9QR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

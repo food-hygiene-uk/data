@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.171324",
+    "Longitude": "-2.128563"
+  },
   "AddressLine2": "493 Great Northern Road",
   "AddressLine3": "Aberdeen",
-  "PostCode": "AB24 4EE",
+  "PostCode": "AB24 2EE",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

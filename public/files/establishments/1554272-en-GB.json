@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Aldi",
-  "AddressLine2": "Earlsway",
-  "AddressLine3": "Halesowen",
+  "Geocode": {
+    "Latitude": "52.451542",
+    "Longitude": "-2.050646"
+  },
+  "AddressLine1": "Earlsway",
+  "AddressLine2": "Halesowen",
   "PostCode": "B63 3HR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
