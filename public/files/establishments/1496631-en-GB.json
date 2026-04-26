@@ -1,13 +1,13 @@
 {
   "FHRSID": 1496631,
-  "BusinessName": "Kanesha Food and Wine",
+  "BusinessName": "SSK Local Food and Wine",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000162887",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "514",
   "LocalAuthorityName": "Haringey",
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
   "Geocode": {
     "Latitude": "51.5946286",
@@ -18,12 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "N17 6UR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-02-02",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
