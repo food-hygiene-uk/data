@@ -1,13 +1,13 @@
 {
   "FHRSID": 348988,
-  "BusinessName": "Rice Bar",
+  "BusinessName": "Rice Bar - Be Box",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "45802",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
     "Latitude": "53.5368617",
@@ -17,12 +17,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL9 6HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-08-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
