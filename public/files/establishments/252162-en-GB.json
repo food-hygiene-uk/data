@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kensington Junior School",
+  "Geocode": {
+    "Latitude": "52.965126",
+    "Longitude": "-1.299395"
+  },
   "AddressLine2": "St Johns Road",
   "AddressLine4": "Ilkeston",
   "PostCode": "DE7 5PA",

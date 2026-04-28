@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "185",
   "LocalAuthorityName": "Maidstone",
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
   "Geocode": {
     "Latitude": "51.27281",
@@ -18,12 +18,8 @@
   "AddressLine3": "Kent",
   "PostCode": "ME14 1JH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-16",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": null
 }

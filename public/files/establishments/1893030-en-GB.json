@@ -1,6 +1,6 @@
 {
   "FHRSID": 1893030,
-  "BusinessName": "BD Swindon",
+  "BusinessName": "TNS Catering Ltd C/o Quvara Medical",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "25/00307/FOOD",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Dorcan",
   "AddressLine4": "Swindon",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

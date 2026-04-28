@@ -1,6 +1,6 @@
 {
   "FHRSID": 1931004,
-  "BusinessName": "West Borough Primary School",
+  "BusinessName": "West Borough Primary School And Nursery",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/500141/FOOD",
   "BusinessTypeID": 7845,
@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Greenway",
-  "AddressLine2": "Maidstone",
-  "AddressLine3": "Kent",
+  "Geocode": {
+    "Latitude": "51.268986",
+    "Longitude": "0.491208"
+  },
+  "AddressLine1": "West Borough Primary School",
+  "AddressLine2": "Greenway",
+  "AddressLine3": "Maidstone",
+  "AddressLine4": "Kent",
   "PostCode": "ME16 8QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

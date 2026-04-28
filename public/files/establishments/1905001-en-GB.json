@@ -1,6 +1,6 @@
 {
   "FHRSID": 1905001,
-  "BusinessName": "OCEAN CATCH FISH MONGER",
+  "BusinessName": "OCEAN CATCH FISH MONGERS",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "206944",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "London",
   "PostCode": "NW1 7JE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

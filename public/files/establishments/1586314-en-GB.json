@@ -1,6 +1,6 @@
 {
   "FHRSID": 1586314,
-  "BusinessName": "The Laurels",
+  "BusinessName": "Essex Care Consortium Ltd",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "FR/000002356",
   "BusinessTypeID": 5,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Station Road",
-  "AddressLine2": "Marks Tey",
-  "AddressLine3": "Essex",
+  "Geocode": {
+    "Latitude": "51.8800807",
+    "Longitude": "0.7812673"
+  },
+  "AddressLine1": "The Laurels",
+  "AddressLine2": "Station Road",
+  "AddressLine3": "Marks Tey",
+  "AddressLine4": "Essex",
   "PostCode": "CO6 1EE",
   "SchemeType": "FHRS",
   "RatingValue": "5",

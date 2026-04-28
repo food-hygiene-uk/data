@@ -1,6 +1,6 @@
 {
   "FHRSID": 1913834,
-  "BusinessName": "Scrum & Bun",
+  "BusinessName": "Scrum And Bun",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "088113/CP",
   "BusinessTypeID": 7846,
@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7869728",
+    "Longitude": "1.2217336"
+  },
+  "AddressLine1": "Sankence Farm",
+  "AddressLine2": "Cawston Road",
+  "AddressLine3": "Aylsham",
+  "AddressLine4": "Norfolk",
+  "PostCode": "NR11 6UW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.543169",
@@ -17,12 +17,12 @@
   "AddressLine2": "Wigan",
   "PostCode": "WN1 3AT",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-11-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

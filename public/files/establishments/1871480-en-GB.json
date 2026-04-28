@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Residential Home",
+  "Geocode": {
+    "Latitude": "53.00394",
+    "Longitude": "-1.216865"
+  },
+  "AddressLine1": "Wycar Leys Residential Home",
   "AddressLine2": "Snape Wood Road",
   "AddressLine4": "Nottingham",
   "PostCode": "NG6 7GH",

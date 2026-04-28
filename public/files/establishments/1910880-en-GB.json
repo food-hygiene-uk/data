@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "029",
   "LocalAuthorityName": "Fenland",
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
   "Geocode": null,
   "AddressLine1": "27 High Street",
   "AddressLine2": "Wisbech",
   "AddressLine3": "Cambridgeshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

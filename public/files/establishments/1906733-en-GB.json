@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": null,
   "AddressLine1": "26 Market Street",
@@ -16,8 +16,12 @@
   "AddressLine4": "Londonderry",
   "PostCode": "BT49 0AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

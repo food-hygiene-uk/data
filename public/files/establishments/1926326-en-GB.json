@@ -1,13 +1,13 @@
 {
   "FHRSID": 1926326,
-  "BusinessName": "Woke Catering Ltd @ O Bar St Albans",
+  "BusinessName": "Woke Catering Ltd @ The London Stone",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "FR/202500203",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "160",
   "LocalAuthorityName": "St Albans City",
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
   "Geocode": {
     "Latitude": "51.7521573",
@@ -18,8 +18,12 @@
   "AddressLine3": "Hertfordshire",
   "PostCode": "AL1 3JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

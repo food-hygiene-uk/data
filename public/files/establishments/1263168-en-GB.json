@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "801",
   "LocalAuthorityName": "Antrim and Newtownabbey",
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
   "Geocode": {
     "Latitude": "54.7040557861328",
@@ -19,8 +19,12 @@
   "AddressLine4": "Antrim",
   "PostCode": "BT39 0AH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

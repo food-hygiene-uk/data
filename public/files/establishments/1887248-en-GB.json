@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": {
     "Latitude": "54.2460651",
@@ -17,12 +17,12 @@
   "AddressLine4": "Helmsley",
   "PostCode": "YO62 5AB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-01-08",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

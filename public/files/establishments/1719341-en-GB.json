@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 314 Victoria Centre",
-  "AddressLine2": "Victoria Centre Upper Mall Nor",
+  "Geocode": {
+    "Latitude": "52.9577556",
+    "Longitude": "-1.1477769"
+  },
+  "AddressLine1": "314 Victoria Centre",
   "AddressLine4": "Nottingham",
+  "PostCode": "NG1 3QN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

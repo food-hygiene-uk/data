@@ -1,6 +1,6 @@
 {
   "FHRSID": 1906418,
-  "BusinessName": "Smash Cow Kitchen (Gibney Event Catering)",
+  "BusinessName": "Gibney Event Catering (Smash Cow Kitchen)",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "77973",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX16 2ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

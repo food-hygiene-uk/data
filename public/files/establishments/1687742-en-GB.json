@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "895",
   "LocalAuthorityName": "Herefordshire",
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
   "Geocode": {
     "Latitude": "52.203377",
@@ -17,12 +17,12 @@
   "AddressLine4": "Kington",
   "PostCode": "HR5 3BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-24",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

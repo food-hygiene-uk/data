@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.455488",
-    "Longitude": "-2.114653"
-  },
-  "AddressLine1": "Crown Point Tavern",
+  "Geocode": null,
+  "AddressLine1": "Hatters Food And Drinks Hall",
   "AddressLine2": "16 Market Street",
   "AddressLine3": "Denton",
   "AddressLine4": "Tameside",
   "PostCode": "M34 2XW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
