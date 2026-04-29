@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "085",
   "LocalAuthorityName": "Dorset",
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
     "Latitude": "51.0055885314941",
@@ -18,12 +18,12 @@
   "AddressLine4": "Dorset",
   "PostCode": "SP7 8EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-23",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

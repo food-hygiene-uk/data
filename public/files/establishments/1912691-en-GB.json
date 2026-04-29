@@ -1,9 +1,9 @@
 {
   "FHRSID": 1912691,
   "BusinessName": "The Grove Cake Co.",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "10097000028",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

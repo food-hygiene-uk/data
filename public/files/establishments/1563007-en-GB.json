@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "219",
   "LocalAuthorityName": "Boston",
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
   "Geocode": {
     "Latitude": "52.96744",
@@ -18,12 +18,12 @@
   "AddressLine4": "Frampton Holme",
   "PostCode": "PE20 1SF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-14",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

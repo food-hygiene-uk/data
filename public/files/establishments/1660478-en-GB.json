@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": {
     "Latitude": "50.345239",
@@ -19,12 +19,12 @@
   "AddressLine4": "Cornwall",
   "PostCode": "TR6 0JL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-14",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

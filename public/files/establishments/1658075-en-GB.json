@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "210",
   "LocalAuthorityName": "Charnwood",
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
   "Geocode": {
     "Latitude": "52.7525949",
@@ -17,12 +17,12 @@
   "AddressLine4": "Barrow Upon Soar",
   "PostCode": "LE12 8JS",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-03-06",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

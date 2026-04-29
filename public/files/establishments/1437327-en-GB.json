@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "161",
   "LocalAuthorityName": "Stevenage",
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
   "Geocode": {
     "Latitude": "51.9088491",
@@ -21,10 +21,6 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-09-11",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingDate": "2026-03-24",
+  "Scores": null
 }

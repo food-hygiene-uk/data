@@ -1,6 +1,6 @@
 {
   "FHRSID": 1842499,
-  "BusinessName": "Mikos Gyros \\& Zest Of India",
+  "BusinessName": "Mikos Gyros",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00171/COMM",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW9 8SA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

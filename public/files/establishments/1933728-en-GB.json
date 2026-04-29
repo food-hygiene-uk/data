@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ABI Minimarket",
-  "AddressLine2": "33 Royds Drive",
-  "AddressLine3": "New Mill",
-  "AddressLine4": "Holmfirth",
+  "Geocode": {
+    "Latitude": "53.577007",
+    "Longitude": "-1.764877"
+  },
+  "AddressLine1": "33 Royds Drive",
+  "AddressLine2": "New Mill",
+  "AddressLine3": "Holmfirth",
   "PostCode": "HD9 1LH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

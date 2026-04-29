@@ -1,6 +1,6 @@
 {
   "FHRSID": 1924539,
-  "BusinessName": "Cherry on top",
+  "BusinessName": "Cherry on Top",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "FR/000007132",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

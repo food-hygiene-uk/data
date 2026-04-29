@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916271,
-  "BusinessName": "The swan",
+  "BusinessName": "The Swan",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "FR/000007107",
   "BusinessTypeID": 7843,
@@ -13,14 +13,18 @@
     "Latitude": "52.1518709",
     "Longitude": "1.0533345"
   },
-  "AddressLine1": "The Swan (New) The Swan",
+  "AddressLine1": "The Swan. The Swan",
   "AddressLine2": "9 High Street",
   "AddressLine3": "Needham Market",
   "AddressLine4": "IPSWICH",
   "PostCode": "IP6 8AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

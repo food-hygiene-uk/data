@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916575,
-  "BusinessName": "Frecheville Community Association",
+  "BusinessName": "Frecheville Community Centre",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "11132",
   "BusinessTypeID": 7841,
@@ -18,8 +18,12 @@
   "AddressLine3": "Sheffield",
   "PostCode": "S12 4XT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

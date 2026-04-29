@@ -1,9 +1,9 @@
 {
   "FHRSID": 1916548,
   "BusinessName": "Oxford African Chopz and Food Limited",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "010014081091",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

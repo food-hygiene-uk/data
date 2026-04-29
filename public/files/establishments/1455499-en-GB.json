@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "266",
   "LocalAuthorityName": "Rushcliffe",
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
   "Geocode": {
     "Latitude": "52.8829928",
@@ -19,12 +19,12 @@
   "AddressLine4": "Nottingham",
   "PostCode": "NG12 5GE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

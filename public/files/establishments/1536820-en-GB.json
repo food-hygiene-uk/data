@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "889",
   "LocalAuthorityName": "Halton",
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
   "Geocode": {
     "Latitude": "53.371238",
@@ -18,12 +18,12 @@
   "AddressLine3": "Cheshire",
   "PostCode": "WA8 6LG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-05-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "164",
   "LocalAuthorityName": "Welwyn Hatfield",
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
   "Geocode": null,
   "AddressLine1": "Homerswood Farm",
@@ -16,8 +16,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "AL6 9AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
