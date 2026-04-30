@@ -1,13 +1,13 @@
 {
   "FHRSID": 1928923,
-  "BusinessName": "SMASH 'N' SIZZLE",
+  "BusinessName": "Smash n Sizzle",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "9108305",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3744965",
@@ -18,8 +18,12 @@
   "AddressLine4": "Wirral",
   "PostCode": "CH42 9PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "205",
   "LocalAuthorityName": "South Ribble",
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
   "Geocode": {
     "Latitude": "53.7319891",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "PR5 6QS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

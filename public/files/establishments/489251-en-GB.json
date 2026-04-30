@@ -1,6 +1,6 @@
 {
   "FHRSID": 489251,
-  "BusinessName": "Ye Olde Salutation",
+  "BusinessName": "Ye Olde Salutation Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "80457",
   "BusinessTypeID": 7843,
@@ -10,20 +10,15 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
   "Geocode": {
-    "Latitude": "52.158878326416",
-    "Longitude": "-2.87441897392273"
+    "Latitude": "52.158879",
+    "Longitude": "-2.874419"
   },
-  "AddressLine1": "Ye Olde Salutation Inn",
   "AddressLine2": "High Street",
   "AddressLine4": "Weobley",
   "PostCode": "HR4 8SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-16",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

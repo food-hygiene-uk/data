@@ -1,6 +1,6 @@
 {
   "FHRSID": 554432,
-  "BusinessName": "Martins",
+  "BusinessName": "Abbey News",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000201431",
   "BusinessTypeID": 4613,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.6862667",
-    "Longitude": "0.0216533"
+    "Latitude": "51.6864318847656",
+    "Longitude": "0.0216940008103848"
   },
-  "AddressLine1": "Abbey News",
-  "AddressLine2": "9 Hillhouse",
-  "AddressLine3": "Waltham Abbey",
-  "AddressLine4": "Essex",
+  "AddressLine1": "9 Hillhouse",
+  "AddressLine2": "Waltham Abbey",
+  "AddressLine3": "Essex",
   "PostCode": "EN9 3EL",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2024-07-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

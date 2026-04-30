@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "142",
   "LocalAuthorityName": "Test Valley",
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
   "Geocode": {
     "Latitude": "51.2088675",
@@ -18,8 +18,12 @@
   "AddressLine3": "Hampshire",
   "PostCode": "SP10 3BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

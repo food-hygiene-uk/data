@@ -1,6 +1,6 @@
 {
   "FHRSID": 1933001,
-  "BusinessName": "LUSH COFFEE",
+  "BusinessName": "Lush Coffee",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00229/COMM",
   "BusinessTypeID": 1,
@@ -13,11 +13,15 @@
     "Latitude": "51.6003302",
     "Longitude": "-0.1945451"
   },
-  "AddressLine1": "338A Regents Park Road",
+  "AddressLine1": "338 Regents Park Road London",
   "PostCode": "N3 2LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

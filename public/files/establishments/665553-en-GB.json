@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "701",
   "LocalAuthorityName": "Bedford",
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
     "Latitude": "52.086486",
@@ -19,12 +19,12 @@
   "AddressLine4": "Bedford",
   "PostCode": "MK45 3DT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-09-23",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

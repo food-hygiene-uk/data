@@ -13,11 +13,15 @@
     "Latitude": "51.5977528",
     "Longitude": "-0.2572174"
   },
-  "AddressLine1": "The Hub Montrose Playing Fields The Greenway",
+  "AddressLine1": "Montrose Playing Fields  The Greenway London",
   "PostCode": "NW9 5AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

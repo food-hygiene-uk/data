@@ -1,6 +1,6 @@
 {
   "FHRSID": 1920215,
-  "BusinessName": "Padel Social Club",
+  "BusinessName": "Padel Social Club - Bar And Shop",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "2026/00074/COMB",
   "BusinessTypeID": 7841,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW6 1TT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

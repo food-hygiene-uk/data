@@ -1,9 +1,9 @@
 {
   "FHRSID": 554303,
   "BusinessName": "Duchess Oil",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000201151",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
@@ -19,8 +19,12 @@
   "AddressLine4": "Sawbridgeworth",
   "PostCode": "CM21 9LE",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-10-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,16 +9,19 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lummaton Cross Torquay Devon",
+  "Geocode": {
+    "Latitude": "50.489206",
+    "Longitude": "-3.5371845"
+  },
+  "AddressLine1": "Lummaton Cross  Torquay",
   "PostCode": "TQ2 8ET",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-05",
+  "RatingDate": "2026-04-21",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 554137,
-  "BusinessName": "Martin's Retail Group",
+  "BusinessName": "Roshni News",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000200709",
   "BusinessTypeID": 4613,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
-    "Latitude": "51.686109",
-    "Longitude": "0.010926"
+    "Latitude": "51.686098",
+    "Longitude": "0.010886"
   },
-  "AddressLine1": "Roshni News",
-  "AddressLine2": "30 Honey Lane",
-  "AddressLine3": "Waltham Abbey",
-  "AddressLine4": "Essex",
+  "AddressLine1": "30 Honey Lane",
+  "AddressLine2": "Waltham Abbey",
+  "AddressLine3": "Essex",
   "PostCode": "EN9 3BT",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-02-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

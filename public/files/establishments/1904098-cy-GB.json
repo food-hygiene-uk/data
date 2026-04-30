@@ -1,13 +1,13 @@
 {
   "FHRSID": 1904098,
-  "BusinessName": "Humble catering",
+  "BusinessName": "Catering",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "800211",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "570",
   "LocalAuthorityName": "Bro Morgannwg",
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
     "Latitude": "51.437108",
@@ -18,8 +18,12 @@
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF5 6BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

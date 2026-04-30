@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "318",
   "LocalAuthorityName": "Nuneaton and Bedworth",
   "LocalAuthorityWebSite": "http://www.nuneatonandbedworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
   "Geocode": {
     "Latitude": "52.475376",
@@ -18,12 +18,12 @@
   "AddressLine4": "Bedworth",
   "PostCode": "CV12 0LQ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2019-01-07",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

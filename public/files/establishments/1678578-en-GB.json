@@ -1,29 +1,30 @@
 {
   "FHRSID": 1678578,
-  "BusinessName": "Abbey's South Shields",
+  "BusinessName": "Abbey's Balti Village",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "FR/000003233",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": {
-    "Latitude": "54.974854",
-    "Longitude": "-1.439357"
+    "Latitude": "54.9750943",
+    "Longitude": "-1.4389743"
   },
-  "AddressLine1": "501 Stanhope Road",
-  "AddressLine2": "South Shields",
-  "AddressLine3": "Tyne & Wear",
+  "AddressLine1": "Abbey's South Shields",
+  "AddressLine2": "501 Stanhope Road",
+  "AddressLine3": "South Shields",
+  "AddressLine4": "Tyne & Wear",
   "PostCode": "NE33 4QX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-26",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

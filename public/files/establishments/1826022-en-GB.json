@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "59a Winner Street Roundham With Hyde Paignton Torbay",
+  "Geocode": {
+    "Latitude": "50.4344455",
+    "Longitude": "-3.5719381"
+  },
+  "AddressLine1": "59a Winner Street  Paignton",
   "PostCode": "TQ3 3BW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1080850,
-  "BusinessName": "Loughton Cricket CLub",
+  "BusinessName": "Loughton Cricket Club",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000099932",
   "BusinessTypeID": 7843,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Loughton Cricket Club",
-  "AddressLine2": "The Uplands",
-  "AddressLine3": "Loughton",
-  "AddressLine4": "Essex",
+  "Geocode": {
+    "Latitude": "51.65111752",
+    "Longitude": "0.06113759"
+  },
+  "AddressLine1": "The Uplands",
+  "AddressLine2": "Loughton",
+  "AddressLine3": "Essex",
   "PostCode": "IG10 1NQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

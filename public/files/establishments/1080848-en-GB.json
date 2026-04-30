@@ -1,6 +1,6 @@
 {
   "FHRSID": 1080848,
-  "BusinessName": "They Bayleaf",
+  "BusinessName": "The Bayleaf",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000093226",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Bayleaf Unit 10 The Orchard",
+  "Geocode": {
+    "Latitude": "51.7218995",
+    "Longitude": "0.2556146"
+  },
+  "AddressLine1": "Unit 10 The Orchard",
   "AddressLine2": "Fyfield Business and Research Park",
   "AddressLine3": "Fyfield Road",
   "AddressLine4": "Ongar",

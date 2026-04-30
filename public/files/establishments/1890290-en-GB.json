@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
   "Geocode": {
-    "Latitude": "50.8397361",
-    "Longitude": "-0.778746"
+    "Latitude": "50.839628",
+    "Longitude": "-0.778708"
   },
-  "AddressLine1": "The Sty In Chi",
-  "AddressLine2": "47 North Street",
-  "AddressLine3": "Chichester",
-  "AddressLine4": "West Sussex",
+  "AddressLine1": "47 North Street",
+  "AddressLine2": "Chichester",
+  "AddressLine3": "West Sussex",
   "PostCode": "PO19 1NF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

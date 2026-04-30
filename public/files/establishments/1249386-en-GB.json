@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "289",
   "LocalAuthorityName": "Lichfield",
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
   "Geocode": {
     "Latitude": "52.6898361",
@@ -19,12 +19,12 @@
   "AddressLine4": "Staffordshire",
   "PostCode": "WS7 1NT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-12-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

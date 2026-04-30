@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "077",
   "LocalAuthorityName": "South Hams",
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
   "Geocode": {
     "Latitude": "50.3892789",
@@ -18,8 +18,12 @@
   "AddressLine3": "Ivybridge",
   "PostCode": "PL21 9AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

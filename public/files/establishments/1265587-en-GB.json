@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.hartlepool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "jane.kett@hartlepool.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Plot 3 Opposite The Green",
+  "Geocode": {
+    "Latitude": "54.6632908",
+    "Longitude": "-1.1883156"
+  },
+  "AddressLine1": "Plot 2 Opposite The Green",
   "AddressLine2": "The Front",
   "AddressLine3": "Seaton Carew",
   "AddressLine4": "Hartlepool",
