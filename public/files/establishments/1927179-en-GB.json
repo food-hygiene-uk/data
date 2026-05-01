@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.6819466",
+    "Longitude": "-3.3121162"
+  },
+  "AddressLine1": "Unit 11",
+  "AddressLine2": "The Old Sawmills",
+  "AddressLine3": "Hawkerland Road",
+  "AddressLine4": "Colaton Raleigh",
+  "PostCode": "EX10 0HP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

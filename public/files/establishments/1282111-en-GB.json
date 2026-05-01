@@ -7,23 +7,21 @@
   "LocalAuthorityCode": "856",
   "LocalAuthorityName": "South Gloucestershire",
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5354402",
-    "Longitude": "-2.3902654"
-  },
-  "AddressLine1": "33 Woodmans Road",
-  "AddressLine2": "Chipping Sodbury",
-  "AddressLine3": "South Gloucestershire",
-  "PostCode": "BS37 6DW",
+  "Geocode": null,
+  "AddressLine1": "Poole Court",
+  "AddressLine2": "Poole Court Drive",
+  "AddressLine3": "Yate",
+  "AddressLine4": "South Gloucestershire",
+  "PostCode": "BS37 5PP",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-12-04",
+  "RatingDate": "2026-03-26",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

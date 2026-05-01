@@ -1,13 +1,13 @@
 {
   "FHRSID": 1755081,
-  "BusinessName": "Texas Crispy",
+  "BusinessName": "Texas Crispy Chicken",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "78510",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.836165",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-08-26",
+  "RatingDate": "2026-04-02",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

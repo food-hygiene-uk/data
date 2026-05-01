@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.450882",
-    "Longitude": "-2.389002"
-  },
-  "AddressLine1": "Tog Hill House Farm",
-  "AddressLine2": "Freezing Hill Lane",
-  "AddressLine3": "Cold Ashton",
-  "AddressLine4": "South Gloucestershire",
-  "PostCode": "BS30 5RT",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.618532",
+    "Longitude": "-3.414041"
+  },
+  "AddressLine1": "3 Chapel Hill",
+  "AddressLine2": "Exmouth",
+  "PostCode": "EX8 1NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

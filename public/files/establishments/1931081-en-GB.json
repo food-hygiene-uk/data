@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "310",
   "LocalAuthorityName": "Runnymede",
   "LocalAuthorityWebSite": "http://www.runnymede.gov.uk/portal/site/runnymede",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
   "Geocode": {
     "Latitude": "51.429355",
@@ -17,8 +17,12 @@
   "AddressLine4": "Englefield Green",
   "PostCode": "TW20 0DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

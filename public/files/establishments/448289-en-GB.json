@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "514",
   "LocalAuthorityName": "Haringey",
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
   "Geocode": {
     "Latitude": "51.594697",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "N17 6RA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-09-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-26",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

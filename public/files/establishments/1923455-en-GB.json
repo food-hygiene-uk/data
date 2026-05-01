@@ -1,9 +1,9 @@
 {
   "FHRSID": 1923455,
   "BusinessName": "Woodville House",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "Cx1975",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "319",
   "LocalAuthorityName": "Rugby",
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine4": "Rugby",
   "PostCode": "CV22 7AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

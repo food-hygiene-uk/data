@@ -10,21 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
-    "Latitude": "51.5051112",
-    "Longitude": "-0.2575947"
+    "Latitude": "51.504801",
+    "Longitude": "-0.257339"
   },
   "AddressLine1": "20 Acton Park Estate",
   "AddressLine2": "The Vale",
   "AddressLine3": "Acton",
-  "AddressLine4": "Ealing",
   "PostCode": "W3 7QE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-31",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

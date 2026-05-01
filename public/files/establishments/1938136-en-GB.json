@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0154152",
+    "Longitude": "-0.4504262"
+  },
+  "AddressLine1": "Pizza and chicken planet",
+  "AddressLine2": "55A Station Road",
+  "AddressLine3": "Billingshurst",
+  "PostCode": "RH14 9SE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

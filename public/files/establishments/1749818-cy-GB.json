@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "563",
   "LocalAuthorityName": "Castell-nedd Port Talbot",
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
   "Geocode": {
     "Latitude": "51.6713027954102",
@@ -19,12 +19,12 @@
   "AddressLine4": "Neath Port Talbot",
   "PostCode": "SA10 8AP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-09-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-03-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

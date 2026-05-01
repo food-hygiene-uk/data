@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3595626",
-    "Longitude": "-1.2168949"
-  },
-  "AddressLine1": " 38 Fenwick Drive",
-  "AddressLine2": "Hillmorton",
-  "AddressLine4": "Rugby",
-  "PostCode": "CV21 4PQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

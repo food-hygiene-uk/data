@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "895",
   "LocalAuthorityName": "Herefordshire",
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
   "Geocode": {
     "Latitude": "52.1591353",
@@ -18,12 +18,12 @@
   "AddressLine4": "Leominster",
   "PostCode": "HR6 0PY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

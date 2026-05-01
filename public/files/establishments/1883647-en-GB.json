@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": null,
   "AddressLine1": "Mill Garages Ltd",
@@ -16,8 +16,12 @@
   "AddressLine4": "Tyne & Wear",
   "PostCode": "NE36 0BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }
