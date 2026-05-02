@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "159",
   "LocalAuthorityName": "North Hertfordshire",
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
   "Geocode": null,
   "AddressLine1": "Barkway Social Club Cambridge Road",
@@ -15,8 +15,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG8 8BS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

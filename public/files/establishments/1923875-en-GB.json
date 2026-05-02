@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Farm Shop Edge Farm",
+  "Geocode": {
+    "Latitude": "52.5320477",
+    "Longitude": "-2.6930416"
+  },
+  "AddressLine1": "Meat Processing Unit At Edge House",
   "AddressLine3": "East Wall",
   "AddressLine4": "Shropshire",
   "PostCode": "TF13 6DU",

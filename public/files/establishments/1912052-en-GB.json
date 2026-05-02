@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7187017",
+    "Longitude": "-0.8386544"
+  },
+  "AddressLine1": "The Bird In Hand",
+  "AddressLine2": "47 Station Road",
+  "AddressLine3": "Princes Risborough",
+  "AddressLine4": "Buckinghamshire",
+  "PostCode": "HP27 9DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

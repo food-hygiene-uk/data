@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8674566",
+    "Longitude": "-1.3977873"
+  },
+  "AddressLine1": "SUITE 5",
+  "AddressLine2": "SOUTH STREET CENTRE",
+  "AddressLine3": "16-20 SOUTH STREET",
+  "AddressLine4": "HYTHE",
+  "PostCode": "SO45 6EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1930752,
-  "BusinessName": "Cafe, Venetian Waterways",
+  "BusinessName": "The Little Venetian",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "67510",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR30 4EW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

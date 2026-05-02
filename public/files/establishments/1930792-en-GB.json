@@ -1,6 +1,6 @@
 {
   "FHRSID": 1930792,
-  "BusinessName": "Wetherspoons NEC Piazza @ NEC Halls Catering",
+  "BusinessName": "Wetherspoons - NEC Piazza",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP/113744",
   "BusinessTypeID": 1,
@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "pprotection@solihull.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4536987",
+    "Longitude": "-1.7186682"
+  },
+  "AddressLine1": "Weatherspoons In The Piazza",
+  "AddressLine2": "National Exhibition Centre",
+  "AddressLine3": "Pendigo Way",
+  "AddressLine4": "Solihull",
+  "PostCode": "B40 1NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

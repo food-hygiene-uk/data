@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4268601",
+    "Longitude": "-6.4326471"
+  },
+  "AddressLine1": "27 Carrickblacker Road",
+  "AddressLine2": "Edenderry",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT63 5AX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

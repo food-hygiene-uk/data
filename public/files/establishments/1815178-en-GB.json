@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Limes",
-  "AddressLine2": "Beckingham",
-  "AddressLine3": "Nottinghamshire",
+  "Geocode": {
+    "Latitude": "53.401406",
+    "Longitude": "-0.830363"
+  },
+  "AddressLine1": "Notts C C Beckingham Primary School",
+  "AddressLine2": "The Limes",
+  "AddressLine3": "Beckingham",
+  "AddressLine4": "Nottinghamshire",
   "PostCode": "DN10 4QN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

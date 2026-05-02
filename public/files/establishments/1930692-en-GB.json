@@ -10,15 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
   "Geocode": {
-    "Latitude": "54.18285298",
-    "Longitude": "-6.34700413"
+    "Latitude": "54.1837902",
+    "Longitude": "-6.3460562"
   },
-  "AddressLine1": "Killeavy Road",
+  "AddressLine1": "4 Whitegates",
+  "AddressLine2": "Lisdrumgullion",
   "AddressLine3": "Newry",
+  "AddressLine4": "Down",
   "PostCode": "BT35 6UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

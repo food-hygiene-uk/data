@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "861",
   "LocalAuthorityName": "Middlesbrough",
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
   "Geocode": {
     "Latitude": "54.569264",
@@ -17,12 +17,12 @@
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS1 4JG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -10,15 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
   "Geocode": {
-    "Latitude": "54.1003341674805",
-    "Longitude": "-6.25283813476563"
+    "Latitude": "54.100545",
+    "Longitude": "-6.252736"
   },
-  "AddressLine1": "Warrenpoint",
-  "AddressLine3": "Newry",
+  "AddressLine1": "4 Church Street",
+  "AddressLine2": "Ringmackilroy",
+  "AddressLine3": "Warrenpoint",
+  "AddressLine4": "Down",
   "PostCode": "BT34 3HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4053361",
+    "Longitude": "-6.4842292"
+  },
+  "AddressLine1": "92 Drumnasoo Road",
+  "AddressLine2": "Drumnasoo",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT62 4EX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

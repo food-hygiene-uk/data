@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5717404",
-    "Longitude": "-0.5340716"
-  },
-  "AddressLine1": "The Poplars",
-  "AddressLine2": "Brigg Road",
-  "AddressLine3": "Wressle",
-  "AddressLine4": "Broughton North Lincolnshire",
-  "PostCode": "DN20 0BU",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

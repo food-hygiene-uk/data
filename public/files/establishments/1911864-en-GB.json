@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4571102",
+    "Longitude": "-6.3332786"
+  },
+  "AddressLine1": "1 Ardboe Drive",
+  "AddressLine2": "Tannaghmore South",
+  "AddressLine3": "Lurgan",
+  "AddressLine4": "Armagh",
   "PostCode": "BT66 8HP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

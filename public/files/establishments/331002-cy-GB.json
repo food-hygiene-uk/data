@@ -1,29 +1,30 @@
 {
   "FHRSID": 331002,
-  "BusinessName": "Tanat Valley Inn",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessName": "Caffi Tanat",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000027472",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": {
-    "Latitude": "52.6544914245605",
-    "Longitude": "-2.73370409011841"
+    "Latitude": "52.8243135",
+    "Longitude": "-3.4066789"
   },
-  "AddressLine1": "Llangynog",
-  "AddressLine2": "Oswestry",
-  "AddressLine3": "Shropshire",
+  "AddressLine1": "Tanat Valley Inn",
+  "AddressLine2": "Llangynog",
+  "AddressLine3": "Oswestry",
+  "AddressLine4": "Shropshire",
   "PostCode": "SY10 0EX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2019-03-28",
+  "RatingDate": "2026-04-24",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

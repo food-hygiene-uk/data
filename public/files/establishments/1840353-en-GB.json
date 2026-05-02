@@ -1,6 +1,6 @@
 {
   "FHRSID": 1840353,
-  "BusinessName": "GGs Catering",
+  "BusinessName": "GG's Catering",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "0001069/FH",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

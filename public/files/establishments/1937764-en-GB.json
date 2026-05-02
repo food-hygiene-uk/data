@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5059091",
+    "Longitude": "-3.6231729"
+  },
+  "AddressLine1": "Unit 6 Denbury Diesels Business Park Totnes Road Abbotskerswell",
+  "PostCode": "TQ12 5NE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

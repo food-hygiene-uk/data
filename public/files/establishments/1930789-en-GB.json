@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "pprotection@solihull.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4504622",
+    "Longitude": "-1.7223478"
+  },
+  "AddressLine1": "National Exhibition Centre",
+  "AddressLine2": "Pendigo Way",
+  "AddressLine3": "Solihull",
+  "PostCode": "B40 1NT",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

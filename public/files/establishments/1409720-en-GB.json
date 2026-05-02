@@ -1,13 +1,13 @@
 {
   "FHRSID": 1409720,
-  "BusinessName": "Pome Ltd",
+  "BusinessName": "Covent Garden Fruit",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "137682",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.5813294",
@@ -18,12 +18,12 @@
   "AddressLine4": "Harefield",
   "PostCode": "UB9 6LX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

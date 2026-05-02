@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 12",
-  "AddressLine2": "Merry Hill Centre",
-  "AddressLine3": "Brierley Hill",
-  "PostCode": "DY5 1SY",
+  "Geocode": {
+    "Latitude": "52.479928",
+    "Longitude": "-2.109664"
+  },
+  "AddressLine1": "Merry Hill Centre",
+  "AddressLine2": "Brierley Hill",
+  "PostCode": "DY5 1SH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

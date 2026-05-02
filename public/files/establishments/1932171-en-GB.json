@@ -13,12 +13,17 @@
     "Latitude": "52.481746",
     "Longitude": "-2.1211876"
   },
-  "AddressLine1": "106 High Street",
-  "AddressLine2": "Brierley Hill",
+  "AddressLine1": "MW Seafoods and Butcher",
+  "AddressLine2": "106 High Street",
+  "AddressLine3": "Brierley Hill",
   "PostCode": "DY5 3AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-11-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

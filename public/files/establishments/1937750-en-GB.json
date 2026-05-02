@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "328",
   "LocalAuthorityName": "Mid Sussex",
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": {
     "Latitude": "51.0367868",
@@ -19,8 +19,12 @@
   "AddressLine4": "Haywards Heath",
   "PostCode": "RH17 6ET",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-27",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

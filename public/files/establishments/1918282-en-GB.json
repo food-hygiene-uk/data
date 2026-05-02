@@ -9,13 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": null,
-  "AddressLine1": "Forkhill Road",
-  "AddressLine3": "Newry",
-  "PostCode": "BT35 8WL",
+  "Geocode": {
+    "Latitude": "54.0947532653809",
+    "Longitude": "-6.18969583511353"
+  },
+  "AddressLine1": "Shore Road",
+  "AddressLine2": "Rosstrevor",
+  "AddressLine3": "Rostrevor",
+  "AddressLine4": "Down",
+  "PostCode": "BT34 3AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
