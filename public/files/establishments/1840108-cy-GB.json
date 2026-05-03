@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "564",
   "LocalAuthorityName": "Casnewydd",
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
   "Geocode": {
     "Latitude": "51.5782811",
@@ -18,8 +18,12 @@
   "AddressLine3": "South Wales",
   "PostCode": "NP20 2PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-03-28",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
