@@ -1,13 +1,13 @@
 {
-  "FHRSID": 1054049,
+  "FHRSID": 1940926,
   "BusinessName": "Caffi Soar",
   "BusinessType": "Restaurant/Cafe/Canteen",
-  "LocalAuthorityBusinessID": "765075",
+  "LocalAuthorityBusinessID": "801328",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "561",
-  "LocalAuthorityName": "Merthyr Tydfil",
+  "LocalAuthorityName": "Merthyr Tudful",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": {
     "Latitude": "51.749023",
@@ -17,12 +17,8 @@
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF47 8UB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2024-10-02",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_ratingawaited_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }
