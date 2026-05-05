@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
   "Geocode": {
     "Latitude": "53.509083",
@@ -18,12 +18,12 @@
   "AddressLine3": "Worsley",
   "PostCode": "M28 1AD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-30",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

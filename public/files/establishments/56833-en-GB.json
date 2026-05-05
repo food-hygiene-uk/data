@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": {
     "Latitude": "52.5408791",
@@ -17,12 +17,12 @@
   "AddressLine2": "Tipton",
   "PostCode": "DY4 0TB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

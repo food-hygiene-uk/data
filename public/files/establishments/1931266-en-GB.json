@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "315",
   "LocalAuthorityName": "Woking",
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
   "Geocode": {
     "Latitude": "51.319365",
@@ -16,8 +16,12 @@
   "AddressLine1": "40 - 42 Commercial WayWokingSurrey",
   "PostCode": "GU21 6EN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

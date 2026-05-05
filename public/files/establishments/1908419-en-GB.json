@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "133",
   "LocalAuthorityName": "Eastleigh",
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
   "Geocode": {
     "Latitude": "50.8898518",
@@ -16,8 +16,12 @@
   "AddressLine1": "71 PORTSMOUTH ROAD BURSLEDON SOUTHAMPTON SO31 8EP",
   "PostCode": "SO31 8EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

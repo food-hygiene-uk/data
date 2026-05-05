@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "206",
   "LocalAuthorityName": "West Lancashire",
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
   "Geocode": {
     "Latitude": "53.542626",
@@ -19,12 +19,12 @@
   "AddressLine4": "Skelmersdale",
   "PostCode": "WN8 9EN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-06-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-30",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
