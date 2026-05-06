@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 777 Milton Keynes Business Centre",
-  "AddressLine2": "Foxhunter Drive",
-  "AddressLine3": "Linford Wood",
-  "AddressLine4": "Milton Keynes",
+  "Geocode": {
+    "Latitude": "52.0596332",
+    "Longitude": "-0.7627287"
+  },
+  "AddressLine2": "Unit 777 Milton Keynes Business Centre",
+  "AddressLine3": "Foxhunter Drive",
+  "AddressLine4": "Linford Wood",
   "PostCode": "MK14 6GD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

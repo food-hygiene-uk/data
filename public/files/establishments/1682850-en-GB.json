@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "529",
   "LocalAuthorityName": "Sutton",
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
   "Geocode": {
     "Latitude": "51.3662835",
@@ -17,8 +17,12 @@
   "AddressLine2": "Sutton",
   "PostCode": "SM1 1NU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-10",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

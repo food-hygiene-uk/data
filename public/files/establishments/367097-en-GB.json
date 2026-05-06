@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Thorne Methodist Church King Street",
+  "Geocode": {
+    "Latitude": "53.612279",
+    "Longitude": "-0.9628045"
+  },
+  "AddressLine1": "Thorne Methodist Church 64A King Street",
   "AddressLine2": "Thorne",
   "AddressLine3": "Doncaster",
-  "PostCode": "DN8 5BD",
+  "PostCode": "DN8 5BA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

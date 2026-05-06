@@ -1,13 +1,13 @@
 {
   "FHRSID": 1711834,
-  "BusinessName": "Gym01 & Fuel Café",
+  "BusinessName": "Fuel Café @ Gym01",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "24/00096/CP",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
     "Latitude": "50.7984266",
@@ -19,8 +19,12 @@
   "AddressLine4": "Southsea",
   "PostCode": "PO4 8DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

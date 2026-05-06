@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5483396",
+    "Longitude": "-0.0736467"
+  },
   "AddressLine2": "RIDLEY ROAD MARKET PITCH NO. 23 GANGWAY",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
+  "PostCode": "E8 2NP",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",

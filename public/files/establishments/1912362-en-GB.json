@@ -13,14 +13,18 @@
     "Latitude": "52.0388734",
     "Longitude": "-0.7706468"
   },
-  "AddressLine1": "Technology House Flat 47",
+  "AddressLine1": "Flat 47 Technology House",
   "AddressLine2": "151 Silbury Boulevard",
   "AddressLine3": "Central Milton Keynes",
   "AddressLine4": "Milton Keynes",
-  "PostCode": "MK9 1LH",
+  "PostCode": "MK9 1GE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

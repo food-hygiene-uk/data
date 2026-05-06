@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.929333",
-    "Longitude": "1.244484"
-  },
-  "AddressLine1": "1 Abdy Avenue",
-  "AddressLine2": "Dovercourt",
-  "AddressLine3": "Harwich",
-  "AddressLine4": "Essex",
-  "PostCode": "CO12 4QP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2017-02-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

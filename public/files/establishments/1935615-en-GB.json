@@ -1,18 +1,24 @@
 {
   "FHRSID": 1935615,
   "BusinessName": "Breeze Motor Company",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "155770",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "872",
   "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.741153",
+    "Longitude": "-1.9557517"
+  },
+  "AddressLine2": "10 Yarrow Road",
+  "AddressLine3": "Poole",
+  "PostCode": "BH12 4QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

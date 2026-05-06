@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.74",
-    "Longitude": "-1.7366"
+    "Latitude": "50.73951",
+    "Longitude": "-1.73423"
   },
-  "AddressLine2": "20 Radar Way",
+  "AddressLine1": "Unit 20",
+  "AddressLine2": "2 Radar Way",
   "AddressLine3": "Christchurch",
   "PostCode": "BH23 4FL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

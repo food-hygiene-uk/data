@@ -1,6 +1,6 @@
 {
   "FHRSID": 1927831,
-  "BusinessName": "The Production Kitchen",
+  "BusinessName": "The Production Kitchen By Quince And Clover Ltd",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "26/00053/FOOD",
   "BusinessTypeID": 7839,
@@ -19,8 +19,12 @@
   "AddressLine4": "Long Compton",
   "PostCode": "CV36 5LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

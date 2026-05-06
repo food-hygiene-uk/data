@@ -1,6 +1,6 @@
 {
   "FHRSID": 1908616,
-  "BusinessName": "Cotswold Pantry",
+  "BusinessName": "Sweet Little Love",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00010/FOOD",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

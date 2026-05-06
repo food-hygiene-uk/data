@@ -1,6 +1,6 @@
 {
   "FHRSID": 1783097,
-  "BusinessName": "Russell Street Infant School",
+  "BusinessName": "Russell Street Infant School (Shirley Sports)",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "96022",
   "BusinessTypeID": 5,
@@ -18,8 +18,12 @@
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK11 1BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

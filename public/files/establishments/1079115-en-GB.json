@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8151741027832",
+    "Longitude": "-2.27660894393921"
+  },
   "AddressLine1": "The Tea Clipper 53A",
   "AddressLine3": "Milton Abbas",
   "AddressLine4": "Dorset",
+  "PostCode": "DT11 0BP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5656128",
+    "Longitude": "-0.0517791"
+  },
   "AddressLine2": "Unit 15 Bizart Studios 22 Grosvenor Way London",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
+  "PostCode": "E5 9ND",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

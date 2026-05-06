@@ -1,6 +1,6 @@
 {
   "FHRSID": 508859,
-  "BusinessName": "Crown Lodge Accommodation Limited",
+  "BusinessName": "Ramada Hotel Milton Keynes",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "69419",
   "BusinessTypeID": 1,
@@ -16,8 +16,12 @@
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK16 8DS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

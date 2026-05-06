@@ -1,29 +1,28 @@
 {
   "FHRSID": 543801,
-  "BusinessName": "MacDonalds\\*",
+  "BusinessName": "MacDonald Windsor Hotel",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "10/00127/COM",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "886",
   "LocalAuthorityName": "Windsor and Maidenhead",
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
   "Geocode": {
     "Latitude": "51.48222",
     "Longitude": "-0.607774"
   },
-  "AddressLine1": "MacDonald Windsor Hotel",
-  "AddressLine2": "23 High Street",
-  "AddressLine3": "Windsor",
+  "AddressLine1": "23 High Street",
+  "AddressLine2": "Windsor",
   "PostCode": "SL4 1LH",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-24",
+  "RatingDate": "2026-03-31",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

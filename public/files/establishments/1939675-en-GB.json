@@ -1,16 +1,19 @@
 {
   "FHRSID": 1939675,
   "BusinessName": "Fieldhead Farm",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "197626",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Fieldhead Farm Flappit Springs",
+  "Geocode": {
+    "Latitude": "53.8300895",
+    "Longitude": "-1.9238625"
+  },
+  "AddressLine1": "Flappit Springs",
   "AddressLine2": "Halifax Road",
   "AddressLine3": "Bingley",
   "PostCode": "BD21 5PT",

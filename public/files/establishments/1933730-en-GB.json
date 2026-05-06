@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "44 Carr Street",
+  "Geocode": {
+    "Latitude": "52.057262",
+    "Longitude": "1.1583413"
+  },
+  "AddressLine1": "46 Carr Street",
   "AddressLine2": "Ipswich",
   "AddressLine3": "Suffolk",
+  "PostCode": "IP4 1EW",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "127",
   "LocalAuthorityName": "Gloucester City",
   "LocalAuthorityWebSite": "http://www.gloucester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "community.wellbeing@gloucester.gov.uk",
   "Geocode": {
     "Latitude": "51.8653227",
@@ -17,8 +17,12 @@
   "AddressLine2": "Gloucester",
   "PostCode": "GL1 1RX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

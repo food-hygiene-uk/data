@@ -1,6 +1,6 @@
 {
   "FHRSID": 1925844,
-  "BusinessName": "Barry Uniting Church",
+  "BusinessName": "Wild Garden Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "800885",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF63 4AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

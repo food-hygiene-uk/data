@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.609004",
-    "Longitude": "-2.008431"
+    "Latitude": "50.7540568",
+    "Longitude": "-2.2141656"
   },
   "AddressLine1": "7 North Street",
-  "AddressLine3": "Langton Matravers",
+  "AddressLine3": "Wareham",
   "AddressLine4": "Dorset",
-  "PostCode": "BH19 3HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
