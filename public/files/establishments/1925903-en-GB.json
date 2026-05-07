@@ -1,6 +1,6 @@
 {
   "FHRSID": 1925903,
-  "BusinessName": "Cryer And Stott Cheese Maker",
+  "BusinessName": "Cryer And Stott Cheese Makers",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "25/01469/COMM",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

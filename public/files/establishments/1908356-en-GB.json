@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.103054",
-    "Longitude": "0.6730606"
-  },
-  "AddressLine1": "South House",
-  "AddressLine2": "Bells Lane",
-  "AddressLine3": "Glemsford",
-  "AddressLine4": "SUDBURY",
-  "PostCode": "CO10 7QA",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.0511862",
-    "Longitude": "-6.9507736"
+    "Latitude": "55.0512847900391",
+    "Longitude": "-6.95079898834229"
   },
   "AddressLine1": "25 Market Street",
-  "AddressLine2": "Newtown Limavady Alias Rathbrady Beg",
   "AddressLine3": "Limavady",
   "AddressLine4": "Londonderry",
   "PostCode": "BT49 0AB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-02",
-  "Scores": null
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

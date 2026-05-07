@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Greenleas Primary School Green Lane",
+  "Geocode": {
+    "Latitude": "53.4254786",
+    "Longitude": "-3.07497395"
+  },
+  "AddressLine1": "Green Lane",
   "AddressLine3": "Wallasey Village",
   "AddressLine4": "Wirral",
   "PostCode": "CH45 8LZ",

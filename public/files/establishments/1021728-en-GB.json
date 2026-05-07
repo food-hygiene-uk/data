@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3933929",
+    "Longitude": "-3.175849"
+  },
   "AddressLine1": "80 Market Street",
   "AddressLine3": "Hoylake",
   "AddressLine4": "Wirral",
+  "PostCode": "CH47 3BB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

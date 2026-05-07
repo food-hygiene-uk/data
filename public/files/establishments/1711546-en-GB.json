@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4251484",
+    "Longitude": "-3.0307716"
+  },
   "AddressLine1": "21 Webster Avenue",
   "AddressLine3": "Egremont",
   "AddressLine4": "Wirral",
+  "PostCode": "CH44 0AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 87047,
-  "BusinessName": "Fresh Kitchen",
+  "BusinessName": "Glodwick Primary School - Fresh Kitchen",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "2236",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL4 1AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

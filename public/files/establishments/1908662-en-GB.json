@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.387813",
+    "Longitude": "-3.0327166"
+  },
   "AddressLine1": "52 Oxton Road",
   "AddressLine3": "Birkenhead",
   "AddressLine4": "Wirral",
+  "PostCode": "CH41 2TW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

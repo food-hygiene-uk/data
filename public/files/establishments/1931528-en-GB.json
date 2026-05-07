@@ -1,9 +1,9 @@
 {
   "FHRSID": 1931528,
   "BusinessName": "A modo mio",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "195443",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "526",
   "LocalAuthorityName": "Redbridge",
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

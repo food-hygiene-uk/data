@@ -9,22 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4408191",
-    "Longitude": "-3.0451293"
-  },
-  "AddressLine1": "4 Marine Point",
-  "AddressLine2": "Kings Parade",
+  "Geocode": null,
+  "AddressLine1": "4 Marine Point Kings Parade",
   "AddressLine3": "New Brighton",
   "AddressLine4": "Wirral",
   "PostCode": "CH45 2PB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-05-12",
+  "RatingDate": "2026-04-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "1 Woodchurch Road",
+  "Geocode": {
+    "Latitude": "53.3852017",
+    "Longitude": "-3.0357605"
+  },
+  "AddressLine1": "First And Second Floor The Old Bakery 1 Woodchurch Road",
   "AddressLine3": "Oxton",
   "AddressLine4": "Wirral",
   "PostCode": "CH41 2XN",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1751292,
-  "BusinessName": "Yala Beirut",
+  "BusinessName": "Yalla Bites",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "126133",
   "BusinessTypeID": 7846,
@@ -9,20 +9,10 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.571177",
-    "Longitude": "-0.2575298"
-  },
-  "AddressLine2": "16 The Drive",
-  "AddressLine3": "Peterborough",
-  "PostCode": "PE3 6AJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.365689",
+    "Longitude": "-3.0089722"
+  },
   "AddressLine1": "Spinnaker House 2 Walter Smith Way",
   "AddressLine3": "Rock Ferry",
   "AddressLine4": "Wirral",
+  "PostCode": "CH42 4AH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

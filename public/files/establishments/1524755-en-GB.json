@@ -9,12 +9,14 @@
   "LocalAuthorityWebSite": "http://www.renfrewshire.gov.uk/foodhygieneinformation",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "b-serv.es@renfrewshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Paisley Pie Co Ltd",
+  "Geocode": {
+    "Latitude": "55.843259",
+    "Longitude": "-4.421698"
+  },
   "AddressLine2": "26 Bridge Street",
   "AddressLine3": "Paisley",
   "AddressLine4": "Renfrewshire",
-  "PostCode": "PA2 8EE",
+  "PostCode": "PA1 1XN",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

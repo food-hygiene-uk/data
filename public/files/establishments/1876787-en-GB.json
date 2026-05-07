@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7876135",
+    "Longitude": "-1.0809648"
+  },
+  "AddressLine1": "The Mews House",
+  "AddressLine2": "Albert Grove",
+  "AddressLine3": "Southsea",
+  "PostCode": "PO5 1NG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

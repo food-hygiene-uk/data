@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3611747500033",
-    "Longitude": "-3.00885194998469"
-  },
+  "Geocode": null,
   "AddressLine1": "Old Chester Road",
-  "AddressLine2": "Higher Bebington",
-  "AddressLine3": "Wirral",
+  "AddressLine3": "Higher Bebington",
+  "AddressLine4": "Wirral",
   "PostCode": "CH63 7LH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-08",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

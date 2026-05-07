@@ -1,13 +1,13 @@
 {
   "FHRSID": 1916754,
-  "BusinessName": "Shaftesbury Fisheries 2.0 Ltd",
+  "BusinessName": "Shaftesbury Fisheries",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/01378/COMM",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": {
     "Latitude": "53.8021254",
@@ -17,8 +17,12 @@
   "AddressLine2": "Leeds",
   "PostCode": "LS9 6NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

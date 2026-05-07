@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Ferry Lane",
-  "AddressLine3": "Stoneferry Road",
-  "AddressLine4": "Kingston Upon Hull",
+  "Geocode": {
+    "Latitude": "53.768684387207",
+    "Longitude": "-0.329043000936508"
+  },
+  "AddressLine1": "B And Q Retail Ltd",
+  "AddressLine2": "Stoneferry Road",
+  "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU7 0DJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

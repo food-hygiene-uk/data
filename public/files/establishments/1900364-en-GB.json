@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Peters Centre",
-  "AddressLine2": "St Peters Square",
+  "Geocode": {
+    "Latitude": "52.952701",
+    "Longitude": "-1.14898"
+  },
+  "AddressLine2": "13-14 Exchange Walk",
   "AddressLine4": "Nottingham",
-  "PostCode": "NG1 2NW",
+  "PostCode": "NG1 2NX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1153757,
-  "BusinessName": "Farleigh Uppingham School",
+  "BusinessName": "Lodestone House @ Farleigh Uppingham School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "102855",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Oakham",
   "PostCode": "LE15 9RW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
