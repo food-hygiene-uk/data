@@ -1,6 +1,6 @@
 {
   "FHRSID": 1937689,
-  "BusinessName": "The Larry's Mobile Bar Group",
+  "BusinessName": "Larry's Mobile Bar Group / District KCL",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00158/CP",
   "BusinessTypeID": 7843,
@@ -19,8 +19,12 @@
   "AddressLine4": "Chatham Docks",
   "PostCode": "ME4 4RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.579074",
-    "Longitude": "-1.885469"
+    "Latitude": "52.5779616",
+    "Longitude": "-1.8849422"
   },
   "AddressLine1": "188 Chester Road",
   "AddressLine2": "Streetly",
   "AddressLine3": "Sutton Coldfield",
+  "AddressLine4": "B74 3NA",
   "PostCode": "B74 3NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

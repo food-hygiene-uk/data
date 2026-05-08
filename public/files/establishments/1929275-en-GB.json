@@ -1,6 +1,6 @@
 {
   "FHRSID": 1929275,
-  "BusinessName": "Hector's",
+  "BusinessName": "Hector's (Wet Sales)",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2026/00052/COMM",
   "BusinessTypeID": 7843,
@@ -17,8 +17,12 @@
   "AddressLine2": "Brighton",
   "PostCode": "BN2 9QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

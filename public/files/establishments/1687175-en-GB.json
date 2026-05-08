@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "295",
   "LocalAuthorityName": "Tamworth",
   "LocalAuthorityWebSite": "http://www.tamworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@tamworth.gov.uk",
   "Geocode": {
     "Latitude": "52.6333004",
@@ -17,12 +17,12 @@
   "AddressLine4": "Tamworth",
   "PostCode": "B79 7LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

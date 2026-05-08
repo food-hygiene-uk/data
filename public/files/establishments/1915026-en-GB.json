@@ -1,6 +1,6 @@
 {
   "FHRSID": 1915026,
-  "BusinessName": "Dixy Chicken T/A Smokin Buns, Hello Sweet, Casa Mexicana",
+  "BusinessName": "Dixy Chicken Also T/A Smokin Buns, Hello Sweet",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00038/CP",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "Hampshire",
   "PostCode": "RG21 7NW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.616563",
+    "Longitude": "-2.003117"
+  },
+  "AddressLine1": "2A Harrison Street",
+  "AddressLine2": "Bloxwich",
+  "AddressLine3": "Walsall",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WS3 3HP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

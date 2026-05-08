@@ -7,22 +7,23 @@
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
-    "Latitude": "51.986962",
-    "Longitude": "-0.981351"
+    "Latitude": "51.9869535",
+    "Longitude": "-0.9813548"
   },
-  "AddressLine1": "4 Homeground",
-  "AddressLine2": "Buckingham",
-  "AddressLine3": "Buckinghamshire",
+  "AddressLine1": "Ground Floor",
+  "AddressLine2": "4 Homeground",
+  "AddressLine3": "Buckingham",
+  "AddressLine4": "Buckinghamshire",
   "PostCode": "MK18 1UH",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-02",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
     "ConfidenceInManagement": 10
   }

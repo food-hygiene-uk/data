@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": {
     "Latitude": "51.540242",
@@ -17,12 +17,12 @@
   "AddressLine3": "ROYAL WOOTTON BASSETT",
   "PostCode": "SN4 7BS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

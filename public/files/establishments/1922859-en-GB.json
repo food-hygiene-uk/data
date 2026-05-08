@@ -16,10 +16,15 @@
   "AddressLine1": "43-45 Park Street",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
+  "AddressLine4": "WS1 1LY",
   "PostCode": "WS1 1LY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

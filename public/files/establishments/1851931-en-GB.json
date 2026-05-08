@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": null,
   "AddressLine1": "Hildyard Arms Colburn Lane",
@@ -16,10 +16,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "0",
   "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-10-10",
+  "RatingDate": "2026-04-02",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 25,
+    "Structural": 5,
+    "ConfidenceInManagement": 30
   }
 }

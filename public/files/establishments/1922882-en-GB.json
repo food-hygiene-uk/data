@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.57459",
-    "Longitude": "-2.004161"
+    "Latitude": "52.5744526",
+    "Longitude": "-2.0037238"
   },
   "AddressLine1": "73-75 Darlaston Road",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
+  "AddressLine4": "WS2 9RD",
   "PostCode": "WS2 9RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

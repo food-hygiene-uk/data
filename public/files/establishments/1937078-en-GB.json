@@ -1,6 +1,6 @@
 {
   "FHRSID": 1937078,
-  "BusinessName": "Hawkswood Primary",
+  "BusinessName": "Hawkswood Primary & Secondary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "9102947",
   "BusinessTypeID": 7845,
@@ -15,8 +15,12 @@
   "AddressLine4": "London",
   "PostCode": "E4 7RT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

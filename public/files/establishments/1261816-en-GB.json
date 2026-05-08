@@ -9,13 +9,21 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6288856",
+    "Longitude": "-2.0103462"
+  },
+  "AddressLine1": "4 Muirfield Close",
+  "AddressLine2": "Bloxwich",
+  "AddressLine3": "Walsall",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WS3 3XF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-06-23",
+  "RatingDate": "2026-03-24",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 0,
     "ConfidenceInManagement": 5
   }

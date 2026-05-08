@@ -10,20 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.591409",
-    "Longitude": "-1.985992"
+    "Latitude": "52.5913214",
+    "Longitude": "-1.985845"
   },
   "AddressLine1": "83 Stafford Street",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
+  "AddressLine4": "WS2 8DU",
   "PostCode": "WS2 8DU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

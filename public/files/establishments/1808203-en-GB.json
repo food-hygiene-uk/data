@@ -9,11 +9,18 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1793785095215",
+    "Longitude": "-3.33103203773499"
+  },
+  "AddressLine1": "Brendon Road",
+  "AddressLine2": "Watchet",
+  "AddressLine3": "Somerset",
+  "PostCode": "TA23 0AU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-06",
+  "RatingDate": "2026-04-14",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,

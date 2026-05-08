@@ -1,13 +1,13 @@
 {
   "FHRSID": 1911974,
   "BusinessName": "Eattok3 Buns N Things",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "CP26_000060",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": null,
   "AddressLine1": "Tower Garage",
@@ -16,8 +16,12 @@
   "AddressLine4": "Cornwall",
   "PostCode": "TR7 1LY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
