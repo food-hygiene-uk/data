@@ -13,14 +13,18 @@
     "Latitude": "52.185055",
     "Longitude": "0.1721909"
   },
-  "AddressLine1": "5 High Street",
+  "AddressLine1": "5 - 7 High Street",
   "AddressLine2": "Cherry Hinton",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB1 9HY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

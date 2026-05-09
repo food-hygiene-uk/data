@@ -1,18 +1,28 @@
 {
   "FHRSID": 1904587,
   "BusinessName": "Dolly's Coffee",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "83984",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "501",
   "LocalAuthorityName": "Barking and Dagenham",
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5521735",
+    "Longitude": "0.1384576"
+  },
+  "AddressLine2": "35 Beverley Road",
+  "AddressLine4": "Dagenham",
+  "PostCode": "RM9 5HR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

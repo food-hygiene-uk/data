@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Development Plot 581281 309181 Lynn Road",
+  "Geocode": {
+    "Latitude": "52.6495852",
+    "Longitude": "0.678103"
+  },
+  "AddressLine1": "77 Lynn Road",
   "AddressLine3": "Swaffham",
-  "AddressLine4": "Norfolk",
+  "PostCode": "PE37 7BB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

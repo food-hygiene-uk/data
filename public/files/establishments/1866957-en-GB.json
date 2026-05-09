@@ -1,6 +1,6 @@
 {
   "FHRSID": 1866957,
-  "BusinessName": "Lili Tea",
+  "BusinessName": "Tea Lili",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "137059",
   "BusinessTypeID": 7846,
@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
-    "Latitude": "52.2589023886745",
-    "Longitude": "-0.533310554201971"
+    "Latitude": "52.1392097473145",
+    "Longitude": "-0.463690012693405"
   },
-  "AddressLine3": "Melchbourne",
-  "AddressLine4": "Bedford",
+  "AddressLine3": "Bedford",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

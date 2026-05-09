@@ -1,6 +1,6 @@
 {
   "FHRSID": 1924991,
-  "BusinessName": "The Hills Academy",
+  "BusinessName": "Hills Lower School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "32463",
   "BusinessTypeID": 7845,
@@ -9,14 +9,20 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hills Lower School",
+  "Geocode": {
+    "Latitude": "52.14860848",
+    "Longitude": "-0.44566819"
+  },
   "AddressLine2": "Stancliffe Road",
   "AddressLine3": "Bedford",
   "PostCode": "MK41 9AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

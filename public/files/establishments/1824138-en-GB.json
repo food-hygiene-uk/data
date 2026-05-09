@@ -1,6 +1,6 @@
 {
   "FHRSID": 1824138,
-  "BusinessName": "TG Convenience Store Limited Sportsman Texaco Service Station",
+  "BusinessName": "TG Convenience Store Sportsman Texaco Service Station",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "131663",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "Nottingham",
   "PostCode": "NG2 3HE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

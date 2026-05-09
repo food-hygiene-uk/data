@@ -18,8 +18,12 @@
   "AddressLine4": "Dagenham",
   "PostCode": "RM9 4QS",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -1,25 +1,29 @@
 {
   "FHRSID": 1520577,
-  "BusinessName": "American Style Pizza and Grill",
+  "BusinessName": "American Style Pizza and Grill and Dessert",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000678147",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "1187 Bristol Road South Northfield",
-  "AddressLine2": "Birmingham",
+  "Geocode": {
+    "Latitude": "52.405163",
+    "Longitude": "-1.97917"
+  },
+  "AddressLine1": "1187 Bristol Road South",
+  "AddressLine2": "Northfield",
+  "AddressLine3": "Birmingham",
   "PostCode": "B31 2SL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2004-12-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

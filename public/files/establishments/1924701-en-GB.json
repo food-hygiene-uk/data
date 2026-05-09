@@ -1,6 +1,6 @@
 {
   "FHRSID": 1924701,
-  "BusinessName": "Megs_cakesandbakesx",
+  "BusinessName": "Megs Cake And Bakes",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/0055",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "PE34 4LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

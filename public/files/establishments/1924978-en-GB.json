@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
-    "Latitude": "52.135081",
-    "Longitude": "-0.459374"
+    "Latitude": "52.1350747",
+    "Longitude": "-0.4600841"
   },
-  "AddressLine1": "Embankment Hotel",
   "AddressLine2": "6 The Embankment",
   "AddressLine3": "Bedford",
   "PostCode": "MK40 3PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

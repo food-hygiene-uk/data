@@ -1,6 +1,6 @@
 {
   "FHRSID": 1787676,
-  "BusinessName": "ClubsComplete LTD at Wolsey House Primary School",
+  "BusinessName": "Clubs Complete @ Wolsey House Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "24/FST/066",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicester",
   "PostCode": "LE4 2BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
