@@ -1,13 +1,13 @@
 {
   "FHRSID": 1914651,
-  "BusinessName": "Lulus",
+  "BusinessName": "Lulu's",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00097/FOOD",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
     "Latitude": "51.5418219",
@@ -19,8 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "E15 1XE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
