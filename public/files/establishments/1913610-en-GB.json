@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.222603",
-    "Longitude": "-0.330656"
+    "Latitude": "51.222604",
+    "Longitude": "-0.330657"
   },
+  "AddressLine1": "The Garth Nursing Home",
   "AddressLine2": "Tower Hill Road",
   "AddressLine4": "Dorking",
   "PostCode": "RH4 2AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

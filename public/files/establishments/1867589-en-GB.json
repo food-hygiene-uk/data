@@ -7,18 +7,18 @@
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0718369",
-    "Longitude": "-1.7964377"
-  },
-  "AddressLine1": "THE AVON BREWERY CASTLE STREET",
+  "Geocode": null,
+  "AddressLine1": "75 CASTLE STREET",
   "AddressLine3": "SALISBURY",
-  "PostCode": "SP1 3SP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

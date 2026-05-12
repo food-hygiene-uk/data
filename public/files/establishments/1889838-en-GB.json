@@ -1,23 +1,27 @@
 {
   "FHRSID": 1889838,
-  "BusinessName": "Paks Cafe",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Rolys Cafe",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "25/00590/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.593119",
     "Longitude": "-0.2542371"
   },
-  "AddressLine1": "70 Colindale Avenue",
+  "AddressLine1": "70 Colindale Avenue London",
   "PostCode": "NW9 5ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.980662",
-    "Longitude": "-0.9731912"
-  },
-  "AddressLine1": "The Coach House",
-  "AddressLine2": "6 Kirk Hill",
-  "AddressLine3": "East Bridgford",
-  "AddressLine4": "Nottinghamshire",
-  "PostCode": "NG13 8PE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

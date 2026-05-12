@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "204",
   "LocalAuthorityName": "Rossendale",
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
   "Geocode": null,
   "AddressLine1": "Unit 4",
@@ -16,8 +16,12 @@
   "AddressLine4": "Rawtenstall",
   "PostCode": "BB4 7UW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
