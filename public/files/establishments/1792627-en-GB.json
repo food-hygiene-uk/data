@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "072",
   "LocalAuthorityName": "East Devon",
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
   "Geocode": {
     "Latitude": "50.7171",
@@ -17,12 +17,12 @@
   "AddressLine2": "Seaton",
   "PostCode": "EX12 2ST",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-07",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

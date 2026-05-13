@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.7054746",
-    "Longitude": "-3.1869512"
-  },
-  "AddressLine1": "BINSEY LODGE",
-  "AddressLine2": "IREBY",
-  "AddressLine4": "WIGTON",
-  "PostCode": "CA7 1HH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

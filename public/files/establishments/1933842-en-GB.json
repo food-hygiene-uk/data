@@ -1,9 +1,9 @@
 {
   "FHRSID": 1933842,
   "BusinessName": "Anderson's Sweet Shop",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "10095814275",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

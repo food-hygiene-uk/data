@@ -1,6 +1,6 @@
 {
   "FHRSID": 1546339,
-  "BusinessName": "Old Town J & I School",
+  "BusinessName": "Old Town Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "21/00134/COMM",
   "BusinessTypeID": 7845,
@@ -9,19 +9,22 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Old Town Primary School",
-  "AddressLine2": "Billy Lane",
-  "AddressLine3": "Old Town",
-  "AddressLine4": "Hebden Bridge",
+  "Geocode": {
+    "Latitude": "53.7506572",
+    "Longitude": "-1.99719245"
+  },
+  "AddressLine1": "Billy Lane",
+  "AddressLine2": "Old Town",
+  "AddressLine3": "Hebden Bridge",
+  "AddressLine4": "Calderdale",
   "PostCode": "HX7 8RY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-01",
+  "RatingDate": "2026-05-07",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3610682",
+    "Longitude": "-1.2668052"
+  },
+  "AddressLine1": "5 Commonside Cottage",
+  "AddressLine2": "Sheffield Road",
+  "AddressLine3": "Todwick",
+  "AddressLine4": "Sheffield",
+  "PostCode": "S26 1DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

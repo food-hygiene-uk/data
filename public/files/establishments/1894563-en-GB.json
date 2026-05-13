@@ -1,6 +1,6 @@
 {
   "FHRSID": 1894563,
-  "BusinessName": "Withington local",
+  "BusinessName": "Withington Local Off Licence One Stop Convenience Shop",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "AC102025-24571",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M20 3BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

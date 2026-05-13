@@ -10,16 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
   "Geocode": {
-    "Latitude": "51.5223503112793",
-    "Longitude": "-0.207487002015114"
+    "Latitude": "51.5222266",
+    "Longitude": "-0.2076131"
   },
-  "AddressLine1": "Shop",
-  "AddressLine2": "63 Golborne Road",
-  "AddressLine3": "LONDON",
+  "AddressLine1": "63 Golborne Rd London",
   "PostCode": "W10 5NR",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

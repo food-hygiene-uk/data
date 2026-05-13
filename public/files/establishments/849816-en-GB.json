@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": {
-    "Latitude": "51.688433",
-    "Longitude": "-1.201036"
-  },
-  "AddressLine1": "27 Nuneham Courtenay",
-  "AddressLine3": "Nuneham Courtenay",
-  "AddressLine4": "OXFORD",
-  "PostCode": "OX44 9NY",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

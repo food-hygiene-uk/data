@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3336465",
-    "Longitude": "1.4207952"
-  },
-  "AddressLine1": "FrenchCrepes Flat 5",
-  "AddressLine2": "1 Camden Road",
-  "AddressLine3": "Ramsgate",
-  "AddressLine4": "Kent",
-  "PostCode": "CT11 8HW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

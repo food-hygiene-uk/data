@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6978492",
+    "Longitude": "-1.6332364"
+  },
+  "AddressLine1": "Crescent Works",
+  "AddressLine2": "Meadow Lane",
+  "AddressLine3": "Dewsbury",
+  "PostCode": "WF13 2BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

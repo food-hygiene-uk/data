@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "B?ho",
+  "Geocode": {
+    "Latitude": "51.3698744",
+    "Longitude": "-0.364521"
+  },
+  "AddressLine1": "Buho",
   "AddressLine2": "51 High Street",
   "AddressLine3": "Esher",
   "AddressLine4": "Surrey",

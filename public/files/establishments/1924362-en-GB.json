@@ -1,9 +1,9 @@
 {
   "FHRSID": 1924362,
   "BusinessName": "Camborne Fish & Chips",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "141685",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "516",
   "LocalAuthorityName": "Havering",
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine2": "Romford",
   "PostCode": "RM3 8RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-01-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

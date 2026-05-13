@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
   "Geocode": {
-    "Latitude": "53.5136252",
-    "Longitude": "-2.1962702"
+    "Latitude": "53.5124475",
+    "Longitude": "-2.1964004"
   },
-  "AddressLine2": "1 Kenyon Lane",
+  "AddressLine2": "57A Kenyon Lane",
   "AddressLine3": "Manchester",
   "PostCode": "M40 9JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

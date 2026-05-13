@@ -1,9 +1,9 @@
 {
   "FHRSID": 1926417,
   "BusinessName": "Baked By Bedazzled",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00028/PRIV",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "161",
   "LocalAuthorityName": "Stevenage",
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

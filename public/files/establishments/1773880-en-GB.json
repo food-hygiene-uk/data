@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.0850964",
@@ -17,8 +17,12 @@
   "AddressLine3": "Tenterden",
   "PostCode": "TN30 6TL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-17",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

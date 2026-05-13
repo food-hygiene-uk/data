@@ -1,6 +1,6 @@
 {
   "FHRSID": 1439862,
-  "BusinessName": "House of Dishes@ Budgens Islington",
+  "BusinessName": "House of Dishes",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000290833",
   "BusinessTypeID": 7844,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "House of Dishes@ Budgens Islington",
+  "Geocode": {
+    "Latitude": "51.5435748",
+    "Longitude": "-0.103485"
+  },
+  "AddressLine1": "House of Dishes",
   "AddressLine2": "213-215 Upper Street",
   "AddressLine3": "London",
-  "AddressLine4": "N1 1RL",
   "PostCode": "N1 1RL",
   "SchemeType": "FHRS",
   "RatingValue": "0",

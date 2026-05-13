@@ -1,6 +1,6 @@
 {
   "FHRSID": 1924774,
-  "BusinessName": "KAI CB LTD",
+  "BusinessName": "Chilli Bite",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9214793",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE29 3NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

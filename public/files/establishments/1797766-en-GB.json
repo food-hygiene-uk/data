@@ -1,13 +1,13 @@
 {
   "FHRSID": 1797766,
-  "BusinessName": "Reverend James",
+  "BusinessName": "The Reverend James",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "171629",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Swansea",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.667291",
@@ -17,12 +17,12 @@
   "AddressLine4": "Loughor",
   "PostCode": "SA4 6RZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-02-17",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

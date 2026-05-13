@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3382013",
+    "Longitude": "1.2401492"
+  },
+  "AddressLine1": "9 Cleven Lodge",
+  "AddressLine2": "Sarre Court",
+  "AddressLine3": "Sarre",
+  "AddressLine4": "Kent",
+  "PostCode": "CT7 0LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

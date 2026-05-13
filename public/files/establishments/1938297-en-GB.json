@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.384589",
+    "Longitude": "1.4317542"
+  },
+  "AddressLine1": "Salitalyuk",
+  "AddressLine2": "84 Percy Avenue",
+  "AddressLine3": "Broadstairs",
+  "AddressLine4": "Kent",
+  "PostCode": "CT10 3LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "22 Church Street",
-  "AddressLine3": "Shildon",
-  "AddressLine4": "United Kingdom",
-  "PostCode": "DL3 1DX",
+  "Geocode": {
+    "Latitude": "54.6340831",
+    "Longitude": "-1.6464288"
+  },
+  "AddressLine1": "22 CHURCH STREET",
+  "AddressLine3": "SHILDON",
+  "PostCode": "DL4 1DX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

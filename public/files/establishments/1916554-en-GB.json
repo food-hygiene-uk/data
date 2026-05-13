@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916554,
-  "BusinessName": "Savvy Baykes",
+  "BusinessName": "Savvy Bakes",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "185849098072395",
   "BusinessTypeID": 7846,
@@ -13,8 +13,12 @@
   "AddressLine1": "Baykes Ltd  Brokenbury Quarry  Dartmouth Road Churston Ferrers Brixham",
   "PostCode": "TQ5 0LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

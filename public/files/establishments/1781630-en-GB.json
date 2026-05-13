@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "329",
   "LocalAuthorityName": "Worthing",
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
   "Geocode": {
-    "Latitude": "50.8120796",
-    "Longitude": "-0.3683172"
+    "Latitude": "50.8120664",
+    "Longitude": "-0.3682573"
   },
-  "AddressLine1": "7 - 8 Warwick Lane",
+  "AddressLine1": "6 - 8 Warwick Lane",
   "AddressLine3": "Worthing",
   "AddressLine4": "West Sussex",
   "PostCode": "BN11 3DP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-02",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
