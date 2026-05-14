@@ -1,6 +1,6 @@
 {
   "FHRSID": 1746234,
-  "BusinessName": "NFK LYNDHURST LTD",
+  "BusinessName": "ELYSE",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "51471",
   "BusinessTypeID": 1,
@@ -9,20 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.872471",
-    "Longitude": "-1.577128"
-  },
-  "AddressLine1": "16 HIGH STREET",
-  "AddressLine2": "LYNDHURST",
-  "PostCode": "SO43 7BD",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-09",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

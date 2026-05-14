@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "563",
   "LocalAuthorityName": "Neath Port Talbot",
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
   "Geocode": {
     "Latitude": "51.5935592651367",
@@ -18,12 +18,12 @@
   "AddressLine4": "Neath Port Talbot",
   "PostCode": "SA13 1JB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-06-12",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-04-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

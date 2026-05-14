@@ -1,6 +1,6 @@
 {
   "FHRSID": 1929930,
-  "BusinessName": "Fox & Pine - The Thirst Responder",
+  "BusinessName": "Fox & Pine - The Thirst Responder - V601 DRB",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "71668",
   "BusinessTypeID": 7846,
@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5651083",
-    "Longitude": "-2.1154459"
-  },
-  "AddressLine1": "Unit 1",
-  "AddressLine2": "Coin Street",
-  "AddressLine3": "Royton",
-  "AddressLine4": "Oldham",
-  "PostCode": "OL2 6EE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

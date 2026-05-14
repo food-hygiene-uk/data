@@ -7,14 +7,18 @@
   "LocalAuthorityCode": "081",
   "LocalAuthorityName": "West Devon",
   "LocalAuthorityWebSite": "http://www.westdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@swdevon.gov.uk",
   "Geocode": null,
   "AddressLine1": "South Zeal",
   "PostCode": "EX20 2JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

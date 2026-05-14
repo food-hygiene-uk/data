@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.869071",
+    "Longitude": "-0.864287"
+  },
   "AddressLine1": "Common Road",
   "AddressLine2": "Funtington",
   "AddressLine3": "Chichester",
+  "AddressLine4": "West Sussex",
   "PostCode": "PO18 9LL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1031121,
-  "BusinessName": "Mellors Catering Services at Beckfoot Phoenix Special School",
+  "BusinessName": "Mellors Catering Services at Beckfoot Phoenix Primary Special School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "219820",
   "BusinessTypeID": 7845,
@@ -17,8 +17,12 @@
   "AddressLine3": "Keighley",
   "PostCode": "BD22 6HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1125207,
-  "BusinessName": "Little Oaks Preschool",
+  "BusinessName": "Orchard Wrap Around Care",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "94012",
   "BusinessTypeID": 7841,
@@ -17,8 +17,12 @@
   "AddressLine4": "Lapworth",
   "PostCode": "B94 6LR",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-03-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.broxtowe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@broxtowe.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9284779",
+    "Longitude": "-1.2132108"
+  },
+  "AddressLine1": "The Jesse Boot",
+  "AddressLine2": "85 High Road",
+  "AddressLine3": "Beeston",
+  "AddressLine4": "Nottinghamshire",
+  "PostCode": "NG9 2LE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

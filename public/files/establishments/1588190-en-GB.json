@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "204",
   "LocalAuthorityName": "Rossendale",
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
   "Geocode": {
     "Latitude": "53.6529389",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "OL12 8UJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-31",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-08",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
