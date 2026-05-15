@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "117",
   "LocalAuthorityName": "Maldon",
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
   "Geocode": {
     "Latitude": "51.630037",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CM0 8HF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-08-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

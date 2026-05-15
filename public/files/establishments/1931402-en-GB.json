@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.south-ayrshire.gov.uk/environmentalhealth/foodsafety/fhis.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@south-ayrshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.5439742",
+    "Longitude": "-4.6703228"
+  },
+  "AddressLine1": "159 Templehill",
+  "AddressLine2": "Troon",
+  "AddressLine3": "South Ayrshire",
+  "PostCode": "KA10 6BH",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2026-03-30",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": null
 }

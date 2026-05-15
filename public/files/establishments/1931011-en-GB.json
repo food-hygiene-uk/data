@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2812135",
-    "Longitude": "0.526392"
-  },
-  "AddressLine1": "68 Waterlow Road",
-  "AddressLine2": "Maidstone",
-  "AddressLine3": "Kent",
-  "PostCode": "ME14 2TP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

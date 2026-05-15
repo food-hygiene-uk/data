@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2057129",
+    "Longitude": "-2.1798735"
+  },
+  "AddressLine1": "30 THREE HORSESHOES WALK",
+  "AddressLine3": "WARMINSTER",
+  "PostCode": "BA12 9BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

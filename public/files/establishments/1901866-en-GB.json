@@ -1,6 +1,6 @@
 {
   "FHRSID": 1901866,
-  "BusinessName": "The Foudry",
+  "BusinessName": "The Foundry",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "876388",
   "BusinessTypeID": 7841,
@@ -18,8 +18,12 @@
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST4 1JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

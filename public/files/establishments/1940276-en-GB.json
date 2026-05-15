@@ -10,12 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": null,
-  "AddressLine1": "JENNINGS BROS NURSTEED ROAD",
-  "AddressLine3": "DEVIZES",
-  "PostCode": "SN10 3AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

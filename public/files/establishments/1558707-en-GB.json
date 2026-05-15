@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "117",
   "LocalAuthorityName": "Maldon",
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
   "Geocode": null,
   "AddressLine1": "Braxted Farm Shop",
@@ -16,8 +16,12 @@
   "AddressLine4": "Colchester",
   "PostCode": "CO5 0QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

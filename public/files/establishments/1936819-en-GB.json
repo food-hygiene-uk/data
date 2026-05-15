@@ -1,6 +1,6 @@
 {
   "FHRSID": 1936819,
-  "BusinessName": "Billy Bob's Feather and Furnace",
+  "BusinessName": "Billy Bob's Feather and Furnace Greek",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "242828",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

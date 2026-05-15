@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "563",
   "LocalAuthorityName": "Neath Port Talbot",
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
   "Geocode": null,
   "AddressLine1": "Unit 1 The Trading Post",
@@ -16,8 +16,12 @@
   "AddressLine4": "Ammanford",
   "PostCode": "SA18 1EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

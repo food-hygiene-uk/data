@@ -1,13 +1,13 @@
 {
   "FHRSID": 1910529,
   "BusinessName": "Afghan & Turkish Restaurant",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx21349",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
   "Geocode": {
     "Latitude": "52.4181755",
@@ -17,8 +17,12 @@
   "AddressLine4": "Coventry",
   "PostCode": "CV1 4FT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

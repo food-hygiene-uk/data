@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "High Street",
-  "AddressLine4": "Glentham",
-  "PostCode": "LN8 2EQ",
+  "Geocode": {
+    "Latitude": "53.3999644",
+    "Longitude": "-0.4935033"
+  },
+  "AddressLine1": "THE CROWN INN",
+  "AddressLine3": "GLENTHAM",
+  "AddressLine4": "HIGH STREET",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

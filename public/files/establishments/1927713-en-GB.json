@@ -10,14 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
   "Geocode": null,
-  "AddressLine1": "7 Home Farm Cottages",
-  "AddressLine2": "Bruern",
-  "AddressLine3": "Chipping Norton",
-  "AddressLine4": "Oxfordshire",
-  "PostCode": "OX7 6QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

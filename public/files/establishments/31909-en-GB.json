@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
     "Latitude": "53.4909262",
@@ -19,12 +19,12 @@
   "AddressLine4": "Tameside",
   "PostCode": "OL6 9NS",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2024-10-14",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-09",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 30
+    "ConfidenceInManagement": 10
   }
 }

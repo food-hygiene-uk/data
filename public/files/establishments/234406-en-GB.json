@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Otby Lane",
-  "AddressLine4": "Walesby",
-  "PostCode": "LN8 3UT",
+  "Geocode": {
+    "Latitude": "53.4201251",
+    "Longitude": "-0.2928254"
+  },
+  "AddressLine1": "NORMANBY VIEW",
+  "AddressLine3": "WALESBY",
+  "AddressLine4": "OTBY LANE",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

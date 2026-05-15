@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3311404",
+    "Longitude": "-1.6085842"
+  },
+  "AddressLine1": "WEXCOMBE MANOR",
+  "AddressLine3": "WEXCOMBE",
+  "PostCode": "SN8 3SQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

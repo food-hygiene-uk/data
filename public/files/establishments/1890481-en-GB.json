@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.8679547",
-    "Longitude": "-2.4910933"
-  },
-  "AddressLine1": "Community Centre",
-  "AddressLine2": "Townsend",
-  "AddressLine3": "Mitcheldean",
-  "AddressLine4": "Gloucestershire",
-  "PostCode": "GL17 0BQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Durham Road",
-  "AddressLine2": "Houghton-le-Spring",
+  "Geocode": {
+    "Latitude": "54.8327452",
+    "Longitude": "-1.4739523"
+  },
+  "AddressLine1": "Mill Inn",
+  "AddressLine2": "Durham Road",
+  "AddressLine3": "Houghton-le-Spring",
   "PostCode": "DH5 8NG",
   "SchemeType": "FHRS",
   "RatingValue": "3",

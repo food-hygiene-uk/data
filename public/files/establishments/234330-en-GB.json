@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Middlefield House Nursing Home",
-  "AddressLine2": "Middlefield Lane",
-  "AddressLine4": "Gainsborough",
-  "PostCode": "DN21 1TY",
+  "Geocode": {
+    "Latitude": "53.4062671",
+    "Longitude": "-0.4950107"
+  },
+  "AddressLine1": "MIDDLEFIELD HOUSE NURSING HOME",
+  "AddressLine4": "MIDDLEFIELD LANE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

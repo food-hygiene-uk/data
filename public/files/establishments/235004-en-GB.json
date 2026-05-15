@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "The Green",
-  "AddressLine4": "Ingham",
-  "PostCode": "LN1 2XT",
+  "Geocode": {
+    "Latitude": "53.3391223",
+    "Longitude": "-0.5807496"
+  },
+  "AddressLine1": "INGHAM VILLAGE HALL",
+  "AddressLine3": "INGHAM",
+  "AddressLine4": "THE GREEN",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

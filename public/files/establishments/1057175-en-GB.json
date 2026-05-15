@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Rascals Natural Learning",
-  "AddressLine2": "Brocklesby Road",
-  "AddressLine4": "Great Limber",
-  "PostCode": "DN37 8JS",
+  "Geocode": {
+    "Latitude": "53.5654944",
+    "Longitude": "-0.2790358"
+  },
+  "AddressLine1": "SCHOOL HOUSE",
+  "AddressLine3": "GREAT LIMBER",
+  "AddressLine4": "BROCKLESBY ROAD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

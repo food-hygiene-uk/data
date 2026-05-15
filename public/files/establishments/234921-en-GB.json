@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Middle Rasen Primary School",
-  "AddressLine2": "North Street",
-  "AddressLine4": "Middle Rasen",
-  "PostCode": "LN8 3TS",
+  "Geocode": {
+    "Latitude": "53.3915811",
+    "Longitude": "-0.3652956"
+  },
+  "AddressLine1": "MIDDLE RASEN COUNTY PRIMARY SCHOOL",
+  "AddressLine3": "MIDDLE RASEN",
+  "AddressLine4": "NORTH STREET",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

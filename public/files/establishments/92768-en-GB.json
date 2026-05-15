@@ -9,20 +9,14 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0279388427734",
-    "Longitude": "-3.21369123458862"
-  },
-  "AddressLine3": "Hillcommon Taunton",
+  "Geocode": null,
+  "AddressLine2": "Hillcommon",
+  "AddressLine3": "Taunton",
   "AddressLine4": "Somerset",
   "PostCode": "TA4 1DS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-15",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

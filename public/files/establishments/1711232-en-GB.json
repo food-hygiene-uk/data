@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record",
+  "Geocode": {
+    "Latitude": "53.653332",
+    "Longitude": "-3.0143675"
+  },
   "AddressLine2": "Marine Drive",
   "AddressLine3": "Southport",
+  "PostCode": "PR8 1SQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-07",
+  "RatingDate": "2026-05-07",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,

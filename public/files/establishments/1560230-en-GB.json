@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Old Station",
-  "AddressLine2": "Chapel Street",
-  "AddressLine4": "Market Rasen",
-  "PostCode": "LN8 3AG",
+  "Geocode": {
+    "Latitude": "53.3857688",
+    "Longitude": "-0.3369337"
+  },
+  "AddressLine1": "SYCAMORE HOUSE",
+  "AddressLine4": "CHAPEL STREET",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

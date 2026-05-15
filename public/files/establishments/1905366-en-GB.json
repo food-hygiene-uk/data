@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.746548",
+    "Longitude": "-2.217087"
+  },
+  "AddressLine1": "21 Gloucester Street",
+  "AddressLine2": "Stroud",
+  "AddressLine3": "Gloucestershire",
+  "PostCode": "GL5 1QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

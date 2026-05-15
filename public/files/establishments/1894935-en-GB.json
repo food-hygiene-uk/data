@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Gallamore Lane",
-  "AddressLine4": "Market Rasen",
-  "PostCode": "LN8 3HZ",
+  "Geocode": {
+    "Latitude": "53.3923947",
+    "Longitude": "-0.3435742"
+  },
+  "AddressLine1": "STARBUCKS",
+  "AddressLine4": "GALLAMORE LANE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

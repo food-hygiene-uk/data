@@ -1,6 +1,6 @@
 {
   "FHRSID": 598871,
-  "BusinessName": "King Edwards",
+  "BusinessName": "King Edward VI Aston School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000192469",
   "BusinessTypeID": 7845,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
-    "Latitude": "52.5036659240723",
-    "Longitude": "-1.88565003871918"
+    "Latitude": "52.503668",
+    "Longitude": "-1.88565"
   },
-  "AddressLine1": "King Edwards Vi Aston School",
-  "AddressLine2": "Frederick Road",
-  "AddressLine3": "Aston",
-  "AddressLine4": "Birmingham",
+  "AddressLine1": "Frederick Road",
+  "AddressLine2": "Aston",
+  "AddressLine3": "Birmingham",
   "PostCode": "B6 6DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

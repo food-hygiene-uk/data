@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.6014857",
@@ -18,12 +18,12 @@
   "AddressLine4": "Northwood",
   "PostCode": "HA6 1PA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-09",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

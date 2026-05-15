@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.7084209",
@@ -19,12 +19,12 @@
   "AddressLine4": "Sowerby Bridge",
   "PostCode": "HX6 2QD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-23",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

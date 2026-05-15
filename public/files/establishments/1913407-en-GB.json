@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
     "Latitude": "51.3586158752441",
@@ -18,8 +18,12 @@
   "AddressLine3": "Croydon",
   "PostCode": "CR0 5AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

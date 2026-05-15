@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Station Road",
-  "AddressLine4": "Moortown",
-  "PostCode": "LN7 6HZ",
+  "Geocode": {
+    "Latitude": "53.4822077",
+    "Longitude": "-0.3747909"
+  },
+  "AddressLine1": "SKIPWORTH ARMS",
+  "AddressLine3": "MOORTOWN",
+  "AddressLine4": "STATION ROAD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
