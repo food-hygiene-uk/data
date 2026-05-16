@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941458,
-  "BusinessName": "MORRISONS DAILY",
+  "BusinessName": "Morrisons Daily",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "35703",
   "BusinessTypeID": 4613,
@@ -18,8 +18,12 @@
   "AddressLine4": "Manchester",
   "PostCode": "M25 0DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

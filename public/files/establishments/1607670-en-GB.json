@@ -1,23 +1,26 @@
 {
   "FHRSID": 1607670,
-  "BusinessName": "Runwood Homes -Saint Michaels Court Care Home",
+  "BusinessName": "Saint Michaels Court",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "T076ASAINT/2",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "228",
   "LocalAuthorityName": "Broadland",
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Saint Michaels Court",
-  "AddressLine2": "Saint Michaels Avenue",
-  "AddressLine3": "Aylsham",
-  "AddressLine4": "Norfolk",
+  "AddressLine1": "Saint Michaels Avenue",
+  "AddressLine2": "Aylsham",
+  "AddressLine3": "Norfolk",
   "PostCode": "NR11 6YA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-08",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,24 +7,24 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
-    "Latitude": "53.4825744628906",
-    "Longitude": "-2.05660605430603"
+    "Latitude": "53.482571",
+    "Longitude": "-2.0568558"
   },
   "AddressLine1": "St Peters Catholic Club",
-  "AddressLine2": "Corporation Street",
+  "AddressLine2": "9 Corporation Street",
   "AddressLine3": "Stalybridge",
   "AddressLine4": "Tameside",
   "PostCode": "SK15 2JL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-04-08",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-10",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

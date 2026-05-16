@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 6 - 7 River Reach Business Park",
+  "Geocode": {
+    "Latitude": "51.4659642",
+    "Longitude": "-0.1810386"
+  },
+  "AddressLine1": "Unit 6 To 7 River Reach Business Park 1 Gartons Way",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
   "PostCode": "SW11 3SX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-10-20",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

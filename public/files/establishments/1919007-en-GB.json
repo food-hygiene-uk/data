@@ -1,9 +1,9 @@
 {
   "FHRSID": 1919007,
   "BusinessName": "Vitality Pro",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "6895",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "862",
   "LocalAuthorityName": "Stockton On Tees",
   "LocalAuthorityWebSite": "http://www.stockton.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine4": "Teesside Industrial Estate",
   "PostCode": "TS17 9LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
