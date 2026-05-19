@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.589259",
+    "Longitude": "-0.408125"
+  },
   "AddressLine2": "Joel Street",
-  "AddressLine4": "Northewood",
+  "AddressLine4": "Northwood",
   "PostCode": "HA5 2PR",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6081951",
+    "Longitude": "-0.1236274"
+  },
+  "AddressLine1": "Flat 1",
+  "AddressLine2": "2 Maidstone Road",
+  "AddressLine3": "Wood Green",
+  "AddressLine4": "London",
+  "PostCode": "N11 2TP",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

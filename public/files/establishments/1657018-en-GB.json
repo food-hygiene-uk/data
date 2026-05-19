@@ -1,13 +1,13 @@
 {
   "FHRSID": 1657018,
-  "BusinessName": "PATHIRI RESTAURANT",
+  "BusinessName": "Pathiri Restaurant",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "23/00373/CP",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "896",
   "LocalAuthorityName": "Medway",
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
   "Geocode": {
     "Latitude": "51.3879073",
@@ -18,12 +18,12 @@
   "AddressLine3": "Medway",
   "PostCode": "ME7 1AY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-23",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,19 +7,22 @@
   "LocalAuthorityCode": "264",
   "LocalAuthorityName": "Newark and Sherwood",
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
   "Geocode": {
     "Latitude": "53.1001314",
     "Longitude": "-1.1186501"
   },
-  "AddressLine1": "Maloneys",
-  "AddressLine2": "47 Mansfield Road",
-  "AddressLine3": "Blidworth",
+  "AddressLine1": "47 Mansfield Road",
+  "AddressLine2": "Blidworth",
   "PostCode": "NG21 0RB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

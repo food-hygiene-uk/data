@@ -1,6 +1,6 @@
 {
   "FHRSID": 1935904,
-  "BusinessName": "The Fish Man",
+  "BusinessName": "The Seafood Man",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00104/COMM",
   "BusinessTypeID": 4613,
@@ -19,8 +19,12 @@
   "AddressLine4": "Wickford",
   "PostCode": "SS11 7RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

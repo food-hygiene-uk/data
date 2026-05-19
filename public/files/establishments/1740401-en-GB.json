@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "032",
   "LocalAuthorityName": "South Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
   "Geocode": null,
   "AddressLine1": "Northstowe Primary School Stirling Road",
@@ -15,12 +15,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB24 1FE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-27",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1894247,
-  "BusinessName": "9 Guinea Hall Close",
+  "BusinessName": "Riot",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "PI/000138623",
   "BusinessTypeID": 7839,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Banks",
-  "AddressLine2": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.676302",
+    "Longitude": "-2.9208466"
+  },
+  "AddressLine1": "9 Guinea Hall Close",
+  "AddressLine2": "Banks",
+  "AddressLine3": "Lancashire",
   "PostCode": "PR9 8RG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

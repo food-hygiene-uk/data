@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lye Town F C",
-  "AddressLine2": "Stourbridge Road",
-  "AddressLine3": "Lye",
-  "AddressLine4": "Stourbridge",
+  "Geocode": {
+    "Latitude": "52.457361",
+    "Longitude": "-2.121278"
+  },
+  "AddressLine1": "Stourbridge Road",
+  "AddressLine2": "Lye",
+  "AddressLine3": "Stourbridge",
   "PostCode": "DY9 7DH",
   "SchemeType": "FHRS",
   "RatingValue": "4",

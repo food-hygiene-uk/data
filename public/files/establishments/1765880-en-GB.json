@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "417",
   "LocalAuthorityName": "North Tyneside",
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
   "Geocode": null,
   "AddressLine1": "Unit B",
@@ -16,12 +16,12 @@
   "AddressLine4": "Newcastle Upon Tyne",
   "PostCode": "NE27 0QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-10-07",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-13",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

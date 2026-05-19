@@ -16,8 +16,12 @@
   "AddressLine1": "UNIT D1 AND D2 OMEGA ENTERPRISE PARK ELECTRON WAY CHANDLER'S FORD EASTLEIGH SO53 4SE",
   "PostCode": "SO53 4SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

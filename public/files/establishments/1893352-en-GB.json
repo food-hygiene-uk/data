@@ -1,6 +1,6 @@
 {
   "FHRSID": 1893352,
-  "BusinessName": "71 Segars Lane",
+  "BusinessName": "Lauren's Bake House",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000132191",
   "BusinessTypeID": 7841,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Halsall",
-  "AddressLine2": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.6020161",
+    "Longitude": "-3.0285186"
+  },
+  "AddressLine1": "71 Segars Lane",
+  "AddressLine2": "Halsall",
+  "AddressLine3": "Lancashire",
   "PostCode": "PR8 3JG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

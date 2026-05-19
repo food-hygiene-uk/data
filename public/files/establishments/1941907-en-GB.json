@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941907,
-  "BusinessName": "Snack Shack",
+  "BusinessName": "Snack Shack (PE11 LVS)",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "261759",
   "BusinessTypeID": 7846,
@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.3877211",
+    "Longitude": "-4.1663234"
+  },
   "AddressLine2": "Unit 12 Wolseley Business Park",
-  "AddressLine3": "Plymouth",
-  "AddressLine4": "Devon",
+  "AddressLine3": "Wolseley Close",
+  "AddressLine4": "Plymouth",
   "PostCode": "PL2 3BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
