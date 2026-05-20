@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Holly Grove Primary School",
-  "AddressLine2": "Burnley Campus",
-  "AddressLine3": "Barden Lane",
-  "AddressLine4": "Burnley",
+  "Geocode": {
+    "Latitude": "53.805591",
+    "Longitude": "-2.2396561"
+  },
+  "AddressLine1": "HOLLY GROVE PRIMARY SCHOOL BURNLEY CAMPUS BARDEN LANE",
+  "AddressLine3": "BURNLEY",
   "PostCode": "BB10 1JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

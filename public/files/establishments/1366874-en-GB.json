@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "310",
   "LocalAuthorityName": "Runnymede",
   "LocalAuthorityWebSite": "http://www.runnymede.gov.uk/portal/site/runnymede",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
   "Geocode": {
     "Latitude": "51.3969393",
@@ -18,8 +18,12 @@
   "AddressLine4": "Virginia Water",
   "PostCode": "GU25 4EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

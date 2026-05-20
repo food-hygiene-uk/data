@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7924263",
+    "Longitude": "-2.2628318"
+  },
+  "AddressLine1": "28 TUNNEL STREET",
+  "AddressLine3": "BURNLEY",
+  "PostCode": "BB12 0NN",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

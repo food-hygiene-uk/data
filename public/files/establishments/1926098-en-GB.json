@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.147247",
+    "Longitude": "0.8835703"
+  },
+  "AddressLine1": "102 Hythe Road",
+  "AddressLine3": "Ashford",
+  "PostCode": "TN24 8PR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

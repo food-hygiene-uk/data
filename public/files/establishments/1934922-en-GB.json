@@ -7,14 +7,18 @@
   "LocalAuthorityCode": "315",
   "LocalAuthorityName": "Woking",
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Fox And Flowerpot Public HouseGoldsworth Park CentreWokingSurrey",
   "PostCode": "GU21 3LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

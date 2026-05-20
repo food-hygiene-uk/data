@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4405711",
-    "Longitude": "-2.0986242"
-  },
-  "AddressLine1": "Haughton Green Chef",
+  "Geocode": null,
+  "AddressLine1": "New Yu Yee Takeaway",
   "AddressLine2": "117 Haughton Green Road",
   "AddressLine3": "Denton",
   "AddressLine4": "Tameside",
   "PostCode": "M34 7PW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

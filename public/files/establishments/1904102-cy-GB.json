@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record Field Way",
+  "Geocode": {
+    "Latitude": "51.521155",
+    "Longitude": "-3.1944575"
+  },
+  "AddressLine1": "Cresswell House Field Way",
   "AddressLine2": "Heath",
   "AddressLine3": "Cardiff",
+  "PostCode": "CF14 4UH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

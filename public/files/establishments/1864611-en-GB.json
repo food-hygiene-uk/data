@@ -13,13 +13,16 @@
     "Latitude": "53.8116448",
     "Longitude": "-2.2066403"
   },
-  "AddressLine1": "123 Burnley Road",
-  "AddressLine2": "Briercliffe",
-  "AddressLine3": "Lancashire",
+  "AddressLine1": "123 BURNLEY ROAD",
+  "AddressLine3": "BRIERCLIFFE",
   "PostCode": "BB10 2HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

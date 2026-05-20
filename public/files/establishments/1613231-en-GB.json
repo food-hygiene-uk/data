@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Towneley Park",
-  "AddressLine2": "Burnley",
-  "AddressLine3": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.7740374",
+    "Longitude": "-2.2225834"
+  },
+  "AddressLine1": "TOWNELEY HALL CRAFT MUSEUM TOWNELEY PARK",
+  "AddressLine3": "BURNLEY",
   "PostCode": "BB11 3RQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

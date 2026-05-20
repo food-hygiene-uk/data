@@ -1,6 +1,6 @@
 {
   "FHRSID": 1854621,
-  "BusinessName": "Baked By Alice",
+  "BusinessName": "Bakes By Alice",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "100530",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

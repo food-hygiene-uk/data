@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hargrove Avenue",
-  "AddressLine2": "Padiham",
-  "AddressLine3": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.805116",
+    "Longitude": "-2.3154645"
+  },
+  "AddressLine1": "THE GROVE HARGROVE AVENUE",
+  "AddressLine3": "PADIHAM",
   "PostCode": "BB12 8NU",
   "SchemeType": "FHRS",
   "RatingValue": "2",

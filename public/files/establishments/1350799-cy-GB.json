@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "552",
   "LocalAuthorityName": "Blaenau Gwent",
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
   "Geocode": {
     "Latitude": "51.7954764",
@@ -19,12 +19,12 @@
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP23 4PT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

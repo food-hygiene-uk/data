@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941058,
-  "BusinessName": "The Stables",
+  "BusinessName": "Good Food Co / J J Catering",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00118/FPREM/D",
   "BusinessTypeID": 7846,
@@ -10,13 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Clement Street",
-  "AddressLine2": "Sutton At Hone",
-  "AddressLine3": "Kent",
-  "PostCode": "DA4 9FB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6385892",
+    "Longitude": "-2.4069398"
+  },
+  "AddressLine1": "Chetham Farm High Street",
+  "AddressLine2": "Chapeltown",
+  "AddressLine3": "Bolton",
+  "AddressLine4": "Blackburn With Darwen",
+  "PostCode": "BL7 0EZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

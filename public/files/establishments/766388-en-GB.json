@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Stephens Street",
-  "AddressLine2": "Burnley",
-  "AddressLine3": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.7825763",
+    "Longitude": "-2.2319471"
+  },
+  "AddressLine1": "ABBEYFIELD HOUSE ST STEPHENS STREET",
+  "AddressLine3": "BURNLEY",
   "PostCode": "BB11 3JA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

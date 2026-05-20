@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "187",
   "LocalAuthorityName": "Sevenoaks",
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
   "Geocode": {
     "Latitude": "51.3663413",
@@ -18,12 +18,12 @@
   "AddressLine3": "KENT",
   "PostCode": "DA3 8JB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-28",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-14",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

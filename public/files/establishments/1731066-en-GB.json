@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "3 Central Buildings",
-  "AddressLine2": "Burnley Road",
-  "AddressLine3": "Padiham",
-  "AddressLine4": "Lancashire",
+  "Geocode": {
+    "Latitude": "53.8021334",
+    "Longitude": "-2.3149258"
+  },
+  "AddressLine1": "3 CENTRAL BUILDINGS BURNLEY ROAD",
+  "AddressLine3": "PADIHAM",
   "PostCode": "BB12 8NB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

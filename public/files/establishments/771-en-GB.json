@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "062",
   "LocalAuthorityName": "Amber Valley",
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": {
     "Latitude": "53.020153",
@@ -16,8 +16,12 @@
   "AddressLine1": "17 Denby Common Denby Ripley Derbyshire",
   "PostCode": "DE5 8PW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

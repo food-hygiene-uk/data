@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.8381993",
+    "Longitude": "-1.5726759"
+  },
+  "AddressLine1": "103 Parkside Road",
+  "AddressLine2": "Meanwood",
+  "AddressLine3": "Leeds",
+  "PostCode": "LS6 4NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
