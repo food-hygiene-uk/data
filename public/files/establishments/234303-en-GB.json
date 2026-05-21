@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3175042",
+    "Longitude": "-0.4328008"
+  },
   "AddressLine1": "SEVEN DISTRICTS COFFEE SHOP",
+  "AddressLine2": "MARKET RASEN ROAD",
   "AddressLine3": "WELTON HILL",
-  "AddressLine4": "MARKET RASEN ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3RD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

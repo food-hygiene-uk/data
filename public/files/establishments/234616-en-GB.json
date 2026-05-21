@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "37",
-  "AddressLine4": "LORD STREET",
+  "Geocode": {
+    "Latitude": "53.3999276",
+    "Longitude": "-0.7767105"
+  },
+  "AddressLine2": "37 LORD STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2DD",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

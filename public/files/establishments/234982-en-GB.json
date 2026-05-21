@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3961789",
+    "Longitude": "-0.7764071"
+  },
   "AddressLine1": "GROUND FLOOR REAR OF",
-  "AddressLine2": "54",
-  "AddressLine4": "BRIDGE STREET",
+  "AddressLine2": "54 BRIDGE STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2AQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

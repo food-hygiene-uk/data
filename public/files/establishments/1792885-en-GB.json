@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "1A",
+  "Geocode": {
+    "Latitude": "53.4143222",
+    "Longitude": "-0.7865208"
+  },
+  "AddressLine2": "1A CROOKED BILLET STREET",
   "AddressLine3": "MORTON",
-  "AddressLine4": "CROOKED BILLET STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 3AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

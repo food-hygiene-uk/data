@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5090387",
+    "Longitude": "-0.2415082"
+  },
   "AddressLine1": "THE GRANGE",
+  "AddressLine2": "CAISTOR ROAD",
   "AddressLine3": "SWALLOW",
-  "AddressLine4": "CAISTOR ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6DL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

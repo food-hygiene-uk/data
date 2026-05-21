@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3992568",
+    "Longitude": "-0.7636383"
+  },
   "AddressLine1": "CO-OPERATIVE SERVICES LIMITED (SHOP 1)",
-  "AddressLine4": "HEAPHAM ROAD",
+  "AddressLine2": "HEAPHAM ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1SH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

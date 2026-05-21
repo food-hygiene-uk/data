@@ -9,19 +9,21 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3885884",
+    "Longitude": "-3.0295027"
+  },
   "AddressLine1": "1 Salisbury Street",
-  "AddressLine2": "Birkenhead",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH41 1RL",
+  "AddressLine3": "Birkenhead",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH41 2RL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-06-20",
+  "RatingDate": "2026-05-11",
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "12",
-  "AddressLine4": "CHURCH STREET",
+  "Geocode": {
+    "Latitude": "53.4003106",
+    "Longitude": "-0.7754813"
+  },
+  "AddressLine2": "12 CHURCH STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2JH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

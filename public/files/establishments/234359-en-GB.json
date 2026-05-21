@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5278353",
+    "Longitude": "-0.3619925"
+  },
   "AddressLine1": "GRASBY VILLAGE HALL",
-  "AddressLine2": "2",
+  "AddressLine2": "2 STATION ROAD",
   "AddressLine3": "GRASBY",
-  "AddressLine4": "STATION ROAD",
+  "AddressLine4": "BARNETBY",
+  "PostCode": "DN38 6AP",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

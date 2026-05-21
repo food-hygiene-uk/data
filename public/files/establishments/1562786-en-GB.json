@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.28109",
     "Longitude": "1.0601621"
@@ -18,12 +18,12 @@
   "AddressLine4": "Kent",
   "PostCode": "CT2 8NE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-16",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

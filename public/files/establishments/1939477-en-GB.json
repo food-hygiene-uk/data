@@ -1,18 +1,29 @@
 {
   "FHRSID": 1939477,
   "BusinessName": "Coastal Postal Bakes By Lewis",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00220/CP",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "302",
   "LocalAuthorityName": "East Suffolk",
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4840245",
+    "Longitude": "1.7556453"
+  },
+  "AddressLine1": "16 Albany Road",
+  "AddressLine2": "Lowestoft",
+  "AddressLine3": "Suffolk",
+  "PostCode": "NR32 1JR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

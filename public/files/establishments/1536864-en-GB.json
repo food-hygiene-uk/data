@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.334322",
+    "Longitude": "-0.4505819"
+  },
   "AddressLine1": "THE OLD STABLES ROOKERY FARM",
+  "AddressLine2": "COLDHANWORTH ROAD",
   "AddressLine3": "COLD HANWORTH",
-  "AddressLine4": "COLDHANWORTH ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3RE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

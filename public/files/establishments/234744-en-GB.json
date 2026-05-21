@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.382594",
+    "Longitude": "-0.7668479"
+  },
   "AddressLine1": "DROVERS CALL",
-  "AddressLine2": "186",
-  "AddressLine4": "LEA ROAD",
+  "AddressLine2": "186 LEA ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1AN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

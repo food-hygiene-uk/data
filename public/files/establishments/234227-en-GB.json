@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "5",
+  "Geocode": {
+    "Latitude": "53.2421214",
+    "Longitude": "-0.4552164"
+  },
+  "AddressLine2": "5 6 THE PARADE",
   "AddressLine3": "CHERRY WILLINGHAM LINCOLN",
-  "AddressLine4": "6 THE PARADE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 4JL",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

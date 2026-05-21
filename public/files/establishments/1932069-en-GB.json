@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Greenacres ELC",
-  "AddressLine3": "Dales View Drive",
-  "AddressLine4": "Peterhead",
+  "Geocode": {
+    "Latitude": "57.49727477",
+    "Longitude": "-1.81354047"
+  },
+  "AddressLine2": "Dales View Drive",
+  "AddressLine3": "Peterhead",
+  "AddressLine4": "Aberdeenshire",
   "PostCode": "AB42 2DP",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",

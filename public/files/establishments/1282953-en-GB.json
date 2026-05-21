@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2879073",
+    "Longitude": "-0.3860108"
+  },
   "AddressLine1": "WOODLANDS FARM",
+  "AddressLine2": "STAINTON LANE",
   "AddressLine3": "STAINTON BY LANGWORTH",
-  "AddressLine4": "STAINTON LANE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5DJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

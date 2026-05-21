@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8709033",
+    "Longitude": "-1.4024689"
+  },
+  "AddressLine1": "HYTHE YOUTH CLUB EWART",
+  "AddressLine2": "JONES LANE",
+  "AddressLine3": "HYTHE",
+  "AddressLine4": "SOUTHAMPTON",
+  "PostCode": "SO45 6AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

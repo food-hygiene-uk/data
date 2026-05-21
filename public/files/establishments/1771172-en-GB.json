@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2902445",
+    "Longitude": "-0.541765"
+  },
   "AddressLine1": "MCDONALDS RESTAURANT SHOWGROUND SERVICES",
+  "AddressLine2": "HORNCASTLE LANE",
   "AddressLine3": "NORTH CARLTON",
-  "AddressLine4": "HORNCASTLE LANE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2ZR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

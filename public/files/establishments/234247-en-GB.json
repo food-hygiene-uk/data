@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "4",
+  "Geocode": {
+    "Latitude": "53.3062041",
+    "Longitude": "-0.4709431"
+  },
+  "AddressLine2": "4 RYLAND BRIDGE",
   "AddressLine3": "WELTON",
-  "AddressLine4": "RYLAND BRIDGE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3RP",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

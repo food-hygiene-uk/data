@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2518409",
+    "Longitude": "-0.4828111"
+  },
   "AddressLine1": "MACH RESTAURANT",
+  "AddressLine2": "WRAGBY ROAD EAST",
   "AddressLine3": "NORTH GREETWELL",
-  "AddressLine4": "WRAGBY ROAD EAST",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 4RA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

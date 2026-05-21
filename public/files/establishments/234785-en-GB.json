@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "1",
+  "Geocode": {
+    "Latitude": "53.266084",
+    "Longitude": "-0.4899953"
+  },
+  "AddressLine2": "1 ALL SAINTS LANE",
   "AddressLine3": "NETTLEHAM",
-  "AddressLine4": "ALL SAINTS LANE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 2NT",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

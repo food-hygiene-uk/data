@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2703357",
+    "Longitude": "-0.4235256"
+  },
   "AddressLine1": "STATION YARD",
+  "AddressLine2": "STATION ROAD",
   "AddressLine3": "LANGWORTH",
-  "AddressLine4": "STATION ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5BB",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

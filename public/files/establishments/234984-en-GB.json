@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2759712",
+    "Longitude": "-0.7554898"
+  },
   "AddressLine1": "BROOMHILLS CARAVAN PARK",
+  "AddressLine2": "MAIN ROAD",
   "AddressLine3": "LAUGHTERTON",
-  "AddressLine4": "MAIN ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2LB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

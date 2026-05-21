@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3857366",
+    "Longitude": "-0.330755"
+  },
   "AddressLine1": "PIT STOP RASEN",
-  "AddressLine2": "32-33",
-  "AddressLine4": "WILLINGHAM ROAD",
+  "AddressLine2": "32-33 WILLINGHAM ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3DX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

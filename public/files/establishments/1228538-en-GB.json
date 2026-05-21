@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3881589",
+    "Longitude": "-0.7720958"
+  },
   "AddressLine1": "COMMUNITY HALL",
-  "AddressLine2": "39",
-  "AddressLine4": "WINTERN COURT",
+  "AddressLine2": "39 WINTERN COURT",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1NA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

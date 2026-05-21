@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3902609",
+    "Longitude": "-0.7558643"
+  },
   "AddressLine1": "BEGINNINGS DAY CARE LTD",
-  "AddressLine4": "PARK SPRINGS ROAD",
+  "AddressLine2": "PARK SPRINGS ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1NY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

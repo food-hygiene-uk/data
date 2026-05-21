@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4088401",
+    "Longitude": "-0.7815253"
+  },
   "AddressLine1": "MASONIC HALL",
-  "AddressLine2": "32",
-  "AddressLine4": "NORTH MARSH ROAD",
+  "AddressLine2": "32 NORTH MARSH ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2RR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

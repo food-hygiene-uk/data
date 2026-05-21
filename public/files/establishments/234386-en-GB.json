@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4407103",
+    "Longitude": "-0.8131786"
+  },
   "AddressLine1": "GROSVENOR HOUSE CARE HOME",
+  "AddressLine2": "BACK STREET",
   "AddressLine3": "EAST STOCKWITH",
-  "AddressLine4": "BACK STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 3DL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

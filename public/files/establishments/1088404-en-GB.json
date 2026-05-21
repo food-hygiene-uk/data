@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "92",
-  "AddressLine4": "TRINITY STREET",
+  "Geocode": {
+    "Latitude": "53.3959166",
+    "Longitude": "-0.7730204"
+  },
+  "AddressLine2": "92 TRINITY STREET",
+  "AddressLine3": "GAINSBOROUGH",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1HS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

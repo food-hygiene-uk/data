@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "1",
+  "Geocode": {
+    "Latitude": "53.4976203",
+    "Longitude": "-0.6659443"
+  },
+  "AddressLine2": "1 THE GREEN",
   "AddressLine3": "SCOTTER",
-  "AddressLine4": "THE GREEN",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 3UD",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

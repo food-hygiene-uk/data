@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "1",
+  "Geocode": {
+    "Latitude": "53.4971978",
+    "Longitude": "-0.3153471"
+  },
+  "AddressLine2": "1 MARKET PLACE",
   "AddressLine3": "CAISTOR",
-  "AddressLine4": "MARKET PLACE",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6TJ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

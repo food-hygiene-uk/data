@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.360069",
+    "Longitude": "-2.9982814"
+  },
   "AddressLine1": "25 Bebington Road",
   "AddressLine3": "New Ferry",
   "AddressLine4": "Wirral",
-  "PostCode": "CH625 5BE",
+  "PostCode": "CH62 5BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

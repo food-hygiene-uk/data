@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": {
-    "Latitude": "50.84897206",
-    "Longitude": "-0.93741975"
+    "Latitude": "50.8489293",
+    "Longitude": "-0.9375445"
   },
-  "AddressLine1": "34 North Street",
+  "AddressLine1": "32-34 North Street",
   "AddressLine3": "Emsworth",
   "PostCode": "PO10 7DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

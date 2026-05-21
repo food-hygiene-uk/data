@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2872357",
+    "Longitude": "-0.4906449"
+  },
   "AddressLine1": "THE GRANARY",
+  "AddressLine2": "HEATH ROAD",
   "AddressLine3": "DUNHOLME",
-  "AddressLine4": "HEATH ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3QD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

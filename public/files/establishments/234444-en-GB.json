@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "2",
-  "AddressLine4": "STRAFFORD STREET",
+  "Geocode": {
+    "Latitude": "53.3914386",
+    "Longitude": "-0.7702617"
+  },
+  "AddressLine2": "2 STRAFFORD STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1DU",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

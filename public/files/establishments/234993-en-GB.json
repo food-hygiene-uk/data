@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5024904",
+    "Longitude": "-0.4281291"
+  },
   "AddressLine1": "VILLAGE HALL",
+  "AddressLine2": "SCHOOL LANE",
   "AddressLine3": "NORTH KELSEY",
-  "AddressLine4": "SCHOOL LANE",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6JW",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

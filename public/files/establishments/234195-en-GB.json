@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "28",
+  "Geocode": {
+    "Latitude": "53.2678478",
+    "Longitude": "-0.6631027"
+  },
+  "AddressLine2": "28 HIGH STREET",
   "AddressLine3": "SAXILBY",
-  "AddressLine4": "HIGH STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2HA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

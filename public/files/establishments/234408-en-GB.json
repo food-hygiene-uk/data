@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "12",
-  "AddressLine4": "KING STREET",
+  "Geocode": {
+    "Latitude": "53.388118",
+    "Longitude": "-0.3384362"
+  },
+  "AddressLine2": "12 KING STREET",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3BB",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

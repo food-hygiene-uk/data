@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2864145",
+    "Longitude": "-0.5439433"
+  },
   "AddressLine1": "LINCOLNSHIRE AGRICULTURAL SOCIETY LINCOLNSHIRE SHOW GROUND",
+  "AddressLine2": "HORNCASTLE LANE",
   "AddressLine3": "SCAMPTON",
-  "AddressLine4": "HORNCASTLE LANE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 2NA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

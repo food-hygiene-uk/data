@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3259574",
+    "Longitude": "-0.7423703"
+  },
   "AddressLine1": "MARTON AND GATE BURTON VILLAGE HALL",
+  "AddressLine2": "TRENT PORT ROAD",
   "AddressLine3": "MARTON",
-  "AddressLine4": "TRENT PORT ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 5AR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

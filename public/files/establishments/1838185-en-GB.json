@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Peters Church",
-  "AddressLine2": "Coventon Road",
-  "AddressLine3": "Aylesbury",
-  "AddressLine4": "Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.82598697",
+    "Longitude": "-0.82831087"
+  },
+  "AddressLine1": "Coventon Road",
+  "AddressLine2": "Aylesbury",
+  "AddressLine3": "Buckinghamshire",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

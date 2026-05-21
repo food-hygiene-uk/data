@@ -1,6 +1,6 @@
 {
   "FHRSID": 1861998,
-  "BusinessName": "Workspace Management PLC",
+  "BusinessName": "Arthur's",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "148351",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Chiswick",
   "PostCode": "W4 4PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

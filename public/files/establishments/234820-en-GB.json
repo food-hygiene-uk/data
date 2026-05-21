@@ -9,9 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "UNIT 28 MARSHALLS YARD",
-  "AddressLine4": "BEAUMONT STREET",
+  "Geocode": {
+    "Latitude": "53.3988729",
+    "Longitude": "-0.7727026"
+  },
+  "AddressLine1": "UNIT 29 MARSHALLS YARD",
+  "AddressLine2": "BEAUMONT STREET",
+  "AddressLine3": "GAINSBOROUGH",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2NA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

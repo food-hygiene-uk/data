@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.argyll-bute.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@argyll-bute.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Machrihanish Golf Club Flat Machrihanish Campbeltown Argyll And Bute PA28 6PT",
+  "Geocode": {
+    "Latitude": "55.4230032",
+    "Longitude": "-5.7318539"
+  },
+  "AddressLine1": "Machrihanish Golf Course Machrihanish Argyll And Bute PA28 6PT",
   "PostCode": "PA28 6PT",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2021-01-26",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-05-12",
   "Scores": null
 }

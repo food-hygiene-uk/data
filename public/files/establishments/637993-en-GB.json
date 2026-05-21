@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "115",
+  "Geocode": {
+    "Latitude": "53.5066871",
+    "Longitude": "-0.3240637"
+  },
+  "AddressLine2": "115 BRIGG ROAD",
   "AddressLine3": "CAISTOR",
-  "AddressLine4": "BRIGG ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6RX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

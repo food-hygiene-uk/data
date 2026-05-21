@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3491954",
+    "Longitude": "-0.487406"
+  },
   "AddressLine1": "SPRIDLINGTON VILLAGE HALL",
+  "AddressLine2": "OWMBY ROAD",
   "AddressLine3": "SPRIDLINGTON",
-  "AddressLine4": "OWMBY ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 2DD",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4099877",
+    "Longitude": "-0.6919492"
+  },
   "AddressLine1": "VILLAGE HALL",
-  "AddressLine2": "10A",
+  "AddressLine2": "10A MIDDLE STREET",
   "AddressLine3": "CORRINGHAM",
-  "AddressLine4": "MIDDLE STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 5QR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

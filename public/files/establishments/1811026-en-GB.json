@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3978645",
+    "Longitude": "-0.749178"
+  },
   "AddressLine1": "UNIT 3",
+  "AddressLine2": "SOMERBY PARK ROAD",
   "AddressLine3": "SOMERBY PARK",
-  "AddressLine4": "SOMERBY PARK ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1NW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

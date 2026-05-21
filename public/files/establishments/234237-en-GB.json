@@ -1,6 +1,6 @@
 {
   "FHRSID": 234237,
-  "BusinessName": "Keelby fish and chips pizza burger",
+  "BusinessName": "Keelby Fish and Chips",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "1357",
   "BusinessTypeID": 7844,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "16",
+  "Geocode": {
+    "Latitude": "53.5734506",
+    "Longitude": "-0.2456367"
+  },
+  "AddressLine2": "16 VICTORIA ROAD",
   "AddressLine3": "KEELBY",
-  "AddressLine4": "VICTORIA ROAD",
+  "AddressLine4": "GRIMSBY",
+  "PostCode": "DN41 8EH",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

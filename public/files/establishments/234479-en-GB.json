@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3126669",
+    "Longitude": "-0.478457"
+  },
   "AddressLine1": "PAVILION MANOR PARK SPORTS FIELD",
+  "AddressLine2": "HACKTHORN ROAD",
   "AddressLine3": "WELTON",
-  "AddressLine4": "HACKTHORN ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3LY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

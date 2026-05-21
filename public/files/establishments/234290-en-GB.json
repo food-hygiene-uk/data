@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4867385",
+    "Longitude": "-0.3291452"
+  },
   "AddressLine1": "SALUTATION INN",
+  "AddressLine2": "CHURCH STREET",
   "AddressLine3": "NETTLETON",
-  "AddressLine4": "CHURCH STREET",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6NP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

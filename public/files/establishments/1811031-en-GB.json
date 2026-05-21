@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "60",
-  "AddressLine4": "ANGLIAN WAY",
+  "Geocode": {
+    "Latitude": "53.3865995",
+    "Longitude": "-0.32818"
+  },
+  "AddressLine2": "60 ANGLIAN WAY",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3RP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

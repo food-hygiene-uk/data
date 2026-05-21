@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "21A",
+  "Geocode": {
+    "Latitude": "53.2106038",
+    "Longitude": "-0.3222616"
+  },
+  "AddressLine2": "21A SILVER STREET",
   "AddressLine3": "BARDNEY",
-  "AddressLine4": "SILVER STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5SS",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

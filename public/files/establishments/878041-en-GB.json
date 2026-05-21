@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2719032",
+    "Longitude": "-0.4197403"
+  },
   "AddressLine1": "LANGDALE LODGE",
+  "AddressLine2": "STATION ROAD",
   "AddressLine3": "LANGWORTH",
-  "AddressLine4": "STATION ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5BB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

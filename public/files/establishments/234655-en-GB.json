@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4003291",
+    "Longitude": "-0.7641855"
+  },
   "AddressLine1": "ST GEORGES CHURCH HALL",
-  "AddressLine4": "HEAPHAM ROAD",
+  "AddressLine2": "HEAPHAM ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1SH",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

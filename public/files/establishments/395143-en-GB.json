@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cricket Ground",
-  "AddressLine2": "Townfield Lane",
+  "Geocode": {
+    "Latitude": "53.37784583",
+    "Longitude": "-3.06311632"
+  },
+  "AddressLine1": "Townfield Lane",
   "AddressLine3": "Oxton",
   "AddressLine4": "Wirral",
   "PostCode": "CH43 2LH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-22",
+  "RatingDate": "2026-05-11",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,

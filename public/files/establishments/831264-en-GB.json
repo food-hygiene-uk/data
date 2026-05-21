@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.402283",
+    "Longitude": "-0.7760072"
+  },
   "AddressLine1": "D & B FOOD AND WINE",
-  "AddressLine2": "102",
-  "AddressLine4": "CHURCH STREET",
+  "AddressLine2": "102 CHURCH STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2JU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

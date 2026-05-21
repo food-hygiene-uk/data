@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4709174",
+    "Longitude": "-0.7017086"
+  },
   "AddressLine1": "PARK HOUSE FARM",
+  "AddressLine2": "PARK LANE",
   "AddressLine3": "LAUGHTON",
-  "AddressLine4": "PARK LANE",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 3PX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

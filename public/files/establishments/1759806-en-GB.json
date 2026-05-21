@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4095822",
+    "Longitude": "-0.7802555"
+  },
   "AddressLine1": "SURE START GAINSBOROUGH NURSERY SCHOOL",
-  "AddressLine4": "NORTH MARSH ROAD",
+  "AddressLine2": "NORTH MARSH ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2RR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

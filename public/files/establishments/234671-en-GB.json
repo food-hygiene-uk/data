@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3959214",
+    "Longitude": "-0.7726142"
+  },
   "AddressLine1": "HUNG WANG CHINESE RESTAURANT",
-  "AddressLine2": "21-23",
-  "AddressLine4": "TRINITY STREET",
+  "AddressLine2": "21-23 TRINITY STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1HS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

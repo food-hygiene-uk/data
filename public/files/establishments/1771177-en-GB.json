@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2625006",
+    "Longitude": "-0.4817703"
+  },
   "AddressLine1": "THE PAVILION MULSANNE PARK",
+  "AddressLine2": "FIELD CLOSE",
   "AddressLine3": "NETTLEHAM",
-  "AddressLine4": "FIELD CLOSE",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 2RX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

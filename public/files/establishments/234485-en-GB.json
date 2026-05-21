@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4118668",
+    "Longitude": "-0.784794"
+  },
   "AddressLine1": "JOHN COUPLAND HOSPITAL",
-  "AddressLine2": "419",
-  "AddressLine4": "ROPERY ROAD",
+  "AddressLine2": "419 ROPERY ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2TJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

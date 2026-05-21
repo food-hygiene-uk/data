@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4076763",
+    "Longitude": "-0.7802346"
+  },
   "AddressLine1": "THE MAISONETTE",
-  "AddressLine2": "58",
-  "AddressLine4": "MELROSE ROAD",
+  "AddressLine2": "58 MELROSE ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2SD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

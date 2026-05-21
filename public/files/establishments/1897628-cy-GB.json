@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "563",
   "LocalAuthorityName": "Castell-nedd Port Talbot",
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
   "Geocode": {
     "Latitude": "51.7180671691895",
@@ -18,8 +18,12 @@
   "AddressLine4": "Pontardawe",
   "PostCode": "SA8 3DY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

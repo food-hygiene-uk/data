@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2347282",
+    "Longitude": "-0.4288116"
+  },
   "AddressLine1": "CARPENTERS ARMS",
+  "AddressLine2": "HIGH STREET",
   "AddressLine3": "FISKERTON",
-  "AddressLine4": "HIGH STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 4HF",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

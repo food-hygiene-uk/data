@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3719964",
+    "Longitude": "-0.7573687"
+  },
   "AddressLine1": "REDCOTE RESIDENTIAL HOME",
-  "AddressLine2": "23",
+  "AddressLine2": "23 GAINSBOROUGH ROAD",
   "AddressLine3": "LEA",
-  "AddressLine4": "GAINSBOROUGH ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 5HR",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

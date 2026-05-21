@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2092082",
+    "Longitude": "-0.3285156"
+  },
   "AddressLine1": "THE HAWTHORNS",
-  "AddressLine2": "53",
+  "AddressLine2": "53 STATION ROAD",
   "AddressLine3": "BARDNEY",
-  "AddressLine4": "STATION ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5UD",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

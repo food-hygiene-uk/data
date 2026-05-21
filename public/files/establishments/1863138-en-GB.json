@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "17-19",
-  "AddressLine4": "SILVER STREET",
+  "Geocode": {
+    "Latitude": "53.3986844",
+    "Longitude": "-0.7764453"
+  },
+  "AddressLine2": "17-19 SILVER STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2DT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

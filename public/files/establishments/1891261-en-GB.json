@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Heath Community Hub",
-  "AddressLine4": "William Bellamy Nursery",
+  "Geocode": {
+    "Latitude": "51.5591723",
+    "Longitude": "0.1545692"
+  },
+  "AddressLine1": "Heath Community Hub William Bellamy Childrens Nursery School Site",
+  "AddressLine2": "Frizlands Lane",
+  "AddressLine4": "Dagenham",
   "PostCode": "RM10 7HX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

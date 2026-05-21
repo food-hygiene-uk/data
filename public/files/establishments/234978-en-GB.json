@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "2",
-  "AddressLine4": "FAWCETT STREET",
+  "Geocode": {
+    "Latitude": "53.4024503",
+    "Longitude": "-0.7781425"
+  },
+  "AddressLine2": "2 FAWCETT STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2LH",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

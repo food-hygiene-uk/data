@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3307181",
+    "Longitude": "-0.5020703"
+  },
   "AddressLine1": "BRADSHAW GATE",
+  "AddressLine2": "MAIN STREET",
   "AddressLine3": "HACKTHORN",
-  "AddressLine4": "MAIN STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3PF",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

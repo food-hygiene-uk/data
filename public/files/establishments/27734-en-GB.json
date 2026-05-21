@@ -1,19 +1,19 @@
 {
   "FHRSID": 27734,
-  "BusinessName": "Pho Thong Thai Restaurant",
+  "BusinessName": "Pho-Thong Thai Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "08182/0021/0/000",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
     "Latitude": "53.5185423",
     "Longitude": "-2.0465166"
   },
-  "AddressLine1": "Photong Thai Restaurant",
+  "AddressLine1": "Pho-Thong Thai Restaurant",
   "AddressLine2": "21 Stamford Street",
   "AddressLine3": "Mossley",
   "AddressLine4": "Tameside",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-03",
+  "RatingDate": "2026-04-15",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

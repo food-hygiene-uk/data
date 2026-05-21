@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "868",
   "LocalAuthorityName": "York",
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
   "Geocode": {
     "Latitude": "53.93877",
@@ -18,12 +18,12 @@
   "AddressLine4": "York",
   "PostCode": "YO24 1LR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-25",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-15",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

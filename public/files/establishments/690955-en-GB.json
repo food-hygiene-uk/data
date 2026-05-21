@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3275191",
+    "Longitude": "-0.577574"
+  },
   "AddressLine1": "GROOMS COTTAGE",
+  "AddressLine2": "LINCOLN ROAD",
   "AddressLine3": "CAMMERINGHAM",
-  "AddressLine4": "LINCOLN ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2SH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

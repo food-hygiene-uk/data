@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3885287",
+    "Longitude": "-0.3629614"
+  },
   "AddressLine1": "MIDDLE RASEN CHURCH HALL",
+  "AddressLine2": "CHURCH STREET",
   "AddressLine3": "MIDDLE RASEN",
-  "AddressLine4": "CHURCH STREET",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3TR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

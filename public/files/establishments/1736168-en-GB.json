@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "24",
-  "AddressLine4": "QUEENSWAY",
+  "Geocode": {
+    "Latitude": "53.3987055",
+    "Longitude": "-0.7601866"
+  },
+  "AddressLine2": "24 QUEENSWAY",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1SN",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

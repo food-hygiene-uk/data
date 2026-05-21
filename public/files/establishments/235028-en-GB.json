@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2849841",
+    "Longitude": "-0.4496517"
+  },
   "AddressLine1": "SCOTHERN VILLAGE HALL",
+  "AddressLine2": "MAIN STREET",
   "AddressLine3": "SCOTHERN",
-  "AddressLine4": "MAIN STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 2UJ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

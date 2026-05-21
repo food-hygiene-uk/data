@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4503099",
+    "Longitude": "-0.5655044"
+  },
   "AddressLine1": "GRAYINGHAM GRANGE",
+  "AddressLine2": "GRANGE LANE",
   "AddressLine3": "GRAYINGHAM",
-  "AddressLine4": "GRANGE LANE",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 4JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

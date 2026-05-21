@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "802",
   "LocalAuthorityName": "Ards and North Down",
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
   "Geocode": {
     "Latitude": "54.6474876403809",
@@ -17,8 +17,12 @@
   "AddressLine3": "Bangor",
   "PostCode": "BT19 7HB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-07",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3509138",
+    "Longitude": "-0.6858789"
+  },
   "AddressLine1": "VILLAGE HALL",
+  "AddressLine2": "HIGH STREET",
   "AddressLine3": "WILLINGHAM BY STOW",
-  "AddressLine4": "HIGH STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 5JZ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

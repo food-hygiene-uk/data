@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "9",
-  "AddressLine4": "MARKET PLACE",
+  "Geocode": {
+    "Latitude": "53.3994717",
+    "Longitude": "-0.7752045"
+  },
+  "AddressLine2": "9 MARKET PLACE",
+  "AddressLine3": "GAINSBOROUGH",
+  "PostCode": "DN21 2BP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

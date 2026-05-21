@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3818308",
+    "Longitude": "-0.765139"
+  },
   "AddressLine1": "17 BANKSIDE",
-  "AddressLine4": "LEA ROAD",
+  "AddressLine2": "LEA ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1AW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

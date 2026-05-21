@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3138918",
+    "Longitude": "-0.6659911"
+  },
   "AddressLine1": "STURTON BY STOW VILLAGE HALL",
+  "AddressLine2": "HIGH STREET",
   "AddressLine3": "STURTON BY STOW",
-  "AddressLine4": "HIGH STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2AE",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

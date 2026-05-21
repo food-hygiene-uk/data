@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3799288",
+    "Longitude": "-0.4965256"
+  },
   "AddressLine1": "THE POST OFFICE FLAT",
-  "AddressLine2": "44A",
+  "AddressLine2": "44A MAIN STREET",
   "AddressLine3": "NORMANBY-BY-SPITAL",
-  "AddressLine4": "MAIN STREET",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 2HE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

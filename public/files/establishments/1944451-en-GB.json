@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7934866",
+    "Longitude": "-1.7531673"
+  },
   "AddressLine2": "3 Ivegate",
   "AddressLine3": "Bradford",
+  "PostCode": "BD1 1SQ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

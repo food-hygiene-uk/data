@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "8",
+  "Geocode": {
+    "Latitude": "53.3062146",
+    "Longitude": "-0.4851281"
+  },
+  "AddressLine2": "8 CLIFF ROAD",
   "AddressLine3": "WELTON",
-  "AddressLine4": "CLIFF ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 3JJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

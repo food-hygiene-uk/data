@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3981067",
+    "Longitude": "-0.7753338"
+  },
   "AddressLine1": "SURE START CHILDRENS CENTRE",
-  "AddressLine4": "MARKET ARCADE",
+  "AddressLine2": "MARKET ARCADE",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2DY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

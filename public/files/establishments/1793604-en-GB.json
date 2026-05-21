@@ -1,6 +1,6 @@
 {
   "FHRSID": 1793604,
-  "BusinessName": "Snack Shack",
+  "BusinessName": "Snack Attack",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "34724",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-05-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

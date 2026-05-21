@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.39541275",
+    "Longitude": "-3.0300808"
+  },
   "AddressLine1": "Beckwith Street East",
   "AddressLine3": "Birkenhead",
   "AddressLine4": "Wirral",
-  "PostCode": "CH41 3JE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

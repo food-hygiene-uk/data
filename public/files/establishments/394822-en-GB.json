@@ -13,14 +13,17 @@
     "Latitude": "53.378513",
     "Longitude": "-3.168386"
   },
-  "AddressLine1": "9 Coronation Buildings",
-  "AddressLine2": "Gilroy Road",
+  "AddressLine1": "9 Coronation Buildings Gilroy Road",
   "AddressLine3": "Newton",
   "AddressLine4": "Wirral",
   "PostCode": "CH48 6DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

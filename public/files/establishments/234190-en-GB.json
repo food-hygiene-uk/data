@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4007818",
+    "Longitude": "-0.7478554"
+  },
   "AddressLine1": "UNIT 9",
+  "AddressLine2": "LUSHER WAY",
   "AddressLine3": "CORRINGHAM ROAD INDUSTRIAL ESTATE",
-  "AddressLine4": "LUSHER WAY",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 1QB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

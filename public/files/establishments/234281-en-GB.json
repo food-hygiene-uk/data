@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1824757",
+    "Longitude": "-0.2976485"
+  },
   "AddressLine1": "RIVERSIDE INN",
+  "AddressLine2": "FERRY ROAD",
   "AddressLine3": "SOUTHREY",
-  "AddressLine4": "FERRY ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN3 5TA",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.327045",
+    "Longitude": "-0.677458"
+  },
   "AddressLine1": "CROSS KEYS",
-  "AddressLine2": "4",
+  "AddressLine2": "4 STOW PARK ROAD",
   "AddressLine3": "STOW",
-  "AddressLine4": "STOW PARK ROAD",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2DD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

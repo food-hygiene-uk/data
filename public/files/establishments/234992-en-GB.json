@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4185737",
+    "Longitude": "-0.3822286"
+  },
   "AddressLine1": "VILLAGE HALL",
+  "AddressLine2": "MILL LANE",
   "AddressLine3": "OSGODBY",
-  "AddressLine4": "MILL LANE",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3TB",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

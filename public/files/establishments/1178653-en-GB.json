@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4073913",
+    "Longitude": "-0.7866661"
+  },
   "AddressLine1": "BRIAR VENE",
-  "AddressLine4": "NORTH WARREN ROAD",
+  "AddressLine2": "NORTH WARREN ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2TU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

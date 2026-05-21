@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3864463",
+    "Longitude": "-0.3384561"
+  },
   "AddressLine1": "CHESTNUT HOUSE",
-  "AddressLine2": "23",
-  "AddressLine4": "KILNWELL ROAD",
+  "AddressLine2": "23 KILNWELL ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3BJ",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

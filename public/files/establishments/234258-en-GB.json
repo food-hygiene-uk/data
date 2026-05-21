@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5111328",
+    "Longitude": "-0.2277169"
+  },
   "AddressLine1": "SWALLOW VILLAGE HALL ASSOCIATION",
+  "AddressLine2": "LIMBER ROAD",
   "AddressLine3": "SWALLOW",
-  "AddressLine4": "LIMBER ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6DY",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

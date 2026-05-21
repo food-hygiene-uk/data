@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5077211",
+    "Longitude": "-0.3782334"
+  },
   "AddressLine1": "BROOK FARM",
+  "AddressLine2": "GRASBY ROAD",
   "AddressLine3": "NORTH KELSEY MOOR",
-  "AddressLine4": "GRASBY ROAD",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN7 6HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

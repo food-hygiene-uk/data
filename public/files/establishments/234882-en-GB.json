@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "294",
-  "AddressLine4": "ROPERY ROAD",
+  "Geocode": {
+    "Latitude": "53.4069273",
+    "Longitude": "-0.7825876"
+  },
+  "AddressLine2": "294 ROPERY ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 2PD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

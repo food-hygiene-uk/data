@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "2",
+  "Geocode": {
+    "Latitude": "53.2657898",
+    "Longitude": "-0.4894809"
+  },
+  "AddressLine2": "2 CHURCH STREET",
   "AddressLine3": "NETTLEHAM",
-  "AddressLine4": "CHURCH STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN2 2PD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1067768,
-  "BusinessName": "Pointz Castle Farm Ice Cream",
+  "BusinessName": "Pointz Castle Ice Cream",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "758093",
   "BusinessTypeID": 7841,
@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8704872131348",
+    "Longitude": "-5.16524791717529"
+  },
+  "AddressLine1": "Pointz Castle Farm",
+  "AddressLine2": "Pen Y Cwm",
+  "AddressLine3": "Haverfordwest",
+  "AddressLine4": "Pembrokeshire",
+  "PostCode": "SA62 6BA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",

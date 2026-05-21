@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3983652",
+    "Longitude": "-0.5748845"
+  },
   "AddressLine1": "GIBSON HOUSE",
+  "AddressLine2": "GIBSON ROAD",
   "AddressLine3": "HEMSWELL CLIFF",
-  "AddressLine4": "GIBSON ROAD",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 5TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

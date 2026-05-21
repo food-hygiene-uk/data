@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "18",
+  "Geocode": {
+    "Latitude": "53.2659262",
+    "Longitude": "-0.6581422"
+  },
+  "AddressLine2": "18 BRIDGE STREET",
   "AddressLine3": "SAXILBY",
-  "AddressLine4": "BRIDGE STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2PZ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

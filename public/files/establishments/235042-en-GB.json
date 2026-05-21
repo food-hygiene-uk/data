@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2925996",
+    "Longitude": "-0.6353276"
+  },
   "AddressLine1": "GRANGE FARM",
+  "AddressLine2": "MAIN STREET",
   "AddressLine3": "BROXHOLME",
-  "AddressLine4": "MAIN STREET",
+  "AddressLine4": "LINCOLN",
+  "PostCode": "LN1 2NG",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

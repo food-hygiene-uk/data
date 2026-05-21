@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3877837",
+    "Longitude": "-0.3370206"
+  },
   "AddressLine1": "THE GEORGE INN",
-  "AddressLine4": "GEORGE STREET",
+  "AddressLine2": "GEORGE STREET",
+  "AddressLine4": "MARKET RASEN",
+  "PostCode": "LN8 3HN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

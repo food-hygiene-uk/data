@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4142514",
+    "Longitude": "-0.7850422"
+  },
   "AddressLine1": "SHIP INN",
+  "AddressLine2": "FRONT STREET",
   "AddressLine3": "MORTON",
-  "AddressLine4": "FRONT STREET",
+  "AddressLine4": "GAINSBOROUGH",
+  "PostCode": "DN21 3AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
