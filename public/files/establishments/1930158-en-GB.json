@@ -14,12 +14,17 @@
     "Longitude": "-6.6722878"
   },
   "AddressLine1": "2 Riverside Regional Centre",
+  "AddressLine2": "Somerset",
   "AddressLine3": "Coleraine",
   "AddressLine4": "Londonderry",
   "PostCode": "BT51 3QQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "570",
   "LocalAuthorityName": "Vale of Glamorgan",
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
     "Latitude": "51.40839",
@@ -17,8 +17,12 @@
   "AddressLine3": "Llantwit Major",
   "AddressLine4": "Vale Of Glamorgan",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

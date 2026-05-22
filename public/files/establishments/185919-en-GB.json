@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "327",
   "LocalAuthorityName": "Horsham",
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
   "Geocode": {
     "Latitude": "50.9174061",
@@ -19,12 +19,12 @@
   "AddressLine4": "Pulborough",
   "PostCode": "RH20 4LA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

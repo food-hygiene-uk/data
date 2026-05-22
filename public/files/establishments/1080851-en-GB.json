@@ -1,6 +1,6 @@
 {
   "FHRSID": 1080851,
-  "BusinessName": "Churchills Fish & Chips",
+  "BusinessName": "Theydon Bois Fish and Chips",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000103218",
   "BusinessTypeID": 4613,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Theydon Fish and Chips 15 Forest Drive",
+  "Geocode": {
+    "Latitude": "51.672189",
+    "Longitude": "0.101126"
+  },
+  "AddressLine1": "15 Forest Drive",
   "AddressLine2": "Theydon Bois",
   "AddressLine3": "Epping",
   "AddressLine4": "Essex",

@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.204483",
-    "Longitude": "-6.65236"
+    "Latitude": "55.204581",
+    "Longitude": "-6.652281"
   },
   "AddressLine1": "25 Eglinton Street",
+  "AddressLine2": "Portrush",
   "AddressLine3": "Portrush",
   "AddressLine4": "Antrim",
   "PostCode": "BT56 8DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "227",
   "LocalAuthorityName": "Breckland",
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
   "Geocode": {
     "Latitude": "52.405182",
@@ -17,12 +17,12 @@
   "AddressLine3": "Thetford",
   "PostCode": "IP24 3LH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

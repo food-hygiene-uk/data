@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.154401",
-    "Longitude": "-6.4093047"
+    "Latitude": "55.0695936",
+    "Longitude": "-6.516511"
   },
   "AddressLine1": "22 Main Street",
+  "AddressLine2": "Town Parks",
   "AddressLine3": "Ballymoney",
   "AddressLine4": "Antrim",
   "PostCode": "BT53 6AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

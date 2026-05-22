@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
   "Geocode": {
-    "Latitude": "54.4467175",
-    "Longitude": "-6.6924972"
+    "Latitude": "54.4478",
+    "Longitude": "-6.692215"
   },
   "AddressLine1": "16 The Square",
-  "AddressLine2": "Brackaville",
-  "AddressLine3": "Coalisland",
+  "AddressLine2": "Moy",
+  "AddressLine3": "Moy",
   "AddressLine4": "Co. Tyrone",
   "PostCode": "BT71 7SG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,15 +9,18 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "32 Fore Street St Marychurch Torquay Torbay",
+  "Geocode": {
+    "Latitude": "50.4823959",
+    "Longitude": "-3.5233081"
+  },
+  "AddressLine1": "32 Fore Street St Marychurch  Torquay",
   "PostCode": "TQ1 4LY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-25",
+  "RatingDate": "2026-04-22",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

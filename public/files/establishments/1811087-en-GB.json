@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.bracknell-forest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bracknell-forest.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Avenue",
+  "Geocode": {
+    "Latitude": "51.4176939",
+    "Longitude": "-0.7486804"
+  },
+  "AddressLine1": "27 The Avenue",
   "AddressLine3": "Bracknell",
   "AddressLine4": "Bracknell Forest",
   "PostCode": "RG12 1BD",

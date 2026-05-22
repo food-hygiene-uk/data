@@ -1,6 +1,6 @@
 {
   "FHRSID": 1690749,
-  "BusinessName": "Marlowe Burger At The Old Town Tavern",
+  "BusinessName": "Marlowes Clapham",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "24/00016/COMM",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW4 0HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

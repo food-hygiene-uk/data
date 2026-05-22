@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": {
     "Latitude": "53.625433",
     "Longitude": "-1.8482086"
   },
-  "AddressLine1": "Shop",
-  "AddressLine2": "Hillcrest Filling Station",
-  "AddressLine3": "Gillroyd Lane",
-  "AddressLine4": "Linthwaite",
+  "AddressLine1": "Hillcrest Filling Station",
+  "AddressLine2": "Gillroyd Lane",
+  "AddressLine3": "Linthwaite",
   "PostCode": "HD7 5SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

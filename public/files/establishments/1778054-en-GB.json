@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "305",
   "LocalAuthorityName": "Elmbridge",
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
   "Geocode": {
     "Latitude": "51.3692079",
@@ -21,10 +21,6 @@
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-07",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingDate": "2026-04-23",
+  "Scores": null
 }

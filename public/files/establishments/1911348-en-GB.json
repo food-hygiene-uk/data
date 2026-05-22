@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2419976",
-    "Longitude": "-2.2939026"
-  },
-  "AddressLine1": "Unit 16",
-  "AddressLine2": "Rockhaven Business Centre Commerce Park",
-  "AddressLine3": "Malthouse Lane",
-  "AddressLine4": "Frome",
-  "PostCode": "BA11 2FS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

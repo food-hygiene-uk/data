@@ -1,25 +1,29 @@
 {
   "FHRSID": 1865194,
-  "BusinessName": "Extyscarting Service & Events Decor",
+  "BusinessName": "Extys Catering Service & Events Decor",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "875388",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "880",
   "LocalAuthorityName": "Stoke-On-Trent",
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
   "Geocode": {
-    "Latitude": "53.0212002",
-    "Longitude": "-2.1814591"
+    "Latitude": "53.022794",
+    "Longitude": "-2.179781"
   },
-  "AddressLine2": "106 Broad Street",
+  "AddressLine2": "40 Broad Street",
   "AddressLine3": "Hanley",
   "AddressLine4": "Stoke-On-Trent",
-  "PostCode": "ST1 4EJ",
+  "PostCode": "ST1 4EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

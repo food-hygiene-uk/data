@@ -1,6 +1,6 @@
 {
   "FHRSID": 1799283,
-  "BusinessName": "Ema Cafe Bistro",
+  "BusinessName": "EMA Cafe & Bistro",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "24/00453/COMM",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SE21 8EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

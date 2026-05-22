@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Wendover C of E School",
-  "AddressLine2": "Wharf Road",
-  "AddressLine3": "Wendover",
-  "AddressLine4": "Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.766381",
+    "Longitude": "-0.740924"
+  },
+  "AddressLine1": "Wharf Road",
+  "AddressLine2": "Wendover",
+  "AddressLine3": "Buckinghamshire",
   "PostCode": "HP22 6HF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
