@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.lewes-eastbourne.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth.ldc@lewes-eastbourne.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9380609",
+    "Longitude": "-0.1038012"
+  },
+  "AddressLine1": "The Oaks Poultry Farm Common Lane",
+  "AddressLine3": "Ditchling",
+  "PostCode": "BN6 8TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

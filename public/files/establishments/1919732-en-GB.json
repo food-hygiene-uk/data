@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.391443",
+    "Longitude": "-1.478831"
+  },
+  "AddressLine1": "Wickes Car Park",
+  "AddressLine2": "2 Rutland Road",
+  "AddressLine3": "Sheffield",
+  "PostCode": "S3 8DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

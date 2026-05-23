@@ -1,27 +1,29 @@
 {
   "FHRSID": 1717983,
-  "BusinessName": "LCE",
-  "BusinessType": "Mobile caterer",
+  "BusinessName": "Lakeside Boathouse",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000111471",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lakeside Boathouse",
-  "AddressLine2": "Prince's Avenue",
-  "AddressLine3": "Llandrindod Wells",
-  "AddressLine4": "Powys",
+  "Geocode": {
+    "Latitude": "52.238473",
+    "Longitude": "-3.376805"
+  },
+  "AddressLine1": "Prince's Avenue",
+  "AddressLine2": "Llandrindod Wells",
+  "AddressLine3": "Powys",
   "PostCode": "LD1 5HU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-05-15",
+  "RatingDate": "2026-05-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

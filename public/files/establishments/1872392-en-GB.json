@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9409591",
-    "Longitude": "-1.128036"
-  },
-  "AddressLine2": "99 Bellhouse Way",
-  "AddressLine3": "York",
-  "PostCode": "YO24 3LW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

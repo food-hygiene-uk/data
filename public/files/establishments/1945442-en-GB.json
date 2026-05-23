@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5536175",
+    "Longitude": "-2.3229444"
+  },
+  "AddressLine2": "95 Greendale Drive",
+  "AddressLine3": "Radcliffe",
+  "AddressLine4": "Manchester",
+  "PostCode": "M26 1UE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

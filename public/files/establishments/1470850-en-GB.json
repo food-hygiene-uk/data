@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Sentinel End",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4180257",
+    "Longitude": "-0.9718867"
+  },
+  "AddressLine1": "Sentinel End",
+  "AddressLine2": "Reading",
   "PostCode": "RG2 0BF",
   "SchemeType": "FHRS",
   "RatingValue": "4",

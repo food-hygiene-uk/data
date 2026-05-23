@@ -1,6 +1,6 @@
 {
   "FHRSID": 1658168,
-  "BusinessName": "Bang Tang, Bang Tang Mcr",
+  "BusinessName": "Bang Tang Mcr",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "181005",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Salford",
   "PostCode": "M50 3AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

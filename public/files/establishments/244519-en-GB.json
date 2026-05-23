@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\tReceived an appeal form today Compliance with food hygiene and safety procedures: We are compliant in all areas of management and food procedures - L - Warren was apparently between two rating 4 or 5 star and this leads us to believe that this is a punishing rating as all temps, labels and procedures were not an issue - general cleanliness in the absence of the head chef was right but nothing that may cause harm as it was in hard to reach places.&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tCompliance with structural requirements: All was good and except to paint a ceiling was noted - not a fair assessment of procedures as it can be solved quickly.&lt;/p&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tConfidence in management/control procedures: All was classed as great - especially in paperwork.&lt;/p&gt;\n&lt;div align=&quot;center&quot;&gt;\n\t&lt;hr align=&quot;center&quot; size=&quot;2&quot; width=&quot;100%&quot; /&gt;\n&lt;/div&gt;\n",
   "Geocode": {
     "Latitude": "51.384635",
     "Longitude": "-2.360001"
@@ -19,8 +20,12 @@
   "AddressLine4": "Bath",
   "PostCode": "BA1 5BR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

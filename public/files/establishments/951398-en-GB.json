@@ -10,20 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
   "Geocode": {
-    "Latitude": "51.233421",
-    "Longitude": "-0.732003"
+    "Latitude": "51.2332832",
+    "Longitude": "-0.7319062"
   },
   "AddressLine1": "88 - 90 The Street",
-  "AddressLine3": "Tongham",
+  "AddressLine2": "Tongham",
+  "AddressLine3": "Farnham",
   "AddressLine4": "Surrey",
   "PostCode": "GU10 1AA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-05-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-08",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

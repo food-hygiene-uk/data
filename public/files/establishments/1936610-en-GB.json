@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "029",
   "LocalAuthorityName": "Fenland",
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
   "Geocode": {
     "Latitude": "52.455931",
@@ -18,8 +18,12 @@
   "AddressLine3": "Cambridgeshire",
   "PostCode": "PE16 6BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

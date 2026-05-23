@@ -1,6 +1,6 @@
 {
   "FHRSID": 91689,
-  "BusinessName": "The Jolly Carter",
+  "BusinessName": "Jolly Carter",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2546",
   "BusinessTypeID": 7843,
@@ -17,8 +17,12 @@
   "AddressLine3": "Eccles",
   "PostCode": "M30 8LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

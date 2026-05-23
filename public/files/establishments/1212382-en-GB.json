@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\t&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;\ncolor:#0E2841&quot;&gt;One reason for the low rating was an unforeseen failure of one of our hot water systems. The system has now been replaced and normal hot water provision has been restored.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;xmsonormal&quot;&gt;\n\t&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;\ncolor:#0E2841&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;\n&lt;p class=&quot;xmsonormal&quot;&gt;\n\t&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;\ncolor:#0E2841&quot;&gt;Other improvements carried out revised daily inspection procedure, chopping board replaced and Revised verification of food safety system reporting and training of food safety management procedures. We have requested a reinspection and are confident our 5 rating will be restored.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "53.9748764038086",
     "Longitude": "-1.13437104225159"
@@ -19,8 +20,12 @@
   "AddressLine4": "York",
   "PostCode": "YO26 6QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

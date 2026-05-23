@@ -1,9 +1,9 @@
 {
   "FHRSID": 1940828,
   "BusinessName": "Galliers Dairy",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9103117",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "B76 9QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

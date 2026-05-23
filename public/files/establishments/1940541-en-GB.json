@@ -9,13 +9,22 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Donaghcloney",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4192785",
+    "Longitude": "-6.2589534"
+  },
+  "AddressLine1": "44 Main Street",
+  "AddressLine2": "Donaghcloney",
+  "AddressLine3": "Donaghcloney",
+  "AddressLine4": "Down",
   "PostCode": "BT66 7LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
