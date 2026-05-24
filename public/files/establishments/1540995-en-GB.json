@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.2059364318848",
@@ -18,12 +18,12 @@
   "AddressLine3": "Bugbrooke",
   "PostCode": "NN7 3RW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-07",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

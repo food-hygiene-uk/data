@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "228",
   "LocalAuthorityName": "Broadland",
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Sprowston Manor Hotel",
@@ -16,8 +16,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR7 8RP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-24",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
