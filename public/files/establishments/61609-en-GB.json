@@ -1,6 +1,6 @@
 {
   "FHRSID": 61609,
-  "BusinessName": "Mohammad Rumi",
+  "BusinessName": "Sher-E-Bangla",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "13547",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Indian Cottage Restaurant 204 High Street Montrose",
+  "Geocode": {
+    "Latitude": "56.71012",
+    "Longitude": "-2.46861"
+  },
+  "AddressLine1": "204 High Street Montrose",
   "PostCode": "DD10 8PH",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

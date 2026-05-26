@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Seaview Primary School Monifieth",
+  "Geocode": {
+    "Latitude": "56.482786",
+    "Longitude": "-2.824048"
+  },
+  "AddressLine1": "Seaview Primary School Victoria Street Monifieth Dundee",
   "PostCode": "DD5 4HL",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2026-04-23",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": null
 }

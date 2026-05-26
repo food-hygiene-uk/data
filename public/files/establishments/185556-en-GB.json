@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.3358612060547",
@@ -17,12 +17,12 @@
   "AddressLine3": "Weston-Super-Mare",
   "PostCode": "BS23 4BG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

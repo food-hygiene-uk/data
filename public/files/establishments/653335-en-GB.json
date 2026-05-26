@@ -1,29 +1,29 @@
 {
   "FHRSID": 653335,
   "BusinessName": "Showtime Ice Cream Ltd",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/100043247",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3966167",
     "Longitude": "-3.0260867"
   },
   "AddressLine1": "12 Brook Street",
-  "AddressLine2": "Birkenhead",
-  "AddressLine3": "Wirral",
+  "AddressLine3": "Birkenhead",
+  "AddressLine4": "Wirral",
   "PostCode": "CH41 3PB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-22",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

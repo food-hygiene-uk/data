@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "161",
   "LocalAuthorityName": "Stevenage",
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
   "Geocode": null,
   "AddressLine1": "MR SPUD Pitch 12",
@@ -16,12 +16,12 @@
   "AddressLine4": "Stevenage",
   "PostCode": "SG1 1BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

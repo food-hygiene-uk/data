@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "291",
   "LocalAuthorityName": "South Staffordshire",
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
   "Geocode": {
     "Latitude": "52.5947749",
@@ -18,12 +18,12 @@
   "AddressLine3": "WOLVERHAMPTON",
   "PostCode": "WV6 7QH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-30",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

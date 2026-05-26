@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
   "Geocode": {
     "Latitude": "51.570157",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "SS9 5PT",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-12-18",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

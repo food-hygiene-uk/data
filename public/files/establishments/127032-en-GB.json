@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "870",
   "LocalAuthorityName": "Milton Keynes",
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": {
     "Latitude": "51.994917",
@@ -18,12 +18,12 @@
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK2 2SW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-09",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

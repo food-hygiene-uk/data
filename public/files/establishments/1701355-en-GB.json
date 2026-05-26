@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "124",
   "LocalAuthorityName": "Cheltenham",
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
   "Geocode": {
     "Latitude": "51.904575",
@@ -18,12 +18,12 @@
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL50 3HU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-03",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
     "Latitude": "50.9680786132813",
@@ -18,12 +18,12 @@
   "AddressLine4": "Somerset",
   "PostCode": "DT9 5BB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-20",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }
