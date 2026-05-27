@@ -1,13 +1,13 @@
 {
   "FHRSID": 1691660,
-  "BusinessName": "Ashirwad Sweets",
+  "BusinessName": "Ashirwaad Sweets",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000149796",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
     "Latitude": "52.577548",
@@ -16,14 +16,15 @@
   "AddressLine1": "136 Caldmore Road",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
-  "PostCode": "WS1 3RF.",
+  "AddressLine4": "WS1 3RF",
+  "PostCode": "WS1 3RF",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-02-08",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

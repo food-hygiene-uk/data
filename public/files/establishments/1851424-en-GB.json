@@ -1,25 +1,28 @@
 {
   "FHRSID": 1851424,
-  "BusinessName": "Aspens Services Limited",
+  "BusinessName": "South Otterington Church of England Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "Cx10056",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "South Otterington Church Of England VC Primary School South Otterington To South Ott",
-  "AddressLine4": "South Otterington",
-  "PostCode": "DL7 9HD",
+  "Geocode": {
+    "Latitude": "51.5010369",
+    "Longitude": "-0.0201265"
+  },
+  "AddressLine1": "Beaufort Court Admirals Way",
+  "AddressLine4": "London",
+  "PostCode": "E14 9XL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

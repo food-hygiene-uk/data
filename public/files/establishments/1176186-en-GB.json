@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": {
     "Latitude": "53.8000631",
@@ -18,12 +18,12 @@
   "AddressLine3": "Leeds",
   "PostCode": "LS1 8TL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-10",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

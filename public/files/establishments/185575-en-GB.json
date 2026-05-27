@@ -9,17 +9,22 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.352896",
+    "Longitude": "-2.913567"
+  },
+  "AddressLine1": "Summer Lane Care Home",
   "AddressLine2": "Diamond Batch",
   "AddressLine3": "Weston-Super-Mare",
+  "AddressLine4": "North Somerset",
   "PostCode": "BS24 7AY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-05",
+  "RatingDate": "2026-05-21",
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

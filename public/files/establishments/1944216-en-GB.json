@@ -1,9 +1,9 @@
 {
   "FHRSID": 1944216,
   "BusinessName": "The Flying Chocsman",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "11226",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "056",
   "LocalAuthorityName": "Westmorland and Furness",
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
@@ -18,8 +18,12 @@
   "AddressLine4": "Carlisle",
   "PostCode": "CA4 0BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

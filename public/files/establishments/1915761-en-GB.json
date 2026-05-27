@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9949239",
+    "Longitude": "-0.7319415"
+  },
+  "AddressLine1": "32 Egmont Road",
+  "AddressLine2": "Easebourne",
+  "AddressLine3": "Midhurst",
+  "AddressLine4": "West Sussex",
+  "PostCode": "GU29 9BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

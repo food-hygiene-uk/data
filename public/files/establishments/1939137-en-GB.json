@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "553",
   "LocalAuthorityName": "Bridgend",
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
   "Geocode": null,
   "AddressLine1": "10 Hall Drive",
   "AddressLine2": "North Cornelly",
   "AddressLine3": "Bridgend",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

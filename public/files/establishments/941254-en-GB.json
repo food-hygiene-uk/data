@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ALDI FOODSTORE TODMORDEN ROAD",
+  "Geocode": {
+    "Latitude": "53.7850763",
+    "Longitude": "-2.23169205"
+  },
+  "AddressLine1": "TODMORDEN ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 4AA",
   "SchemeType": "FHRS",

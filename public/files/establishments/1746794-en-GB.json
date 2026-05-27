@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": null,
   "AddressLine2": "2a Regent Crescent",
@@ -15,12 +15,12 @@
   "AddressLine4": "Trafford Park",
   "PostCode": "M17 8AR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

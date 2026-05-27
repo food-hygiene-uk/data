@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "816",
   "LocalAuthorityName": "Fermanagh and Omagh",
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
   "Geocode": {
     "Latitude": "54.601008",
@@ -19,8 +19,12 @@
   "AddressLine4": "Tyrone",
   "PostCode": "BT79 0AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

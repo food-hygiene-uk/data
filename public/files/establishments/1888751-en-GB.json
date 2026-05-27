@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "027",
   "LocalAuthorityName": "Cambridge City",
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
   "Geocode": {
     "Latitude": "52.2190367",
@@ -18,8 +18,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB3 1SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

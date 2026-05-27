@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "889",
   "LocalAuthorityName": "Halton",
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
   "Geocode": {
     "Latitude": "53.329464",
@@ -18,12 +18,12 @@
   "AddressLine3": "Halton",
   "PostCode": "WA7 2GW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

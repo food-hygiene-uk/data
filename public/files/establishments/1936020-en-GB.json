@@ -1,6 +1,6 @@
 {
   "FHRSID": 1936020,
-  "BusinessName": "The Cottage Cafe Of Brundle",
+  "BusinessName": "The Cottage Cafe Of Brundall",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "088215/CP",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Norfolk",
   "PostCode": "NR13 5LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

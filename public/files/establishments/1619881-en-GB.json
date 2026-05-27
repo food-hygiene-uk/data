@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
   "Geocode": {
     "Latitude": "53.690081",
@@ -18,12 +18,12 @@
   "AddressLine3": "Ossett",
   "PostCode": "WF5 9PE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-08",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

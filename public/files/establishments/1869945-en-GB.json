@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": {
     "Latitude": "53.9915375",
@@ -17,12 +17,12 @@
   "AddressLine4": "Harrogate",
   "PostCode": "HG1 1HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

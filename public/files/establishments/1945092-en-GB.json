@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4435732",
+    "Longitude": "-2.8586456"
+  },
+  "AddressLine2": "32-34 Hill Road",
+  "AddressLine3": "Clevedon",
+  "PostCode": "BS21 7PH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

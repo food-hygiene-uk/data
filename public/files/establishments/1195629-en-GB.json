@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "Geocode": {
     "Latitude": "52.8586047",
@@ -18,12 +18,12 @@
   "AddressLine4": "Stafford",
   "PostCode": "ST21 6AD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-05-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
     "Latitude": "51.538554",
@@ -18,12 +18,12 @@
   "AddressLine4": "Oxon",
   "PostCode": "RG9 2BG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-21",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
