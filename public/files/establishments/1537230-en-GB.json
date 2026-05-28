@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "122",
   "LocalAuthorityName": "Uttlesford",
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
   "Geocode": {
     "Latitude": "52.0136562",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CB11 4AP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-16",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

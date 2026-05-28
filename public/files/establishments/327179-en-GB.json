@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.856466",
@@ -17,12 +17,12 @@
   "AddressLine3": "Keighley",
   "PostCode": "BD21 1BB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-09-27",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

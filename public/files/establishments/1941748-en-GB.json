@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941748,
-  "BusinessName": "Mr Whippy",
+  "BusinessName": "PJ19 PZD at Mr Whippy",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "128599",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

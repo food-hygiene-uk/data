@@ -1,9 +1,9 @@
 {
   "FHRSID": 1057240,
   "BusinessName": "Hickory's Smokehouse",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "64051",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
@@ -18,12 +18,8 @@
   "AddressLine4": "Peterborough",
   "PostCode": "PE7 8QH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-12",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

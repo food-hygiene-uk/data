@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Morley Way",
+  "Geocode": {
+    "Latitude": "52.5533599",
+    "Longitude": "-0.2614213"
+  },
+  "AddressLine1": "c/o Green Circle Logistics",
+  "AddressLine2": "Morley Court Morley Way",
   "AddressLine3": "Woodston",
   "AddressLine4": "Peterborough",
   "PostCode": "PE2 7BW",

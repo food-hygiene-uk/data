@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3841519",
@@ -18,12 +18,12 @@
   "AddressLine4": "Wirral",
   "PostCode": "CH49 0UB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

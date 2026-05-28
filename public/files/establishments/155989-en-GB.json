@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.489524",
@@ -18,12 +18,12 @@
   "AddressLine3": "Tetney Grimsby",
   "PostCode": "DN36 5JX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-09",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

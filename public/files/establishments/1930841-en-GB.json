@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "887",
   "LocalAuthorityName": "Wokingham",
   "LocalAuthorityWebSite": "http://www.wokingham.gov.uk/welcome/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@wokingham.gov.uk",
   "Geocode": null,
   "AddressLine2": "Coach House",
@@ -15,8 +15,12 @@
   "AddressLine4": "Spencerswood",
   "PostCode": "RG7 1BN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

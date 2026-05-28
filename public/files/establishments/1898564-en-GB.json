@@ -1,9 +1,9 @@
 {
   "FHRSID": 1898564,
   "BusinessName": "Downe Arms Inn",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx17582",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
@@ -17,8 +17,12 @@
   "AddressLine4": "Whitby",
   "PostCode": "YO21 2EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

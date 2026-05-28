@@ -7,22 +7,20 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": {
-    "Latitude": "54.2240085",
-    "Longitude": "-1.3260791"
-  },
-  "AddressLine1": "Thirsk Rural Business Centre Blakey Lane",
-  "AddressLine4": "Sowerby",
-  "PostCode": "YO7 3AB",
+  "Geocode": null,
+  "AddressLine1": "STUDDAH FARM",
+  "AddressLine2": "SPENNITHORNE",
+  "AddressLine4": "LEYBURN",
+  "PostCode": "DL8 5NG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

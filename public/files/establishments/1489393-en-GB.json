@@ -1,13 +1,13 @@
 {
   "FHRSID": 1489393,
-  "BusinessName": "Las Iguanas Ealing / Super Nonna",
+  "BusinessName": "Las Iguanas / Stacks / Kickas",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP03391",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.5129329",
@@ -17,12 +17,12 @@
   "AddressLine2": "Ealing",
   "PostCode": "W5 2XA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-29",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

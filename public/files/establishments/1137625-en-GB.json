@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bracknell-forest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bracknell-forest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4046848",
-    "Longitude": "-0.7994418"
-  },
-  "AddressLine1": "Houghtons Folly Waterloo Road",
-  "AddressLine3": "Wokingham",
-  "AddressLine4": "Bracknell Forest",
-  "PostCode": "RG40 3DJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2020-01-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "521",
   "LocalAuthorityName": "Kingston-Upon-Thames",
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
   "Geocode": {
     "Latitude": "51.3853484",
@@ -17,8 +17,12 @@
   "AddressLine2": "Worcester Park",
   "PostCode": "KT4 7NW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,29 +1,18 @@
 {
   "FHRSID": 1005846,
-  "BusinessName": "McDonald’s Restaurants Ltd #594 Bourges Boulevard",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "McDonald’s Restaurants",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "64143",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.579712",
-    "Longitude": "-0.251625"
-  },
-  "AddressLine1": "Mcdonalds",
-  "AddressLine2": "Bourges Boulevard",
-  "AddressLine3": "Peterborough",
-  "PostCode": "PE1 2AF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-15",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

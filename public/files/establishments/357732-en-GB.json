@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
   "Geocode": {
     "Latitude": "51.3678964",
@@ -17,12 +17,12 @@
   "AddressLine3": "Orpington",
   "PostCode": "BR6 8NW",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

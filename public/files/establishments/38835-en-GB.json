@@ -1,13 +1,13 @@
 {
   "FHRSID": 38835,
-  "BusinessName": "Tgi Friday'S Also T/A Byron Burger, Mother Clucker, Liberty",
+  "BusinessName": "TGI Friday's Also T/A Byron Burger, Mother Clucker,Conviction Chicken",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "100062643773",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "134",
   "LocalAuthorityName": "Fareham",
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
   "Geocode": {
     "Latitude": "50.868431",
@@ -19,8 +19,12 @@
   "AddressLine4": "Southampton",
   "PostCode": "SO31 6AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

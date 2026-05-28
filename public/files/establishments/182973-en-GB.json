@@ -1,9 +1,9 @@
 {
   "FHRSID": 182973,
   "BusinessName": "Specialist Supplements",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000085004",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
@@ -19,8 +19,12 @@
   "AddressLine4": "Rhayader",
   "PostCode": "LD6 5ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2024-05-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "878",
   "LocalAuthorityName": "Leicester City",
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": {
     "Latitude": "52.6319086",
@@ -17,8 +17,12 @@
   "AddressLine2": "Leicester",
   "PostCode": "LE1 5SP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

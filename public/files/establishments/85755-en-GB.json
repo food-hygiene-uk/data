@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
   "Geocode": {
     "Latitude": "50.372362",
@@ -17,12 +17,12 @@
   "AddressLine3": "Plymouth",
   "PostCode": "PL4 9BA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-05",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

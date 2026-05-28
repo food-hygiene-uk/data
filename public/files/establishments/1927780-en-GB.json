@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Red Lion Public House",
@@ -16,8 +16,12 @@
   "AddressLine4": "West Midlands",
   "PostCode": "WV11 1LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

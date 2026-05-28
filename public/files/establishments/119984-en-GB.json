@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2415671",
+    "Longitude": "-2.9966514"
+  },
+  "AddressLine1": "Cherry Trees",
+  "AddressLine2": "28 Berrow Road",
+  "AddressLine3": "Burnham-On-Sea",
+  "PostCode": "TA8 2EX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

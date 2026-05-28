@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "133",
   "LocalAuthorityName": "Eastleigh",
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
   "Geocode": {
     "Latitude": "50.9759628",
@@ -16,8 +16,12 @@
   "AddressLine1": "THE FOX AND HOUNDS WINCHESTER ROAD FAIR OAK EASTLEIGH SO50 7HB",
   "PostCode": "SO50 7HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

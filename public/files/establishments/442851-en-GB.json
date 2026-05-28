@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "526",
   "LocalAuthorityName": "Redbridge",
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
   "Geocode": {
     "Latitude": "51.573407",
@@ -17,12 +17,12 @@
   "AddressLine4": "Ilford",
   "PostCode": "IG2 6PE",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-22",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }
