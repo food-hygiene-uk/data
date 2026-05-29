@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "327",
   "LocalAuthorityName": "Horsham",
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Fountain Inn",
@@ -16,12 +16,12 @@
   "AddressLine4": "Steyning",
   "PostCode": "BN44 3AP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-02",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1910514,
-  "BusinessName": "THE SPICE MERCHANT",
+  "BusinessName": "Saffron",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "122225",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Staffordshire",
   "PostCode": "ST13 6BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Nobel Road",
-  "AddressLine2": "Gourdie Industrial Estate",
-  "AddressLine3": "Dundee",
+  "Geocode": {
+    "Latitude": "56.4783688",
+    "Longitude": "-3.0540161"
+  },
+  "AddressLine1": "Suite 8 Eco House",
+  "AddressLine2": "Nobel Road",
+  "AddressLine3": "Gourdie Industrial Estate",
+  "AddressLine4": "Dundee",
   "PostCode": "DD3 4UH",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.813138",
+    "Longitude": "-0.783809"
+  },
   "AddressLine1": "172 Tring Road",
   "AddressLine2": "Aylesbury",
   "AddressLine3": "Buckinghamshire",
-  "PostCode": "HP220 1FR",
+  "PostCode": "HP20 1JR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9870188",
-    "Longitude": "-0.7662123"
-  },
-  "AddressLine2": "69 Hexham Gardens",
-  "AddressLine3": "Bletchley",
-  "AddressLine4": "Milton Keynes",
-  "PostCode": "MK3 5EU",
+  "Geocode": null,
+  "AddressLine2": "Open University Campus",
+  "AddressLine3": "Library Car Park Container",
+  "AddressLine4": "Walton Hall Kents Hill",
+  "PostCode": "MK7 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

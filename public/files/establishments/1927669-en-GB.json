@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Monmouthshire",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
   "Geocode": {
     "Latitude": "51.81536073",
@@ -18,8 +18,12 @@
   "AddressLine4": "Monmouthshire",
   "PostCode": "NP7 9LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

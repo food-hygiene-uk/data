@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "227",
   "LocalAuthorityName": "Breckland",
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
   "Geocode": {
     "Latitude": "52.4138687",
@@ -18,12 +18,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "IP24 2AD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-11-27",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

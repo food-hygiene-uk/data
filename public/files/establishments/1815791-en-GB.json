@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Luna Place",
-  "AddressLine2": "Dundee Technology Park",
-  "AddressLine3": "Dundee",
+  "Geocode": {
+    "Latitude": "56.4632579",
+    "Longitude": "-3.0549765"
+  },
+  "AddressLine1": "Unit 5 Gateway West",
+  "AddressLine2": "Luna Place",
+  "AddressLine3": "Dundee Technology Park",
+  "AddressLine4": "Dundee",
   "PostCode": "DD2 1XF",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2026-05-22",
+  "RatingDate": "2026-05-28",
   "Scores": null
 }

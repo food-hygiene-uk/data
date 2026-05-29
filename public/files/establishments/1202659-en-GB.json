@@ -1,6 +1,6 @@
 {
   "FHRSID": 1202659,
-  "BusinessName": "Go Local",
+  "BusinessName": "UT Food and Wine Go Local",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "177298",
   "BusinessTypeID": 4613,
@@ -10,18 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
   "Geocode": {
-    "Latitude": "53.4471244812012",
-    "Longitude": "-2.98991799354553"
+    "Latitude": "53.4470443",
+    "Longitude": "-2.990221"
   },
-  "AddressLine2": "Trinity Road",
-  "PostCode": "L20 3RG",
+  "AddressLine1": "Daniel House",
+  "AddressLine2": "31 Trinity Road",
+  "AddressLine3": "Bootle",
+  "PostCode": "L20 3TB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-04-15",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

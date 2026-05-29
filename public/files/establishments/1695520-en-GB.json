@@ -7,22 +7,23 @@
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.631287",
-    "Longitude": "-0.095793"
+    "Latitude": "51.6315097",
+    "Longitude": "-0.0955574"
   },
-  "AddressLine1": "776 Green Lanes",
-  "AddressLine2": "LONDON",
+  "AddressLine1": "Tony's Turkish Kebab",
+  "AddressLine2": "776 Green Lanes",
+  "AddressLine3": "LONDON",
   "PostCode": "N21 3RE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

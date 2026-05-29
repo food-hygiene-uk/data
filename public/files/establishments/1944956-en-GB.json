@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944956,
-  "BusinessName": "Bonney's Supersoft Ice cream",
+  "BusinessName": "Bonney's Supersoft Ice cream - PJ20 ZWH",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "77103",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

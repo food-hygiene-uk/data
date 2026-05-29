@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "257 Marsworth Road",
+  "Geocode": {
+    "Latitude": "51.8331962",
+    "Longitude": "-0.6407845"
+  },
+  "AddressLine1": "25 Marsworth Road",
   "AddressLine2": "Pitstone",
   "AddressLine3": "Buckinghamshire",
   "PostCode": "LU7 9AT",

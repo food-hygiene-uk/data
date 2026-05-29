@@ -1,18 +1,22 @@
 {
   "FHRSID": 1930784,
-  "BusinessName": "Tikka Tacos @Indigo Xpress",
+  "BusinessName": "Tikka Tacos @ Indigo Xpress",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "CP/113736",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

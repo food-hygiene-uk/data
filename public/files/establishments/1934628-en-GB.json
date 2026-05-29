@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7241248",
+    "Longitude": "-3.0210189"
+  },
+  "AddressLine1": "Newhaye Farm",
+  "AddressLine2": "Sidmouth Road",
+  "AddressLine3": "Rousdon",
+  "AddressLine4": "Lyme Regis",
+  "PostCode": "DT7 3RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

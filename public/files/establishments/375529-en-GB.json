@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0499636534628",
+    "Longitude": "-0.802329329470395"
+  },
   "AddressLine1": "Trading Location Erica Road Stacey Bushes Milton Keynes",
-  "AddressLine4": "Milton Keynes",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
