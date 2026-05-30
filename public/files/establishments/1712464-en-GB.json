@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "527",
   "LocalAuthorityName": "Richmond-Upon-Thames",
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
     "Latitude": "51.4491769",
@@ -18,12 +18,12 @@
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 6EH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

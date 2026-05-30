@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6029452",
-    "Longitude": "-0.2636236"
+    "Latitude": "51.602981",
+    "Longitude": "-0.263561"
   },
-  "AddressLine1": "4 Silkstream Parade Watling Avenue",
+  "AddressLine1": "Silkstream Parade  Watling Avenue Edgware",
   "PostCode": "HA8 0EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

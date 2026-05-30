@@ -1,9 +1,9 @@
 {
   "FHRSID": 1897005,
   "BusinessName": "Wild Ones Wales",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "172580",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Abertawe",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

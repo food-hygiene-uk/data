@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0573645",
+    "Longitude": "-2.6067529"
+  },
+  "AddressLine1": "Ridgemount",
+  "AddressLine4": "Dormington",
+  "PostCode": "HR1 4ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

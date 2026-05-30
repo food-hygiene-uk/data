@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "320",
   "LocalAuthorityName": "Stratford-on-Avon",
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.223015",
@@ -18,8 +18,12 @@
   "AddressLine3": "Alcester",
   "PostCode": "B49 5QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-24",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

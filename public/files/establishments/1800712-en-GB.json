@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Storage Access House 141 Morden Road",
+  "Geocode": {
+    "Latitude": "51.3988779",
+    "Longitude": "-0.1791181"
+  },
+  "AddressLine1": "Access House 141 Morden Road",
   "AddressLine3": "Mitcham",
   "AddressLine4": "Merton",
+  "PostCode": "CR4 4DG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

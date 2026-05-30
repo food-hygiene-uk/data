@@ -1,23 +1,27 @@
 {
   "FHRSID": 1927256,
-  "BusinessName": "PAPA JI",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Papa Ji @ The Butchers Arms",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00170/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6555167",
-    "Longitude": "-0.201541"
+    "Latitude": "51.6557388305664",
+    "Longitude": "-0.201477006077766"
   },
-  "AddressLine1": "148 High Street",
+  "AddressLine1": "148 High Street Barnet",
   "PostCode": "EN5 5XP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

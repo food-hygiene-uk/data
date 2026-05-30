@@ -10,19 +10,15 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
   "Geocode": {
-    "Latitude": "54.582177",
-    "Longitude": "-5.947143"
+    "Latitude": "54.5823778",
+    "Longitude": "-5.946826"
   },
-  "AddressLine3": "199 Lisburn Road",
+  "AddressLine3": "197 Lisburn Road",
   "AddressLine4": "Belfast",
   "PostCode": "BT9 7EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-12-03",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7623038",
+    "Longitude": "-0.2169457"
+  },
+  "AddressLine1": "10 Bury Road",
+  "AddressLine2": "Hatfield",
+  "AddressLine3": "Hertfordshire",
+  "PostCode": "AL10 8BJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

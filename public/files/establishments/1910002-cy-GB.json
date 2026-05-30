@@ -1,6 +1,6 @@
 {
   "FHRSID": 1910002,
-  "BusinessName": "Nutraq",
+  "BusinessName": "Integrated Resilience Group Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00005/MIXED",
   "BusinessTypeID": 4613,
@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
   "Geocode": {
-    "Latitude": "51.5904272",
-    "Longitude": "-2.9998799"
+    "Latitude": "51.5960084",
+    "Longitude": "-3.0070027"
   },
-  "AddressLine1": "7 County Chambers",
-  "AddressLine2": "Pentonville",
+  "AddressLine1": "Raglan Barracks",
+  "AddressLine2": "Allt-yr-yn View",
   "AddressLine3": "Newport",
   "AddressLine4": "South Wales",
-  "PostCode": "NP20 5HB",
+  "PostCode": "NP20 5XE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-02-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

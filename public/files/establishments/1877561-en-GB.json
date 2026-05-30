@@ -1,9 +1,9 @@
 {
   "FHRSID": 1877561,
   "BusinessName": "CrossFit 17",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9104209",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "263",
   "LocalAuthorityName": "Mansfield",
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
@@ -15,8 +15,12 @@
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG18 5ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

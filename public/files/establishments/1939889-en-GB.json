@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.608175",
-    "Longitude": "-0.2233859"
+    "Latitude": "51.607994",
+    "Longitude": "-0.223554"
   },
-  "AddressLine1": "Dollis Junior School Pursley Road",
+  "AddressLine1": "Dollis Junior School  Pursley Road London",
   "PostCode": "NW7 2BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

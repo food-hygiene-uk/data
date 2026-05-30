@@ -1,6 +1,6 @@
 {
   "FHRSID": 1923506,
-  "BusinessName": "JR Celebration Station",
+  "BusinessName": "JR Celebration Station/ JB Treats And Trinkets",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00099/CP",
   "BusinessTypeID": 4613,
@@ -19,8 +19,12 @@
   "AddressLine4": "Medway",
   "PostCode": "ME8 8LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

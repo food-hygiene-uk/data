@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.320373",
-    "Longitude": "0.2699198"
-  },
-  "AddressLine1": "1 Field Farm Cottages",
-  "AddressLine2": "Upware",
-  "AddressLine3": "Ely",
-  "AddressLine4": "Cambridgeshire",
-  "PostCode": "CB7 5YG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
