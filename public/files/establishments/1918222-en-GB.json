@@ -1,25 +1,30 @@
 {
   "FHRSID": 1918222,
-  "BusinessName": "Eugreeka",
+  "BusinessName": "Eugreeka t/a Wingology t/a Bao Bowls t/a Leb Nom",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "95110",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": {
-    "Latitude": "51.7594514",
-    "Longitude": "-0.4395757"
+    "Latitude": "51.759",
+    "Longitude": "-0.4401"
   },
+  "AddressLine1": "Unit F",
   "AddressLine2": "1-2 Duxons Turn",
   "AddressLine3": "Hemel Hempstead",
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP2 4SB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1900002,
-  "BusinessName": "Khungrybites",
+  "BusinessName": "Khungrybites t/a Coqfighter t/a The Athenian t/a Wanna Smash",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "95035",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": {
     "Latitude": "51.759",
@@ -19,8 +19,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP2 4SB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

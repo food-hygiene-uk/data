@@ -1,13 +1,13 @@
 {
   "FHRSID": 1899388,
-  "BusinessName": "The Pop-up Pizza Co",
+  "BusinessName": "The Pizza Box",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "Cx1907",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "319",
   "LocalAuthorityName": "Rugby",
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
   "Geocode": {
     "Latitude": "52.5122894",
@@ -18,8 +18,12 @@
   "AddressLine4": "Leicestershire",
   "PostCode": "LE10 3JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
