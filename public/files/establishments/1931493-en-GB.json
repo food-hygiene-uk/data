@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
-    "Latitude": "51.550002",
-    "Longitude": "0.011557"
+    "Latitude": "51.5499623",
+    "Longitude": "0.0113213"
   },
-  "AddressLine1": "14 Bramall Close",
+  "AddressLine1": "14B Bramall Close",
   "AddressLine2": "Stratford",
   "AddressLine3": "London",
   "PostCode": "E15 1RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-26",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
