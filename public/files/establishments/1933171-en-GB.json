@@ -12,10 +12,15 @@
   "Geocode": null,
   "AddressLine1": "Head Office Ridgeview Winery Fragbarrow Lane",
   "AddressLine3": "Ditchling",
+  "AddressLine4": "East Sussex",
   "PostCode": "BN6 8TP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

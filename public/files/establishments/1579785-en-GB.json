@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cox And Robinson Pharmacy South Bar House South Bar Street",
+  "Geocode": {
+    "Latitude": "52.0574391",
+    "Longitude": "-1.3406746"
+  },
+  "AddressLine1": "Peak Pharmacy South Bar House South Bar Street",
   "AddressLine3": "Banbury",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX16 9AD",

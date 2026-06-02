@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
     "Latitude": "50.847321",
@@ -19,12 +19,12 @@
   "AddressLine4": "South Chard",
   "PostCode": "TA20 2SU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-03",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

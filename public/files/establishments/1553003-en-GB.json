@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "329",
   "LocalAuthorityName": "Worthing",
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
   "Geocode": {
     "Latitude": "50.8111235",
@@ -18,12 +18,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN11 3AW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-20",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-27",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

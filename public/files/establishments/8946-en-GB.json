@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "309",
   "LocalAuthorityName": "Reigate and Banstead",
   "LocalAuthorityWebSite": "http://www.reigate-banstead.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
   "Geocode": {
     "Latitude": "51.240691",
@@ -18,12 +18,12 @@
   "AddressLine3": "Surrey",
   "PostCode": "RH1 1QH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-16",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

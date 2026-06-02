@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5748775",
-    "Longitude": "-0.0780678"
-  },
-  "AddressLine2": "FLAT 56 JOSEPH COURT AMHURST PARK",
-  "AddressLine3": "Hackney",
-  "AddressLine4": "London",
-  "PostCode": "N16 5AJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

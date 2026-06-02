@@ -1,6 +1,6 @@
 {
   "FHRSID": 1943136,
-  "BusinessName": "West Street Coffee",
+  "BusinessName": "Specs Gonzalez",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9103171",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine3": "Doncaster",
   "PostCode": "DN1 3AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

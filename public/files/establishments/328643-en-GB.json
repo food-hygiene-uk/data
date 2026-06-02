@@ -13,13 +13,17 @@
     "Latitude": "54.2180476",
     "Longitude": "-2.9014241"
   },
-  "AddressLine1": "The Royal Oak",
+  "AddressLine1": "Royal Oak Inn",
   "AddressLine2": "Lindale",
-  "AddressLine4": "Grange-Over-Sands",
+  "AddressLine4": "Lindale",
   "PostCode": "LA11 6LX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-12-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

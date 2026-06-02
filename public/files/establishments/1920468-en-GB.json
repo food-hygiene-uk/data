@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8965289",
+    "Longitude": "-1.1552329"
+  },
+  "AddressLine1": "7 Church Street",
+  "AddressLine3": "Bicester",
+  "AddressLine4": "Oxfordshire",
+  "PostCode": "OX26 6AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

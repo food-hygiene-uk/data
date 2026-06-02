@@ -1,13 +1,13 @@
 {
   "FHRSID": 80265,
-  "BusinessName": "Pizza Gogo",
+  "BusinessName": "Pizza Gogo Portsmouth",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "19414",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
     "Latitude": "50.7851448059082",
@@ -17,12 +17,12 @@
   "AddressLine2": "Southsea",
   "PostCode": "PO5 3LS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-03-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
     "Latitude": "53.4293224",
@@ -16,8 +16,12 @@
   "AddressLine2": "714 Warrington Road",
   "PostCode": "WA3 6AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

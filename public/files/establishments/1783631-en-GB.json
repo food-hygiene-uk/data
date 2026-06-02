@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": {
     "Latitude": "51.947969",
@@ -18,12 +18,12 @@
   "AddressLine3": "Powys",
   "PostCode": "LD3 9AF",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2024-12-23",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_cy-gb",
+  "RatingDate": "2026-04-27",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

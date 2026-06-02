@@ -1,13 +1,13 @@
 {
   "FHRSID": 1789765,
-  "BusinessName": "BBQ-POT Leeds",
+  "BusinessName": "Wawin",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "24/01290/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": {
     "Latitude": "53.8142878",
@@ -18,8 +18,12 @@
   "AddressLine3": "Leeds",
   "PostCode": "LS6 2NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

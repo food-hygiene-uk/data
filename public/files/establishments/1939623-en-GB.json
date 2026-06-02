@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.4020068",
@@ -15,8 +15,12 @@
   },
   "AddressLine2": "81 - 83 Montagu Street Kettering NN16 8YD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

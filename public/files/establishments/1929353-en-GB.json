@@ -12,10 +12,15 @@
   "Geocode": null,
   "AddressLine1": "Newick Church Of England Primary School 63 Allington Road",
   "AddressLine3": "Newick",
+  "AddressLine4": "East Sussex",
   "PostCode": "BN8 4NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
