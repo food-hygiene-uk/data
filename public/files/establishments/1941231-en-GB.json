@@ -9,13 +9,21 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portland Bill Southwell",
+  "Geocode": {
+    "Latitude": "50.5176734924316",
+    "Longitude": "-2.4546480178833"
+  },
+  "AddressLine1": "Pulpit Inn Portland Bill Road",
   "AddressLine3": "Portland",
-  "PostCode": "dt5 2jt",
+  "AddressLine4": "Dorset",
+  "PostCode": "DT5 2JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

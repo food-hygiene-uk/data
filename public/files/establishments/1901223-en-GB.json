@@ -1,13 +1,13 @@
 {
   "FHRSID": 1901223,
   "BusinessName": "Peridise Grill House",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "83961",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "501",
   "LocalAuthorityName": "Barking and Dagenham",
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
   "Geocode": {
     "Latitude": "51.551417",
@@ -17,8 +17,12 @@
   "AddressLine4": "Dagenham",
   "PostCode": "RM8 2AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

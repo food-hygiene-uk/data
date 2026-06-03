@@ -1,13 +1,13 @@
 {
   "FHRSID": 288982,
-  "BusinessName": "China City",
+  "BusinessName": "China City / China Chef",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "8565",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": {
     "Latitude": "55.129166",
@@ -18,8 +18,12 @@
   "AddressLine3": "Northumberland",
   "PostCode": "NE24 1LY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
+  }
 }

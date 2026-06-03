@@ -1,13 +1,13 @@
 {
   "FHRSID": 244824,
-  "BusinessName": "NYCC at Applefields School",
+  "BusinessName": "Applefields School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "438",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "868",
   "LocalAuthorityName": "York",
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
   "Geocode": {
     "Latitude": "53.964576",
@@ -18,12 +18,12 @@
   "AddressLine3": "York",
   "PostCode": "YO31 0LW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-20",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 20
   }
 }

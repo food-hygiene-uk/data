@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "159",
   "LocalAuthorityName": "North Hertfordshire",
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
   "Geocode": {
     "Latitude": "52.058438",
@@ -18,12 +18,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG8 5WY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

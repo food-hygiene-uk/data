@@ -1,6 +1,6 @@
 {
   "FHRSID": 1936707,
-  "BusinessName": "Burgers & Hotdog",
+  "BusinessName": "Leo's Burgers",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "PI/000208721",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 119996,
-  "BusinessName": "Roundabout/KTown/FlusterCluck/Locked&Loaded/PizzaAmore/DoughMasters",
+  "BusinessName": "Roundabout/Twisted London/Hot Chick",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "49077",
   "BusinessTypeID": 7843,
@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
   "Geocode": {
-    "Latitude": "50.37355",
-    "Longitude": "-4.138047"
+    "Latitude": "50.3735284",
+    "Longitude": "-4.1380651"
   },
-  "AddressLine2": "Drake Circus",
-  "AddressLine3": "City Centre",
-  "AddressLine4": "Plymouth",
+  "AddressLine2": "2-4 Drake Circus",
+  "AddressLine3": "Plymouth",
   "PostCode": "PL4 8AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

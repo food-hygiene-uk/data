@@ -1,6 +1,6 @@
 {
   "FHRSID": 1949108,
-  "BusinessName": "Belmont House (Devon) Ltd",
+  "BusinessName": "Ussi, Stephanie Anne",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "200984578348169",
   "BusinessTypeID": 5,
@@ -16,8 +16,12 @@
   "AddressLine1": "13 Greenover Road Brixham",
   "PostCode": "TQ5 9LY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

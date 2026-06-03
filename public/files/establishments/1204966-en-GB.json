@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
     "Latitude": "50.7951698303223",
@@ -17,12 +17,12 @@
   "AddressLine2": "Southsea",
   "PostCode": "PO5 4PT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
     "Hygiene": 10,
     "Structural": 15,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 30
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.1500796",
@@ -19,6 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-18",
-  "Scores": null
+  "RatingDate": "2026-04-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

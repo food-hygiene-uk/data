@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "516",
   "LocalAuthorityName": "Havering",
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
   "Geocode": {
     "Latitude": "51.543094",
@@ -17,12 +17,12 @@
   "AddressLine2": "Upminster",
   "PostCode": "RM14 2DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-14",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "157",
   "LocalAuthorityName": "East Hertfordshire",
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
   "Geocode": {
     "Latitude": "51.812407",
@@ -19,12 +19,12 @@
   "AddressLine4": "Sawbridgeworth",
   "PostCode": "CM21 9AN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
   }
 }

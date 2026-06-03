@@ -1,6 +1,6 @@
 {
   "FHRSID": 1489166,
-  "BusinessName": "Thai Village Restaurant & Bar",
+  "BusinessName": "Thai Village",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000110663",
   "BusinessTypeID": 1,
@@ -9,22 +9,15 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.359503",
-    "Longitude": "1.392929"
-  },
-  "AddressLine1": "51 Westwood Cross",
+  "Geocode": null,
+  "AddressLine1": "Thai Village Restaurant & Bar 51 Westwood Cross",
   "AddressLine2": "Margate Road",
   "AddressLine3": "Broadstairs",
   "AddressLine4": "Kent",
   "PostCode": "CT10 2BF",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-30",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

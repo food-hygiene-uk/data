@@ -9,12 +9,21 @@
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Commercial Road",
+  "Geocode": {
+    "Latitude": "50.368485",
+    "Longitude": "-4.133741"
+  },
+  "AddressLine1": "Commercial Wharf",
+  "AddressLine2": "Madeira Road",
+  "AddressLine3": "Plymouth",
   "PostCode": "PL1 2NX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

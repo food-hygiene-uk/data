@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "305",
   "LocalAuthorityName": "Elmbridge",
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
   "Geocode": {
     "Latitude": "51.372535",
@@ -19,12 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "KT13 8RT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-27",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-05-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }
