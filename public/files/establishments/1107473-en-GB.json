@@ -7,23 +7,24 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.183978",
-    "Longitude": "-6.71844"
+    "Latitude": "55.183977",
+    "Longitude": "-6.718439"
   },
   "AddressLine1": "78 The Promenade",
+  "AddressLine2": "Mullaghacall North",
   "AddressLine3": "Portstewart",
   "AddressLine4": "Londonderry",
   "PostCode": "BT55 7AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

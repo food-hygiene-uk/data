@@ -13,12 +13,16 @@
     "Latitude": "51.5164736",
     "Longitude": "-0.140169"
   },
-  "AddressLine1": "7-8 MARKET PLACE",
+  "AddressLine1": "BASEMENT AND GROUND FLOOR 7-8 MARKET PLACE",
   "AddressLine3": "LONDON",
   "PostCode": "W1W 8AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Wroxham Launch Hire",
+  "AddressLine1": "A Slice Of The Broads",
   "AddressLine2": "Norwich Road",
   "AddressLine3": "Hoveton",
   "AddressLine4": "Norfolk",
   "PostCode": "NR12 8DA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

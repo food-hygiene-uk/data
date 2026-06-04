@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7307614",
+    "Longitude": "-2.363631"
+  },
+  "AddressLine1": "Unit 4A",
+  "AddressLine2": "Cambridge Mills",
+  "AddressLine3": "Dursley Road",
+  "AddressLine4": "Cambridge",
+  "PostCode": "GL2 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

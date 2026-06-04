@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.15184",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lincolnshire",
   "PostCode": "LN10 6QL",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-10-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

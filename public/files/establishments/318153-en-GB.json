@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
     "Latitude": "51.63297",
@@ -17,12 +17,12 @@
   "AddressLine2": "LONDON",
   "PostCode": "N14 5PA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-30",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

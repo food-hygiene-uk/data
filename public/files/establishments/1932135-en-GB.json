@@ -1,6 +1,6 @@
 {
   "FHRSID": 1932135,
-  "BusinessName": "The Jacket & Mash Co",
+  "BusinessName": "the jacket & mash co",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9105331",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN11 1NU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 418420,
   "BusinessName": "Millfield Primary School",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000106473",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
@@ -19,8 +19,12 @@
   "AddressLine4": "Walsall",
   "PostCode": "WS8 6BN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

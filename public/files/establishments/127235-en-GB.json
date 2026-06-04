@@ -1,9 +1,9 @@
 {
   "FHRSID": 127235,
-  "BusinessName": "Gourmet Burger and Shake",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "Walkers Wine",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "564",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL8 3SN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2025-08-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

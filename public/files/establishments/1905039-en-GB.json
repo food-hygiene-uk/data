@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
     "Latitude": "54.7498341",
@@ -17,8 +17,12 @@
   "AddressLine3": "THORNLEY",
   "PostCode": "DH6 3EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

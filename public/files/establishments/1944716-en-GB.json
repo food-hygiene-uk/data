@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7707366943359",
+    "Longitude": "-2.32453298568726"
+  },
+  "AddressLine1": "Whitminster Hotel",
+  "AddressLine2": "Bristol Road",
+  "AddressLine3": "Whitminster",
+  "AddressLine4": "Gloucester",
+  "PostCode": "GL2 7NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

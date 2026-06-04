@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.603202",
@@ -16,12 +16,12 @@
   "AddressLine1": "54 Ballards Lane London",
   "PostCode": "N3 2BU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 0
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "120",
   "LocalAuthorityName": "Tendring",
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
   "Geocode": {
     "Latitude": "51.937777",
@@ -19,12 +19,12 @@
   "AddressLine4": "Harwich",
   "PostCode": "CO12 3AB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-08-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

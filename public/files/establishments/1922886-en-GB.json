@@ -1,9 +1,9 @@
 {
   "FHRSID": 1922886,
   "BusinessName": "Impact Food Group @Oakwood School",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000152566",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
@@ -16,8 +16,12 @@
   "AddressLine4": "Walsall",
   "PostCode": "WS4 1NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

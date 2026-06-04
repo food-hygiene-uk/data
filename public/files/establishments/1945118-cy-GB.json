@@ -1,6 +1,6 @@
 {
   "FHRSID": 1945118,
-  "BusinessName": "Cwt Ffi",
+  "BusinessName": "Cwt Ffion",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "773215",
   "BusinessTypeID": 7846,
@@ -18,8 +18,12 @@
   "AddressLine4": "Gwynedd",
   "PostCode": "LL53 6UY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

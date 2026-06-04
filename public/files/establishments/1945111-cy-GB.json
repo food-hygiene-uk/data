@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": {
-    "Latitude": "52.9259834289551",
-    "Longitude": "-4.12965679168701"
+    "Latitude": "52.9264001",
+    "Longitude": "-4.1303918"
   },
-  "AddressLine1": "Pike's Newsagent 63 Stryd Fawr",
+  "AddressLine1": "Siop 63 Stryd Fawr",
   "AddressLine3": "Porthmadog",
   "AddressLine4": "Gwynedd",
   "PostCode": "LL49 9LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

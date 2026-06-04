@@ -9,11 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6410992",
+    "Longitude": "-2.372131"
+  },
+  "AddressLine1": "Bradley Farm",
+  "AddressLine2": "Bradley Green",
+  "AddressLine3": "Wotton-Under-Edge",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL12 7PW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-26",
+  "RatingDate": "2026-05-18",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,

@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.58937059",
-    "Longitude": "-1.98454148"
+    "Latitude": "52.5893166",
+    "Longitude": "-1.984112"
   },
   "AddressLine1": "3 Day Street",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
-  "AddressLine4": "WS2 8EJ",
   "PostCode": "WS2 8EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

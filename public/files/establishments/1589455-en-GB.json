@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5722386",
+    "Longitude": "-1.8821048"
+  },
+  "AddressLine1": "92 Chester Road",
+  "AddressLine2": "Streetly",
+  "AddressLine3": "Sutton Coldfield",
+  "PostCode": "B74 2HR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-08-10",
+  "RatingDate": "2026-05-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

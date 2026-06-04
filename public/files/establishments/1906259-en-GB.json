@@ -1,13 +1,13 @@
 {
   "FHRSID": 1906259,
-  "BusinessName": "FRESCO",
+  "BusinessName": "Fresco Cafe And Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00004/COM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "269",
   "LocalAuthorityName": "Oxford City",
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
   "Geocode": {
     "Latitude": "51.746509",
@@ -18,8 +18,12 @@
   "AddressLine3": "Oxfordshire",
   "PostCode": "OX4 1UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

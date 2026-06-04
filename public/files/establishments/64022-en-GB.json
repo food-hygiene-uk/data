@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
     "Latitude": "53.5549087524414",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-24",
+  "RatingDate": "2026-05-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

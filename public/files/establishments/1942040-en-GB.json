@@ -13,12 +13,16 @@
     "Latitude": "51.5179352",
     "Longitude": "-0.1404698"
   },
-  "AddressLine1": "42 MORTIMER STREET",
+  "AddressLine1": "BASEMENT AND GROUND FLOOR 42 MORTIMER STREET",
   "AddressLine3": "LONDON",
   "PostCode": "W1W 7RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

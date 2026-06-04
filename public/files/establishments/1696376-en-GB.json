@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "314",
   "LocalAuthorityName": "Waverley",
   "LocalAuthorityWebSite": "http://www.waverley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@waverley.gov.uk",
   "Geocode": {
     "Latitude": "51.1837745",
@@ -19,12 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU10 2BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

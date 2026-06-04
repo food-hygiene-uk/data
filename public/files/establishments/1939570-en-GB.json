@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
   "Geocode": null,
   "AddressLine1": "Bluebell Lakes",
@@ -16,8 +16,12 @@
   "AddressLine4": "Peterborough",
   "PostCode": "PE8 5HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

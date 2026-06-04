@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.0505448",
+    "Longitude": "-2.8239288"
+  },
+  "AddressLine2": "12 Fife Street",
+  "AddressLine3": "Lancaster",
+  "AddressLine4": "Lancashire",
+  "PostCode": "LA1 5TW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

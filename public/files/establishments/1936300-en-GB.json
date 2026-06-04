@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Unit 10",
+  "AddressLine2": "Indurent Park",
+  "AddressLine3": "Haresfield",
+  "AddressLine4": "Stonehouse",
+  "PostCode": "GL10 3EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

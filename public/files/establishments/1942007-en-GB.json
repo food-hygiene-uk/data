@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "192",
   "LocalAuthorityName": "Tunbridge Wells",
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
   "Geocode": {
-    "Latitude": "51.0966326",
-    "Longitude": "0.5360916"
+    "Latitude": "51.096327",
+    "Longitude": "0.536619"
   },
-  "AddressLine1": "Perfect Partners",
-  "AddressLine2": "7 Stone Street",
-  "AddressLine3": "Cranbrook",
-  "AddressLine4": "Kent",
+  "AddressLine1": "7 Stone Street",
+  "AddressLine2": "Cranbrook",
+  "AddressLine3": "Kent",
   "PostCode": "TN17 3HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

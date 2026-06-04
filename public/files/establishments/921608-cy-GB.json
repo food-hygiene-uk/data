@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "559",
   "LocalAuthorityName": "Sir Ddinbych",
   "LocalAuthorityWebSite": "http://www.denbighshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@denbighshire.gov.uk",
   "Geocode": {
     "Latitude": "53.324156",
@@ -18,12 +18,12 @@
   "AddressLine4": "Denbighshire",
   "PostCode": "LL18 3NG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-03-08",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "328",
   "LocalAuthorityName": "Mid Sussex",
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": {
     "Latitude": "50.9531038",
@@ -19,12 +19,12 @@
   "AddressLine4": "Burgess Hill",
   "PostCode": "RH15 0AB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

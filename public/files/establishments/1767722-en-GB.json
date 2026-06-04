@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "883",
   "LocalAuthorityName": "West Berkshire",
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
   "Geocode": {
     "Latitude": "51.4356131",
@@ -19,12 +19,12 @@
   "AddressLine4": "West Berkshire",
   "PostCode": "RG7 4SA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-29",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

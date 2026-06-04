@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.591926",
+    "Longitude": "-2.0553243"
+  },
+  "AddressLine1": "38 Harry Perks Street",
+  "AddressLine2": "Willenhall",
+  "AddressLine3": "Walsall",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WV13 1BN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-07-08",
+  "RatingDate": "2026-04-27",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

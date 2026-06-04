@@ -1,6 +1,6 @@
 {
   "FHRSID": 194139,
-  "BusinessName": "Bloxwich Academy (Leamore Lane Site)",
+  "BusinessName": "Bloxwich Academy (Secondary School)",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000200591",
   "BusinessTypeID": 7845,
@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.607591",
-    "Longitude": "-1.99777"
-  },
-  "AddressLine1": "Leamore Lane",
-  "AddressLine2": "Bloxwich",
-  "AddressLine3": "Walsall",
-  "AddressLine4": "West Midlands",
+  "Geocode": null,
+  "AddressLine1": "Bloxwich Academy (Leamore Lane Site)",
+  "AddressLine2": "Leamore Lane",
+  "AddressLine3": "Bloxwich",
+  "AddressLine4": "Walsall",
   "PostCode": "WS3 2BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-11-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-28",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

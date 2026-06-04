@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "135",
   "LocalAuthorityName": "Gosport",
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
   "Geocode": {
     "Latitude": "50.821192",
@@ -17,12 +17,12 @@
   "AddressLine2": "Gosport",
   "PostCode": "PO13 0LA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-09",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

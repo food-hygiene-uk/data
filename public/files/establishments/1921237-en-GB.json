@@ -1,9 +1,9 @@
 {
   "FHRSID": 1921237,
   "BusinessName": "Welsh Chilli",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "773096",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
@@ -18,8 +18,12 @@
   "AddressLine4": "Gwynedd",
   "PostCode": "LL55 2UR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-06-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

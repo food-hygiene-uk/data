@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
   "Geocode": {
     "Latitude": "51.539841",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-04-29",
+  "RatingDate": "2026-04-29",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

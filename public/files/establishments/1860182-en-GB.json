@@ -1,24 +1,22 @@
 {
   "FHRSID": 1860182,
   "BusinessName": "Crystal Ball Vending Ltd",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx20848",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4138071",
-    "Longitude": "-1.5937728"
-  },
-  "AddressLine1": "888 Broad Lane",
-  "AddressLine4": "Coventry",
-  "PostCode": "CV5 7FG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

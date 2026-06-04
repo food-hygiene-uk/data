@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.749395",
+    "Longitude": "0.703247"
+  },
+  "AddressLine1": "Lofts Farm",
+  "AddressLine2": "Broad Street Green Road",
+  "AddressLine3": "Great Totham",
+  "AddressLine4": "Maldon",
+  "PostCode": "CM9 8NZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

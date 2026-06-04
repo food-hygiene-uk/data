@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Unit 63",
+  "AddressLine1": "Unit 60 And 63",
   "AddressLine2": "Glenmore Business Park Portfield Works",
   "AddressLine3": "Oving",
   "AddressLine4": "Chichester",
   "PostCode": "PO19 7BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

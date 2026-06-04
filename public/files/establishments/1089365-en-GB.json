@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Pamir Stoney Stanton Road",
+  "Geocode": {
+    "Latitude": "52.4262075",
+    "Longitude": "-1.4927422"
+  },
+  "AddressLine1": "603-607 Stoney Stanton Road",
   "AddressLine4": "Coventry",
   "PostCode": "CV6 5GA",
   "SchemeType": "FHRS",

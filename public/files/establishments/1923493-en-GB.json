@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6931228637695",
+    "Longitude": "-2.49333500862122"
+  },
+  "AddressLine1": "Berkeley Nuclear Power Station",
+  "AddressLine2": "Hamfield Lane",
+  "AddressLine3": "Berkeley",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL13 9PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 450605,
   "BusinessName": "Little Steps Nursery School",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "65896",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "702",
   "LocalAuthorityName": "Central Bedfordshire",
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
@@ -18,12 +18,8 @@
   "AddressLine3": "Beds",
   "PostCode": "LU5 4HR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-05",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

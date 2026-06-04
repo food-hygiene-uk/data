@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8227419",
-    "Longitude": "-1.0555748"
-  },
-  "AddressLine1": "Field Farm View",
-  "AddressLine2": "Widmerpool Lane",
-  "AddressLine3": "Willoughby On The Wolds",
-  "AddressLine4": "Nottinghamshire",
-  "PostCode": "LE12 6TE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

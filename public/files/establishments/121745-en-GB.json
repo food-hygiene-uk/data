@@ -1,6 +1,6 @@
 {
   "FHRSID": 121745,
-  "BusinessName": "Foundant & Fleur at Court Cafe",
+  "BusinessName": "Fondant & Fleur at Hopwood Court",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "50387",
   "BusinessTypeID": 1,
@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
-    "Latitude": "53.5814353",
-    "Longitude": "-2.1109746"
+    "Latitude": "53.581536",
+    "Longitude": "-2.110887"
   },
-  "AddressLine1": "Hopwood Court Restaurant",
+  "AddressLine1": "Hopwood Court",
   "AddressLine2": "Assheton Road",
   "AddressLine3": "Shaw",
   "AddressLine4": "Oldham",
   "PostCode": "OL2 7LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
