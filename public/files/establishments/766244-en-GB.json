@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "702",
   "LocalAuthorityName": "Central Bedfordshire",
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
   "Geocode": {
     "Latitude": "52.1710898",
@@ -19,12 +19,12 @@
   "AddressLine4": "Beds",
   "PostCode": "SG19 2AY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

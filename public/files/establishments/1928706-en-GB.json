@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.6962544",
+    "Longitude": "-3.2492566"
+  },
+  "AddressLine1": "17 Higher Woolbrook Park",
+  "AddressLine2": "Sidmouth",
+  "PostCode": "EX10 9ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

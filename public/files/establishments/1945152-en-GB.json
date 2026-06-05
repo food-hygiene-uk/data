@@ -1,6 +1,6 @@
 {
   "FHRSID": 1945152,
-  "BusinessName": "Bella's Eggs And Cake Shed",
+  "BusinessName": "Pine Shaw Pantry",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/500224/FOOD",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

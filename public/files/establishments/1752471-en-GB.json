@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "424",
   "LocalAuthorityName": "Sefton",
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
   "Geocode": {
     "Latitude": "53.4597173",
@@ -18,8 +18,12 @@
   "AddressLine4": "Merseyside",
   "PostCode": "L20 4NJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-25",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

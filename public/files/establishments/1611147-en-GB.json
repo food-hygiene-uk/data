@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "163",
   "LocalAuthorityName": "Watford",
   "LocalAuthorityWebSite": "http://www.watford.gov.uk/foodhygieneratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "housingandwellbeing@watford.gov.uk",
   "Geocode": {
     "Latitude": "51.646319",
@@ -17,12 +17,12 @@
   "AddressLine2": "Watford",
   "PostCode": "WD19 4BL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-04-07",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-30",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

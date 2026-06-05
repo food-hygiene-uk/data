@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "2 Chase Meadow",
-  "AddressLine4": "Narrow Hall Meadow",
+  "Geocode": {
+    "Latitude": "52.2688215",
+    "Longitude": "-1.6085256"
+  },
+  "AddressLine1": "2 Chase Meadow Square",
+  "AddressLine2": "Narrow Hall Meadow",
+  "AddressLine4": "Warwick",
   "PostCode": "CV34 6BT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

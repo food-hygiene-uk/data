@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": {
     "Latitude": "52.58122",
@@ -18,12 +18,12 @@
   "AddressLine3": "West Midlands",
   "PostCode": "WV3 0PU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-30",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

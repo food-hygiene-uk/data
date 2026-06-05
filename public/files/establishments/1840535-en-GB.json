@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3986137",
+    "Longitude": "-0.115324"
+  },
+  "AddressLine1": "12 Heathview Road",
+  "AddressLine2": "Thornton Heath",
+  "PostCode": "CR7 7PL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

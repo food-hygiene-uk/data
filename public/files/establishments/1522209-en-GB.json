@@ -1,6 +1,6 @@
 {
   "FHRSID": 1522209,
-  "BusinessName": "Fresh Start Catering Ltd at Halton Community Combined School",
+  "BusinessName": "Fresh Start Catering Ltd At Halton Community Combined School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "EH/00050795",
   "BusinessTypeID": 7845,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Halton Community Combined School",
-  "AddressLine2": "Tring Road",
+  "Geocode": {
+    "Latitude": "51.77268",
+    "Longitude": "-0.731357"
+  },
+  "AddressLine1": "Halton Combined School",
+  "AddressLine2": "Upper Icknield Way",
   "AddressLine3": "Halton",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP22 5PN",

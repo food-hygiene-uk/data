@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Calvert Road",
-  "AddressLine2": "Steeple Claydon",
-  "AddressLine3": "Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.9251844",
+    "Longitude": "-0.978354"
+  },
+  "AddressLine1": "Winters Tale Farmhouse",
+  "AddressLine2": "Calvert Road",
+  "AddressLine3": "Steeple Claydon",
+  "AddressLine4": "Buckinghamshire",
   "PostCode": "MK18 2HA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.4609",
+    "Longitude": "-6.3319"
+  },
+  "AddressLine1": "8-10 Union Street",
+  "AddressLine3": "Lurgan",
+  "PostCode": "bt66 8dy",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

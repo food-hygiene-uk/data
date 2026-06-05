@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
   "Geocode": {
     "Latitude": "53.125338",
@@ -16,12 +16,12 @@
   "AddressLine2": "The Idlewells",
   "PostCode": "NG17 1BP",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-03-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-30",
   "Scores": {
     "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

@@ -10,14 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
   "Geocode": null,
-  "AddressLine1": "The Hitchins Farm",
-  "AddressLine2": "Temple Guiting",
-  "AddressLine3": "Cheltenham",
-  "AddressLine4": "Gloucestershire",
-  "PostCode": "GL54 5SG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

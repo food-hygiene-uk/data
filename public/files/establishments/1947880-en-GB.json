@@ -1,23 +1,22 @@
 {
   "FHRSID": 1947880,
   "BusinessName": "Bradwell Grove Farm",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Farmers/growers",
   "LocalAuthorityBusinessID": "W/26/00099/COM",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7838,
   "LocalAuthorityCode": "272",
   "LocalAuthorityName": "West Oxfordshire",
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
   "Geocode": null,
-  "AddressLine1": "Filkins Down Farm",
-  "AddressLine2": "Filkins",
-  "AddressLine3": "Lechlade",
-  "AddressLine4": "Oxfordshire",
-  "PostCode": "GL7 3RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

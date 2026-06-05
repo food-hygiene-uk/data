@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Gatehouse",
+  "Geocode": {
+    "Latitude": "51.7754205",
+    "Longitude": "-0.9314858"
+  },
+  "AddressLine1": "Unit 24 Haddenham Industrial Estate",
   "AddressLine2": "Pegasus Way",
   "AddressLine3": "Haddenham",
   "AddressLine4": "Buckinghamshire",
-  "PostCode": "HP17 8LB",
+  "PostCode": "HP17 8LJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 201932,
-  "BusinessName": "Flamstead Filling Station",
+  "BusinessName": "Flamstead PFS",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "658",
   "BusinessTypeID": 4613,
@@ -16,8 +16,12 @@
   "AddressLine4": "St Albans",
   "PostCode": "AL3 8HS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

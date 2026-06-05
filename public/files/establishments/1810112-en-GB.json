@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Barrel Of Beer",
+  "Geocode": {
+    "Latitude": "50.6980607",
+    "Longitude": "-3.0927805"
+  },
+  "AddressLine1": "Dolphin Hotel",
   "AddressLine2": "Fore Street",
   "AddressLine3": "Beer",
   "AddressLine4": "Seaton",

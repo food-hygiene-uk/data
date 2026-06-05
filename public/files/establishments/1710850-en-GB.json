@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.stirling.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@stirling.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1881228",
+    "Longitude": "-3.9712299"
+  },
+  "AddressLine1": "RFL House",
+  "AddressLine2": "Anderson Street",
+  "AddressLine3": "Dunblane",
   "SchemeType": "FHIS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhis_exempt_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": null
 }

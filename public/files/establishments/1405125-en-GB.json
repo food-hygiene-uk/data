@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "300",
   "LocalAuthorityName": "Mid Suffolk",
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.2244643",
@@ -19,12 +19,12 @@
   "AddressLine4": "BURY ST EDMUNDS",
   "PostCode": "IP30 9QH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-10-10",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

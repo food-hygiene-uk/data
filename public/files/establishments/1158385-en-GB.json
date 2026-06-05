@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "570",
   "LocalAuthorityName": "Vale of Glamorgan",
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
     "Latitude": "51.4021042",
@@ -18,12 +18,12 @@
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF63 4BA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-11-05",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-04-30",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

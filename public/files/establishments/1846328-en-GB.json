@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Keady",
-  "AddressLine3": "Armagh",
+  "Geocode": {
+    "Latitude": "54.24838632",
+    "Longitude": "-6.70366991"
+  },
+  "AddressLine1": "3 Cow Fair",
+  "AddressLine2": "Racarbry",
+  "AddressLine3": "Keady",
+  "AddressLine4": "Armagh",
   "PostCode": "BT60 3TD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

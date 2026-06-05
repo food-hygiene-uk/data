@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "116",
   "LocalAuthorityName": "Harlow",
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
   "Geocode": {
     "Latitude": "51.793855",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM20 2DR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-09",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

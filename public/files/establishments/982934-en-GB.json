@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4007415771484",
+    "Longitude": "-0.076385997235775"
+  },
+  "AddressLine1": "Stanley Hall",
+  "AddressLine2": "South Norwood Hill",
+  "AddressLine3": "South Norwood",
+  "AddressLine4": "London",
+  "PostCode": "SE25 6AB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-01-24",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-16",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 0
   }
 }

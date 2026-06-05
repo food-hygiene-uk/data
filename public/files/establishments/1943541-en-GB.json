@@ -1,9 +1,9 @@
 {
   "FHRSID": 1943541,
   "BusinessName": "Braccano Pasta",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "AD:82199",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
