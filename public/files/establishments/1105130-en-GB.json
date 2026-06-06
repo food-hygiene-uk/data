@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "OAKLANDS NURSING HOME TALBOT STREET",
+  "Geocode": {
+    "Latitude": "53.8113858",
+    "Longitude": "-2.20607615"
+  },
+  "AddressLine1": "TALBOT STREET",
   "AddressLine3": "BRIERCLIFFE",
   "PostCode": "BB10 2HW",
   "SchemeType": "FHRS",

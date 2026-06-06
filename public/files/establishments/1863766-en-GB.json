@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Mundole  Forres  Moray",
-  "PostCode": "IV36 2SZ",
+  "Geocode": {
+    "Latitude": "57.592269",
+    "Longitude": "-3.6540085"
+  },
+  "AddressLine1": "River View Caravan Park  Mundole  Forres  Moray",
+  "PostCode": "IV36 2SY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

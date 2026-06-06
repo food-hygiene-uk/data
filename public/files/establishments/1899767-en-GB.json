@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.415543",
-    "Longitude": "-1.5142275"
+    "Latitude": "53.3785793",
+    "Longitude": "-1.4412903"
   },
-  "AddressLine2": "Marlcliffe Road",
+  "AddressLine1": "Pat Midgley Community Hub",
+  "AddressLine2": "331 Manor Oaks Road",
   "AddressLine3": "Sheffield",
-  "PostCode": "S6 4AJ",
+  "PostCode": "S2 5EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

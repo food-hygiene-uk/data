@@ -1,6 +1,6 @@
 {
   "FHRSID": 1799913,
-  "BusinessName": "the chocolat story",
+  "BusinessName": "The Chocolat Story / Lab Cocoa",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "GQG0FT-3T4LQ4-KZ0LEC",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "Grimsby",
   "PostCode": "DN37 9SF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

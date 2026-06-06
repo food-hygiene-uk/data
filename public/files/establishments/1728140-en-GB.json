@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "THE GOODS YARD 10 FOLKESTONE HARBOUR HARBOUR APPROACH ROAD",
+  "Geocode": {
+    "Latitude": "51.078135",
+    "Longitude": "1.1876876"
+  },
+  "AddressLine1": "10 THE GOODS YARD FOLKESTONE HARBOUR HARBOUR APPROACH ROAD",
   "AddressLine3": "FOLKESTONE",
   "SchemeType": "FHRS",
   "RatingValue": "5",

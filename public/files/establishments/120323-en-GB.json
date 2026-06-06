@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "STOOPS AND HARGHER CLOUGH COMMUNITY CENTRE VENICE STREET",
+  "Geocode": {
+    "Latitude": "53.78571325",
+    "Longitude": "-2.26578955"
+  },
+  "AddressLine1": "VENICE STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 4BA",
   "SchemeType": "FHRS",

@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5607108",
+    "Longitude": "-0.092867"
+  },
   "AddressLine1": "St James School",
-  "AddressLine2": "Bargate",
+  "AddressLine2": "22 Bargate",
   "AddressLine4": "Grimsby",
   "PostCode": "DN34 4SY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-11-11",
+  "RatingDate": "2026-05-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Pendle Grill  Billington Road",
+  "Geocode": {
+    "Latitude": "53.7789436",
+    "Longitude": "-2.28481775"
+  },
+  "AddressLine1": "Billington Road",
   "AddressLine3": "Burnley",
   "PostCode": "BB11 5UB",
   "SchemeType": "FHRS",

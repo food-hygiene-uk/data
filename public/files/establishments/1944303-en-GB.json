@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 11 National Avenue Indust",
+  "Geocode": {
+    "Latitude": "53.7569851",
+    "Longitude": "-0.3888405"
+  },
+  "AddressLine1": "Unit 11 National Industrial Estate",
   "AddressLine2": "Bontoft Avenue",
-  "AddressLine3": "Hull",
+  "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU5 4HF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

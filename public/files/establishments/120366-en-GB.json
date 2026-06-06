@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "HOLY TRINITY CHURCH OF ENGLAND PRIMARY SCHOOL RAGLAN ROAD",
+  "Geocode": {
+    "Latitude": "53.78515875",
+    "Longitude": "-2.2562065"
+  },
+  "AddressLine1": "RAGLAN ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 4LB",
   "SchemeType": "FHRS",

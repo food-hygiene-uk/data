@@ -9,13 +9,16 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Tudor Court 18-20 Midvale Road Roundham With Hyde Paignton Torbay",
+  "Geocode": {
+    "Latitude": "50.4334646",
+    "Longitude": "-3.5679769"
+  },
+  "AddressLine1": "18-20 Midvale Road Paignton",
   "PostCode": "TQ4 5BD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-18",
+  "RatingDate": "2026-06-02",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,

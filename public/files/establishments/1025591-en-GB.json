@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "DOVE COURT NURSING HOME SHUTTLEWORTH STREET",
+  "Geocode": {
+    "Latitude": "53.80902005",
+    "Longitude": "-2.23305885"
+  },
+  "AddressLine1": "SHUTTLEWORTH STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 1EN",
   "SchemeType": "FHRS",

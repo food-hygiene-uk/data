@@ -9,22 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.375685",
-    "Longitude": "-3.032965"
-  },
-  "AddressLine1": "790-794 Borough Road",
-  "AddressLine2": "Tranmere",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH42 9JG",
+  "Geocode": null,
+  "AddressLine1": "790 Borough Road",
+  "AddressLine3": "Tranmere",
+  "AddressLine4": "Wirral",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-07-10",
+  "RatingDate": "2026-05-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

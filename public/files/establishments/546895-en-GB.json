@@ -1,30 +1,29 @@
 {
   "FHRSID": 546895,
   "BusinessName": "Iceland",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000128631",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.419695",
-    "Longitude": "-3.043346"
+    "Latitude": "53.4199336",
+    "Longitude": "-3.0447897"
   },
-  "AddressLine1": "30 Liscard Way",
-  "AddressLine2": "Liscard",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH44 5TP",
+  "AddressLine1": "29 Liscard Way",
+  "AddressLine3": "Liscard",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH44 5TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-08-03",
+  "RatingDate": "2026-05-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

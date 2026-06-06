@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "BRIERCLIFFE PRIMARY SCHOOL DELAMERE ROAD",
+  "Geocode": {
+    "Latitude": "53.8139592",
+    "Longitude": "-2.20100155"
+  },
+  "AddressLine1": "DELAMERE ROAD",
   "AddressLine3": "BRIERCLIFFE",
   "PostCode": "BB10 2JU",
   "SchemeType": "FHRS",

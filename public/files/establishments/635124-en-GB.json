@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6401572",
+    "Longitude": "-3.3144794"
+  },
   "AddressLine1": "Car Park Adjacent To B And Q Plc  Springfield Retail Park  Edgar Road  Elgin  Moray",
+  "PostCode": "in Moray",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

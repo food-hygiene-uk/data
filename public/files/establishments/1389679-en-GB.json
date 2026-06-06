@@ -7,14 +7,18 @@
   "LocalAuthorityCode": "188",
   "LocalAuthorityName": "Folkestone and Hythe",
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
   "Geocode": null,
   "AddressLine1": "FOLKESTONE HARBOUR HARBOUR APPROACH ROAD",
   "AddressLine3": "FOLKESTONE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-06-17",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1862383,
-  "BusinessName": "Obsidianw Limited",
+  "BusinessName": "My Honey",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "25/FST/317/CP",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

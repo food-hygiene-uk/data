@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Paynes Wharf Deptford",
-  "AddressLine3": "London",
-  "PostCode": "SE8 3GG",
+  "Geocode": {
+    "Latitude": "51.4853169",
+    "Longitude": "-0.0244851"
+  },
+  "AddressLine1": "25 Wharf Street",
+  "AddressLine3": "Deptford",
+  "AddressLine4": "Greenwich",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
