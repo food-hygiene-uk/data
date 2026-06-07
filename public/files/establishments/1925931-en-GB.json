@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "113",
   "LocalAuthorityName": "Chelmsford",
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
   "Geocode": {
     "Latitude": "51.7362507",
@@ -19,8 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM1 1GZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

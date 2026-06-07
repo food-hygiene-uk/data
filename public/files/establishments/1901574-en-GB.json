@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "526",
   "LocalAuthorityName": "Redbridge",
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
   "Geocode": {
     "Latitude": "51.5661549",
@@ -17,12 +17,12 @@
   "AddressLine4": "Goodmayes",
   "PostCode": "IG3 9UN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-10",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-02",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 5
   }
 }
