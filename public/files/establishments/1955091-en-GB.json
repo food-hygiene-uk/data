@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8114344",
+    "Longitude": "-2.2806121"
+  },
+  "AddressLine1": "Unit Q2",
+  "AddressLine2": "Quadrant Distribution Centre",
+  "AddressLine3": "Quadrant Way",
+  "AddressLine4": "Hardwicke",
+  "PostCode": "GL2 2RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

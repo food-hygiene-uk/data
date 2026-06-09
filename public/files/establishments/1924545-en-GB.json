@@ -1,9 +1,9 @@
 {
   "FHRSID": 1924545,
   "BusinessName": "The Lucky Goat",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00178/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC4M 9BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "410",
   "LocalAuthorityName": "Gateshead",
   "LocalAuthorityWebSite": "http://www.gateshead.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
   "RightToReply": "&lt;p&gt;\n\tFollowing our recent food hygiene inspection, we received a 1-star rating, due to historical issues.&lt;/p&gt;\n&lt;p&gt;\n\tSince the inspection, we have completed a comprehensive action plan to address all matters raised. This has included a full deep clean of the premises, repairs and replacement of equipment where required, enhanced food safety procedures, and additional staff training.&lt;/p&gt;\n&lt;p&gt;\n\tWe have implemented all necessary improvements and will be applying for a re-rating inspection, where we look forward to demonstrating the high standards now in place.&lt;/p&gt;\n&lt;p&gt;\n\tWe would like to thank our customers for their continued support. We remain fully committed to providing safe, high-quality food and excellent service at all times&lt;/p&gt;\n",
   "Geocode": {
@@ -19,8 +19,12 @@
   "AddressLine4": "Whickham",
   "PostCode": "NE16 3JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

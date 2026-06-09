@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2087364196777",
+    "Longitude": "-2.49524402618408"
+  },
+  "AddressLine1": "Home Farm Bostock Road",
+  "AddressLine2": "Bostock",
+  "AddressLine3": "Winsford",
+  "AddressLine4": "Cheshire",
+  "PostCode": "CW10 9JG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",
