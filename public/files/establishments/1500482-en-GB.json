@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.131903",
-    "Longitude": "-6.676413"
+    "Latitude": "55.131902",
+    "Longitude": "-6.676412"
   },
   "AddressLine1": "11 Waterside Street",
+  "AddressLine2": "Waterside",
   "AddressLine3": "Coleraine",
   "AddressLine4": "Londonderry",
   "PostCode": "BT51 3DP",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-07",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": null
 }

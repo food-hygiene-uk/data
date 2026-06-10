@@ -1,13 +1,13 @@
 {
   "FHRSID": 1917528,
-  "BusinessName": "CHICKY'S PIRI PIRI LTD",
+  "BusinessName": "Chicky's Piri Piri",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25065",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
   "Geocode": {
     "Latitude": "51.5617469",
@@ -17,8 +17,12 @@
   "AddressLine2": "Wembley",
   "PostCode": "HA9 8HS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

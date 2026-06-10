@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7789091",
+    "Longitude": "-1.2657828"
+  },
   "AddressLine1": "Prama House",
   "AddressLine2": "267 Banbury Road",
   "AddressLine3": "Oxford",
   "AddressLine4": "Oxfordshire",
+  "PostCode": "OX2 7HT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

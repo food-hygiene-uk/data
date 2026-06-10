@@ -1,6 +1,6 @@
 {
   "FHRSID": 1934305,
-  "BusinessName": "Fudgetastic Treats & Gifts",
+  "BusinessName": "Fudgetastic Treats And Gifts",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/01550/DOMM",
   "BusinessTypeID": 4613,
@@ -16,8 +16,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "OL13 8JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

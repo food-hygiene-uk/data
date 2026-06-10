@@ -10,9 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": null,
+  "AddressLine1": "Bethany Baptist Church",
+  "AddressLine2": "Tredegar Street",
+  "AddressLine3": "Risca",
+  "PostCode": "NP11 6BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

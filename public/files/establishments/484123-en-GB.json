@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "522",
   "LocalAuthorityName": "Lambeth",
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
   "Geocode": {
     "Latitude": "51.418532",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "SW16 5SD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-06",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

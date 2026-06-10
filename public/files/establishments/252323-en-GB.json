@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Eaton Farm",
+  "Geocode": {
+    "Latitude": "52.89933",
+    "Longitude": "-1.294421"
+  },
   "AddressLine2": "Wilsthorpe Road",
   "AddressLine4": "Long Eaton",
   "PostCode": "NG10 4AW",

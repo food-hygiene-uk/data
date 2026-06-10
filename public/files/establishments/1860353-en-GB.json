@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": {
-    "Latitude": "53.0372336",
-    "Longitude": "-3.8024569"
-  },
-  "AddressLine1": "Cae Llwyd Farm",
-  "AddressLine2": "Penmachno",
-  "AddressLine3": "Betws Y Coed",
-  "AddressLine4": "Conwy",
-  "PostCode": "LL24 0YR",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

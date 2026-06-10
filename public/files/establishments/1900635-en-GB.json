@@ -1,6 +1,6 @@
 {
   "FHRSID": 1900635,
-  "BusinessName": "Torquay Fruit Stall",
+  "BusinessName": "Lakin, Darren",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "174297667235671",
   "BusinessTypeID": 4613,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "TORQUAY STREET MARKET UNION STREET  TORQUAY",
-  "PostCode": "TQ1 1ES",
+  "Geocode": {
+    "Latitude": "50.6014298",
+    "Longitude": "-3.4590398"
+  },
+  "AddressLine1": "15 Curlew Way Dawlish",
+  "PostCode": "EX7 0FT",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

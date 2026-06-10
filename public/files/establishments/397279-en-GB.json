@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
     "Latitude": "53.591593",
@@ -18,12 +18,8 @@
   "AddressLine4": "Brierley",
   "PostCode": "S72 9ET",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-27",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

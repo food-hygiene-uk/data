@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "565",
   "LocalAuthorityName": "Pembrokeshire",
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
   "Geocode": {
     "Latitude": "51.728274",
@@ -19,8 +19,12 @@
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA73 1HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2024-07-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

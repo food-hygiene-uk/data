@@ -1,13 +1,13 @@
 {
   "FHRSID": 1788925,
   "BusinessName": "The Nailounge",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "137504",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
   "Geocode": {
     "Latitude": "51.4928955",
@@ -17,8 +17,12 @@
   "AddressLine3": "Chiswick",
   "PostCode": "W4 5TT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

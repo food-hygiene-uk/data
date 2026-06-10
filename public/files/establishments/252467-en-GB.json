@@ -1,6 +1,6 @@
 {
   "FHRSID": 252467,
-  "BusinessName": "Big G's - Gyros and Berlin Kebab",
+  "BusinessName": "Big G Kebab and Pizza",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "90368",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine4": "Long Eaton",
   "PostCode": "NG10 1GH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

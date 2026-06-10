@@ -1,24 +1,22 @@
 {
   "FHRSID": 1932822,
   "BusinessName": "Herbelle Remedies",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "162189",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": {
-    "Latitude": "51.570219",
-    "Longitude": "-3.243982"
-  },
-  "AddressLine2": "17 Emanuel Close",
-  "AddressLine3": "Caerphilly",
-  "PostCode": "CF83 1SG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

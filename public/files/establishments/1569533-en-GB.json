@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "416",
   "LocalAuthorityName": "Newcastle Upon Tyne",
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
   "Geocode": {
     "Latitude": "54.9711341",
@@ -17,12 +17,12 @@
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE1 1EE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-03",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

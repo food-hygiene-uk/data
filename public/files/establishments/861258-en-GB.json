@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
   "Geocode": {
     "Latitude": "51.488079",
@@ -17,12 +17,12 @@
   "AddressLine2": "Duke Road",
   "PostCode": "W4 2JR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-05",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

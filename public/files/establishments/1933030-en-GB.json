@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3840336",
-    "Longitude": "-0.3178564"
-  },
-  "AddressLine1": "18 Kings Road",
-  "AddressLine2": "Long Ditton",
-  "AddressLine3": "Surbiton",
-  "AddressLine4": "Surrey",
-  "PostCode": "KT6 5JF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
