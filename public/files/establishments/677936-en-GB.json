@@ -9,11 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southlanarkshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@southlanarkshire.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Calderwood Road East Kilbride",
+  "Geocode": {
+    "Latitude": "55.7653681",
+    "Longitude": "-4.1736588"
+  },
+  "AddressLine1": "East Kilbride Bowling Club",
+  "AddressLine2": "10 Maxwell Drive",
+  "AddressLine3": "East Kilbride",
+  "AddressLine4": "Glasgow",
+  "PostCode": "G74 4HG",
   "SchemeType": "FHIS",
-  "RatingValue": "Pass",
-  "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2018-04-19",
+  "RatingValue": "Improvement Required",
+  "RatingKey": "fhis_improvement_required_en-GB",
+  "RatingDate": "2026-05-13",
   "Scores": null
 }

@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4812388",
-    "Longitude": "-0.7027289"
-  },
-  "AddressLine1": "36 Honiton Gardens",
-  "AddressLine2": "Corby",
-  "PostCode": "NN18 8BW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

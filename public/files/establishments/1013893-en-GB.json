@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
-    "Latitude": "55.121838",
-    "Longitude": "-6.674379"
+    "Latitude": "55.1217880249023",
+    "Longitude": "-6.6745548248291"
   },
   "AddressLine1": "2 Riverside Park East",
+  "AddressLine2": "Somerset",
   "AddressLine3": "Coleraine",
   "AddressLine4": "Londonderry",
   "PostCode": "BT51 3NA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-29",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": null
 }

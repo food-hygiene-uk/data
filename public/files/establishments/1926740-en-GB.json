@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Courtyard Source Park",
-  "AddressLine2": "45 White Rock",
+  "Geocode": {
+    "Latitude": "50.8538725",
+    "Longitude": "0.5750149"
+  },
+  "AddressLine1": "The Courtyard Source Park 45 White Rock",
   "AddressLine3": "Hastings",
   "AddressLine4": "East Sussex",
   "PostCode": "TN34 1JL",

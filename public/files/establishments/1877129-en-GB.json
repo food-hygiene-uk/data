@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.752773",
+    "Longitude": "-1.256922"
+  },
   "AddressLine1": "16A Covered Market",
   "AddressLine2": "Market Street",
   "AddressLine3": "Oxford",
   "AddressLine4": "Oxfordshire",
+  "PostCode": "OX1 3DU",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6791004",
+    "Longitude": "-1.8251062"
+  },
+  "AddressLine1": "New Venture House",
+  "AddressLine2": "Davidson Road",
+  "AddressLine3": "Lichfield",
+  "AddressLine4": "Staffordshire",
+  "PostCode": "WS14 9DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

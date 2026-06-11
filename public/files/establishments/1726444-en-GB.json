@@ -1,13 +1,13 @@
 {
   "FHRSID": 1726444,
-  "BusinessName": "BMIL",
+  "BusinessName": "Limbo",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "204321",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5258418",
@@ -17,8 +17,12 @@
   "AddressLine4": "London",
   "PostCode": "WC1N 1AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

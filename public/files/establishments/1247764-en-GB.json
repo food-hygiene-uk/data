@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "288",
   "LocalAuthorityName": "East Staffordshire",
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
   "Geocode": {
     "Latitude": "52.8015033",
@@ -17,12 +17,12 @@
   "AddressLine2": "Burton upon Trent",
   "PostCode": "DE14 3QW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

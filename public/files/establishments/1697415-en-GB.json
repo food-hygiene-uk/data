@@ -1,13 +1,13 @@
 {
   "FHRSID": 1697415,
-  "BusinessName": "The Good Fellow George/Cove",
+  "BusinessName": "The Good Fellow George",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "126825",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "899",
   "LocalAuthorityName": "Nottingham City",
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
   "Geocode": {
     "Latitude": "52.9564895629883",
@@ -17,12 +17,12 @@
   "AddressLine4": "Nottingham",
   "PostCode": "NG7 3JE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-20",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

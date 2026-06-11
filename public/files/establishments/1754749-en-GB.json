@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "503",
   "LocalAuthorityName": "Bexley",
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
   "Geocode": {
     "Latitude": "51.4629183",
@@ -18,12 +18,12 @@
   "AddressLine3": "Kent",
   "PostCode": "DA16 3PU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-26",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

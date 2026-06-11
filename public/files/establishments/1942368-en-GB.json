@@ -13,14 +13,18 @@
     "Latitude": "51.8157816",
     "Longitude": "-0.3532719"
   },
-  "AddressLine1": "Impact Food Group @Harpenden Academy",
+  "AddressLine1": "Harpenden Academy",
   "AddressLine2": "Vaughan Road",
   "AddressLine3": "Harpenden",
   "AddressLine4": "Hertfordshire",
   "PostCode": "AL5 4EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

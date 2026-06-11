@@ -9,13 +9,21 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "4 Springs Pavement",
-  "AddressLine4": "Ilkley",
-  "PostCode": "LS29 8DD",
+  "Geocode": {
+    "Latitude": "53.924427",
+    "Longitude": "-1.819791"
+  },
+  "AddressLine1": "4 Springs Pavement",
+  "AddressLine2": "Springs Lane",
+  "AddressLine3": "Ilkley",
+  "PostCode": "LS29 8HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

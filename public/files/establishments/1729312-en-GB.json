@@ -9,11 +9,12 @@
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.DUE@dudley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hunting Tree",
-  "AddressLine2": "The Hunting Tree",
-  "AddressLine3": "Alexandra Road",
-  "AddressLine4": "Halesowen",
+  "Geocode": {
+    "Latitude": "52.45061799",
+    "Longitude": "-2.06426973"
+  },
+  "AddressLine1": "Alexandra Road",
+  "AddressLine2": "Halesowen",
   "PostCode": "B63 4BL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

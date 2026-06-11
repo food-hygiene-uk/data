@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
   "Geocode": {
-    "Latitude": "51.5838104",
-    "Longitude": "-0.0241228"
+    "Latitude": "51.5831544",
+    "Longitude": "-0.0241512"
   },
-  "AddressLine1": "Crate Food Hall 2A Selborne Walk",
+  "AddressLine1": "Kiosk 6 Crate Food Hall 2A Selborne Walk",
   "AddressLine3": "Walthamstow",
   "AddressLine4": "London",
   "PostCode": "E17 7JR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

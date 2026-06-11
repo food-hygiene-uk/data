@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Theaklen House",
-  "AddressLine2": "Theaklen Drive",
+  "Geocode": {
+    "Latitude": "50.8691976",
+    "Longitude": "0.5521512"
+  },
+  "AddressLine1": "30 - 36 Theaklen Drive",
   "AddressLine3": "St Leonards-on-sea",
   "AddressLine4": "East Sussex",
   "PostCode": "TN38 9AZ",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "231",
   "LocalAuthorityName": "North Norfolk",
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
   "Geocode": {
     "Latitude": "52.7728329",
@@ -18,12 +18,12 @@
   "AddressLine3": "Norfolk",
   "PostCode": "NR12 9AH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

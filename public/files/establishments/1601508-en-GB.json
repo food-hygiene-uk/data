@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "264",
   "LocalAuthorityName": "Newark and Sherwood",
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
   "Geocode": {
     "Latitude": "53.01066",
@@ -18,12 +18,12 @@
   "AddressLine3": "Nottinghamshire",
   "PostCode": "NG14 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

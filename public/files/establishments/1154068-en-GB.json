@@ -1,6 +1,6 @@
 {
   "FHRSID": 1154068,
-  "BusinessName": "Oscar's Den",
+  "BusinessName": "Oscars on the Square",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000076326",
   "BusinessTypeID": 1,
@@ -9,12 +9,14 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Former Beach Offices and Premises",
-  "AddressLine2": "Lower Promenade",
-  "AddressLine3": "Warrior Square",
-  "AddressLine4": "St Leonards-on-sea",
-  "PostCode": "TN37 6QR",
+  "Geocode": {
+    "Latitude": "50.851843",
+    "Longitude": "0.563025"
+  },
+  "AddressLine1": "Oscar's On The Square Lower Promenade Warrior Square",
+  "AddressLine3": "St Leonards-on-sea",
+  "AddressLine4": "East Sussex",
+  "PostCode": "TN37 6FA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

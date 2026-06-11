@@ -1,13 +1,13 @@
 {
   "FHRSID": 1897088,
-  "BusinessName": "Biteknight",
+  "BusinessName": "Bite Knight",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/FST/711/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "878",
   "LocalAuthorityName": "Leicester City",
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": {
     "Latitude": "52.630494",
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicester",
   "PostCode": "LE2 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

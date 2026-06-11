@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8697547",
+    "Longitude": "0.598618"
+  },
+  "AddressLine1": "85 Deepdene Gardens",
+  "AddressLine3": "Hastings",
+  "AddressLine4": "East Sussex",
+  "PostCode": "TN35 5TB",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

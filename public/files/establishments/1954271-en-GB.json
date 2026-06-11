@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "https://www.pkc.gov.uk/foodhygieneinfo",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthsafety@pkc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4174887",
+    "Longitude": "-3.4580363"
+  },
+  "AddressLine1": "3 ARRAN PLACE",
+  "AddressLine2": "NORTH MUIRTON INDUSTRIAL ESTATE",
+  "PostCode": "PH1 3RN",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

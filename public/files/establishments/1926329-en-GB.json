@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8210025",
-    "Longitude": "-0.3588128"
-  },
-  "AddressLine1": "8 Townsend Road",
-  "AddressLine2": "Harpenden",
-  "AddressLine3": "Hertfordshire",
+  "Geocode": null,
+  "AddressLine1": "Field House Care Home - Curaa",
+  "AddressLine2": "8 Townsend Road",
+  "AddressLine3": "Harpenden",
+  "AddressLine4": "Hertfordshire",
   "PostCode": "AL5 4BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

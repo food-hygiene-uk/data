@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.wokingham.gov.uk/welcome/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@wokingham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.425544",
+    "Longitude": "-0.932794"
+  },
   "AddressLine2": "Chalfont Close",
+  "AddressLine3": "Earley",
   "PostCode": "RG6 5HZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

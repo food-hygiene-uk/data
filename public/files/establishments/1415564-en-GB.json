@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "516",
   "LocalAuthorityName": "Havering",
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
   "Geocode": {
     "Latitude": "51.551486",
@@ -17,12 +17,12 @@
   "AddressLine2": "Hornchurch",
   "PostCode": "RM12 4RH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-02-03",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

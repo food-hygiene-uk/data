@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
-    "Latitude": "50.7887649536133",
-    "Longitude": "-1.09356498718262"
+    "Latitude": "50.7883227",
+    "Longitude": "-1.0940779"
   },
-  "AddressLine1": "83 Castle Road",
+  "AddressLine1": "81-83 Castle Road",
   "AddressLine2": "Southsea",
   "PostCode": "PO5 3AY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-05-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-06",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

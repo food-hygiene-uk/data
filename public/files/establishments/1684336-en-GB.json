@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Bethnal Green Road",
+  "Geocode": {
+    "Latitude": "51.518049",
+    "Longitude": "-0.057138"
+  },
+  "AddressLine1": "Sclater Street Market",
+  "AddressLine2": "Sclater Street",
   "AddressLine3": "London",
-  "PostCode": "E1 6HT",
+  "PostCode": "E1",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

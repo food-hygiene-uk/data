@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "703",
   "LocalAuthorityName": "Cheshire East",
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
   "Geocode": null,
   "AddressLine1": "10 Westmorland close",
   "AddressLine4": "Macclesfield",
   "PostCode": "SK10 3ET",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
