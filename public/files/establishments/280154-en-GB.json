@@ -1,28 +1,28 @@
 {
   "FHRSID": 280154,
-  "BusinessName": "The Roebuck / The Kitchen",
+  "BusinessName": "The Roebuck",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2304",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": {
-    "Latitude": "51.447371",
-    "Longitude": "-0.933235"
+    "Latitude": "51.4478184",
+    "Longitude": "-0.9329201"
   },
-  "AddressLine2": "37 Auckland Road",
-  "AddressLine3": "Reading",
+  "AddressLine1": "37 Auckland Road",
+  "AddressLine2": "Reading",
   "PostCode": "RG6 1NY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

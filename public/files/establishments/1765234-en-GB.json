@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
   "Geocode": {
     "Latitude": "53.704472",
@@ -17,12 +17,12 @@
   "AddressLine2": "Normanton",
   "PostCode": "WF6 2JN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-07",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

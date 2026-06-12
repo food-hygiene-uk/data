@@ -1,6 +1,6 @@
 {
   "FHRSID": 1687111,
-  "BusinessName": "Connect Catering at Booker Park Community School",
+  "BusinessName": "Connect Catering At Booker Park Community School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "EH/00059563",
   "BusinessTypeID": 7845,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Booker Park Community School",
+  "Geocode": {
+    "Latitude": "51.793398",
+    "Longitude": "-0.809744"
+  },
+  "AddressLine1": "Booker Park School",
   "AddressLine2": "Stoke Leys Close",
   "AddressLine3": "Aylesbury",
   "AddressLine4": "Buckinghamshire",

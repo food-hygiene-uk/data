@@ -1,6 +1,6 @@
 {
   "FHRSID": 398427,
-  "BusinessName": "Upperwood  Primary  Academy",
+  "BusinessName": "Compass @ Upperwood  Primary  Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "73984",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Darfield",
   "PostCode": "S73 9NL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

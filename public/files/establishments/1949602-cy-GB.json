@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "559",
   "LocalAuthorityName": "Sir Ddinbych",
   "LocalAuthorityWebSite": "http://www.denbighshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@denbighshire.gov.uk",
   "Geocode": {
     "Latitude": "53.3192306",
@@ -17,8 +17,12 @@
   "AddressLine3": "Rhyl",
   "PostCode": "LL18 1SY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-05-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

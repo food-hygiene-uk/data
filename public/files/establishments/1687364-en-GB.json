@@ -1,6 +1,6 @@
 {
   "FHRSID": 1687364,
-  "BusinessName": "The Maple at De Soutter Medical",
+  "BusinessName": "The Maple At De Soutter Medical",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "EH/00059551",
   "BusinessTypeID": 1,
@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "De Soutter Medical Limited",
-  "AddressLine2": "1-2 Halton Brook Business Park",
-  "AddressLine3": "Weston Road",
-  "AddressLine4": "Aston Clinton Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.7994929",
+    "Longitude": "-0.7320872"
+  },
+  "AddressLine1": "1 - 2 Halton Brook Business Park",
+  "AddressLine2": "Weston Road",
+  "AddressLine3": "Aston Clinton",
+  "AddressLine4": "Buckinghamshire",
   "PostCode": "HP22 5WF",
   "SchemeType": "FHRS",
   "RatingValue": "5",

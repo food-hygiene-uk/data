@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0741372",
+    "Longitude": "-1.8117148"
+  },
+  "AddressLine1": "44 WILTON ROAD",
+  "AddressLine3": "SALISBURY",
+  "PostCode": "SP2 7EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.338628",
@@ -18,12 +18,12 @@
   "AddressLine4": "North Somerset",
   "PostCode": "BS23 1DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-31",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

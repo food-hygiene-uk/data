@@ -1,20 +1,27 @@
 {
   "FHRSID": 1939882,
-  "BusinessName": "SOTO at Moss Hall",
+  "BusinessName": "SOTO At Moss Hall",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00245/COMM",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Moss Hall Grove",
+  "Geocode": {
+    "Latitude": "51.6100712",
+    "Longitude": "-0.1859764"
+  },
+  "AddressLine1": "Moss Hall Infant School  Moss Hall Grove London",
   "PostCode": "N12 8PE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

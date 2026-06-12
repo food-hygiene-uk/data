@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "198",
   "LocalAuthorityName": "Fylde",
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
   "Geocode": null,
   "AddressLine1": "Kirkham",
   "AddressLine3": "Preston",
   "PostCode": "PR4 2DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

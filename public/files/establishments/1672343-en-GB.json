@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Auto Tyre And Battery Co",
-  "AddressLine2": "Spring Lane",
-  "AddressLine3": "Malvern",
-  "AddressLine4": "Worcestershire",
+  "Geocode": {
+    "Latitude": "52.127",
+    "Longitude": "-2.310479"
+  },
+  "AddressLine1": "Spring Lane",
+  "AddressLine2": "Malvern",
+  "AddressLine3": "Worcestershire",
   "PostCode": "WR14 1AJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

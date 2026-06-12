@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5603622",
-    "Longitude": "-2.7719006"
-  },
-  "AddressLine1": "35 Ledburn",
-  "AddressLine2": "Skelmersdale",
-  "AddressLine3": "Lancashire",
-  "PostCode": "WN8 6TU",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

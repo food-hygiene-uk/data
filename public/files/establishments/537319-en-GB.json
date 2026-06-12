@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "190",
   "LocalAuthorityName": "Thanet",
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
   "Geocode": {
     "Latitude": "51.331022",
@@ -19,12 +19,12 @@
   "AddressLine4": "Ramsgate",
   "PostCode": "CT11 8LS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "105",
   "LocalAuthorityName": "Lewes",
   "LocalAuthorityWebSite": "http://www.lewes-eastbourne.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth.ldc@lewes-eastbourne.gov.uk",
   "Geocode": {
     "Latitude": "50.7835158",
@@ -17,12 +17,12 @@
   "AddressLine3": "Newhaven",
   "AddressLine4": "East Sussex",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2022-12-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": {
     "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,16 +7,19 @@
   "LocalAuthorityCode": "198",
   "LocalAuthorityName": "Fylde",
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
   "Geocode": null,
   "AddressLine1": "Bryning Ln Preston",
   "AddressLine3": "Warton",
-  "AddressLine4": "Lancashire",
   "PostCode": "pr4 1tn",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1652262,
-  "BusinessName": "HCL at Wingrave School",
+  "BusinessName": "HCL At Wingrave School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "EH/00059329",
   "BusinessTypeID": 7845,
@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Wingrave Combined School",
-  "AddressLine2": "Twelve Leys",
+  "Geocode": {
+    "Latitude": "51.8675465",
+    "Longitude": "-0.749714"
+  },
+  "AddressLine1": "Wingrave Church Of England Combined School",
+  "AddressLine2": "Winslow Road",
   "AddressLine3": "Wingrave",
   "AddressLine4": "Buckinghamshire",
-  "PostCode": "HP22 4QQ",
+  "PostCode": "HP22 4QG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

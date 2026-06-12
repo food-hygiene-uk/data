@@ -1,29 +1,30 @@
 {
   "FHRSID": 1732373,
-  "BusinessName": "Kacha Bazar Lozells",
+  "BusinessName": "Ghorer Bazar",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000696008",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
-    "Latitude": "52.502807",
-    "Longitude": "-1.909473"
+    "Latitude": "52.5028492",
+    "Longitude": "-1.9096898"
   },
-  "AddressLine1": "168 Lozells Road",
-  "AddressLine2": "Lozells And East Handsworth",
-  "AddressLine3": "Birmingham",
+  "AddressLine1": "Ghorer Bazar",
+  "AddressLine2": "168 Lozells Road",
+  "AddressLine3": "Lozells And East Handsworth",
+  "AddressLine4": "Birmingham",
   "PostCode": "B19 2SX",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-05-07",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 30
   }
 }
