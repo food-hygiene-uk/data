@@ -1,6 +1,6 @@
 {
   "FHRSID": 1943902,
-  "BusinessName": "Ifeade Desmennu",
+  "BusinessName": "BellachowUK",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "62112",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

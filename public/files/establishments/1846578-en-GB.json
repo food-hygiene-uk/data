@@ -1,25 +1,29 @@
 {
   "FHRSID": 1846578,
-  "BusinessName": "Prince Trading",
+  "BusinessName": "Prince trading ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9107422",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3982158",
     "Longitude": "-3.0251476"
   },
   "AddressLine1": "The Foundry Business Centre Marcus Street",
-  "AddressLine2": "Birkenhead",
-  "AddressLine3": "Wirral",
+  "AddressLine3": "Birkenhead",
+  "AddressLine4": "Wirral",
   "PostCode": "CH41 1EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

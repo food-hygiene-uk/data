@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4923288",
+    "Longitude": "-0.1913848"
+  },
+  "AddressLine1": "Flat 2",
+  "AddressLine2": "28 Barkston Gardens",
+  "AddressLine3": "LONDON",
+  "PostCode": "SW5 0EN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Whitton",
-  "AddressLine3": "Twickenham",
+  "Geocode": {
+    "Latitude": "51.4498395",
+    "Longitude": "-0.3576803"
+  },
+  "AddressLine1": "121 High Street",
+  "AddressLine3": "Whitton",
+  "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 7LG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

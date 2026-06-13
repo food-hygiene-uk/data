@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "STREET RECORD",
+  "Geocode": {
+    "Latitude": "53.7434005737305",
+    "Longitude": "-2.71005392074585"
+  },
+  "AddressLine1": "Penwortham Sports and Social Club",
   "AddressLine2": "Leyland Road",
   "AddressLine3": "Penwortham",
-  "AddressLine4": "Lancashire",
+  "AddressLine4": "Preston",
+  "PostCode": "PR1 9QE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "46-48 Coombe Lane",
+  "Geocode": {
+    "Latitude": "51.4096533",
+    "Longitude": "-0.2309278"
+  },
+  "AddressLine1": "46 Coombe Lane",
   "AddressLine3": "Raynes Park",
   "AddressLine4": "Merton",
-  "PostCode": "SW20 4LA",
+  "PostCode": "SW20 0LA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-10",
+  "RatingDate": "2026-06-02",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

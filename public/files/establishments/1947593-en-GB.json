@@ -1,6 +1,6 @@
 {
   "FHRSID": 1947593,
-  "BusinessName": "Smoke and Pepper",
+  "BusinessName": "Smoke & Pepper",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "INSPF/26/371532",
   "BusinessTypeID": 1,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "166 Earls Court Roasd London",
-  "PostCode": "SW5 9QQ",
+  "Geocode": {
+    "Latitude": "51.4936965",
+    "Longitude": "-0.1950731"
+  },
+  "AddressLine1": "166 Earl's Court Road",
+  "AddressLine2": "LONDON",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

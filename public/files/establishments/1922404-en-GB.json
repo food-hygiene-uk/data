@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6357447",
+    "Longitude": "-1.2422724"
+  },
+  "AddressLine1": "1 Barons Close",
+  "AddressLine2": "Kirby Muxloe",
+  "AddressLine3": "Leicester",
+  "AddressLine4": "Leicestershire",
+  "PostCode": "LE9 2BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

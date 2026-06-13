@@ -1,9 +1,9 @@
 {
   "FHRSID": 1950393,
   "BusinessName": "St Edmunds C of E Primary and Nursery School",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "9104374",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "263",
   "LocalAuthorityName": "Mansfield",
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
@@ -15,8 +15,12 @@
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG19 9JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

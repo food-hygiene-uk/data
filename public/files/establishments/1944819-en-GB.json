@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944819,
-  "BusinessName": "The Deli Kitchen",
+  "BusinessName": "The Sweet Treat Also T/A The Deli Kitchen+ The Sweet Kitchen",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00207/DOM",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

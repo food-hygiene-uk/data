@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Broughton Community Schools",
-  "AddressLine2": "Broughton Avenue",
-  "AddressLine3": "Aylesbury",
-  "AddressLine4": "Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.815002",
+    "Longitude": "-0.784948"
+  },
+  "AddressLine1": "Broughton Avenue",
+  "AddressLine2": "Aylesbury",
+  "AddressLine3": "Buckinghamshire",
   "PostCode": "HP20 1NQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

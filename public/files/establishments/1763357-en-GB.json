@@ -1,6 +1,6 @@
 {
   "FHRSID": 1763357,
-  "BusinessName": "Booby Trap Brewery LTD",
+  "BusinessName": "Booby Trap Brewery Ltd",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "EH/00065152",
   "BusinessTypeID": 1,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 7A-7C",
-  "AddressLine2": "Upper Barn Farm",
+  "Geocode": {
+    "Latitude": "51.8565633",
+    "Longitude": "-0.9578867"
+  },
+  "AddressLine1": "Unit 7A-7C Upper Barn Farm",
+  "AddressLine2": "Bicester Road",
   "AddressLine3": "Westcott",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP18 0JX",

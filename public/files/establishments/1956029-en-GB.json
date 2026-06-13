@@ -1,9 +1,9 @@
 {
   "FHRSID": 1956029,
   "BusinessName": "HEALTHYWEALTHY VEG & VEGAN",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "276932",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
@@ -17,8 +17,12 @@
   "AddressLine4": "Belfast",
   "PostCode": "BT9 5AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,27 +1,25 @@
 {
   "FHRSID": 1947590,
-  "BusinessName": "Lexington @Jumeirah Carlton Hotel",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Lexington at Jumeirah Carlton",
+  "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "INSPF/26/371340",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7842,
   "LocalAuthorityCode": "520",
   "LocalAuthorityName": "Kensington and Chelsea",
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
   "Geocode": {
-    "Latitude": "51.4984631",
-    "Longitude": "-0.1590995"
+    "Latitude": "51.498579",
+    "Longitude": "-0.159103"
   },
-  "AddressLine1": "2 Cadogan Place London",
+  "AddressLine1": "Carlton Tower Hotel",
+  "AddressLine2": "Cadogan Place",
+  "AddressLine3": "LONDON",
   "PostCode": "SW1X 9PY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-03-24",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
