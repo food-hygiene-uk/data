@@ -1,13 +1,13 @@
 {
   "FHRSID": 1935584,
-  "BusinessName": "Deshi Khana London Ltd",
+  "BusinessName": "Asian Khana",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00240/FOOD",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
     "Latitude": "51.54501",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "E7 9PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

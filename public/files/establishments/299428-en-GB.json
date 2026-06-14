@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "056",
   "LocalAuthorityName": "Westmorland and Furness",
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
   "Geocode": {
     "Latitude": "54.377297",
@@ -17,12 +17,12 @@
   "AddressLine4": "Staveley",
   "PostCode": "LA8 9LU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-09",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
