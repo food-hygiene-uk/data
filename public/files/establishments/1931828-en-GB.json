@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4934822",
+    "Longitude": "-1.2772576"
+  },
+  "AddressLine1": "138 Doncaster Road",
+  "AddressLine2": "Mexborough",
+  "AddressLine3": "Doncaster",
+  "PostCode": "S64 0JW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

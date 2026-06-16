@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4381523132324",
-    "Longitude": "-1.90938496589661"
-  },
-  "AddressLine1": "Moor Green Primary School",
-  "AddressLine2": "Moor Green Lane",
-  "AddressLine3": "Birmingham",
+  "Geocode": null,
+  "AddressLine1": "Chartwell",
+  "AddressLine2": "Moor Green Primary School",
+  "AddressLine3": "Moor Green Lane",
+  "AddressLine4": "Birmingham",
   "PostCode": "B13 8QP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

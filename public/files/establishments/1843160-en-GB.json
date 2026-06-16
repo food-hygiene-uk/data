@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3953826",
+    "Longitude": "-2.613215"
+  },
+  "AddressLine2": "49 Grafton Street",
+  "PostCode": "WA5 1QA",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

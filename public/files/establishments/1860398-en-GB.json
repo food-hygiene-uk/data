@@ -1,13 +1,13 @@
 {
   "FHRSID": 1860398,
-  "BusinessName": "Ess Artisan Desserts & Savouries",
+  "BusinessName": "S Artisan Desserts & Savouries",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "087897/CP",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "228",
   "LocalAuthorityName": "Broadland",
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
   "Geocode": {
     "Latitude": "52.6857643",
@@ -18,8 +18,12 @@
   "AddressLine3": "Norfolk",
   "PostCode": "NR10 3PW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

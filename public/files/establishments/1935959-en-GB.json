@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "55-57 St Thomas Street",
+  "Geocode": {
+    "Latitude": "50.6081297",
+    "Longitude": "-2.4553998"
+  },
+  "AddressLine1": "55 - 57 St Thomas Street",
   "AddressLine3": "Weymouth",
-  "PostCode": "DT4 8EU",
+  "AddressLine4": "Dorset",
+  "PostCode": "DT4 8EQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

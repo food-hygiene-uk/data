@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
   "Geocode": {
     "Latitude": "53.1229019165039",
@@ -16,12 +16,12 @@
   "AddressLine2": "Coxmoor Road",
   "PostCode": "NG17 5LD",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-10-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-11",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 20,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }

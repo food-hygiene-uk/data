@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3191647",
-    "Longitude": "-2.9680137"
-  },
-  "AddressLine2": "43 Bartells Place",
-  "AddressLine3": "Uphill",
-  "AddressLine4": "Weston-super-Mare",
-  "PostCode": "BS23 4AH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "861",
   "LocalAuthorityName": "Middlesbrough",
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
   "Geocode": {
     "Latitude": "54.521598",
@@ -17,8 +17,12 @@
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS8 9DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.430778",
+    "Longitude": "-2.8512492"
+  },
+  "AddressLine2": "12 Kennaway Road",
+  "AddressLine3": "Clevedon",
+  "PostCode": "BS21 6JL",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

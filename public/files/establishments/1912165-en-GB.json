@@ -1,9 +1,9 @@
 {
   "FHRSID": 1912165,
   "BusinessName": "Xaeun Olive Oil",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Importers/Exporters",
   "LocalAuthorityBusinessID": "F/26/00007/COM",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 14,
   "LocalAuthorityCode": "126",
   "LocalAuthorityName": "Forest of Dean",
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

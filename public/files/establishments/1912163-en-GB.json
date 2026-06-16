@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6486103",
+    "Longitude": "-2.6613973"
+  },
+  "AddressLine1": "Bigstone House",
+  "AddressLine2": "5 Piermont Drive",
+  "AddressLine3": "Tutshill",
+  "AddressLine4": "Chepstow",
+  "PostCode": "NP16 7EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

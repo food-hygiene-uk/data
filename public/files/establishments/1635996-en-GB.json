@@ -1,6 +1,6 @@
 {
   "FHRSID": 1635996,
-  "BusinessName": "Head Case Curios",
+  "BusinessName": "Head Case Cigars",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "23/00186/CP",
   "BusinessTypeID": 7841,
@@ -13,13 +13,16 @@
     "Latitude": "50.7876386",
     "Longitude": "-1.0818722"
   },
-  "AddressLine1": "Shop",
-  "AddressLine2": "4 Albert Road",
-  "AddressLine3": "Southsea",
+  "AddressLine1": "4 Albert Road",
+  "AddressLine2": "Southsea",
   "PostCode": "PO5 2SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

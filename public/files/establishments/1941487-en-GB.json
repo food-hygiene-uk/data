@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8079548",
+    "Longitude": "-1.0774716"
+  },
+  "AddressLine1": "39 Kingston Road",
+  "AddressLine2": "Portsmouth",
+  "PostCode": "PO2 7DP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",
