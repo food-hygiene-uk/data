@@ -9,12 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5296367",
+    "Longitude": "-0.3610569"
+  },
   "AddressLine1": "GRASBY ALL SAINTS C OF E PRIMARY SCHOOL",
   "AddressLine2": "VICARAGE LANE",
   "AddressLine3": "GRASBY",
   "AddressLine4": "BARNETBY",
-  "PostCode": "DN38 6AU",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

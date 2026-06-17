@@ -14,10 +14,13 @@
   "AddressLine2": "LINCOLN ROAD",
   "AddressLine3": "TORKSEY LOCK",
   "AddressLine4": "LINCOLN",
-  "PostCode": "LN1 2EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

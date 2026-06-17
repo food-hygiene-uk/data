@@ -7,13 +7,13 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
-    "Latitude": "53.48377",
-    "Longitude": "-2.059726"
+    "Latitude": "53.4838675",
+    "Longitude": "-2.0599063"
   },
-  "AddressLine1": "The White House Public House",
+  "AddressLine1": "Flat Above",
   "AddressLine2": "1 Water Street",
   "AddressLine3": "Stalybridge",
   "AddressLine4": "Tameside",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-05-01",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

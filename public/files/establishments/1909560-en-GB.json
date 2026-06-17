@@ -17,10 +17,13 @@
   "AddressLine2": "STATION ROAD",
   "AddressLine3": "NORTH KELSEY",
   "AddressLine4": "MARKET RASEN",
-  "PostCode": "LN7 6HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

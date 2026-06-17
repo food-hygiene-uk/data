@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "085",
   "LocalAuthorityName": "Dorset",
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
     "Latitude": "50.7335943",
@@ -18,12 +18,12 @@
   "AddressLine4": "Dorset",
   "PostCode": "DT6 3JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

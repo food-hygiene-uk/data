@@ -1,23 +1,27 @@
 {
   "FHRSID": 1933002,
-  "BusinessName": "Saffron Cuisine London Limited",
+  "BusinessName": "Saffron Cuisine London Limited@Finchley Golf Club",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00230/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6098234",
-    "Longitude": "-0.2021257"
+    "Latitude": "51.609861",
+    "Longitude": "-0.20212"
   },
-  "AddressLine1": "Nether Court",
+  "AddressLine1": "Nether Court  Frith Lane London",
   "PostCode": "NW7 1PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

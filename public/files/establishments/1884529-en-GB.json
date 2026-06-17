@@ -1,18 +1,24 @@
 {
   "FHRSID": 1884529,
   "BusinessName": "JM Vending",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "121206",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.8977359",
+    "Longitude": "-2.1596095"
+  },
+  "AddressLine2": "13 Jackson Lane",
+  "AddressLine3": "Stone",
+  "PostCode": "ST15 0YT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

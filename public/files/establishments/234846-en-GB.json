@@ -9,12 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.266341",
+    "Longitude": "-0.4889966"
+  },
   "AddressLine1": "BLACK HORSE",
   "AddressLine2": "CROSS STREET",
   "AddressLine3": "NETTLEHAM",
   "AddressLine4": "LINCOLN",
-  "PostCode": "LN2 2PB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

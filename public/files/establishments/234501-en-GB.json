@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3989049",
+    "Longitude": "-0.7774847"
+  },
   "AddressLine1": "EIGHT JOLLY BREWERS SHIP COURT",
   "AddressLine2": "SILVER STREET",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 2DW",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

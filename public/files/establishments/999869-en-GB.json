@@ -1,13 +1,13 @@
 {
   "FHRSID": 999869,
-  "BusinessName": "Make  a Wish",
+  "BusinessName": "Make a Wish",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000144982",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
     "Latitude": "52.5575193",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2019-11-12",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

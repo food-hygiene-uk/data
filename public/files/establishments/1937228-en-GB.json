@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6258079",
+    "Longitude": "-0.0658465"
+  },
   "AddressLine1": "ALL SAINTS CHURCH",
   "AddressLine2": "CHURCH STREET",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 2JR",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

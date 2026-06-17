@@ -13,12 +13,16 @@
     "Latitude": "53.391011",
     "Longitude": "-0.7750108"
   },
-  "AddressLine2": "14 LEA ROAD",
+  "AddressLine1": "14",
+  "AddressLine2": "LEA ROAD",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 1LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1930699,
-  "BusinessName": "Serene bean",
+  "BusinessName": "Serene Bean",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "605789",
   "BusinessTypeID": 1,
@@ -14,11 +14,17 @@
     "Longitude": "-6.3367562"
   },
   "AddressLine1": "14a Canal Quay",
+  "AddressLine2": "Lisdrumgullion",
   "AddressLine3": "Newry",
+  "AddressLine4": "Down",
   "PostCode": "BT35 6BP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

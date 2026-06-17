@@ -1,13 +1,13 @@
 {
   "FHRSID": 280264,
-  "BusinessName": "Costcutter",
+  "BusinessName": "Premier Berkeley Stores",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "31514",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": {
     "Latitude": "51.4477573",
@@ -17,12 +17,12 @@
   "AddressLine2": "Reading",
   "PostCode": "RG1 6JS",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-06-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

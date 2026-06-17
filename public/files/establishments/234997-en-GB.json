@@ -13,13 +13,17 @@
     "Latitude": "53.4089643",
     "Longitude": "-0.6953655"
   },
-  "AddressLine2": "6 HIGH STREET",
+  "AddressLine1": "6",
+  "AddressLine2": "HIGH STREET",
   "AddressLine3": "CORRINGHAM",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 5QN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

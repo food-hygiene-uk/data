@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6771217",
+    "Longitude": "0.1638641"
+  },
+  "AddressLine1": "25 Cherry Road",
+  "AddressLine2": "Wisbech",
+  "AddressLine3": "Cambridgeshire",
+  "PostCode": "PE13 3PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-02-13",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": null
 }

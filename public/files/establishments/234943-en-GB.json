@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "46115 CURTIS WALK",
+  "Geocode": {
+    "Latitude": "53.3988667",
+    "Longitude": "-0.7758084"
+  },
+  "AddressLine1": "3",
+  "AddressLine2": "4 CURTIS WALK",
+  "AddressLine3": "GAINSBOROUGH",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 2BX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
