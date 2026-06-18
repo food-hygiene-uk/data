@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.pkc.gov.uk/foodhygieneinfo",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthsafety@pkc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "END OF WELTON ROAD",
+  "Geocode": {
+    "Latitude": "56.5856044",
+    "Longitude": "-3.3273969"
+  },
+  "AddressLine1": "WELTON ROAD (OUTSIDE HOWDENS)",
+  "AddressLine2": "WELTON BUSINESS PARK",
   "AddressLine3": "BLAIRGOWRIE",
-  "PostCode": "PH106NB",
+  "PostCode": "PH10 6HE",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

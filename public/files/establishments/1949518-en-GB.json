@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6659038",
+    "Longitude": "-3.927877"
+  },
+  "AddressLine1": "The Mill House",
+  "AddressLine2": "Cwmbath Road",
+  "AddressLine4": "Morriston",
+  "PostCode": "SA6 7AU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

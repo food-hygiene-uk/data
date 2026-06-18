@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "CASTERTON PRIMARY ACADEMY THAMES AVENUE",
+  "Geocode": {
+    "Latitude": "53.8116097",
+    "Longitude": "-2.2277332"
+  },
+  "AddressLine1": "THAMES AVENUE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 2PZ",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "524",
   "LocalAuthorityName": "Merton",
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
   "AddressLine1": "24 Merton High Street",
@@ -15,12 +15,12 @@
   "AddressLine4": "Merton",
   "PostCode": "SW19 1DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

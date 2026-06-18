@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "STONEYHOLME PRIMARY SCHOOL OSWALD STREET",
+  "Geocode": {
+    "Latitude": "53.79808585",
+    "Longitude": "-2.24543275"
+  },
+  "AddressLine1": "OSWALD STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 0BN",
   "SchemeType": "FHRS",

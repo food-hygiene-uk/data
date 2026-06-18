@@ -1,13 +1,13 @@
 {
   "FHRSID": 1924544,
   "BusinessName": "Oseyo",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00177/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
   "Geocode": {
     "Latitude": "51.519069",
@@ -19,8 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "EC2M 7PY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "BURNLEY CRICKET CLUB LTD BELVEDERE ROAD",
+  "Geocode": {
+    "Latitude": "53.79315984",
+    "Longitude": "-2.23201991"
+  },
+  "AddressLine1": "BELVEDERE ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 4BN",
   "SchemeType": "FHRS",

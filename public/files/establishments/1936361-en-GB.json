@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "567",
   "LocalAuthorityName": "Rhondda Cynon Taf",
   "LocalAuthorityWebSite": "http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@rctcbc.gov.uk",
   "Geocode": {
     "Latitude": "51.5841547",
@@ -18,8 +18,12 @@
   "AddressLine4": "Gilfach Goch",
   "PostCode": "CF39 8UY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

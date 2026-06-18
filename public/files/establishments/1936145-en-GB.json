@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "232",
   "LocalAuthorityName": "Norwich City",
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
   "RightToReply": "&lt;p&gt;\n\tI agree with the inspection results but have since carried out the following improvements:&lt;/p&gt;\n&lt;p&gt;\n\tA new food safety management system has been fully implemented&lt;/p&gt;\n&lt;p&gt;\n\tOther - please specify below: We highly appreciate the professional assistance and feedback from the inspector following our inspection on May 19, 2026. We immediately took all necessary steps to reach the highest standards. Following the advice, we immediately purchased and fully completed the official &amp;#39;Safer Food, Better Business&amp;#39; (SFBB) pack and diary. We have also addressed all minor points raised in the report: we purchased separate colour-coded tongs for raw meat and ready-to-eat burgers; all opened dry goods packaging&lt;/p&gt;\n&lt;p&gt;\n\tThe conditions found at the time of the inspection were not typical of the normal conditions maintained at the establishment and arose because:&lt;/p&gt;\n&lt;p&gt;\n\tThe conditions found at the time of the inspection were not typical of the normal conditions maintained at the premises and arose because \\\\\\Q&lt;/p&gt;\n",
   "Geocode": {
@@ -19,8 +19,12 @@
   "AddressLine3": "Norwich",
   "PostCode": "NR5 8PF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

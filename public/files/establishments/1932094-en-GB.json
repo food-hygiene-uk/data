@@ -10,14 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Plough and Pantry",
-  "AddressLine2": "Rock Cottage",
-  "AddressLine3": "Ffordd Y Bont Treuddyn",
-  "AddressLine4": "Flintshire",
-  "PostCode": "CH7 4TS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-05-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

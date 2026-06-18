@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "SANTUARY ROCK BAR COW LANE",
+  "Geocode": {
+    "Latitude": "53.78875445",
+    "Longitude": "-2.24680155"
+  },
+  "AddressLine1": "COW LANE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 1NN",
   "SchemeType": "FHRS",

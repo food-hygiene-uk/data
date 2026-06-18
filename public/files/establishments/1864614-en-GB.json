@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "AMF BOWLING FINSLEY GATE",
+  "Geocode": {
+    "Latitude": "53.78648225",
+    "Longitude": "-2.24471584"
+  },
+  "AddressLine1": "FINSLEY GATE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 2HE",
   "SchemeType": "FHRS",

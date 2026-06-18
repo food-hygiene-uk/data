@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "067",
   "LocalAuthorityName": "High Peak",
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
   "Geocode": {
     "Latitude": "53.3279014",
@@ -18,12 +18,8 @@
   "AddressLine3": "High Peak",
   "PostCode": "SK23 7HT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-02-12",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": null
 }

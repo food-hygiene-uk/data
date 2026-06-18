@@ -16,8 +16,12 @@
   "AddressLine1": "1 Wycliffe Road Alfreton Derbyshire",
   "PostCode": "DE55 7HR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "421",
   "LocalAuthorityName": "St Helens",
   "LocalAuthorityWebSite": "http://www.sthelens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@sthelens.gov.uk",
   "Geocode": {
     "Latitude": "53.45368",
@@ -17,12 +17,12 @@
   "AddressLine3": "St Helens",
   "PostCode": "WA10 1QF",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-13",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

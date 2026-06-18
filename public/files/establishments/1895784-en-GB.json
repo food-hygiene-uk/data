@@ -9,7 +9,11 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.029935",
+    "Longitude": "-0.76469"
+  },
+  "AddressLine1": "Trading Location Cairngorm Gate Winterhill Milton Keynes",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

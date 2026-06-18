@@ -1,13 +1,13 @@
 {
   "FHRSID": 272346,
   "BusinessName": "Cornfield Bakery",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "AD:55914",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
     "Latitude": "51.746664",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-28",
+  "RatingDate": "2026-05-13",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

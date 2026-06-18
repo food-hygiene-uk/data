@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ROSEGROVE UNITY CLUB ROSSENDALE ROAD",
+  "Geocode": {
+    "Latitude": "53.78266699",
+    "Longitude": "-2.27810146"
+  },
+  "AddressLine1": "ROSSENDALE ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 5DL",
   "SchemeType": "FHRS",

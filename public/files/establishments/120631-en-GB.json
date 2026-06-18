@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ST MARY MAGDELENES R C PRIMARY SCHOOL WELLFIELD DRIVE",
+  "Geocode": {
+    "Latitude": "53.7967397",
+    "Longitude": "-2.26604695"
+  },
+  "AddressLine1": "WELLFIELD DRIVE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 0JD",
   "SchemeType": "FHRS",

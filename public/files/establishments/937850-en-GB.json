@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "IGHTENHILL NURSERY SCHOOL LIONEL STREET",
+  "Geocode": {
+    "Latitude": "53.7928933",
+    "Longitude": "-2.27275515"
+  },
+  "AddressLine1": "LIONEL STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 6DY",
   "SchemeType": "FHRS",

@@ -17,8 +17,12 @@
   "AddressLine4": "Ruislip",
   "PostCode": "HA4 8JN",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2019-10-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

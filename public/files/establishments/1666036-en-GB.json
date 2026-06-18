@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "IGHTEN MOUNT BOWLING CLUB LTD ROMFORD STREET",
+  "Geocode": {
+    "Latitude": "53.7941183",
+    "Longitude": "-2.27068425"
+  },
+  "AddressLine1": "ROMFORD STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 8AF",
   "SchemeType": "FHRS",

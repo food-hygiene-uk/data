@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1166837",
+    "Longitude": "-2.3197653"
+  },
+  "AddressLine1": "26 Clerkenwell Crescent",
+  "AddressLine2": "Malvern",
+  "AddressLine3": "Worcestershire",
+  "PostCode": "WR14 2TX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "PLAYDOR NURSERY BANK PARADE",
+  "Geocode": {
+    "Latitude": "53.7918274",
+    "Longitude": "-2.2408219"
+  },
+  "AddressLine1": "BANK PARADE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 1UH",
   "SchemeType": "FHRS",

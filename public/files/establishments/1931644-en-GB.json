@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 2",
-  "AddressLine2": "Gales Business Park",
-  "AddressLine3": "Ayton Road",
-  "AddressLine4": "Wymondham",
+  "Geocode": {
+    "Latitude": "52.568336",
+    "Longitude": "1.119326"
+  },
+  "AddressLine1": "39B Ayton Road",
+  "AddressLine2": "Wymondham",
+  "AddressLine3": "Norfolk",
   "PostCode": "NR18 0QQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

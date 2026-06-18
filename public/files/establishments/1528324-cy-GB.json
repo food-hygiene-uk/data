@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tudful",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": {
     "Latitude": "51.745489",
@@ -18,12 +18,12 @@
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF48 1RP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2024-05-23",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-05-13",
   "Scores": {
     "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

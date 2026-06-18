@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "WILLOWBANK NURSING HOME PASTUREGATE",
+  "Geocode": {
+    "Latitude": "53.77835665",
+    "Longitude": "-2.25792385"
+  },
+  "AddressLine1": "PASTUREGATE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 4DE",
   "SchemeType": "FHRS",

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6558266",
+    "Longitude": "-3.911297"
+  },
+  "AddressLine1": "Unit D",
+  "AddressLine2": "Lakeside Technology Park",
+  "AddressLine4": "Swansea Enterprise Park",
+  "PostCode": "SA7 9FF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

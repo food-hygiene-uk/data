@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "PADIHAM ROAD METHODIST CHURCH BRASSEY STREET",
+  "Geocode": {
+    "Latitude": "53.79594795",
+    "Longitude": "-2.27058945"
+  },
+  "AddressLine1": "BRASSEY STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 8AD",
   "SchemeType": "FHRS",

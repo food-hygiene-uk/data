@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ASH GROVE CARE HOME THURSBY ROAD",
+  "Geocode": {
+    "Latitude": "53.80291941",
+    "Longitude": "-2.22923338"
+  },
+  "AddressLine1": "THURSBY ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 3AU",
   "SchemeType": "FHRS",

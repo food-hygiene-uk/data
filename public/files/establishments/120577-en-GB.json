@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "BURNLEY COLLEGE PRINCESS WAY",
+  "Geocode": {
+    "Latitude": "53.79445124",
+    "Longitude": "-2.24758652"
+  },
+  "AddressLine1": "PRINCESS WAY",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 0AN",
   "SchemeType": "FHRS",

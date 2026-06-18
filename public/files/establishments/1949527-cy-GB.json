@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6239236",
+    "Longitude": "-3.9416997"
+  },
+  "AddressLine2": "210 High Street",
+  "AddressLine4": "City Centre",
+  "PostCode": "SA1 1PE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

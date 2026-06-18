@@ -1,13 +1,13 @@
 {
   "FHRSID": 460905,
-  "BusinessName": "Katie's Cafe",
+  "BusinessName": "Katies Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "41540",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "420",
   "LocalAuthorityName": "Rotherham",
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
   "Geocode": {
     "Latitude": "53.506835",
@@ -18,12 +18,12 @@
   "AddressLine4": "Rotherham",
   "PostCode": "S63 7DG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-20",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

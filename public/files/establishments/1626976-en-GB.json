@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "070",
   "LocalAuthorityName": "Derbyshire Dales",
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
   "Geocode": {
     "Latitude": "53.213017",
@@ -18,12 +18,8 @@
   "AddressLine3": "Derbyshire",
   "PostCode": "DE45 1EW",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-15",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": null
 }

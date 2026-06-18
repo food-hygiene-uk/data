@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ROSEWOOD PRIMARY SCHOOL ROSEWOOD AVENUE",
+  "Geocode": {
+    "Latitude": "53.7795173",
+    "Longitude": "-2.253051"
+  },
+  "AddressLine1": "ROSEWOOD AVENUE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 2PH",
   "SchemeType": "FHRS",

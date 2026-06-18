@@ -7,16 +7,16 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4225353",
-    "Longitude": "-0.8039373"
-  },
-  "AddressLine2": "13 Droue Court Rothwell NN14 6LF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

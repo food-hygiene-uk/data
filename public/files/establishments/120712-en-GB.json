@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ROSEGROVE COUNTY PRIMARY SCHOOL OWEN STREET",
+  "Geocode": {
+    "Latitude": "53.7881568",
+    "Longitude": "-2.28327745"
+  },
+  "AddressLine1": "OWEN STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 6HW",
   "SchemeType": "FHRS",

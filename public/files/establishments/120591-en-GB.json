@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "STONEYHOLME NURSERY SCHOOL MARCH STREET",
+  "Geocode": {
+    "Latitude": "53.79770695",
+    "Longitude": "-2.24904885"
+  },
+  "AddressLine1": "MARCH STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 0BU",
   "SchemeType": "FHRS",
