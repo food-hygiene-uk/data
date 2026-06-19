@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "308",
   "LocalAuthorityName": "Mole Valley",
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
     "Latitude": "51.20346",
@@ -18,12 +18,12 @@
   "AddressLine4": "Abinger",
   "PostCode": "RH5 6HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

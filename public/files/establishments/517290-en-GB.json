@@ -1,6 +1,6 @@
 {
   "FHRSID": 517290,
-  "BusinessName": "P&O Caterers",
+  "BusinessName": "P&O Meats",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "50958",
   "BusinessTypeID": 7841,
@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.410992",
+    "Longitude": "-2.417934"
+  },
+  "AddressLine1": "Brook House",
+  "AddressLine2": "Chapel Lane",
+  "AddressLine3": "Partington",
+  "AddressLine4": "Lymm",
+  "PostCode": "WA13 9TY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2013-03-06",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

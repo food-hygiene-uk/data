@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": {
     "Latitude": "52.582013",
@@ -18,8 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "B78 2AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

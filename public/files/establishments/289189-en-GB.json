@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": {
     "Latitude": "55.06348",
@@ -17,12 +17,12 @@
   "AddressLine3": "Northumberland",
   "PostCode": "NE25 0LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-28",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

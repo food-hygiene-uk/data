@@ -1,13 +1,13 @@
 {
   "FHRSID": 1177614,
-  "BusinessName": "Costa",
+  "BusinessName": "Costa Coffee",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "19/00460/FOOD",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "153",
   "LocalAuthorityName": "Wyre Forest",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.3871002197266",
@@ -19,12 +19,12 @@
   "AddressLine4": "Worcestershire",
   "PostCode": "DY10 1AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

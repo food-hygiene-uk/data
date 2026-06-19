@@ -1,13 +1,13 @@
 {
   "FHRSID": 810553,
-  "BusinessName": "The Sultan",
+  "BusinessName": "The Sultan t/a Mumbai Borough",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "2778",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": {
     "Latitude": "51.755289",
@@ -18,8 +18,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP1 1LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1618657,
-  "BusinessName": "Comper Foundation Stage School",
+  "BusinessName": "Comper Nursery School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "23/00100/COM",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX4 3AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

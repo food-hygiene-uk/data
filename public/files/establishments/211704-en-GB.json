@@ -1,13 +1,13 @@
 {
   "FHRSID": 211704,
   "BusinessName": "Leavers Bakery",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "923",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "897",
   "LocalAuthorityName": "Blackburn",
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
   "Geocode": {
     "Latitude": "53.7274593",
@@ -18,12 +18,12 @@
   "AddressLine4": "Blackburn With Darwen",
   "PostCode": "BB2 4JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-02-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-19",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

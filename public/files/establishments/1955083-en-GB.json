@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "128",
   "LocalAuthorityName": "Stroud",
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": {
     "Latitude": "51.753517",
@@ -19,8 +19,12 @@
   "AddressLine4": "Gloucestershire",
   "PostCode": "GL6 7BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

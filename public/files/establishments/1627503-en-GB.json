@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": {
     "Latitude": "50.86747",
@@ -18,12 +18,12 @@
   "AddressLine3": "Waterlooville",
   "PostCode": "PO7 5LQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

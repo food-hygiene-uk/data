@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "882",
   "LocalAuthorityName": "Bracknell Forest",
   "LocalAuthorityWebSite": "http://www.bracknell-forest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bracknell-forest.gov.uk",
   "Geocode": {
     "Latitude": "51.407238",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bracknell Forest",
   "PostCode": "RG12 7SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

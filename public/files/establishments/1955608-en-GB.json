@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.359506",
+    "Longitude": "-0.0291088"
+  },
+  "AddressLine1": "4 The Wicket",
+  "AddressLine2": "Croydon",
+  "PostCode": "CR0 5AW",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

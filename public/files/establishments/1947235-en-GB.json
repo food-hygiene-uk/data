@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": {
     "Latitude": "50.89278",
@@ -18,8 +18,12 @@
   "AddressLine4": "United Kingdom",
   "PostCode": "PO8 8RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

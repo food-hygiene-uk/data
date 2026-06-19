@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "556",
   "LocalAuthorityName": "Cardiff",
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
     "Latitude": "51.4658512",
@@ -18,12 +18,12 @@
   "AddressLine3": "Cardiff",
   "PostCode": "CF11 8BB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2025-05-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-05-14",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

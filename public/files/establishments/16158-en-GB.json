@@ -1,6 +1,6 @@
 {
   "FHRSID": 16158,
-  "BusinessName": "Budgens (Woking Convenience Store)",
+  "BusinessName": "Budgens",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "05/18198/COMM",
   "BusinessTypeID": 4613,
@@ -16,8 +16,12 @@
   "AddressLine1": "2 - 6 Gorsewood RoadSt JohnsWokingSurrey",
   "PostCode": "GU21 8UX",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

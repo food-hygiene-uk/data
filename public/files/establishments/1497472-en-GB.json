@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "856",
   "LocalAuthorityName": "South Gloucestershire",
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
   "Geocode": {
     "Latitude": "51.5384638",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-09",
+  "RatingDate": "2026-05-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

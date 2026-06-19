@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kings Court Care Home",
-  "AddressLine2": "Hempstead Road",
-  "AddressLine3": "Holt",
-  "AddressLine4": "Norfolk",
+  "Geocode": {
+    "Latitude": "52.90208626",
+    "Longitude": "1.10061101"
+  },
+  "AddressLine1": "Hempstead Road",
+  "AddressLine2": "Holt",
+  "AddressLine3": "Norfolk",
   "PostCode": "NR25 6DQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

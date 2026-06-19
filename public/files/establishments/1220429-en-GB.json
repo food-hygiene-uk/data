@@ -1,13 +1,13 @@
 {
   "FHRSID": 1220429,
-  "BusinessName": "Prime Express",
+  "BusinessName": "Primes Express",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "20/00029/COMM",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "522",
   "LocalAuthorityName": "Lambeth",
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
   "Geocode": {
     "Latitude": "51.4667265",
@@ -17,12 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW4 0HB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }
