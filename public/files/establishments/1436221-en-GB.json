@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5314752",
+    "Longitude": "-0.0035222"
+  },
+  "AddressLine1": "6 Gay Road",
+  "AddressLine2": "Stratford",
+  "AddressLine3": "London",
+  "PostCode": "E15 2RN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

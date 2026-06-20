@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.midlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@midlothian.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "6 Lothian Street  Dalkeith EH22 1DA",
-  "PostCode": "EH22 1DA",
+  "Geocode": {
+    "Latitude": "55.8927308",
+    "Longitude": "-3.0689979"
+  },
+  "AddressLine1": "6 Lothian Street  Dalkeith EH22 1DS",
+  "PostCode": "EH22 1DS",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

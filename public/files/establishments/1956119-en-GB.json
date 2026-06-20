@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956119,
-  "BusinessName": "359 Catering",
+  "BusinessName": "359 Catering Also T/a Hearth & Heritage Grill",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "CP/26/0143",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

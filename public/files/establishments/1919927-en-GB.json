@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919927,
-  "BusinessName": "Oleum UK",
+  "BusinessName": "The Olive Selection",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9103077",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

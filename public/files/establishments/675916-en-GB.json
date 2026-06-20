@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5668883",
+    "Longitude": "-0.07247015"
+  },
+  "AddressLine2": "Heneage Road",
+  "AddressLine4": "Grimsby",
+  "PostCode": "DN32 9JJ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

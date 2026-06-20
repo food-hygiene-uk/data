@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Cambridge Care Home 176 - 178 Cambridge Road",
-  "AddressLine3": "Great Shelford",
+  "Geocode": {
+    "Latitude": "52.16259",
+    "Longitude": "0.1236453"
+  },
+  "AddressLine1": "176-178 Cambridge Road Great Shelford Cambridge",
   "AddressLine4": "Cambridgeshire",
-  "PostCode": "CB22 5RY",
+  "PostCode": "CB22 5JU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

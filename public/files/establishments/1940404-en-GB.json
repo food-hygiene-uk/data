@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5415663",
+    "Longitude": "0.0021976"
+  },
+  "AddressLine1": "Broadway Market",
+  "AddressLine2": "Broadway",
+  "AddressLine3": "Stratford",
+  "AddressLine4": "London",
+  "PostCode": "E15 1NG",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

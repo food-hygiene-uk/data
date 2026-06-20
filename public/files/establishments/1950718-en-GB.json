@@ -1,23 +1,27 @@
 {
   "FHRSID": 1950718,
-  "BusinessName": "The West Finchley Day Nursery and Pre school",
-  "BusinessType": "School/college/university",
+  "BusinessName": "The West Finchley Day Nursery",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "26/00363/COMM",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6110293",
-    "Longitude": "-0.1864297"
+    "Latitude": "51.6108147",
+    "Longitude": "-0.1863917"
   },
-  "AddressLine1": "181 Nether Street",
+  "AddressLine1": "181 Nether Street London",
   "PostCode": "N3 1NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

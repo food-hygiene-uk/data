@@ -1,6 +1,6 @@
 {
   "FHRSID": 1764867,
-  "BusinessName": "27 The Terrace",
+  "BusinessName": "Henrys",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "CP24_001108",
   "BusinessTypeID": 7842,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Ives",
-  "AddressLine2": "Cornwall",
+  "Geocode": {
+    "Latitude": "50.210188",
+    "Longitude": "-5.478328"
+  },
+  "AddressLine1": "27 The Terrace",
+  "AddressLine2": "St Ives",
+  "AddressLine3": "Cornwall",
   "PostCode": "TR26 2BP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

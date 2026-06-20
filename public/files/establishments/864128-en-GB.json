@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.52585",
+    "Longitude": "0.006167"
+  },
+  "AddressLine1": "14 Milner Road",
+  "AddressLine2": "Stratford",
+  "AddressLine3": "London",
+  "PostCode": "E15 3AD",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

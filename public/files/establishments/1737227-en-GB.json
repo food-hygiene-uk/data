@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 41",
+  "Geocode": {
+    "Latitude": "51.5057307",
+    "Longitude": "-0.091123"
+  },
+  "AddressLine2": "4",
   "AddressLine3": "Rochester Walk",
   "AddressLine4": "London",
   "PostCode": "SE1 9AF",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "268",
   "LocalAuthorityName": "Cherwell",
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.0628208",
@@ -18,12 +18,12 @@
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX16 0EN",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-15",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

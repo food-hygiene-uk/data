@@ -13,11 +13,15 @@
     "Latitude": "51.6328091",
     "Longitude": "-0.1761697"
   },
-  "AddressLine1": "1363 High Road",
+  "AddressLine1": "1363 High Road London",
   "PostCode": "N20 9LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

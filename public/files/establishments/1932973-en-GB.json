@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.64645555",
-    "Longitude": "-0.21605645"
+    "Latitude": "51.646131",
+    "Longitude": "-0.217077"
   },
-  "AddressLine1": "Whitings Road",
+  "AddressLine1": "Whitings Hill Primary School  Whitings Road Barnet",
   "PostCode": "EN5 2QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

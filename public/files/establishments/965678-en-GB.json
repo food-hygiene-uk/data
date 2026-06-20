@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.560046",
+    "Longitude": "-0.0539985"
+  },
+  "AddressLine2": "Carr Lane",
+  "AddressLine4": "Grimsby",
+  "PostCode": "DN32 8LP",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5581935",
+    "Longitude": "-0.081338"
+  },
+  "AddressLine2": "Legsby Avenue",
+  "AddressLine4": "Grimsby",
+  "PostCode": "DN32 0NN",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

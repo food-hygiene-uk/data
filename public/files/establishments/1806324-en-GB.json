@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5287055969238",
+    "Longitude": "0.042408000677824"
+  },
+  "AddressLine1": "Central Park",
+  "AddressLine2": "Central Park Road",
+  "AddressLine3": "East Ham",
+  "AddressLine4": "London",
+  "PostCode": "E6 3DW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
