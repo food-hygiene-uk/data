@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "899",
   "LocalAuthorityName": "Nottingham City",
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
   "Geocode": {
     "Latitude": "53.0017946",
@@ -18,8 +18,12 @@
   "AddressLine4": "Nottingham",
   "PostCode": "NG6 8HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-16",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

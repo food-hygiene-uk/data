@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.588478",
@@ -16,12 +16,12 @@
   "AddressLine1": "Colin Parade  The Hyde London",
   "PostCode": "NW9 6SG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-07",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

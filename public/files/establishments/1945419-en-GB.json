@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "857",
   "LocalAuthorityName": "Bath and North East Somerset",
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
   "Geocode": {
     "Latitude": "51.3815852",
@@ -19,8 +19,12 @@
   "AddressLine4": "Bath",
   "PostCode": "BA1 1NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
