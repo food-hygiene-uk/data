@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "855",
   "LocalAuthorityName": "Bristol",
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": {
-    "Latitude": "51.4509503",
-    "Longitude": "-2.6073875"
+    "Latitude": "51.4509494",
+    "Longitude": "-2.607407"
   },
-  "AddressLine2": "131-133 St Georges Road",
+  "AddressLine2": "133 St Georges Road",
   "AddressLine3": "City Centre",
   "AddressLine4": "Bristol",
   "PostCode": "BS1 5UW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }
