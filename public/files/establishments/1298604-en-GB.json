@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.4018129",
-    "Longitude": "-0.72574"
+    "Latitude": "52.4018229",
+    "Longitude": "-0.7258279"
   },
-  "AddressLine2": "11 Newland Street",
+  "AddressLine2": "11-12 Newland Street",
   "AddressLine3": "Kettering",
   "AddressLine4": "Northamptonshire",
   "PostCode": "NN16 8JH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2022-02-07",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

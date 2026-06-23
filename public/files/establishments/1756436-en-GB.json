@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4232034",
+    "Longitude": "-6.4437568"
+  },
+  "AddressLine1": "3 Woodhouse Street",
+  "AddressLine2": "Tavanagh",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT62 1JG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

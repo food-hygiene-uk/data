@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.426807",
+    "Longitude": "-6.435514"
+  },
+  "AddressLine1": "151 Bridge Street",
+  "AddressLine2": "Edenderry",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT63 5AW",
   "SchemeType": "FHRS",
   "RatingValue": "3",

@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4149921",
+    "Longitude": "-6.4521861"
+  },
+  "AddressLine1": "48 Armagh Road",
+  "AddressLine2": "Clownagh",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT62 3DR",
   "SchemeType": "FHRS",
   "RatingValue": "4",

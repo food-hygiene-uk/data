@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4213083",
+    "Longitude": "-6.4472952"
+  },
+  "AddressLine1": "2c Shillington Street",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT62 3PF",
   "SchemeType": "FHRS",
   "RatingValue": "5",

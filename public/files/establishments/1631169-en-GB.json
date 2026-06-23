@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4619612",
+    "Longitude": "-6.3306292"
+  },
+  "AddressLine1": "6 Windsor Avenue",
+  "AddressLine2": "Lurgan",
+  "AddressLine3": "Lurgan",
+  "AddressLine4": "Armagh",
   "PostCode": "BT67 9BG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

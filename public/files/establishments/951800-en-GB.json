@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.648268",
+    "Longitude": "1.308488"
+  },
+  "AddressLine1": "Plot 79",
+  "AddressLine2": "Showmens Guild Site",
+  "AddressLine3": "Hooper Lane",
+  "AddressLine4": "Norwich",
+  "PostCode": "NR3 4SH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

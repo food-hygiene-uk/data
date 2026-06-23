@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4584",
+    "Longitude": "-6.3544"
+  },
+  "AddressLine1": "26 Portadown Road",
+  "AddressLine2": "Taghnevan",
+  "AddressLine3": "Lurgan",
+  "AddressLine4": "Armagh",
   "PostCode": "BT66 8QX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

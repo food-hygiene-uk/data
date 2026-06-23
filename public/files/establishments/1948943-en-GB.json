@@ -7,18 +7,23 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
-    "Latitude": "50.8075370788574",
-    "Longitude": "-1.06291496753693"
+    "Latitude": "50.8067335",
+    "Longitude": "-1.0630192"
   },
-  "AddressLine1": "65 Milton Road",
-  "AddressLine2": "Portsmouth",
+  "AddressLine1": "Shop",
+  "AddressLine2": "65 Milton Road",
+  "AddressLine3": "Portsmouth",
   "PostCode": "PO3 6AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

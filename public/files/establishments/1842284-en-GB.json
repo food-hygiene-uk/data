@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Donaghcloney",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4228823",
+    "Longitude": "-6.2627604"
+  },
+  "AddressLine1": "1 Drumlin Road",
+  "AddressLine2": "Banoge",
+  "AddressLine3": "Donaghcloney",
+  "AddressLine4": "Down",
   "PostCode": "BT66 7NJ",
   "SchemeType": "FHRS",
   "RatingValue": "4",

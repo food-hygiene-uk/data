@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Abertawe",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.69404",
@@ -17,12 +17,12 @@
   "AddressLine4": "Clydach",
   "PostCode": "SA6 5EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-11-20",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_cy-gb",
+  "RatingDate": "2026-05-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

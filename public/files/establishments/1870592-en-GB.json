@@ -1,6 +1,6 @@
 {
   "FHRSID": 1870592,
-  "BusinessName": "Lindt Kiosk",
+  "BusinessName": "Lindt Chocolate Bar",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00307/CP",
   "BusinessTypeID": 7844,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bureau De Change",
-  "AddressLine2": "Central Square",
-  "AddressLine3": "Gunwharf Quays",
-  "AddressLine4": "Portsmouth",
+  "Geocode": {
+    "Latitude": "50.795984",
+    "Longitude": "-1.107033"
+  },
+  "AddressLine1": "Central Square",
+  "AddressLine2": "Gunwharf Quays",
+  "AddressLine3": "Portsmouth",
   "PostCode": "PO1 3TU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

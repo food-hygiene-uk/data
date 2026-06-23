@@ -1,6 +1,6 @@
 {
   "FHRSID": 1943288,
-  "BusinessName": "Leemahcakesnmore",
+  "BusinessName": "Ayeola-Aina",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00127/RESI",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": {
-    "Latitude": "51.997038",
-    "Longitude": "-0.716854"
+    "Latitude": "51.9971618652344",
+    "Longitude": "-0.716807007789612"
   },
-  "AddressLine2": "10-14 Aylesbury Street",
+  "AddressLine2": "26 Aylesbury Street",
   "AddressLine3": "Bletchley",
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK2 2BA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

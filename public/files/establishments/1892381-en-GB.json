@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.469887",
+    "Longitude": "-6.386977"
+  },
+  "AddressLine1": "1 Derrymacash Road",
+  "AddressLine2": "Aghacommon",
+  "AddressLine3": "Lurgan",
+  "AddressLine4": "Armagh",
   "PostCode": "BT66 6LG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

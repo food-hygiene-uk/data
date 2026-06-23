@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": null,
   "AddressLine1": "Shortlanesend Post Office And Stores",
@@ -16,12 +16,12 @@
   "AddressLine4": "Truro",
   "PostCode": "TR4 9DY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-01",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

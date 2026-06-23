@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941819,
-  "BusinessName": "Kalavai Kitchen also T/A Smoodrop",
+  "BusinessName": "Kalavai Kitchen and Smoodrop",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "266389",
   "BusinessTypeID": 1,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

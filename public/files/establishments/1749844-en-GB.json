@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.460376739502",
+    "Longitude": "-6.33621311187744"
+  },
+  "AddressLine1": "Kitchen Hill",
+  "AddressLine2": "Shankill",
+  "AddressLine3": "Lurgan",
+  "AddressLine4": "Armagh",
   "PostCode": "BT66 6AZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

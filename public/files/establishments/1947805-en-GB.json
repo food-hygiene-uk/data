@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5438872",
+    "Longitude": "-1.720098"
+  },
+  "AddressLine1": "The Ballroom Barn",
+  "AddressLine2": "Great Moorleaze Farm",
+  "AddressLine3": "The Marsh",
+  "AddressLine4": "Wanborough",
+  "PostCode": "SN4 0SW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

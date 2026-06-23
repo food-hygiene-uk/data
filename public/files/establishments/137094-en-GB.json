@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0392684936523",
+    "Longitude": "-0.764765977859497"
+  },
   "AddressLine2": "The Hub",
   "AddressLine3": "Central Milton Keynes",
+  "AddressLine4": "Milton Keynes",
   "PostCode": "MK9 2HP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

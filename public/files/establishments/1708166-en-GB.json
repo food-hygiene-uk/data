@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Dollingstown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.4590283",
+    "Longitude": "-6.2898822"
+  },
+  "AddressLine1": "41 Inn Road",
+  "AddressLine2": "Taughrane",
+  "AddressLine3": "Dollingstown",
+  "AddressLine4": "Down",
   "PostCode": "BT66 7JN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

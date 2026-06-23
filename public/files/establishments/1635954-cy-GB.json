@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record Crickhowell Road",
+  "Geocode": {
+    "Latitude": "51.5244781",
+    "Longitude": "-3.0982544"
+  },
+  "AddressLine1": "43 Rogerstone Close",
   "AddressLine2": "Trowbridge",
   "AddressLine3": "Cardiff",
+  "PostCode": "CF3 0EA",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_cy-gb",

@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Legahory",
+  "Geocode": {
+    "Latitude": "54.4485974",
+    "Longitude": "-6.3698242"
+  },
+  "AddressLine1": "3 Legahory Centre",
+  "AddressLine2": "Legaghory",
   "AddressLine3": "Craigavon",
+  "AddressLine4": "Armagh",
   "PostCode": "BT65 5BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
