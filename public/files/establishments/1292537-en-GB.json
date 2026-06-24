@@ -1,18 +1,22 @@
 {
   "FHRSID": 1292537,
-  "BusinessName": "My Horizon Care Ltd",
+  "BusinessName": "My Horizon Care",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "20/00972/COMM",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

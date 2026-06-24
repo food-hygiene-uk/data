@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7195574",
+    "Longitude": "-1.8760899"
+  },
   "AddressLine1": "The Stable Bar & Restaurants",
-  "AddressLine2": "Westover Road",
+  "AddressLine2": "7-10 Westover Road",
   "AddressLine3": "Bournemouth",
-  "PostCode": "BH1 2BU",
+  "PostCode": "BH1 2BY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "055",
   "LocalAuthorityName": "Cumberland",
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Brookside Villa",
   "AddressLine3": "Gilsland",
   "PostCode": "CA8 7DA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

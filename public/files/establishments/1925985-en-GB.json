@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0487775",
+    "Longitude": "-2.497884"
+  },
+  "AddressLine1": "Honeybridge House",
+  "AddressLine2": "Woolston Road",
+  "AddressLine3": "North Cadbury",
+  "AddressLine4": "Yeovil",
+  "PostCode": "BA22 7BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

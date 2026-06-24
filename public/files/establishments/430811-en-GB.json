@@ -1,9 +1,9 @@
 {
   "FHRSID": 430811,
   "BusinessName": "Champion Pizza",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "126665",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "872",
   "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
@@ -17,12 +17,8 @@
   "AddressLine3": "Bournemouth",
   "PostCode": "BH10 4DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-03",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

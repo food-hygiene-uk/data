@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "181",
   "LocalAuthorityName": "Dartford",
   "LocalAuthorityWebSite": "http://www.dartford.gov.uk/foodsafety/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": {
     "Latitude": "51.445624",
@@ -19,8 +19,12 @@
   "AddressLine4": "Kent",
   "PostCode": "DA1 3NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

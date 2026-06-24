@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "567",
   "LocalAuthorityName": "Rhondda Cynon Taf",
   "LocalAuthorityWebSite": "http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@rctcbc.gov.uk",
   "Geocode": {
     "Latitude": "51.671588",
@@ -18,12 +18,12 @@
   "AddressLine4": "Treorchy",
   "PostCode": "CF42 5NY",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2024-11-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-05-19",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

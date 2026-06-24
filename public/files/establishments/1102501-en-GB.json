@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "180",
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "51.2905349731445",
     "Longitude": "1.09694004058838"
@@ -18,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-08-18",
-  "Scores": null
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -8,18 +8,15 @@
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "customerservices@northdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0798158",
-    "Longitude": "-4.060792"
-  },
-  "AddressLine1": "6 Cross Street",
-  "AddressLine2": "Barnstaple",
-  "AddressLine3": "Devon",
-  "PostCode": "EX31 1BA",
+  "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

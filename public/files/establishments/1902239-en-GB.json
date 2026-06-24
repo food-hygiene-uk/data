@@ -1,18 +1,22 @@
 {
   "FHRSID": 1902239,
-  "BusinessName": "Hutton Wandesley Estate LLP",
+  "BusinessName": "Hutton Wandesley Estate",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx17637",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

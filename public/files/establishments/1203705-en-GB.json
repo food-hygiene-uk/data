@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
   "Geocode": {
     "Latitude": "51.4038212",
@@ -17,12 +17,12 @@
   "AddressLine3": "Bromley",
   "PostCode": "BR1 1HG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-12-03",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-19",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

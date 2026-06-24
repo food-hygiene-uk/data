@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.2378529",
@@ -18,12 +18,12 @@
   "AddressLine3": "West Northamptonshire",
   "PostCode": "NN7 4LW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-04-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

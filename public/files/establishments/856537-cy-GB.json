@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "565",
   "LocalAuthorityName": "Sir Benfro",
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
   "Geocode": {
     "Latitude": "51.801256",
@@ -18,8 +18,12 @@
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA61 2BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2024-10-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

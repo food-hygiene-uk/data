@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9072696",
-    "Longitude": "-2.0838632"
-  },
-  "AddressLine1": "66 Townsend Street",
-  "AddressLine2": "Cheltenham",
-  "AddressLine3": "Gloucestershire",
-  "PostCode": "GL51 9HB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

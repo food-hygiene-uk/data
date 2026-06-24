@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.71968",
-    "Longitude": "-1.879267"
+    "Latitude": "50.7296483",
+    "Longitude": "-1.8464371"
   },
-  "AddressLine1": "Lower Pleasure Gardens",
-  "AddressLine2": "Lower Gardens",
+  "AddressLine2": "2 Churchill Road",
   "AddressLine3": "Bournemouth",
-  "PostCode": "BH1 2AQ",
+  "PostCode": "BH1 4ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

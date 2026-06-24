@@ -1,6 +1,6 @@
 {
   "FHRSID": 1334821,
-  "BusinessName": "16 June 2026",
+  "BusinessName": "23 June 2026",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000300667",
   "BusinessTypeID": 4613,
@@ -19,8 +19,12 @@
   "AddressLine4": "Dewsbury",
   "PostCode": "WF13 3EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2020-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

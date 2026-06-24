@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.9160428",
@@ -17,8 +17,12 @@
   "AddressLine4": "Luton",
   "PostCode": "LU3 3BH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

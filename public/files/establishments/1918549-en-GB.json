@@ -1,18 +1,29 @@
 {
   "FHRSID": 1918549,
   "BusinessName": "Ilfracombe Cake Shed",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000102415",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "075",
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "customerservices@northdevon.gov.uk",
-  "Geocode": null,
+  "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
+  "Geocode": {
+    "Latitude": "51.2029574",
+    "Longitude": "-4.131615"
+  },
+  "AddressLine1": "1 Broad Park Avenue",
+  "AddressLine2": "Ilfracombe",
+  "AddressLine3": "Devon",
+  "PostCode": "EX34 8DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

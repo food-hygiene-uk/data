@@ -1,9 +1,9 @@
 {
   "FHRSID": 1922479,
   "BusinessName": "Sweet Obsession",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "21331",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

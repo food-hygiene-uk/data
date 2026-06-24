@@ -1,13 +1,13 @@
 {
   "FHRSID": 538572,
-  "BusinessName": "Best One",
+  "BusinessName": "Premier",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "17510/0113/A/000",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "877",
   "LocalAuthorityName": "Southampton",
   "LocalAuthorityWebSite": "http://www.southampton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southampton.gov.uk",
   "Geocode": {
     "Latitude": "50.924576",
@@ -17,12 +17,12 @@
   "AddressLine2": "Southampton",
   "PostCode": "SO17 2FS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-01-07",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

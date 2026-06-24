@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "111",
   "LocalAuthorityName": "Brentwood",
   "LocalAuthorityWebSite": "http://www.brentwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@brentwood.gov.uk",
   "Geocode": {
     "Latitude": "51.6400566101074",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM14 5ST",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-11",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-02",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }
