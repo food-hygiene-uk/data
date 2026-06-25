@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
-  "Geocode": {
-    "Latitude": "54.0642411",
-    "Longitude": "-2.8090235"
-  },
-  "AddressLine2": "100 Barley Cop Lane",
-  "AddressLine3": "Lancaster",
-  "AddressLine4": "Lancashire",
-  "PostCode": "LA1 2PH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

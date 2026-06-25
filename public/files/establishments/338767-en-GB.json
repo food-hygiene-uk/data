@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Mostyn Crescent The Parade",
+  "Geocode": {
+    "Latitude": "53.3228515",
+    "Longitude": "-3.8225519"
+  },
+  "AddressLine1": "Winchmore Hotel 7 - 8 Mostyn Crescent The Parade",
   "AddressLine3": "Llandudno",
   "AddressLine4": "Conwy",
+  "PostCode": "LL30 1AR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",

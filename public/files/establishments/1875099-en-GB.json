@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.78636",
+    "Longitude": "1.154647"
+  },
+  "AddressLine1": "Clacton Pier",
+  "AddressLine2": "The Pier",
+  "AddressLine3": "Clacton On Sea",
+  "AddressLine4": "Essex",
+  "PostCode": "CO15 1QX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

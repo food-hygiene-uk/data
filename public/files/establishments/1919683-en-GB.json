@@ -1,9 +1,9 @@
 {
   "FHRSID": 1919683,
   "BusinessName": "Soccerworld Newcastle",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "74333",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "416",
   "LocalAuthorityName": "Newcastle Upon Tyne",
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
@@ -17,8 +17,12 @@
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE4 9LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

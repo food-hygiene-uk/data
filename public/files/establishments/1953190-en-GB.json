@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.pkc.gov.uk/foodhygieneinfo",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthsafety@pkc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "8 BROWN STREET",
-  "AddressLine3": "PERTH",
-  "PostCode": "PH1 5QE",
+  "Geocode": {
+    "Latitude": "56.3958892",
+    "Longitude": "-3.4375347"
+  },
+  "AddressLine1": "PERTH AND DISTRICT EX-SERVICEMENS CLUB LTD",
+  "AddressLine2": "20 MILNE STREET",
+  "AddressLine4": "PERTH",
+  "PostCode": "PH1 5QL",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

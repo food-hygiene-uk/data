@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5313708",
+    "Longitude": "-0.1168245"
+  },
   "AddressLine1": "Dim Sum Duck",
-  "AddressLine2": "Basement And Ground Floor Kings Crown Public House",
-  "AddressLine3": "186 Pentonville Road",
+  "AddressLine2": "Basement And Ground Floor",
+  "AddressLine3": "184-186 Pentonville Road",
   "AddressLine4": "London",
   "PostCode": "N1 9JP",
   "SchemeType": "FHRS",

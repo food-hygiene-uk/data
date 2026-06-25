@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
     "Latitude": "51.703841",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-02-16",
+  "RatingDate": "2026-05-20",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 20
   }
 }

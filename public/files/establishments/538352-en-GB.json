@@ -1,6 +1,6 @@
 {
   "FHRSID": 538352,
-  "BusinessName": "Glencoe Hotel",
+  "BusinessName": "Glencoe Inn & Gathering",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "5873",
   "BusinessTypeID": 7841,
@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Glencoe Hotel",
-  "AddressLine3": "Village Tyndrum Road",
+  "Geocode": {
+    "Latitude": "56.6720323",
+    "Longitude": "-5.0737951"
+  },
+  "AddressLine1": "Glencoe Inn",
+  "AddressLine2": "Glencoe Villiage",
+  "AddressLine3": "Tyndrum Road",
   "AddressLine4": "Glencoe",
-  "PostCode": "PA49 4HW",
+  "PostCode": "PH49 4HP",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",
   "RatingKey": "fhis_improvement_required_en-GB",
-  "RatingDate": "2026-03-18",
+  "RatingDate": "2026-05-20",
   "Scores": null
 }

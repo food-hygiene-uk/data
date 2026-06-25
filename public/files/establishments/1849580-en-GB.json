@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.southlanarkshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@southlanarkshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8276333",
+    "Longitude": "-4.2119065"
+  },
   "AddressLine1": "5 Rutherglen Exchange",
   "AddressLine2": "Main Street",
   "AddressLine3": "Rutherglen",
   "AddressLine4": "Glasgow",
-  "PostCode": "G75 2LS",
+  "PostCode": "G73 2LS",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

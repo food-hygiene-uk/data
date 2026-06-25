@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "131",
   "LocalAuthorityName": "Basingstoke and Deane",
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
   "Geocode": {
     "Latitude": "51.3527433",
@@ -19,8 +19,12 @@
   "AddressLine4": "Reading",
   "PostCode": "RG7 2NJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

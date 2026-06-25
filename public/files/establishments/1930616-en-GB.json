@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2846154",
+    "Longitude": "-0.3188403"
+  },
+  "AddressLine1": "5 The Drive",
+  "AddressLine3": "Perry",
+  "AddressLine4": "Cambridgeshire",
+  "PostCode": "PE28 0SX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

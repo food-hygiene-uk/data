@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "073",
   "LocalAuthorityName": "Exeter City",
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
   "Geocode": {
     "Latitude": "50.7164382",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX2 8DP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 15,
     "ConfidenceInManagement": 0
   }
 }

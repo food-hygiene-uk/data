@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "877",
   "LocalAuthorityName": "Southampton",
   "LocalAuthorityWebSite": "http://www.southampton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southampton.gov.uk",
   "Geocode": {
     "Latitude": "50.901392",
@@ -17,12 +17,12 @@
   "AddressLine2": "Southampton",
   "PostCode": "SO19 7GQ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-05-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

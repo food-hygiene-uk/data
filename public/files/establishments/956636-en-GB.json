@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "068",
   "LocalAuthorityName": "North East Derbyshire",
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
   "Geocode": {
     "Latitude": "53.304674",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-03",
+  "RatingDate": "2026-05-20",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2863038",
+    "Longitude": "-3.7323055"
+  },
+  "AddressLine1": "3 Stryd Tryfan",
+  "AddressLine3": "Colwyn Bay",
+  "PostCode": "LL29 6EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_cy-gb",
   "RatingDate": null,
   "Scores": null
 }

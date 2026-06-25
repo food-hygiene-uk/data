@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.7476247",
@@ -17,8 +17,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD12 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

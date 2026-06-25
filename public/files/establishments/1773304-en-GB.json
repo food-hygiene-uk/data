@@ -1,13 +1,13 @@
 {
   "FHRSID": 1773304,
-  "BusinessName": "Spar",
+  "BusinessName": "Premier",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "01587",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.1563103",
@@ -17,12 +17,12 @@
   "AddressLine3": "Ashford",
   "PostCode": "TN23 3TE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-05-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

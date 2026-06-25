@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 2 Market Square The Cellars High Street",
+  "Geocode": {
+    "Latitude": "51.068763",
+    "Longitude": "0.6891574"
+  },
+  "AddressLine1": "2 The Cellars High Street",
   "AddressLine3": "Tenterden",
   "PostCode": "TN30 6BN",
   "SchemeType": "FHRS",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1943560,
-  "BusinessName": "Anton Ices",
+  "BusinessName": "Anton Ices AKA Whippy Tee",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00067/COMM",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehenquiries@tewkesbury.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

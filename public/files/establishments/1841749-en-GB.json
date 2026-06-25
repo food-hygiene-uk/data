@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Cranon Lea 9 Tighnafiline",
-  "AddressLine3": "Aultbea",
-  "PostCode": "IV22 2JE",
+  "Geocode": {
+    "Latitude": "57.7671179",
+    "Longitude": "-5.6063385"
+  },
+  "AddressLine2": "An Cala",
+  "AddressLine3": "Shorefield",
+  "AddressLine4": "Poolewe",
+  "PostCode": "IV22 2AA",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

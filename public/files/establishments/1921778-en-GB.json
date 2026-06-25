@@ -1,18 +1,29 @@
 {
   "FHRSID": 1921778,
   "BusinessName": "RUBY Chinese",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "JLP2Y0-VD9V9D-V78FSC",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.7706975",
+    "Longitude": "-1.703545"
+  },
+  "AddressLine1": "10 Durham Road Esh Winning",
+  "AddressLine3": "Durham",
+  "AddressLine4": "United Kingdom",
+  "PostCode": "DH7 9NW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

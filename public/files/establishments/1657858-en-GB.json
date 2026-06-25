@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "883",
   "LocalAuthorityName": "West Berkshire",
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
   "Geocode": {
     "Latitude": "51.402006",
@@ -19,8 +19,12 @@
   "AddressLine4": "West Berkshire",
   "PostCode": "RG17 9UT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-19",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }
