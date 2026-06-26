@@ -1,30 +1,29 @@
 {
   "FHRSID": 395523,
   "BusinessName": "Heron Foods",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/100039537",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.335065",
-    "Longitude": "-3.025283"
+    "Latitude": "53.3603631",
+    "Longitude": "-2.9967197"
   },
-  "AddressLine1": "76 New Chester Road",
-  "AddressLine2": "New Ferry",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH63 5AJ",
+  "AddressLine1": "75A New Chester Road",
+  "AddressLine3": "New Ferry",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH62 1AB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-07-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

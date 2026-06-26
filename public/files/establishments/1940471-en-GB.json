@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "558",
   "LocalAuthorityName": "Carmarthenshire",
   "LocalAuthorityWebSite": "http://www.carmarthenshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
   "Geocode": {
     "Latitude": "51.6783584",
@@ -18,8 +18,12 @@
   "AddressLine4": "Carmarthenshire",
   "PostCode": "SA15 1AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

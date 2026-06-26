@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "078",
   "LocalAuthorityName": "Teignbridge",
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
   "Geocode": {
     "Latitude": "50.587816",
@@ -16,12 +16,12 @@
   "AddressLine1": "48 Exeter Road Dawlish Devon",
   "PostCode": "EX7 0AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

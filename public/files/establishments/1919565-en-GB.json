@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919565,
-  "BusinessName": "Kenley House/China Town/Halal/Flying/Wood/Best Mangal",
+  "BusinessName": "Kenley House/China Town/Halal/Flying/Wood/Famous/BestChinese",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00088/COMM",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "Kenley",
   "PostCode": "CR8 5JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-23",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

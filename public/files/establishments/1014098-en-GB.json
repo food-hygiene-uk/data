@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "157",
   "LocalAuthorityName": "East Hertfordshire",
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
   "Geocode": {
     "Latitude": "51.797681",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hertfordshire",
   "PostCode": "SG13 7HH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2017-10-10",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

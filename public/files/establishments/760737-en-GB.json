@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "865",
   "LocalAuthorityName": "North East Lincolnshire",
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
   "Geocode": {
     "Latitude": "53.544876",
@@ -18,12 +18,12 @@
   "AddressLine4": "Grimsby",
   "PostCode": "DN33 2BA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-08-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

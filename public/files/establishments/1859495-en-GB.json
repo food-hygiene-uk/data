@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "https://www.hart.gov.uk/environment/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@hart.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2689555",
-    "Longitude": "-0.8475084"
-  },
-  "AddressLine1": "29 Forest End",
-  "AddressLine2": "Fleet",
-  "PostCode": "GU52 7XE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-10-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

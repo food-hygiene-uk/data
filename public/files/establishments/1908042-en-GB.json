@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Technology House Chowley Oak Business Park Chowley Oak Lane",
+  "Geocode": {
+    "Latitude": "53.10236",
+    "Longitude": "-2.7827557"
+  },
+  "AddressLine1": "Unit 6 Chowley Oak Business Park Chowley Oak Lane",
   "AddressLine2": "Chowley",
   "AddressLine3": "Chester",
   "AddressLine4": "Cheshire",
+  "PostCode": "CH3 9GA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

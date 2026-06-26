@@ -1,26 +1,30 @@
 {
   "FHRSID": 1677532,
-  "BusinessName": "Riza Ahmed",
+  "BusinessName": "Bens Takeaway",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "CP6271",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "128",
   "LocalAuthorityName": "Stroud",
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": {
-    "Latitude": "51.7289746",
-    "Longitude": "-2.273252"
+    "Latitude": "51.728844",
+    "Longitude": "-2.273354"
   },
-  "AddressLine1": "Bens Takeaway",
-  "AddressLine2": "New Street",
-  "AddressLine3": "Kings Stanley",
-  "AddressLine4": "Stonehouse",
+  "AddressLine1": "New Street",
+  "AddressLine2": "Kings Stanley",
+  "AddressLine3": "Stonehouse",
+  "AddressLine4": "Gloucestershire",
   "PostCode": "GL10 3JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

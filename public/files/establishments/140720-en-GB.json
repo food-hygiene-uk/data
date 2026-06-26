@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.49423172",
+    "Longitude": "-2.02104781"
+  },
+  "AddressLine1": " Joseph Street",
+  "AddressLine2": "Oldbury",
+  "PostCode": "B69 2AQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

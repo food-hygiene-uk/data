@@ -7,20 +7,16 @@
   "LocalAuthorityCode": "117",
   "LocalAuthorityName": "Maldon",
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7208677",
-    "Longitude": "0.8902941"
-  },
-  "AddressLine1": "4 Orplands Cottages",
-  "AddressLine2": "Waterside Road",
-  "AddressLine3": "Bradwell-On-Sea",
-  "AddressLine4": "Southminster",
-  "PostCode": "CM0 7QZ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

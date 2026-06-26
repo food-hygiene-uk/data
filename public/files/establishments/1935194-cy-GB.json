@@ -1,6 +1,6 @@
 {
   "FHRSID": 1935194,
-  "BusinessName": "Toast & Tap",
+  "BusinessName": "Toast & Tap @ Belvilla",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00095/MIXED",
   "BusinessTypeID": 1,
@@ -13,14 +13,17 @@
     "Latitude": "51.5894701",
     "Longitude": "-2.997663"
   },
-  "AddressLine1": "Upper Floors",
-  "AddressLine2": "54 - 55 High Street",
-  "AddressLine3": "Newport",
-  "AddressLine4": "South Wales",
+  "AddressLine1": "54 - 55 High Street",
+  "AddressLine2": "Newport",
+  "AddressLine3": "South Wales",
   "PostCode": "NP20 1GA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

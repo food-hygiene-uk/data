@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
   "Geocode": {
-    "Latitude": "53.743193",
-    "Longitude": "-2.396587"
+    "Latitude": "53.7432014",
+    "Longitude": "-2.396571"
   },
-  "AddressLine1": "226 Union Road",
+  "AddressLine1": "236-238 Union Road",
   "AddressLine2": "Oswaldtwistle",
   "AddressLine3": "Lancashire",
   "PostCode": "BB5 3JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

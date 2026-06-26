@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7533721",
-    "Longitude": "-0.4541352"
-  },
-  "AddressLine2": "42 Sawyers Way",
-  "AddressLine3": "Hemel Hempstead",
-  "AddressLine4": "Hertfordshire",
-  "PostCode": "HP2 4EB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

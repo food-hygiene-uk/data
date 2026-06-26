@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.5234815",
@@ -18,12 +18,12 @@
   "AddressLine3": "Manchester",
   "PostCode": "M46 0DX",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "211",
   "LocalAuthorityName": "Harborough",
   "LocalAuthorityWebSite": "http://www.harborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@harborough.gov.uk",
   "Geocode": {
     "Latitude": "52.472738",
@@ -18,8 +18,12 @@
   "AddressLine3": "Leicestershire",
   "PostCode": "LE16 9HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

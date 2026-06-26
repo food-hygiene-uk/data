@@ -7,19 +7,24 @@
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
-    "Latitude": "51.0563762",
-    "Longitude": "-2.4097859"
+    "Latitude": "51.0565284",
+    "Longitude": "-2.409987"
   },
+  "AddressLine1": "Unit 6 Applegarth Mall",
   "AddressLine2": "8 High Street",
   "AddressLine3": "Wincanton",
   "AddressLine4": "Somerset",
   "PostCode": "BA9 9JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

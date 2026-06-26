@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4799925",
+    "Longitude": "-1.9739473"
+  },
+  "AddressLine1": "42  Gladys Road",
+  "AddressLine4": "Smethwick",
+  "PostCode": "B67 5AW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

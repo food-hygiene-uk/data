@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.89318818",
+    "Longitude": "1.01091986"
+  },
+  "AddressLine1": "Holt Road",
+  "AddressLine2": "Sharrington",
+  "AddressLine3": "Norfolk",
+  "PostCode": "NR24 2PH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

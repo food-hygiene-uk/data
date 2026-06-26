@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "900",
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "52.7373252",
     "Longitude": "-2.5406507"
@@ -17,12 +17,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "TF6 6HA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-22",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "126",
   "LocalAuthorityName": "Forest of Dean",
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
   "Geocode": {
     "Latitude": "51.8019003",
@@ -19,12 +19,12 @@
   "AddressLine4": "Cinderford",
   "PostCode": "GL14 3AW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-05",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-05-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }
