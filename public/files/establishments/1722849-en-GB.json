@@ -1,25 +1,30 @@
 {
   "FHRSID": 1722849,
-  "BusinessName": "Spice Centre",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "Deshi",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP24_000530",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": {
-    "Latitude": "50.211654",
-    "Longitude": "-5.481645"
+    "Latitude": "50.2116722",
+    "Longitude": "-5.4814426"
   },
-  "AddressLine1": "18 Chapel Street",
-  "AddressLine2": "St Ives",
-  "AddressLine3": "Cornwall",
+  "AddressLine1": "Deshi Indian Restaurant And Takeaway",
+  "AddressLine2": "18 Chapel Street",
+  "AddressLine3": "St Ives",
+  "AddressLine4": "Cornwall",
   "PostCode": "TR26 2LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

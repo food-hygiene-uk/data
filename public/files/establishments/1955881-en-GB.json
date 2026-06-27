@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.nuneatonandbedworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4737998",
-    "Longitude": "-1.4916099"
-  },
-  "AddressLine2": "38 Alice Close",
-  "AddressLine4": "Bedworth",
-  "PostCode": "CV12 0BS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

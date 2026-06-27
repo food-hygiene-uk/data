@@ -1,6 +1,6 @@
 {
   "FHRSID": 1762263,
-  "BusinessName": "Pho Caf?105-109 Lothian Road",
+  "BusinessName": "Pho Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "209746",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.edinburgh.gov.uk/food-safety-hygiene",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@edinburgh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Edinburgh",
+  "Geocode": {
+    "Latitude": "55.946215",
+    "Longitude": "-3.205079"
+  },
+  "AddressLine1": "105-109 Lothian Road",
   "AddressLine2": "Edinburgh",
   "PostCode": "EH3 9AN",
   "SchemeType": "FHIS",

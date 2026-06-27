@@ -1,9 +1,9 @@
 {
   "FHRSID": 1940036,
-  "BusinessName": "Savannah Caters and Savannah Kitchen",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "Savannah Caterers and Savannah's Kitchen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000307193",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

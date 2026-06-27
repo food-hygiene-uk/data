@@ -1,6 +1,6 @@
 {
   "FHRSID": 663434,
-  "BusinessName": "RNIB Scotland Caf?12-14 Hillside Crescent",
+  "BusinessName": "RNIB Scotland Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "65202",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.edinburgh.gov.uk/food-safety-hygiene",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@edinburgh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Edinburgh",
+  "Geocode": {
+    "Latitude": "55.958442",
+    "Longitude": "-3.178389"
+  },
+  "AddressLine1": "12-14 Hillside Crescent",
   "AddressLine2": "Edinburgh",
   "PostCode": "EH7 5EA",
   "SchemeType": "FHIS",

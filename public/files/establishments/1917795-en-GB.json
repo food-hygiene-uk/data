@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8299988",
-    "Longitude": "-1.9034658"
-  },
-  "AddressLine1": "3 Bagots Bromley Cottages",
-  "AddressLine2": "Newton Hurst Lane",
-  "AddressLine3": "Heatley",
-  "AddressLine4": "Abbots Bromley",
-  "PostCode": "WS15 3EL",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

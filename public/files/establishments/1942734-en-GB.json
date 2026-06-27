@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
   "Geocode": {
-    "Latitude": "53.3242984",
-    "Longitude": "-1.8991878"
+    "Latitude": "53.3277294",
+    "Longitude": "-1.9839457"
   },
   "AddressLine1": "39 Buxton Road",
-  "AddressLine2": "Chapel-En-Le-Frith",
+  "AddressLine2": "Whaley Bridge",
   "AddressLine3": "High Peak",
-  "PostCode": "SK23 0PT",
+  "PostCode": "SK23 7HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

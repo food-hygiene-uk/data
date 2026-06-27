@@ -1,6 +1,6 @@
 {
   "FHRSID": 1948961,
-  "BusinessName": "Ritual Café 18 Home Street",
+  "BusinessName": "Ritual Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "214442",
   "BusinessTypeID": 1,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.edinburgh.gov.uk/food-safety-hygiene",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@edinburgh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Edinburgh",
-  "AddressLine2": "EH3 9LY",
+  "Geocode": {
+    "Latitude": "55.943486",
+    "Longitude": "-3.203985"
+  },
+  "AddressLine1": "18 Home Street",
+  "AddressLine2": "Edinburgh",
+  "PostCode": "EH3 9LY",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

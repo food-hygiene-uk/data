@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
   "Geocode": {
-    "Latitude": "52.8264943",
-    "Longitude": "-1.3392721"
+    "Latitude": "52.830042",
+    "Longitude": "-1.3242872"
   },
-  "AddressLine1": "10A Building 33",
-  "AddressLine2": "Dakota Road",
-  "AddressLine3": "Castle Donington",
-  "AddressLine4": "Leicestershire",
+  "AddressLine1": "International Passenger Terminal",
+  "AddressLine2": "Beverley Road",
+  "AddressLine3": "East Midlands Airport",
+  "AddressLine4": "Castle Donington",
   "PostCode": "DE74 2SA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

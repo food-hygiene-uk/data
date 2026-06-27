@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.8357632",
+    "Longitude": "-1.6210271"
+  },
+  "AddressLine1": "101 Jordan Avenue",
+  "AddressLine2": "Stretton",
+  "AddressLine3": "Burton upon Trent",
+  "PostCode": "DE13 0JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

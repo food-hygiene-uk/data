@@ -1,6 +1,6 @@
 {
   "FHRSID": 1732334,
-  "BusinessName": "Books n Cup Caf?23 Home Street",
+  "BusinessName": "Books n Cup Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "208613",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.edinburgh.gov.uk/food-safety-hygiene",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@edinburgh.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Edinburgh",
+  "Geocode": {
+    "Latitude": "55.9430566",
+    "Longitude": "-3.2034095"
+  },
+  "AddressLine1": "23 Home Street",
   "AddressLine2": "Edinburgh",
   "PostCode": "EH3 9JR",
   "SchemeType": "FHIS",
