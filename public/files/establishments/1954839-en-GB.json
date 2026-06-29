@@ -1,13 +1,13 @@
 {
   "FHRSID": 1954839,
-  "BusinessName": "Test Cole Property",
+  "BusinessName": "Cole, Mathew",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "202552694673304",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.4687665",
@@ -16,8 +16,12 @@
   "AddressLine1": "Town Hall Castle Circus Torquay",
   "PostCode": "TQ1 3DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }
