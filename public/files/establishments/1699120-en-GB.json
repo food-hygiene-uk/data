@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "84 Nolton Street",
+  "Geocode": {
+    "Latitude": "51.5029878",
+    "Longitude": "-3.5767248"
+  },
+  "AddressLine1": "Ground Floor 84 Nolton Street",
   "AddressLine3": "Bridgend",
+  "PostCode": "CF31 3BP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",

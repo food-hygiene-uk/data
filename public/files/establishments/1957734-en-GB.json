@@ -1,6 +1,6 @@
 {
   "FHRSID": 1957734,
-  "BusinessName": "Hebble Harlequins",
+  "BusinessName": "Hebble Harlequins @ Siddal",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00188/COMM",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Halifax",
   "PostCode": "HX3 9DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

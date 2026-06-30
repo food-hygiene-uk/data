@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4238686",
+    "Longitude": "-0.0350723"
+  },
+  "AddressLine1": "Unit 1 Kangley Business Centre Kangley Bridge Road",
+  "AddressLine2": "Lower Sydenham",
+  "AddressLine3": "London",
+  "PostCode": "SE26 5AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-17",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1935964,
-  "BusinessName": "Fooditude",
+  "BusinessName": "Fooditude (Susquehanna & SCGB On The Same Floor)",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00244/COMM",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC2V 5HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

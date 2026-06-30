@@ -8,8 +8,11 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
-  "AddressLine1": "Lye Town F C",
+  "Geocode": {
+    "Latitude": "52.4573515",
+    "Longitude": "-2.1212606"
+  },
+  "AddressLine1": "Lye Town F C 59B",
   "AddressLine2": "Stourbridge Road",
   "AddressLine3": "Lye",
   "AddressLine4": "Stourbridge",

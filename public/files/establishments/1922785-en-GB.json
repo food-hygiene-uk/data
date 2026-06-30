@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.892293",
+    "Longitude": "0.9431503"
+  },
+  "AddressLine1": "19 Heatley Way",
+  "AddressLine2": "Colchester",
+  "AddressLine3": "Essex",
+  "PostCode": "CO4 3UG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
