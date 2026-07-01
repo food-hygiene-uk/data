@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Millers Wynd Car Park",
+  "Geocode": {
+    "Latitude": "56.45631914",
+    "Longitude": "-2.98355701"
+  },
   "AddressLine2": "Perth Road",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 4JF",

@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Douglas Community And Library Centre",
+  "Geocode": {
+    "Latitude": "56.4808087",
+    "Longitude": "-2.90363555"
+  },
   "AddressLine2": "Balmoral Avenue",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 8SD",

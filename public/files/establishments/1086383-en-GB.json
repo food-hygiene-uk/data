@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "North East Campus",
+  "Geocode": {
+    "Latitude": "56.4898931",
+    "Longitude": "-2.9273881"
+  },
   "AddressLine2": "9 Lothian Crescent",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 0SX",

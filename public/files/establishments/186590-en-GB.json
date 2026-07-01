@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Gaiety",
+  "Geocode": {
+    "Latitude": "56.47489645",
+    "Longitude": "-3.0370654"
+  },
   "AddressLine2": "Balgarthno Road",
   "AddressLine3": "Dundee",
   "PostCode": "DD2 4QN",

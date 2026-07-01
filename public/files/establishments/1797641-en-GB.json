@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "33 Albert Square",
+  "Geocode": {
+    "Latitude": "56.4623844",
+    "Longitude": "-2.97052795"
+  },
   "AddressLine2": "Meadowside",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 1DJ",

@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Waterfront Place",
+  "Geocode": {
+    "Latitude": "56.45894285",
+    "Longitude": "-2.9655353"
+  },
   "AddressLine2": "Riverside Esplanade",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 4EZ",

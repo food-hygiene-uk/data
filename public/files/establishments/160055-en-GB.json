@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Johns Roman Catholic High S",
+  "Geocode": {
+    "Latitude": "56.4743319",
+    "Longitude": "-2.9968863"
+  },
   "AddressLine2": "Harefield Road",
   "AddressLine3": "Dundee",
   "PostCode": "DD3 6EY",

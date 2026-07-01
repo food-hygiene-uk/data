@@ -1,6 +1,6 @@
 {
   "FHRSID": 398264,
-  "BusinessName": "Hoylandswaine Primary School",
+  "BusinessName": "compass @ Hoylandswaine Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "668",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Hoylandswaine",
   "PostCode": "S36 7JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

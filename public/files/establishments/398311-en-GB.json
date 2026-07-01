@@ -1,6 +1,6 @@
 {
   "FHRSID": 398311,
-  "BusinessName": "Wellgate Primary School",
+  "BusinessName": "Compass @ Wellgate Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "683",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Staincross",
   "PostCode": "S75 6BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

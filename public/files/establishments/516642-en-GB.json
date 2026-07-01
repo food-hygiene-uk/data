@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Finmill Centre",
+  "Geocode": {
+    "Latitude": "56.490847",
+    "Longitude": "-2.9454958"
+  },
   "AddressLine2": "Findcastle Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 9EW",

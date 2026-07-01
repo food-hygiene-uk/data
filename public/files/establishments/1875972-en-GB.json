@@ -1,9 +1,9 @@
 {
   "FHRSID": 1875972,
   "BusinessName": "Pakwanistan",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00827/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

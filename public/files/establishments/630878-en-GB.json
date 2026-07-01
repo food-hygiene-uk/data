@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "WESTBURY ROAD",
-  "AddressLine2": "YARNBROOK",
-  "AddressLine3": "TROWBRIDGE",
+  "Geocode": {
+    "Latitude": "51.2934386",
+    "Longitude": "-2.1914331"
+  },
+  "AddressLine1": "LONGS ARMS WESTBURY ROAD",
+  "AddressLine3": "YARNBROOK",
   "PostCode": "BA14 6AB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Lochee Sports Bar",
+  "Geocode": {
+    "Latitude": "56.4737705",
+    "Longitude": "-3.0116657"
+  },
   "AddressLine2": "185 High Street",
   "AddressLine3": "Lochee",
   "AddressLine4": "Dundee",

@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Balgay Bowling Club",
+  "Geocode": {
+    "Latitude": "56.45782335",
+    "Longitude": "-3.01212"
+  },
   "AddressLine2": "Melville Terrace",
   "AddressLine3": "Dundee",
   "PostCode": "DD2 1NT",

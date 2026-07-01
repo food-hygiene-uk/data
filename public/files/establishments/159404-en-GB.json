@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Baxter Park Bowling Club",
+  "Geocode": {
+    "Latitude": "56.4750164",
+    "Longitude": "-2.9511784"
+  },
   "AddressLine2": "Wortley Place",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 7HD",

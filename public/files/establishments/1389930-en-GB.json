@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Glass Pavilion",
+  "Geocode": {
+    "Latitude": "56.46847384",
+    "Longitude": "-2.85366918"
+  },
   "AddressLine2": "The Esplanade",
   "AddressLine3": "Broughty Ferry",
   "AddressLine4": "Dundee",

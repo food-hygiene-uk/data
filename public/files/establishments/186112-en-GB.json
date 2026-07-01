@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bridgeview Station Cafe",
+  "Geocode": {
+    "Latitude": "56.45224225",
+    "Longitude": "-2.98455295"
+  },
   "AddressLine2": "Riverside Drive",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 4DB",

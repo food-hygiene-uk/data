@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "262",
   "LocalAuthorityName": "Gedling",
   "LocalAuthorityWebSite": "http://www.gedling.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthhousinghandover@gedling.gov.uk",
   "Geocode": {
     "Latitude": "52.964684",
@@ -18,8 +18,12 @@
   "AddressLine3": "Nottinghamshire",
   "PostCode": "NG4 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

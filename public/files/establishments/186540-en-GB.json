@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Balgay Hill Bar",
+  "Geocode": {
+    "Latitude": "56.4604278",
+    "Longitude": "-2.9939466"
+  },
   "AddressLine2": "1-5 Rosefield Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 5PW",

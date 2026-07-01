@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Coldside Parish Church",
+  "Geocode": {
+    "Latitude": "56.47168",
+    "Longitude": "-2.97174585"
+  },
   "AddressLine2": "Main Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD3 7HN",

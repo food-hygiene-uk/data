@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Downfield Nursery School",
+  "Geocode": {
+    "Latitude": "56.4891997",
+    "Longitude": "-2.9923938"
+  },
   "AddressLine2": "20 Haldane Crescent",
   "AddressLine3": "Dundee",
   "PostCode": "DD3 0JP",

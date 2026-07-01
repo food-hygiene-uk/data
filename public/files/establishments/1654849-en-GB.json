@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit K",
+  "Geocode": {
+    "Latitude": "56.4564756",
+    "Longitude": "-2.988336"
+  },
   "AddressLine2": "Mid Wynd",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 4JG",

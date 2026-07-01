@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Level 4 School of Life Sciences Dundee University",
+  "Geocode": {
+    "Latitude": "56.45745145",
+    "Longitude": "-2.98622"
+  },
   "AddressLine2": "Dow Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 5EH",

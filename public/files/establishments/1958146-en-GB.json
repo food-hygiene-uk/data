@@ -9,14 +9,16 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Mcmanus Galleries Albert Square",
+  "Geocode": {
+    "Latitude": "56.46317565",
+    "Longitude": "-2.97030995"
+  },
   "AddressLine2": "Meadowside",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 1DA",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2026-06-26",
+  "RatingDate": "2026-06-30",
   "Scores": null
 }

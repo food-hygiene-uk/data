@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Dens Road Primary School",
+  "Geocode": {
+    "Latitude": "56.4716445",
+    "Longitude": "-2.9674947"
+  },
   "AddressLine2": "Dens Road",
   "AddressLine3": "Dundee",
   "PostCode": "DD3 7HY",

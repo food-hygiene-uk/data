@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Tesco Stores Ltd",
+  "Geocode": {
+    "Latitude": "56.45310246",
+    "Longitude": "-2.98027812"
+  },
   "AddressLine2": "Riverside Drive",
   "AddressLine3": "Dundee",
   "PostCode": "DD2 1UG",

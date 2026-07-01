@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.9431105",
+    "Longitude": "-1.0860348"
+  },
+  "AddressLine2": "284 Bishopthorpe Road",
+  "AddressLine3": "York",
+  "PostCode": "YO23 1LG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

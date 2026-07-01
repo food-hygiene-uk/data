@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Wallacetown Nursery School",
+  "Geocode": {
+    "Latitude": "56.46702806",
+    "Longitude": "-2.96016733"
+  },
   "AddressLine2": "Crescent Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 6DR",

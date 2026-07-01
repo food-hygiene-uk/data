@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Tayview Campus",
+  "Geocode": {
+    "Latitude": "56.46758315",
+    "Longitude": "-3.0437841"
+  },
   "AddressLine2": "Earn Crescent",
   "AddressLine3": "Dundee",
   "PostCode": "DD2 4BS",

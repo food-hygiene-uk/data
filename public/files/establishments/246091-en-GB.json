@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.971769",
+    "Longitude": "-1.087166"
+  },
+  "AddressLine2": "1 Falsgrave Crescent",
+  "AddressLine3": "York",
+  "PostCode": "YO30 7AZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

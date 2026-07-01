@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Northeast Church of Scotland",
+  "Geocode": {
+    "Latitude": "56.4898645",
+    "Longitude": "-2.9404739"
+  },
   "AddressLine2": "147-181 Fintry Drive",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 9HE",

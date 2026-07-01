@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Wellgate Day Centre",
+  "Geocode": {
+    "Latitude": "56.4658696",
+    "Longitude": "-2.9652012"
+  },
   "AddressLine2": "Ladywell Avenue",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 2LB",

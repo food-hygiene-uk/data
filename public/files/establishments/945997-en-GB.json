@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Brooksbank Centre",
+  "Geocode": {
+    "Latitude": "56.48005665",
+    "Longitude": "-2.9359596"
+  },
   "AddressLine2": "Pitairlie Road",
   "AddressLine3": "Dundee",
   "PostCode": "DD4 8DG",
