@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "WHITTLEFIELD PRIMARY SCHOOL TABOR STREET",
+  "Geocode": {
+    "Latitude": "53.7928532",
+    "Longitude": "-2.26630419"
+  },
+  "AddressLine1": "TABOR STREET",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 0HL",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.5332479",
@@ -19,12 +19,12 @@
   "AddressLine4": "Perivale",
   "PostCode": "UB6 8TF",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-19",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 30
   }
 }

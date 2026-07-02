@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.7146606",
@@ -19,12 +19,12 @@
   "AddressLine4": "Todmorden",
   "PostCode": "OL14 5AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-10",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

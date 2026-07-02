@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.580055",
@@ -17,12 +17,12 @@
   "AddressLine4": "Eastcote",
   "PostCode": "HA5 1RL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-05-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1825451,
-  "BusinessName": "Kennedy, Craig",
+  "BusinessName": "Devon Farm Kitchen, Craig",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "143367455643104",
   "BusinessTypeID": 7839,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Devon Farm Kitchen Avenue Road  Torquay",
+  "Geocode": {
+    "Latitude": "50.46884805",
+    "Longitude": "-3.5442135"
+  },
+  "AddressLine1": "Avenue Road   Torquay",
   "PostCode": "TQ2 5LS",
   "SchemeType": "FHRS",
   "RatingValue": "5",

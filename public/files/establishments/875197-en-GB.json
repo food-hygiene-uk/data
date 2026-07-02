@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ROCKWOOD NURSERY SCHOOL KINGSLAND ROAD",
+  "Geocode": {
+    "Latitude": "53.78065925",
+    "Longitude": "-2.2331922"
+  },
+  "AddressLine1": "KINGSLAND ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 3PU",
   "SchemeType": "FHRS",

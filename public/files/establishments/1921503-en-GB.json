@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.7054956",
@@ -19,12 +19,8 @@
   "AddressLine4": "Hebden Bridge",
   "PostCode": "HX7 5TA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-04-12",
-  "Scores": {
-    "Hygiene": 20,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": null
 }

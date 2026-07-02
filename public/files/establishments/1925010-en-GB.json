@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "Geocode": null,
+  "AddressLine1": "All Saints CE  First School",
+  "AddressLine2": "Church Lane",
+  "AddressLine3": "Standon-Rural",
+  "AddressLine4": "Standon Staffordshire",
+  "PostCode": "ST21 6AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

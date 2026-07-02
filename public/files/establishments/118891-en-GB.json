@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "PRAIRIE PUBLIC HOUSE KESWICK ROAD",
+  "Geocode": {
+    "Latitude": "53.8094372",
+    "Longitude": "-2.23647535"
+  },
+  "AddressLine1": "KESWICK ROAD",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 1HW",
   "SchemeType": "FHRS",

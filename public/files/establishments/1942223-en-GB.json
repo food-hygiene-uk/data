@@ -1,6 +1,6 @@
 {
   "FHRSID": 1942223,
-  "BusinessName": "Cafe Nero",
+  "BusinessName": "Caffe Nero",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "903289",
   "BusinessTypeID": 1,
@@ -19,8 +19,12 @@
   "AddressLine4": "Co. Tyrone",
   "PostCode": "BT80 8NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

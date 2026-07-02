@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.917208",
+    "Longitude": "-0.610996"
+  },
   "AddressLine1": "High Street",
   "AddressLine2": "Eggington",
   "AddressLine3": "Leighton Buzzard",
-  "AddressLine4": "Beds",
   "PostCode": "LU7 9PQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

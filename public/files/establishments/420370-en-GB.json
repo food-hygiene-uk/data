@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
     "Latitude": "53.3806454",
@@ -16,12 +16,12 @@
   "AddressLine2": "4-6 The Cross",
   "PostCode": "WA13 0HP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-20",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
   }
 }

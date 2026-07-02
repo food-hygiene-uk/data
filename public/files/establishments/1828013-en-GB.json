@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ROSEHILL HOUSE HOTEL ROSEHILL AVENUE",
+  "Geocode": {
+    "Latitude": "53.7797027",
+    "Longitude": "-2.2525799"
+  },
+  "AddressLine1": "ROSEHILL AVENUE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB11 2PW",
   "SchemeType": "FHRS",

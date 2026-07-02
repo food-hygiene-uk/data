@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": {
     "Latitude": "52.5713882446289",
@@ -17,12 +17,12 @@
   "AddressLine3": "Castor",
   "PostCode": "PE5 7AX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1959387,
-  "BusinessName": "Mr Brendon Ice",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Mr Brendon Ices - P731 KND",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "71857",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

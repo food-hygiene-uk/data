@@ -1,27 +1,29 @@
 {
   "FHRSID": 167122,
-  "BusinessName": "Llangoed Hall Hotel Ltd",
+  "BusinessName": "Llangoed Hall Hotel",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "PI/000010793",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Llangoed Hall Hotel",
-  "AddressLine2": "Llyswen",
-  "AddressLine3": "Brecon",
-  "AddressLine4": "Powys",
+  "Geocode": {
+    "Latitude": "52.0520782470703",
+    "Longitude": "-3.28693079948425"
+  },
+  "AddressLine1": "Llyswen",
+  "AddressLine2": "Brecon",
+  "AddressLine3": "Powys",
   "PostCode": "LD3 0YP",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2025-11-14",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

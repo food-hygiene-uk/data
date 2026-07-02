@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Broomhill Way Shiphay With Willows Torquay Torbay",
+  "Geocode": {
+    "Latitude": "50.48508225",
+    "Longitude": "-3.55029655"
+  },
+  "AddressLine1": "Broomhill Way   Torquay",
   "PostCode": "TQ2 7QL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

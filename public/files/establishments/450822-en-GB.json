@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.088817",
+    "Longitude": "-0.267476"
+  },
   "AddressLine1": "Shortmead Street",
   "AddressLine2": "Biggleswade",
-  "AddressLine3": "Beds",
   "PostCode": "SG18 0AT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

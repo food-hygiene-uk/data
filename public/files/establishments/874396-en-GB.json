@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
   "Geocode": {
     "Latitude": "51.5143057",
@@ -16,12 +16,12 @@
   "AddressLine1": "10 WARDOUR STREET",
   "AddressLine3": "LONDON",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-25",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

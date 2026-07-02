@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "900",
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "52.7730938",
     "Longitude": "-2.3813625"
@@ -17,12 +17,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "TF10 7JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-06-30",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-27",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

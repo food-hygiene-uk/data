@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "RAILWAY CLUB ROSEGROVE LANE",
+  "Geocode": {
+    "Latitude": "53.7886902",
+    "Longitude": "-2.2808466"
+  },
+  "AddressLine1": "ROSEGROVE LANE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB12 6HX",
   "SchemeType": "FHRS",

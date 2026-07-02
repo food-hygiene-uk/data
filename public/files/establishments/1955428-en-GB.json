@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
   "Geocode": {
-    "Latitude": "54.7583222",
-    "Longitude": "-6.6014904"
+    "Latitude": "54.757478",
+    "Longitude": "-6.60304"
   },
-  "AddressLine1": "1 Brennen Court",
-  "AddressLine2": "Town Parks Of Magherafelt",
+  "AddressLine1": "30a Castledawson Road",
   "AddressLine3": "Magherafelt",
   "AddressLine4": "Co. Londonderry",
-  "PostCode": "BT45 6AT",
+  "PostCode": "BT45 6AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

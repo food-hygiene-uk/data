@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7935358",
-    "Longitude": "-2.0852393"
-  },
-  "AddressLine2": "8 Sandringham Road",
-  "AddressLine3": "Baswich",
-  "AddressLine4": "Stafford Staffordshire",
-  "PostCode": "ST17 0AA",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

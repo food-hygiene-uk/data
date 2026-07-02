@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.088105",
+    "Longitude": "-0.258148"
+  },
   "AddressLine1": "Maythorn",
   "AddressLine2": "The Baulk",
   "AddressLine3": "Biggleswade",
-  "AddressLine4": "Beds",
   "PostCode": "SG18 0PT",
   "SchemeType": "FHRS",
   "RatingValue": "4",

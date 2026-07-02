@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
     "Latitude": "55.1850071",
@@ -17,8 +17,12 @@
   "AddressLine3": "Portstewart",
   "PostCode": "BT55 7AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

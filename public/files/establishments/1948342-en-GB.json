@@ -17,8 +17,12 @@
   "AddressLine2": "Reading",
   "PostCode": "RG2 0BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ST MARYS RC PRIMARY SCHOOL HOLCOMBE DRIVE",
+  "Geocode": {
+    "Latitude": "53.79100215",
+    "Longitude": "-2.2298074"
+  },
+  "AddressLine1": "HOLCOMBE DRIVE",
   "AddressLine3": "BURNLEY",
   "PostCode": "BB10 4BH",
   "SchemeType": "FHRS",

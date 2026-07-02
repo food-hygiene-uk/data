@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "152",
   "LocalAuthorityName": "Wychavon",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.095374",
@@ -18,12 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "WR11 4EU",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-05-11",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-10",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 5
   }
 }

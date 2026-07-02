@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "151",
   "LocalAuthorityName": "Worcester City",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.19723291",
@@ -17,8 +17,12 @@
   "AddressLine2": "Worcester",
   "PostCode": "WR4 9BF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }
