@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "318",
   "LocalAuthorityName": "Nuneaton and Bedworth",
   "LocalAuthorityWebSite": "http://www.nuneatonandbedworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
   "Geocode": {
     "Latitude": "52.527202",
@@ -17,8 +17,12 @@
   "AddressLine4": "Nuneaton",
   "PostCode": "CV11 5DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

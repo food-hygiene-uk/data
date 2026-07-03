@@ -1,6 +1,6 @@
 {
   "FHRSID": 1718132,
-  "BusinessName": "61 Lower York Street",
+  "BusinessName": "Boar Home Dining Ltd",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000220574",
   "BusinessTypeID": 1,
@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Wakefield",
+  "Geocode": {
+    "Latitude": "53.6871456",
+    "Longitude": "-1.497616"
+  },
+  "AddressLine1": "61 Lower York Street",
+  "AddressLine2": "Wakefield",
   "PostCode": "WF1 3NA",
   "SchemeType": "FHRS",
   "RatingValue": "4",

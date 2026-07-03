@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2046624",
+    "Longitude": "-4.0633778"
+  },
+  "AddressLine1": "Mill Park Caravan And Camping Site",
+  "AddressLine2": "Mill Lane",
+  "AddressLine3": "Berrynarbor",
+  "AddressLine4": "Ilfracombe",
+  "PostCode": "EX34 9SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

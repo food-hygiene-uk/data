@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0295455",
+    "Longitude": "-2.102562"
+  },
+  "AddressLine1": "Waterloo",
+  "AddressLine2": "Cheltenham Road",
+  "AddressLine3": "Bredon",
+  "AddressLine4": "Worcestershire",
+  "PostCode": "GL20 7ND",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

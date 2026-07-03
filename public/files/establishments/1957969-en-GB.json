@@ -1,13 +1,13 @@
 {
   "FHRSID": 1957969,
-  "BusinessName": "Moot/The Den Club",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Moot",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "113401",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
   "Geocode": {
     "Latitude": "51.5367184",
@@ -19,8 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "NW6 6RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

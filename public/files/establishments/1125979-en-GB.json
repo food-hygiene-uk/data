@@ -7,24 +7,19 @@
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3014359",
-    "Longitude": "-2.8296434"
-  },
-  "AddressLine1": "Shute Shelve Autopoint",
+  "Geocode": null,
   "AddressLine2": "Bridgwater Road",
   "AddressLine3": "Winscombe",
-  "AddressLine4": "North Somerset",
   "PostCode": "BS25 1NW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

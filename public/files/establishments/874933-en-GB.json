@@ -1,13 +1,13 @@
 {
   "FHRSID": 874933,
-  "BusinessName": "Alma Arms",
+  "BusinessName": "The Alma",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000096264",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "107",
   "LocalAuthorityName": "Wealden",
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": {
     "Latitude": "50.9669868",
@@ -18,12 +18,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "TN22 5AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "860",
   "LocalAuthorityName": "Redcar and Cleveland",
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
   "Geocode": {
     "Latitude": "54.579262",
@@ -17,12 +17,12 @@
   "AddressLine3": "Grangetown",
   "PostCode": "TS6 6US",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0373604",
+    "Longitude": "-2.2248066"
+  },
+  "AddressLine2": "5 Queen Street",
+  "AddressLine3": "Porthill",
+  "AddressLine4": "Newcastle Under Lyme",
+  "PostCode": "ST5 8QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

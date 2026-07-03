@@ -1,6 +1,6 @@
 {
   "FHRSID": 1053211,
-  "BusinessName": "674 Leeds Road",
+  "BusinessName": "Sun Kong",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000205472",
   "BusinessTypeID": 7844,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lofthouse",
-  "AddressLine2": "Wakefield",
+  "Geocode": {
+    "Latitude": "53.71609",
+    "Longitude": "-1.496406"
+  },
+  "AddressLine1": "674 Leeds Road",
+  "AddressLine2": "Lofthouse",
+  "AddressLine3": "Wakefield",
   "PostCode": "WF3 3HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

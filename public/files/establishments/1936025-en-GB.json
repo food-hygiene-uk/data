@@ -1,9 +1,9 @@
 {
   "FHRSID": 1936025,
   "BusinessName": "Coastal Cakes",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "PI/000102594",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "075",
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

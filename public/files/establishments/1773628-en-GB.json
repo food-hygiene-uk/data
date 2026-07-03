@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.0142138",
@@ -17,12 +17,12 @@
   "AddressLine3": "Newenden",
   "PostCode": "TN18 5PN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

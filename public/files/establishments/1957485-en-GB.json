@@ -10,13 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Tom Adams Fruit Tree Nursery",
+  "AddressLine1": "Temple Fields Market Garden",
   "AddressLine3": "Bronygarth",
   "AddressLine4": "Shropshire",
   "PostCode": "SY10 7LX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
