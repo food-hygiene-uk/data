@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5600592",
-    "Longitude": "-0.0367336"
-  },
-  "AddressLine1": "31-33",
-  "AddressLine2": "Clee Road",
+  "Geocode": null,
+  "AddressLine2": "31 -33 Clee Road",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 8AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

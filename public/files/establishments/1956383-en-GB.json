@@ -1,13 +1,13 @@
 {
   "FHRSID": 1956383,
   "BusinessName": "Tamber & Brothers Ltd",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "159162",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
   "Geocode": {
     "Latitude": "52.884743",
@@ -17,8 +17,12 @@
   "AddressLine3": "Derby",
   "PostCode": "DE24 9HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-29",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 37818,
   "BusinessName": "Highlands Road Fish And Chips",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "100062407264",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "134",
   "LocalAuthorityName": "Fareham",
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
@@ -17,12 +17,8 @@
   "AddressLine2": "Fareham",
   "PostCode": "PO15 6JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-20",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1940024,
-  "BusinessName": "The Carey Federation",
+  "BusinessName": "Halwill County Primary School - The Carey Federation",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00038/FH",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Devon",
   "PostCode": "EX21 5XU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1958382,
-  "BusinessName": "Ronald Ross / Greenmead Primary School",
+  "BusinessName": "Harrison Catering Services at Greenmead/Ronald Ross School",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26605",
   "BusinessTypeID": 1,
@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Greenmead Primary School 147 Beaumont Road",
+  "Geocode": {
+    "Latitude": "51.449403",
+    "Longitude": "-0.2163962"
+  },
+  "AddressLine1": "Ronald Ross Primary School 145 Beaumont Road",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
-  "PostCode": "SW15 6HL",
+  "PostCode": "SW19 6RY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

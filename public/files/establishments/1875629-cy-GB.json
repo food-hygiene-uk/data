@@ -1,9 +1,9 @@
 {
   "FHRSID": 1875629,
   "BusinessName": "Cwtch Mawr Multibank",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "172526",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Abertawe",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Swansea Vale",
   "PostCode": "SA7 0AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

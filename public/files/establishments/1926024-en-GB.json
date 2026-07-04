@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6821485",
+    "Longitude": "-2.6690748"
+  },
+  "AddressLine1": "9 Dukinfield Court",
+  "AddressLine2": "Buckshaw Village",
+  "AddressLine3": "Chorley",
+  "AddressLine4": "Lancashire",
+  "PostCode": "PR7 7FH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

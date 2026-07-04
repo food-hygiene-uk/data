@@ -9,18 +9,20 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Miss V's Cornish Cream Tea",
-  "AddressLine2": "St Just In Roseland",
-  "AddressLine3": "Truro",
-  "AddressLine4": "Cornwall",
+  "Geocode": {
+    "Latitude": "50.1820632",
+    "Longitude": "-5.0150959"
+  },
+  "AddressLine1": "St Just In Roseland",
+  "AddressLine2": "Truro",
+  "AddressLine3": "Cornwall",
   "PostCode": "TR2 5JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-03",
+  "RatingDate": "2026-06-26",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

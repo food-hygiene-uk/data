@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956136,
-  "BusinessName": "Di-Miele’s Icecream (Van)",
+  "BusinessName": "Di-Miele’s Icecream (Van) W612 EOK",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "137025",
   "BusinessTypeID": 7846,
@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5956357",
+    "Longitude": "-0.6785773"
+  },
+  "AddressLine2": "38 Haworth Close",
+  "AddressLine3": "Scunthorpe",
+  "AddressLine4": "North Lincolnshire",
+  "PostCode": "DN15 8BS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

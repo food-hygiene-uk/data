@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.237357",
+    "Longitude": "0.556577"
+  },
+  "AddressLine1": "Rosemary Graham Day Centre",
+  "AddressLine2": "Somner Walk",
+  "AddressLine3": "Maidstone",
+  "AddressLine4": "Kent",
+  "PostCode": "ME15 9PR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

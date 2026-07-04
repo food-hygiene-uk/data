@@ -1,6 +1,6 @@
 {
   "FHRSID": 1925033,
-  "BusinessName": "Wing Fest all star",
+  "BusinessName": "Wing Fest",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000707171",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B5 4BP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

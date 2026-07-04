@@ -1,9 +1,9 @@
 {
   "FHRSID": 1960085,
   "BusinessName": "Ree's Bakes & Buffets",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/000007248",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

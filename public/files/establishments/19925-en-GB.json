@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5987466196562",
+    "Longitude": "-3.28118009420089"
+  },
   "AddressLine1": "Morriston Park  Haugh Road  Elgin  Moray",
+  "PostCode": "in Moray",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

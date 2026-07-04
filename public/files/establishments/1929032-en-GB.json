@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "328",
   "LocalAuthorityName": "Mid Sussex",
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": null,
   "AddressLine1": "Jack And Jill Inn",
@@ -16,12 +16,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN6 9PD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-03-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-29",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

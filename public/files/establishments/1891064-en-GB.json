@@ -1,13 +1,13 @@
 {
   "FHRSID": 1891064,
-  "BusinessName": "Nirai - Madras Kitchen",
+  "BusinessName": "Nirai Madras Kitchen",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "25/00118/CP",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "312",
   "LocalAuthorityName": "Surrey Heath",
   "LocalAuthorityWebSite": "http://www.surreyheath.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
   "Geocode": {
     "Latitude": "51.3139357",
@@ -21,10 +21,6 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-01-20",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingDate": "2026-05-29",
+  "Scores": null
 }

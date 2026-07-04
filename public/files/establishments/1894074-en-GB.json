@@ -1,6 +1,6 @@
 {
   "FHRSID": 1894074,
-  "BusinessName": "Shakehaus",
+  "BusinessName": "Shakehaus Group",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000146822",
   "BusinessTypeID": 4613,
@@ -13,14 +13,18 @@
     "Latitude": "51.6469518",
     "Longitude": "0.082782"
   },
-  "AddressLine1": "SHAKEHAUS Boots",
+  "AddressLine1": "SHAKEHAUS Group",
   "AddressLine2": "18 The Broadway",
   "AddressLine3": "Loughton",
   "AddressLine4": "Essex",
   "PostCode": "IG10 3ST",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
