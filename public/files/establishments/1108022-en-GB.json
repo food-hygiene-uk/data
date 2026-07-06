@@ -1,8 +1,8 @@
 {
-  "FHRSID": 1937292,
+  "FHRSID": 1108022,
   "BusinessName": "One Beyond Ltd",
   "BusinessType": "Retailers - other",
-  "LocalAuthorityBusinessID": "48389",
+  "LocalAuthorityBusinessID": "43528",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
@@ -19,8 +19,12 @@
   "AddressLine4": "Wolverhampton",
   "PostCode": "WV1 3NN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-06-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
