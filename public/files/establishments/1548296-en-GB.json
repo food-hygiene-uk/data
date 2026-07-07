@@ -1,6 +1,6 @@
 {
   "FHRSID": 1548296,
-  "BusinessName": "Hepdene House, Sandbed",
+  "BusinessName": "Hepdene House",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "21/02510/COMM",
   "BusinessTypeID": 5,
@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7330621",
-    "Longitude": "-2.0466971"
-  },
-  "AddressLine1": "Hepdene House",
-  "AddressLine2": "Sandbed",
-  "AddressLine3": "Halifax Road",
-  "AddressLine4": "Charlestown",
+  "Geocode": null,
+  "AddressLine1": "Sandbed",
+  "AddressLine2": "Halifax Road",
+  "AddressLine3": "Charlestown",
+  "AddressLine4": "Hebden Bridge",
   "PostCode": "HX7 6PT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingDate": "2026-07-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

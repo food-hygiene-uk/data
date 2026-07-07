@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1392097473145",
-    "Longitude": "-0.463690012693405"
-  },
-  "AddressLine3": "Bedford",
+  "Geocode": null,
+  "AddressLine1": "82 CHAUCER ROAD",
+  "AddressLine3": "BEDFORD",
+  "PostCode": "MK40 2AP",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2023-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

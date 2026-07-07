@@ -1,6 +1,6 @@
 {
   "FHRSID": 1958961,
-  "BusinessName": "Ewell Fish Bar \\& Kebab",
+  "BusinessName": "Ewell Fish Bar & Kebab",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00062/COMM",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "Surrey",
   "PostCode": "KT19 9XE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

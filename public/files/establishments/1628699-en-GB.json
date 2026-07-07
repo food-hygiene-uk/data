@@ -9,11 +9,8 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.472646",
-    "Longitude": "-2.1471494"
-  },
-  "AddressLine1": "The Learning Hive Nursery School",
+  "Geocode": null,
+  "AddressLine1": "The Learning Hive Nursery",
   "AddressLine2": "30 Manchester Road",
   "AddressLine3": "Audenshaw",
   "AddressLine4": "Tameside",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-17",
+  "RatingDate": "2026-06-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

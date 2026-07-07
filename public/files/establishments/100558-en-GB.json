@@ -9,12 +9,9 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.138814",
-    "Longitude": "-0.465031"
-  },
-  "AddressLine2": "5-9 St Peters Street",
-  "AddressLine3": "Bedford",
+  "Geocode": null,
+  "AddressLine1": "5-9 ST PETERS STREET",
+  "AddressLine3": "BEDFORD",
   "PostCode": "MK40 2PN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
@@ -22,7 +19,7 @@
   "RatingDate": "2026-05-19",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

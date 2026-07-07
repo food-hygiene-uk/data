@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": {
-    "Latitude": "51.749763",
-    "Longitude": "-0.983189"
-  },
+  "Geocode": null,
   "AddressLine1": "43-44 High Street",
-  "AddressLine3": "THAME",
-  "AddressLine4": "Oxon",
+  "AddressLine2": "Thame",
+  "AddressLine3": "Oxon",
   "PostCode": "OX9 2AD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-20",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-15",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1374816",
-    "Longitude": "-0.4684828"
-  },
-  "AddressLine2": "19 Harpur Street",
-  "AddressLine3": "Bedford",
-  "PostCode": "MK40 1LB",
+  "Geocode": null,
+  "AddressLine1": "19 HARPUR STREET",
+  "AddressLine3": "BEDFORD",
+  "PostCode": "MK40 1LA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-09-22",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

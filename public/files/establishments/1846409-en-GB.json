@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bedford Elms Park",
-  "AddressLine2": "535 Goldington Road",
-  "AddressLine3": "Bedford",
+  "Geocode": {
+    "Latitude": "52.1452321",
+    "Longitude": "-0.4214761"
+  },
+  "AddressLine1": "532 GOLDINGTON ROAD",
+  "AddressLine3": "BEDFORD",
   "PostCode": "MK41 0DX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

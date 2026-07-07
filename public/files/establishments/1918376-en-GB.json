@@ -1,6 +1,6 @@
 {
   "FHRSID": 1918376,
-  "BusinessName": "Catering Unit @ Laneside Caravan Park",
+  "BusinessName": "Pitch 2 Plate Cafe @ Laneside Caravan Park",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "122262",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Hope Valley",
   "PostCode": "S33 6RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

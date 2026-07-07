@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6211876",
-    "Longitude": "-1.2889004"
-  },
-  "AddressLine1": "180B PARK DRIVE",
-  "AddressLine2": "MILTON PARK",
-  "AddressLine3": "MILTON",
-  "AddressLine4": "ABINGDON",
+  "Geocode": null,
+  "AddressLine1": "180B Park Drive Milton Park",
+  "AddressLine2": "Milton",
+  "AddressLine3": "Abingdon",
   "PostCode": "OX14 4SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

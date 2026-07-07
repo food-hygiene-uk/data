@@ -13,12 +13,16 @@
     "Latitude": "52.1352131",
     "Longitude": "-0.4757769"
   },
-  "AddressLine2": "139a Midland Road",
-  "AddressLine3": "Bedford",
+  "AddressLine1": "139A MIDLAND ROAD",
+  "AddressLine3": "BEDFORD",
   "PostCode": "MK40 1DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

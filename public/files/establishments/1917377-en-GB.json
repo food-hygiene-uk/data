@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.132757",
-    "Longitude": "-0.485461"
-  },
-  "AddressLine2": "2 Westbourne Road",
-  "AddressLine3": "Bedford",
+  "Geocode": null,
+  "AddressLine1": "2 WESTBOURNE ROAD",
+  "AddressLine3": "BEDFORD",
   "PostCode": "MK40 4LB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

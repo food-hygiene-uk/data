@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Yeowards And Dowie",
-  "AddressLine2": "Island Street",
-  "AddressLine3": "Salcombe",
+  "Geocode": {
+    "Latitude": "50.23984964",
+    "Longitude": "-3.76873779"
+  },
+  "AddressLine1": "Island Street",
+  "AddressLine2": "Salcombe",
   "PostCode": "TQ8 8DP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

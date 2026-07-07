@@ -9,21 +9,13 @@
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.3720741271973",
-    "Longitude": "-4.14648914337158"
-  },
-  "AddressLine1": "131 Plymouth Market",
-  "AddressLine2": "Market Avenue",
-  "AddressLine3": "Plymouth",
+  "Geocode": null,
+  "AddressLine2": "Stall 10 Plymouth Market",
+  "AddressLine3": "Cornwall street",
   "PostCode": "PL1 1PS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-31",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

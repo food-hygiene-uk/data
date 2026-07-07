@@ -1,6 +1,6 @@
 {
   "FHRSID": 1955328,
-  "BusinessName": "King Whippy Ice Cream",
+  "BusinessName": "King Whippy Ice Cream (Ice Cream Van PL18 URV)",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00234/DOM",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

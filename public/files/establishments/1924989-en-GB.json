@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1323606",
-    "Longitude": "-0.4677777"
-  },
-  "AddressLine2": "26 Cauldwell Street",
-  "AddressLine3": "Bedford",
+  "Geocode": null,
+  "AddressLine1": "26 CAULDWELL STREET",
+  "AddressLine3": "BEDFORD",
   "PostCode": "MK42 9AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

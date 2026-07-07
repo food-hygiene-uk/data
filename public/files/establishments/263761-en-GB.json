@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6139863",
+    "Longitude": "-1.6464647"
+  },
   "AddressLine1": "Shrivenham 100 Business Park",
-  "AddressLine3": "Watchfield",
-  "AddressLine4": "SWINDON",
+  "AddressLine2": "Watchfield",
+  "AddressLine3": "Swindon",
   "PostCode": "SN6 8TZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

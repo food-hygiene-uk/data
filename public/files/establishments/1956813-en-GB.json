@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956813,
-  "BusinessName": "The Pot Shop",
+  "BusinessName": "The Pot & Bottle",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx18363",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine4": "Ingleton",
   "PostCode": "LA6 3AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.1280189",
+    "Longitude": "-1.5275841"
+  },
+  "AddressLine1": "Harewood Road",
+  "AddressLine4": "Ripon",
+  "PostCode": "HG4 1TG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

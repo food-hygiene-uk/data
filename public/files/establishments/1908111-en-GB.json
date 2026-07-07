@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.554517",
-    "Longitude": "-2.656531"
-  },
-  "AddressLine1": "263 Woodhouse Lane",
-  "AddressLine2": "Wigan",
-  "PostCode": "WN6 7NR",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

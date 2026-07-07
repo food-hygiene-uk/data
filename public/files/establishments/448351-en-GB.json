@@ -1,29 +1,27 @@
 {
   "FHRSID": 448351,
-  "BusinessName": "High Wycombe Judo Centre",
+  "BusinessName": "Jb's Bar and Café",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "12/00534/MIXED",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6163215637207",
-    "Longitude": "-0.787328004837036"
-  },
-  "AddressLine1": "Barry Close",
-  "AddressLine2": "High Wycombe",
-  "AddressLine3": "Buckinghamshire",
+  "Geocode": null,
+  "AddressLine1": "High Wycombe Judo Centre",
+  "AddressLine2": "Barry Close",
+  "AddressLine3": "High Wycombe",
+  "AddressLine4": "Buckinghamshire",
   "PostCode": "HP12 4UE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-10-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

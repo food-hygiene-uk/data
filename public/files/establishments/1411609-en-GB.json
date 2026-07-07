@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "520",
   "LocalAuthorityName": "Kensington and Chelsea",
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
   "Geocode": {
     "Latitude": "51.5141678",
@@ -16,12 +16,12 @@
   "AddressLine1": "61 Ledbury Road",
   "AddressLine2": "LONDON",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-01",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }
