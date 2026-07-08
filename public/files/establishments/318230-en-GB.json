@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5997137",
+    "Longitude": "-1.3097082"
+  },
   "AddressLine1": "Rowstock Corner Garage Abingdon Road",
   "AddressLine2": "Rowstock",
   "AddressLine3": "Didcot",

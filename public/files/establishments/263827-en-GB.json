@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6371148",
+    "Longitude": "-1.5050814"
+  },
   "AddressLine1": "27 High Street Stanford In The Vale",
   "AddressLine2": "Faringdon",
   "AddressLine3": "Oxon",

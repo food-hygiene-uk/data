@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5984403",
+    "Longitude": "-1.1098675"
+  },
   "AddressLine1": "79 The Street",
   "AddressLine2": "Crowmarsh Gifford",
   "AddressLine3": "Wallingford Oxon",

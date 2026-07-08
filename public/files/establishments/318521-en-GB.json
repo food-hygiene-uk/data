@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5348081",
+    "Longitude": "-0.9007745"
+  },
   "AddressLine1": "20 Station Road",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

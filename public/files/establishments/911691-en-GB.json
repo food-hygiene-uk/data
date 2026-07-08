@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.670487",
+    "Longitude": "-1.2857143"
+  },
   "AddressLine1": "Oracle Snooker Club Coexeter House",
   "AddressLine2": "21-27 Ock Street",
   "AddressLine3": "Abingdon",

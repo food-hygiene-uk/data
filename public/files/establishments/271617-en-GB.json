@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8039633",
+    "Longitude": "-1.2273578"
+  },
   "AddressLine1": "Woodeaton Manor School",
   "AddressLine2": "Woodeaton",
   "AddressLine3": "Oxford",

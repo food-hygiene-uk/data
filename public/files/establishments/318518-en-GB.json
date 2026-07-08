@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5321891",
+    "Longitude": "-1.072616"
+  },
   "AddressLine1": "4 Whitehouse Road",
   "AddressLine2": "Woodcote",
   "AddressLine3": "Reading",

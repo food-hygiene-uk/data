@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5905572",
+    "Longitude": "-1.4373957"
+  },
   "AddressLine1": "Framland Naldertown",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

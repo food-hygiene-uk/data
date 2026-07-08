@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6733606",
+    "Longitude": "-1.0718988"
+  },
   "AddressLine1": "Chalgrove Airfield",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

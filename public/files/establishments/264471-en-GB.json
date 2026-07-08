@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6707271",
+    "Longitude": "-1.2808516"
+  },
   "AddressLine1": "9 Stert Street",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

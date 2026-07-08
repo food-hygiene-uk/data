@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7412021",
+    "Longitude": "-0.9693575"
+  },
   "AddressLine1": "Sharing Life Trust Unit D2",
   "AddressLine2": "Station Yard",
   "AddressLine3": "Thame",

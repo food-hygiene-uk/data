@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6702107",
+    "Longitude": "-1.3041126"
+  },
   "AddressLine1": "15 Eyston Way Abingdon",
   "AddressLine2": "Oxfordshire",
   "PostCode": "OX14 1TR",

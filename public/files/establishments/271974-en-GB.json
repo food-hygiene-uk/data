@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6246542",
+    "Longitude": "-1.0901247"
+  },
   "AddressLine1": "Fifield Manor",
   "AddressLine2": "Benson",
   "AddressLine3": "Wallingford Oxon",

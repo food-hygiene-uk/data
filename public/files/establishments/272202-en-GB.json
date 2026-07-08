@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7470301",
+    "Longitude": "-0.977397"
+  },
   "AddressLine1": "6-7 Cornmarket",
   "AddressLine2": "Thame",
   "AddressLine3": "Oxon",

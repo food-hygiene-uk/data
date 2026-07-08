@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.724843",
+    "Longitude": "-1.2499656"
+  },
   "AddressLine1": "18 Kennington Road Kennington",
   "AddressLine2": "Oxford",
   "PostCode": "OX1 5NZ",

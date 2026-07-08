@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5832706",
+    "Longitude": "-1.4255642"
+  },
   "AddressLine1": "Wantage Bowling Club Manor Road",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

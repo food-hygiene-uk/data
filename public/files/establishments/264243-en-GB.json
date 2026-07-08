@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5900777",
+    "Longitude": "-1.4111155"
+  },
   "AddressLine1": "78 Charlton Road",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

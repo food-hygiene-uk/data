@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5794637",
+    "Longitude": "-1.308085"
+  },
   "AddressLine1": "Quad One Becquerel Avenue",
   "AddressLine2": "Harwell Oxford",
   "AddressLine3": "Didcot",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.658565",
+    "Longitude": "-1.5828564"
+  },
   "AddressLine1": "The Old Theatre 22 Swan Lane",
   "AddressLine3": "Faringdon",
   "PostCode": "SN7 7AF",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6409843",
+    "Longitude": "-1.2136312"
+  },
   "AddressLine1": "High Street",
   "AddressLine2": "Long Wittenham",
   "AddressLine3": "Abingdon Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5388114",
+    "Longitude": "-0.9055675"
+  },
   "AddressLine1": "33 Bell Street",
   "AddressLine2": "Henley-On-Thames",
   "PostCode": "RG9 2BA",

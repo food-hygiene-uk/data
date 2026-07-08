@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6446549",
+    "Longitude": "-1.3129866"
+  },
   "AddressLine1": "9 The Green Drayton",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5379896",
+    "Longitude": "-0.9013653"
+  },
   "AddressLine1": "The Chantry House Hart Street",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

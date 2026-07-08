@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6202252",
+    "Longitude": "-1.2483975"
+  },
   "AddressLine1": "Unit S7 Didcot Enterprise Centre Hawksworth",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

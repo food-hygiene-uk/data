@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6147322",
+    "Longitude": "-1.6374467"
+  },
   "AddressLine1": "Unit 3 Majors Road",
   "AddressLine2": "Watchfield",
   "AddressLine3": "Swindon",

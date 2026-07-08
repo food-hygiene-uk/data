@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5867232",
+    "Longitude": "-1.4273682"
+  },
   "AddressLine1": "Wantage Community Larder The Beacon Wantage Civic Hall Portway",
   "AddressLine3": "Wantage",
   "PostCode": "OX12 9BX",

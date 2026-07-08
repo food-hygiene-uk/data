@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6680217",
+    "Longitude": "-1.0821568"
+  },
   "AddressLine1": "66 High Street",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

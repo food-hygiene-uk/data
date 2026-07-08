@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5712875",
+    "Longitude": "-1.2999808"
+  },
   "AddressLine1": "Wyevale Garden Centre Newbury Road",
   "AddressLine2": "Chilton",
   "AddressLine3": "Didcot",

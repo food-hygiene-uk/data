@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6064499",
+    "Longitude": "-1.2413757"
+  },
   "AddressLine1": "152 Broadway",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

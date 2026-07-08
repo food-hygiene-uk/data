@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6751471",
+    "Longitude": "-1.2875934"
+  },
   "AddressLine1": "The Orchard Faringdon Road",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxfordshire",

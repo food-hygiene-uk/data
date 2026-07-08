@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6004583",
+    "Longitude": "-1.3357103"
+  },
   "AddressLine1": "Mather House White Road",
   "AddressLine2": "East Hendred",
   "AddressLine3": "Wantage",

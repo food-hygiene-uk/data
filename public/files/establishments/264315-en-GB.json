@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.600838",
+    "Longitude": "-1.290142"
+  },
   "AddressLine1": "2 High Street Harwell",
   "AddressLine2": "Didcot",
   "PostCode": "OX11 0ER",

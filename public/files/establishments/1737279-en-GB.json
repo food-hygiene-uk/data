@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.598273",
+    "Longitude": "-1.2478213"
+  },
   "AddressLine1": "Northbourne C Of E School Cockcroft Road",
   "AddressLine3": "Didcot",
   "PostCode": "OX11 8LJ",

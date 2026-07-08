@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6050701",
+    "Longitude": "-1.2215004"
+  },
   "AddressLine1": "Tesco Stores Wallingford Road",
   "AddressLine3": "Didcot Oxon",
   "PostCode": "OX11 9BZ",

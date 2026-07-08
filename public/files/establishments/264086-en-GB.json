@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.751787",
+    "Longitude": "-1.2990202"
+  },
   "AddressLine1": "78 West Way Oxford",
   "PostCode": "OX2 9JU",
   "SchemeType": "FHRS",

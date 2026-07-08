@@ -1,9 +1,9 @@
 {
   "FHRSID": 1916332,
   "BusinessName": "SV Wholesale",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "PI/000152238",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
@@ -19,8 +19,12 @@
   "AddressLine4": "Walsall",
   "PostCode": "WS9 8UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

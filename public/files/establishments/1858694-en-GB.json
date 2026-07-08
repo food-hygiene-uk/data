@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7531493",
+    "Longitude": "-1.1879264"
+  },
   "AddressLine1": "Oak Apples Old Road",
   "AddressLine2": "Shotover Hill",
   "AddressLine3": "Headington Oxford",

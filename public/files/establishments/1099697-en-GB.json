@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5405227",
+    "Longitude": "-0.9121403"
+  },
   "AddressLine1": "Badgemore C P School Hop Gardens",
   "AddressLine3": "Henley-On-Thames",
   "PostCode": "RG9 2HL",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6667508",
+    "Longitude": "-1.343566"
+  },
   "AddressLine1": "The Crown 1 Packhorse Lane",
   "AddressLine2": "Marcham",
   "AddressLine3": "Abingdon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.581148",
+    "Longitude": "-1.033551"
+  },
   "AddressLine1": "Huntercombe Golf Club Nuffield Hill",
   "AddressLine2": "Nuffield",
   "AddressLine3": "Henley-On-Thames Oxon",

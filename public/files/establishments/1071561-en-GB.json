@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6049884",
+    "Longitude": "-1.2694476"
+  },
   "AddressLine1": "5 Gentian Mews",
   "AddressLine2": "Harwell",
   "AddressLine3": "Didcot",

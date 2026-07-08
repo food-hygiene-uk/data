@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5983963",
+    "Longitude": "-1.6560423"
+  },
   "AddressLine1": "54 High Street Shrivenham",
   "AddressLine2": "Swindon",
   "AddressLine3": "Wilts",

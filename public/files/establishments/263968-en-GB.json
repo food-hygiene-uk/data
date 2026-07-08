@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7074378",
+    "Longitude": "-1.267447"
+  },
   "AddressLine1": "Chandlings School Bagley Wood",
   "AddressLine2": "Kennington",
   "AddressLine3": "Oxford",

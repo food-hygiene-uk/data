@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6516422",
+    "Longitude": "-1.1582591"
+  },
   "AddressLine1": "Queenford Farm Drayton Lane",
   "AddressLine3": "Dorchester-On-Thames Wallingford",
   "PostCode": "OX10 7PH",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7482797",
+    "Longitude": "-0.9754235"
+  },
   "AddressLine1": "Rear Of 46B North Street",
   "AddressLine2": "Thame",
   "PostCode": "OX9 3BH",

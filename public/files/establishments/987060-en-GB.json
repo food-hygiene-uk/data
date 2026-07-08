@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6692548",
+    "Longitude": "-1.0650545"
+  },
   "AddressLine1": "Unit 12 Monument Business Park Warpsgrove Lane",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

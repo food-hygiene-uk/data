@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6142061",
+    "Longitude": "-1.2357829"
+  },
   "AddressLine1": "3 Lostock Place",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

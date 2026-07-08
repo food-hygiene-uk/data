@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6137111",
+    "Longitude": "-1.0797334"
+  },
   "AddressLine1": "17 Battle Road",
   "AddressLine2": "Benson",
   "AddressLine3": "Wallingford Oxon",

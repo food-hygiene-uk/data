@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5989347",
+    "Longitude": "-1.3895935"
+  },
   "AddressLine1": "Lains Barn Grove Park Drive",
   "AddressLine2": "Grove Park",
   "AddressLine3": "Wantage Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.613985",
+    "Longitude": "-1.1657725"
+  },
   "AddressLine1": "The Stewart Hall West End",
   "AddressLine2": "Brightwell-Cum-Sotwell",
   "AddressLine3": "Wallingford Oxon",

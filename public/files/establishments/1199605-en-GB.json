@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5284802",
+    "Longitude": "-0.8935931"
+  },
   "AddressLine1": "Henley Manor Care Home Mill Lane",
   "AddressLine3": "Henley-On-Thames",
   "PostCode": "RG9 4HD",

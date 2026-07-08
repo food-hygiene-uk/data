@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6209727",
+    "Longitude": "-1.2920383"
+  },
   "AddressLine1": "106 Park Drive Milton Park",
   "AddressLine2": "Milton",
   "AddressLine3": "Abingdon",

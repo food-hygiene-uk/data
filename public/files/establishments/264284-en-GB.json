@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5763615",
+    "Longitude": "-1.4511359"
+  },
   "AddressLine1": "The Greyhound Main Street",
   "AddressLine2": "Letcombe Regis",
   "AddressLine3": "Wantage",

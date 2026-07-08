@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5352003",
+    "Longitude": "-0.90148"
+  },
   "AddressLine1": "Chiltern House 45 Station Road",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

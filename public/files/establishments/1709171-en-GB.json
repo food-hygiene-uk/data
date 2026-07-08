@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5838718",
+    "Longitude": "-1.4833322"
+  },
   "AddressLine1": "The Ridgeway Primary School West Street",
   "AddressLine2": "Childrey",
   "AddressLine3": "Wantage",

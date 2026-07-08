@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.746685",
+    "Longitude": "-1.1370141"
+  },
   "AddressLine1": "76 High Street",
   "AddressLine2": "Wheatley",
   "AddressLine3": "Oxford",

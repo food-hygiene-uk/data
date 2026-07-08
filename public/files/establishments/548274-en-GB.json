@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6645848",
+    "Longitude": "-1.2940197"
+  },
   "AddressLine1": "Caldecott Junior School Caldecott Road",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

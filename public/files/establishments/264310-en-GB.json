@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6773517",
+    "Longitude": "-1.2755154"
+  },
   "AddressLine1": "13 Oxford Road Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 2ED",

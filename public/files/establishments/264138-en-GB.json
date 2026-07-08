@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.678796",
+    "Longitude": "-1.2653926"
+  },
   "AddressLine1": "191 Radley Road Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 3SG",

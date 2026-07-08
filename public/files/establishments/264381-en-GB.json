@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5884569",
+    "Longitude": "-1.4233336"
+  },
   "AddressLine1": "39 Wallingford Street",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.74912453",
+    "Longitude": "-0.97758933"
+  },
   "AddressLine1": "Greyhound Lane",
   "AddressLine2": "Thame",
   "PostCode": "OX9 3ZD",

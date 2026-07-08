@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5344749",
+    "Longitude": "-0.9033827"
+  },
   "AddressLine1": "Christ Church Centre 46 Reading Road",
   "AddressLine3": "Henley-On-Thames Oxon",
   "PostCode": "RG9 1AG",

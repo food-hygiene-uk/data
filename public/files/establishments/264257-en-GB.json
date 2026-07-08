@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6846369",
+    "Longitude": "-1.2662674"
+  },
   "AddressLine1": "Unit 13 Peachcroft Shopping Centre Peachcroft Road",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 2QA",

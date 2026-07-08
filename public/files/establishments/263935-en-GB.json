@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5962161",
+    "Longitude": "-1.3362817"
+  },
   "AddressLine1": "Eyston Arms High Street",
   "AddressLine2": "East Hendred",
   "AddressLine3": "Wantage",

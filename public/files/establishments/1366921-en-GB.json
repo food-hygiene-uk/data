@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5498526",
+    "Longitude": "-1.0187263"
+  },
   "AddressLine1": "Unit 11 Van Alloys Estate Busgrove Lane",
   "AddressLine2": "Stoke Row",
   "AddressLine3": "Henley-On-Thames Oxon",

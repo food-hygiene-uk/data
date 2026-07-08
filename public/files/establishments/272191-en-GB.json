@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7478277",
+    "Longitude": "-0.9792869"
+  },
   "AddressLine1": "10 High Street",
   "AddressLine2": "Thame",
   "AddressLine3": "Oxon",

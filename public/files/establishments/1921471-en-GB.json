@@ -1,23 +1,24 @@
 {
   "FHRSID": 1921471,
-  "BusinessName": "Hendon Gan",
+  "BusinessName": "The Hendon Gan",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "26/00118/COMM",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5874562",
-    "Longitude": "-0.2113297"
-  },
-  "AddressLine1": "155 Bell Lane",
+  "Geocode": null,
+  "AddressLine1": "Sopers Yard 155 Bell Lane London",
   "PostCode": "NW4 2AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

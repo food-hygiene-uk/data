@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5904734",
+    "Longitude": "-1.425661"
+  },
   "AddressLine1": "Unit 10 Kings Park",
   "AddressLine2": "Limborough Road",
   "AddressLine3": "Wantage",

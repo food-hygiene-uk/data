@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5863071",
+    "Longitude": "0.4819097"
+  },
+  "AddressLine1": "Inglebright",
+  "AddressLine2": "Cavenham Road",
+  "AddressLine3": "Wereham",
+  "AddressLine4": "King's Lynn",
+  "PostCode": "PE33 9AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

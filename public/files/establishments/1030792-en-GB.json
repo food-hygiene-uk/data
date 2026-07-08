@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5362324",
+    "Longitude": "-0.9031998"
+  },
   "AddressLine1": "6 Friday Street",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

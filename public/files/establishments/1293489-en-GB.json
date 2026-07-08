@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7161601",
+    "Longitude": "-1.2940273"
+  },
   "AddressLine1": "Ripon Lodge Jarn Way",
   "AddressLine2": "Boars Hill",
   "AddressLine3": "Oxford",

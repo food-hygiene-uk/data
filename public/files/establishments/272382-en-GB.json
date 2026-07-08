@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.53911286",
+    "Longitude": "-0.90463386"
+  },
   "AddressLine1": "49-55 Bell Street",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

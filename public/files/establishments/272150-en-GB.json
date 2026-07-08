@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.645052",
+    "Longitude": "-1.0050291"
+  },
   "AddressLine1": "3 High Street",
   "AddressLine2": "Watlington",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7471116",
+    "Longitude": "-1.1391285"
+  },
   "AddressLine1": "1 Station Road Wheatley",
   "AddressLine2": "Oxford",
   "PostCode": "OX33 1ST",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.59921627",
+    "Longitude": "-1.42281003"
+  },
   "AddressLine1": "Grove Road",
   "AddressLine2": "Grove",
   "AddressLine3": "Wantage",

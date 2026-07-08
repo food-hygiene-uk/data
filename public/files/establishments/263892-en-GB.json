@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5956177",
+    "Longitude": "-1.4314286"
+  },
   "AddressLine1": "Fitzwaryn School Denchworth Road",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

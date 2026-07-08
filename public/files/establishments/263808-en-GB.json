@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6781563",
+    "Longitude": "-1.2876297"
+  },
   "AddressLine1": "50-52 Wootton Road",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

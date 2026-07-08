@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7496904",
+    "Longitude": "-1.1393318"
+  },
   "AddressLine1": "5 Park Hill",
   "AddressLine2": "Wheatley",
   "AddressLine3": "Oxford",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7341407",
+    "Longitude": "-1.0633109"
+  },
   "AddressLine1": "Sandy Lane Farm Sandy Lane",
   "AddressLine2": "Tiddington",
   "AddressLine3": "Thame Oxon",

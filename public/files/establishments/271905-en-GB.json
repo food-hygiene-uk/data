@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5983917",
+    "Longitude": "-1.1115699"
+  },
   "AddressLine1": "The Queens Head 72 The Street",
   "AddressLine2": "Crowmarsh Gifford",
   "AddressLine3": "Wallingford Oxon",

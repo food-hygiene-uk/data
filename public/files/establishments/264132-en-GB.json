@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.64702",
+    "Longitude": "-1.3115057"
+  },
   "AddressLine1": "40 Abingdon Road Drayton",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 4HP",

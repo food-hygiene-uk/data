@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5270498",
+    "Longitude": "-0.8943821"
+  },
   "AddressLine1": "357 Reading Road",
   "AddressLine3": "Henley-On-Thames",
   "PostCode": "RG9 4HA",

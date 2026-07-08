@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5256332",
+    "Longitude": "-0.9860529"
+  },
   "AddressLine1": "31 Stoke Row Road",
   "AddressLine2": "Peppard Common",
   "AddressLine3": "Henley-On-Thames Oxon",

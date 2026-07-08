@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "181",
   "LocalAuthorityName": "Dartford",
   "LocalAuthorityWebSite": "http://www.dartford.gov.uk/foodsafety/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": {
-    "Latitude": "51.4517252",
-    "Longitude": "0.2298628"
+    "Latitude": "51.4534476",
+    "Longitude": "0.2319545"
   },
-  "AddressLine1": "Out Of Mischief Nursery School",
-  "AddressLine2": "Marsh Street",
-  "AddressLine3": "Dartford",
-  "AddressLine4": "Kent",
+  "AddressLine1": "Marsh Street",
+  "AddressLine2": "Dartford",
+  "AddressLine3": "Kent",
   "PostCode": "DA1 5QB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

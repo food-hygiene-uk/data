@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5854",
+    "Longitude": "-1.429"
+  },
   "AddressLine1": "2 Portway Wantage",
   "AddressLine2": "Oxon",
   "PostCode": "OX12 9BU",

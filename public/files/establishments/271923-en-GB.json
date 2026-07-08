@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5989865",
+    "Longitude": "-1.1249279"
+  },
   "AddressLine1": "2 The Arcade",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

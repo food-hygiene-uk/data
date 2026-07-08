@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6023774",
+    "Longitude": "-1.110698"
+  },
   "AddressLine1": "Maclean Building Benson Lane",
   "AddressLine2": "Crowmarsh Gifford",
   "AddressLine3": "Wallingford Oxon",

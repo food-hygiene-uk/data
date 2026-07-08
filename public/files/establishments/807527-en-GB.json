@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6109861",
+    "Longitude": "-1.2670275"
+  },
   "AddressLine1": "1 Greenfinch Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7031286",
+    "Longitude": "-0.9100635"
+  },
   "AddressLine1": "Chinnor Library Station Road",
   "AddressLine2": "Chinnor",
   "AddressLine3": "Oxon",

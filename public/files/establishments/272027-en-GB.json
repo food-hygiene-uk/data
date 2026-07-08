@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7165024",
+    "Longitude": "-1.1596836"
+  },
   "AddressLine1": "16 The Green",
   "AddressLine2": "Garsington",
   "AddressLine3": "Oxford",

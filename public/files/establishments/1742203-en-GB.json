@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5401349",
+    "Longitude": "-0.963664"
+  },
   "AddressLine1": "Unit 5 Greys Green Farm Greys Green",
   "AddressLine2": "Rotherfield Greys",
   "AddressLine3": "Henley-On-Thames",

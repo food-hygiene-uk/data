@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5855463",
+    "Longitude": "-1.1313059"
+  },
   "AddressLine1": "Elizabeth House Reading Road",
   "AddressLine2": "Cholsey",
   "AddressLine3": "Wallingford Oxon",

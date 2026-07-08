@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7480969",
+    "Longitude": "-0.9587256"
+  },
   "AddressLine1": "Chinnor Rugby Club Rectory Pavilion",
   "AddressLine2": "Kingsey Road",
   "AddressLine3": "Thame",

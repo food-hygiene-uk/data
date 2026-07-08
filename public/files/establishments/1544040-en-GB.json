@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7061653",
+    "Longitude": "-0.9088182"
+  },
   "AddressLine1": "Bellwood House 57 Lower Road",
   "AddressLine3": "Chinnor",
   "PostCode": "OX39 4DU",

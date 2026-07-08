@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6202625",
+    "Longitude": "-0.9750449"
+  },
   "AddressLine1": "Greenfield Farm Greenfield",
   "AddressLine2": "Christmas Common",
   "AddressLine3": "Watlington Oxon",

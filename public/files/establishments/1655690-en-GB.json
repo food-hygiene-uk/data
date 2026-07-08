@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7508137",
+    "Longitude": "-1.2985529"
+  },
   "AddressLine1": "Seacourt Hall 3 Church Way",
   "AddressLine3": "Oxford",
   "PostCode": "OX2 9TH",

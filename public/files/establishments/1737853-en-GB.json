@@ -1,13 +1,13 @@
 {
   "FHRSID": 1737853,
-  "BusinessName": "Adams Fruit & Veg",
+  "BusinessName": "Adam Ali Baba Fruit & Veg",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "200066",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "885",
   "LocalAuthorityName": "Slough",
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
   "Geocode": {
     "Latitude": "51.5077884",
@@ -17,12 +17,12 @@
   "AddressLine3": "SLOUGH",
   "PostCode": "SL1 1BD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-03-31",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-02",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

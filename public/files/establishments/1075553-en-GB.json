@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7369057",
+    "Longitude": "-1.165567"
+  },
   "AddressLine1": "51 Cuddesdon Road",
   "AddressLine2": "Horspath",
   "AddressLine3": "Oxford",

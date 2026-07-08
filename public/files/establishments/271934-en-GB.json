@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6011935",
+    "Longitude": "-1.1291016"
+  },
   "AddressLine1": "48 High Street",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

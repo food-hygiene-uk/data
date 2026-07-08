@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6076598",
+    "Longitude": "-1.4300506"
+  },
   "AddressLine1": "Grovelands Centre 7 Savile Way",
   "AddressLine2": "Grove",
   "PostCode": "OX12 0PT",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6558274",
+    "Longitude": "-1.5893287"
+  },
   "AddressLine1": "Ferendune Court Ash Close",
   "AddressLine2": "Faringdon",
   "AddressLine3": "Oxon",

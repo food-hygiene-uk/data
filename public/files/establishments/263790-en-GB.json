@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6932781",
+    "Longitude": "-1.3295981"
+  },
   "AddressLine1": "The Merry Miller Cothill Road",
   "AddressLine2": "Dry Sandford",
   "AddressLine3": "Abingdon",

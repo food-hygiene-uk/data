@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6709562",
+    "Longitude": "-1.2830171"
+  },
   "AddressLine1": "18 Bury Street Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 3QT",

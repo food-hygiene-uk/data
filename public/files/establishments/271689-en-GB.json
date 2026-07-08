@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4985869",
+    "Longitude": "-0.8952755"
+  },
   "AddressLine1": "Shiplake College Reading Road",
   "AddressLine2": "Shiplake",
   "AddressLine3": "Henley-On-Thames Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6581334",
+    "Longitude": "-1.5828748"
+  },
   "AddressLine1": "5 London Street",
   "AddressLine2": "Faringdon",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6786756",
+    "Longitude": "-1.2897273"
+  },
   "AddressLine1": "32A Springfield Drive",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

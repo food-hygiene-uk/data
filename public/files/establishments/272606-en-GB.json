@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5769153",
+    "Longitude": "-1.1548631"
+  },
   "AddressLine1": "The Old School Marymead",
   "AddressLine2": "Cholsey",
   "AddressLine3": "Wallingford Oxon",

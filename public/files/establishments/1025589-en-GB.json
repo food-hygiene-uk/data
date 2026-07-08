@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6709532",
+    "Longitude": "-1.2810505"
+  },
   "AddressLine1": "21 Stert Street Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 3JF",

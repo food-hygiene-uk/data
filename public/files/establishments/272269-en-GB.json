@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6991478",
+    "Longitude": "-0.9142108"
+  },
   "AddressLine1": "36 Oakley Road",
   "AddressLine2": "Chinnor",
   "AddressLine3": "Oxon",

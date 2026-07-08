@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7011312",
+    "Longitude": "-1.5173203"
+  },
   "AddressLine1": "The Trout Inn At Tadpole Bridge",
   "AddressLine2": "Buckland Marsh",
   "AddressLine3": "Faringdon",

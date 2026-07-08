@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6227157",
+    "Longitude": "-1.3256595"
+  },
   "AddressLine1": "2 Stocks Lane Steventon",
   "AddressLine2": "Abingdon",
   "PostCode": "OX13 6SG",

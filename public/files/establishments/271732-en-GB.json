@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5305017",
+    "Longitude": "-1.0763172"
+  },
   "AddressLine1": "2 Bridle Path",
   "AddressLine2": "Woodcote",
   "AddressLine3": "Reading",

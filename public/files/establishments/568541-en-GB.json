@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7477097",
+    "Longitude": "-1.1289241"
+  },
   "AddressLine1": "Unit 30 Wheatley Business Centre Old London Road",
   "AddressLine2": "Wheatley",
   "AddressLine3": "Oxford",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6830959",
+    "Longitude": "-1.4137062"
+  },
   "AddressLine1": "Petypher House Petypher Gardens",
   "AddressLine2": "Kingston Bagpuize",
   "AddressLine3": "Abingdon",

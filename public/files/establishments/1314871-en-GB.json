@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6512505",
+    "Longitude": "-1.5736937"
+  },
   "AddressLine1": "Unit 5 Henry Blake Way",
   "AddressLine3": "Faringdon",
   "PostCode": "SN7 7GQ",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5120903",
+    "Longitude": "-0.9759609"
+  },
   "AddressLine1": "The Herb Farm Peppard Road",
   "AddressLine2": "Sonning Common",
   "AddressLine3": "Reading",

@@ -1,18 +1,30 @@
 {
   "FHRSID": 1897385,
   "BusinessName": "Gems Bake Shed",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000151997",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6092734",
+    "Longitude": "-1.9206313"
+  },
+  "AddressLine1": "64 Leighswood Avenue",
+  "AddressLine2": "Aldridge",
+  "AddressLine3": "Walsall",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WS9 8AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

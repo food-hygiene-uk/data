@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "182",
   "LocalAuthorityName": "Dover",
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
   "Geocode": {
     "Latitude": "51.31244",
@@ -18,12 +18,12 @@
   "AddressLine4": "Kent",
   "PostCode": "CT13 9QL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-06",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

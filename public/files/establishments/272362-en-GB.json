@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6056538",
+    "Longitude": "-1.2560892"
+  },
   "AddressLine1": "52-60 Wantage Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

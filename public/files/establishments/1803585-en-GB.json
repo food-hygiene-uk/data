@@ -1,26 +1,22 @@
 {
   "FHRSID": 1803585,
   "BusinessName": "Catherine's Donations",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "PI/000151199",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6155649",
-    "Longitude": "-1.9827085"
-  },
-  "AddressLine1": "1 Avon Road",
-  "AddressLine2": "Bloxwich",
-  "AddressLine3": "Walsall",
-  "AddressLine4": "West Midlands",
-  "PostCode": "WS3 1PA",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

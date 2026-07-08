@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5992695",
+    "Longitude": "-1.420064"
+  },
   "AddressLine1": "Elms Farm Grove Road",
   "AddressLine2": "Grove",
   "AddressLine3": "Wantage",

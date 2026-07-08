@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.68280355",
+    "Longitude": "-1.2902987"
+  },
   "AddressLine1": "Wootton Road",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 1FE",

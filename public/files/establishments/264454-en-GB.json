@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6701689",
+    "Longitude": "-1.3785679"
+  },
   "AddressLine1": "Millets Farm Garden Centre Kingston Road",
   "AddressLine2": "Frilford",
   "AddressLine3": "Abingdon",

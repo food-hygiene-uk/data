@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6530549",
+    "Longitude": "-1.2728916"
+  },
   "AddressLine1": "Culham Parochial Primary School High Street",
   "AddressLine2": "Culham",
   "AddressLine3": "Abingdon Oxon",

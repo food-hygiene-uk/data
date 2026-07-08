@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6023252",
+    "Longitude": "-1.1301484"
+  },
   "AddressLine1": "1 Millington Road",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5986577",
+    "Longitude": "-1.2489267"
+  },
   "AddressLine1": "6 Cockcroft Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6791992",
+    "Longitude": "-1.3066505"
+  },
   "AddressLine1": "60 Barrow Road",
   "AddressLine2": "Shippon",
   "AddressLine3": "Abingdon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6706795",
+    "Longitude": "-1.2818791"
+  },
   "AddressLine1": "38 Bury Street",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxfordshire",

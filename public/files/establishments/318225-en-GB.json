@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6398938",
+    "Longitude": "-1.2364539"
+  },
   "AddressLine1": "Manor Farm Church Street",
   "AddressLine2": "Appleford",
   "AddressLine3": "Abingdon",

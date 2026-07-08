@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6551818",
+    "Longitude": "-1.2340288"
+  },
   "AddressLine1": "Unit 120 Culham No 1 Site Station Road",
   "AddressLine2": "Culham",
   "AddressLine3": "Abingdon Oxon",

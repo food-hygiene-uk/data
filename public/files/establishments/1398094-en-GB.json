@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6003478",
+    "Longitude": "-1.2705483"
+  },
   "AddressLine1": "Southern Neighbourhood Community Centre 2 Sorrel Crescent",
   "AddressLine2": "Didcot",
   "PostCode": "OX11 6HQ",

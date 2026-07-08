@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7472125",
+    "Longitude": "-1.1448437"
+  },
   "AddressLine1": "33 Littleworth Road Wheatley",
   "AddressLine2": "Oxford",
   "PostCode": "OX33 1NW",

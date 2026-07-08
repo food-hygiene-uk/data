@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5390639",
+    "Longitude": "-0.9048898"
+  },
   "AddressLine1": "Regal Cinema Boroma Way",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "319",
   "LocalAuthorityName": "Rugby",
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
   "Geocode": {
     "Latitude": "52.2974684",
@@ -18,12 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "CV23 8DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-02",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

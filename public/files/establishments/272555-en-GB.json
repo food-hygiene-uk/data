@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7060249",
+    "Longitude": "-0.9091979"
+  },
   "AddressLine1": "51A Lower Road",
   "AddressLine2": "Chinnor",
   "AddressLine3": "Oxon",

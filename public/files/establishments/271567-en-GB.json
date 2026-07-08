@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6021854",
+    "Longitude": "-1.2382124"
+  },
   "AddressLine1": "4 The Croft",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

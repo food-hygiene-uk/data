@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.71091",
+    "Longitude": "-1.2491398"
+  },
   "AddressLine1": "89 Bagley Wood Road Kennington",
   "AddressLine2": "Oxford",
   "PostCode": "OX1 5NA",

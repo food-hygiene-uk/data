@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6372302",
+    "Longitude": "-1.1349433"
+  },
   "AddressLine1": "16 The Green South",
   "AddressLine2": "Warborough",
   "AddressLine3": "Wallingford Oxon",

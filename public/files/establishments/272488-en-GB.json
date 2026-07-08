@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5917137",
+    "Longitude": "-1.2433452"
+  },
   "AddressLine1": "Village Hall Main Road",
   "AddressLine2": "East Hagbourne",
   "AddressLine3": "Didcot Oxon",

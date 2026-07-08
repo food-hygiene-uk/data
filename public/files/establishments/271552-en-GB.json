@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5911946",
+    "Longitude": "-1.2405183"
+  },
   "AddressLine1": "30 Main Road",
   "AddressLine2": "East Hagbourne",
   "AddressLine3": "Didcot Oxon",

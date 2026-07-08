@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5753027",
+    "Longitude": "-1.1531757"
+  },
   "AddressLine1": "20 The Forty",
   "AddressLine2": "Cholsey",
   "AddressLine3": "Wallingford Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6007087",
+    "Longitude": "-1.1243606"
+  },
   "AddressLine1": "57 St Marys Street Wallingford",
   "AddressLine2": "Oxon",
   "PostCode": "OX10 0EL",

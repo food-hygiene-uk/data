@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5377996",
+    "Longitude": "-0.905397"
+  },
   "AddressLine1": "12-16 Market Place",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

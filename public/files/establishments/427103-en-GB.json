@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Ing Head Road",
+  "Geocode": {
+    "Latitude": "53.62571485",
+    "Longitude": "-1.89411455"
+  },
+  "AddressLine1": "IngHead Road",
   "AddressLine2": "Slaithwaite",
   "AddressLine3": "Huddersfield",
   "PostCode": "HD7 5DS",

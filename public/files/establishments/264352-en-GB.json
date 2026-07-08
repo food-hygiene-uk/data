@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6821463",
+    "Longitude": "-1.2764328"
+  },
   "AddressLine1": "33 Northcourt Road Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 1PJ",

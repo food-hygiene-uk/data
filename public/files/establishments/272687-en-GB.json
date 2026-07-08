@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7880663",
+    "Longitude": "-1.1781048"
+  },
   "AddressLine1": "Redways Farm New Inn Road",
   "AddressLine2": "Beckley",
   "AddressLine3": "Oxford",

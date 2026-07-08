@@ -1,13 +1,13 @@
 {
   "FHRSID": 1451593,
-  "BusinessName": "Rancho Express",
+  "BusinessName": "Rancho Express / Spice Club",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "22/00020/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
     "Latitude": "50.8228302001953",
@@ -17,12 +17,12 @@
   "AddressLine2": "Portsmouth",
   "PostCode": "PO2 9HF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-05",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

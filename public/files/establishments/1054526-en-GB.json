@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6877879",
+    "Longitude": "-1.1945338"
+  },
   "AddressLine1": "Cardinal House Baldon Lane",
   "AddressLine2": "Marsh Baldon",
   "AddressLine3": "Oxford",

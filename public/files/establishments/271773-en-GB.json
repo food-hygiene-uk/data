@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.537747",
+    "Longitude": "-0.903956"
+  },
   "AddressLine1": "7-15 Hart Street",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

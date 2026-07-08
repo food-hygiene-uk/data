@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6187274",
+    "Longitude": "-1.6325906"
+  },
   "AddressLine1": "Southdown Farm Faringdon Road",
   "AddressLine2": "Longcot",
   "AddressLine3": "Faringdon",

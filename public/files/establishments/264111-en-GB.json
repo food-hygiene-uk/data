@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7251735",
+    "Longitude": "-1.2538692"
+  },
   "AddressLine1": "Egrove Park Kennington Road",
   "AddressLine2": "Kennington",
   "AddressLine3": "Oxford",

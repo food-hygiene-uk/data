@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7154482",
+    "Longitude": "-1.2288279"
+  },
   "AddressLine1": "43 Sandford Road",
   "AddressLine2": "Littlemore",
   "AddressLine3": "Oxford",

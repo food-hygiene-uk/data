@@ -1,6 +1,6 @@
 {
   "FHRSID": 183974,
-  "BusinessName": "Bangers & Fries",
+  "BusinessName": "Sweet Sensations",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "PI/000120372",
   "BusinessTypeID": 7846,
@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.607312",
+    "Longitude": "-2.006364"
+  },
+  "AddressLine1": "Stephen James Owen",
+  "AddressLine2": "56 Reaymer Close",
+  "AddressLine3": "Bloxwich",
+  "AddressLine4": "Walsall",
+  "PostCode": "WS2 7QY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-03-27",
+  "RatingDate": "2026-06-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

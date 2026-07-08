@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.751576",
+    "Longitude": "-1.297434"
+  },
   "AddressLine1": "20 West Way Square",
   "AddressLine2": "Oxford",
   "PostCode": "OX2 9TJ",

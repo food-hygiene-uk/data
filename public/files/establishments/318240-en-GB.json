@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5938334",
+    "Longitude": "-1.3767656"
+  },
   "AddressLine1": "The Old Bakehouse Bakers Yard",
   "AddressLine2": "Ardington",
   "AddressLine3": "Wantage",

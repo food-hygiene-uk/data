@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6696001",
+    "Longitude": "-1.2803489"
+  },
   "AddressLine1": "18 Bridge Street Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 3HS",

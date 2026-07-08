@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5294683",
+    "Longitude": "-0.9165096"
+  },
   "AddressLine1": "126 Greys Road",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

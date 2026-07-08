@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6205803",
+    "Longitude": "-1.20003"
+  },
   "AddressLine1": "White Lees Farm Long Wittenham Road",
   "AddressLine2": "North Moreton",
   "AddressLine3": "Didcot Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7320703",
+    "Longitude": "-1.3301246"
+  },
   "AddressLine1": "Oxenford House The Glebe",
   "AddressLine2": "Cumnor",
   "AddressLine3": "Oxford",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5169638",
+    "Longitude": "-0.9863002"
+  },
   "AddressLine1": "36 Baskerville Road",
   "AddressLine2": "Sonning Common",
   "AddressLine3": "Reading",

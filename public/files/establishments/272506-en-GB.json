@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7380487",
+    "Longitude": "-1.0973793"
+  },
   "AddressLine1": "Welcome Break Oxford Thame Road",
   "AddressLine2": "Waterstock",
   "AddressLine3": "Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6620393",
+    "Longitude": "-1.2938857"
+  },
   "AddressLine1": "Nicholson House Gainsborough Green",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 5TT",

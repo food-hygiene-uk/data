@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6033425",
+    "Longitude": "-0.9566759"
+  },
   "AddressLine1": "Bank Farm The Old Road",
   "AddressLine2": "Pishill",
   "AddressLine3": "Henley-On-Thames Oxon",

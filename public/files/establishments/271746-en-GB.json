@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5757058",
+    "Longitude": "-0.9936282"
+  },
   "AddressLine1": "Malthurst Nettlebed High Street",
   "AddressLine2": "Nettlebed",
   "AddressLine3": "Henley-On-Thames Oxon",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7055521",
+    "Longitude": "-1.2367248"
+  },
   "AddressLine1": "68 Sandford Lane Kennington",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxon",

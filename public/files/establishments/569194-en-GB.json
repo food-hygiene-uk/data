@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5355612",
+    "Longitude": "-0.9035331"
+  },
   "AddressLine1": "24 Reading Road",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",

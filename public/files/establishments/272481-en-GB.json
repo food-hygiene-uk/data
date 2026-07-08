@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6074138",
+    "Longitude": "-1.2404269"
+  },
   "AddressLine1": "27 Station Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

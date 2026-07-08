@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5880628",
+    "Longitude": "-1.4254893"
+  },
   "AddressLine1": "3A Newbury Street Wantage",
   "AddressLine2": "Oxon",
   "PostCode": "OX12 8BU",

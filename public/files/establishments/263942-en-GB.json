@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6691053",
+    "Longitude": "-1.2921564"
+  },
   "AddressLine1": "182 Ock Street Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 5DR",

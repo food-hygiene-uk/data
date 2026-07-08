@@ -1,6 +1,6 @@
 {
   "FHRSID": 1961553,
-  "BusinessName": "Relish School Food Limited",
+  "BusinessName": "Newbold Verdon Primary School",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00130/COMM",
   "BusinessTypeID": 1,
@@ -9,15 +9,22 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Newbold Verdon Primary School",
-  "AddressLine2": "Dragon Lane",
-  "AddressLine3": "Newbold Verdon",
-  "AddressLine4": "Leicester",
+  "Geocode": {
+    "Latitude": "52.630585",
+    "Longitude": "-1.344936"
+  },
+  "AddressLine1": "Dragon Lane",
+  "AddressLine2": "Newbold Verdon",
+  "AddressLine3": "Leicester",
+  "AddressLine4": "Leicestershire",
   "PostCode": "LE9 9NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

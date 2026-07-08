@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7338438",
+    "Longitude": "-0.9177965"
+  },
   "AddressLine1": "Penn Farm Manor Road",
   "AddressLine2": "Towersey",
   "AddressLine3": "Thame",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.705022",
+    "Longitude": "-0.9133028"
+  },
   "AddressLine1": "Nicholls Of Chinnor Nicholls House 4 Thame Road",
   "AddressLine2": "Chinnor",
   "AddressLine3": "Oxon",

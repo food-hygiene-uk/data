@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6334096",
+    "Longitude": "-1.4042546"
+  },
   "AddressLine1": "Hanney Community Shop Brookside",
   "AddressLine2": "East Hanney",
   "AddressLine3": "Wantage",

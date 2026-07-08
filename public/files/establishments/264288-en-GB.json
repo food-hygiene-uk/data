@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7516897",
+    "Longitude": "-1.2977759"
+  },
   "AddressLine1": "3 Elms Parade Botley",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxon",

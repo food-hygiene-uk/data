@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.588012",
+    "Longitude": "-1.4279727"
+  },
   "AddressLine1": "17 Church Street Wantage",
   "AddressLine2": "Oxfordshire",
   "PostCode": "OX12 8BL",

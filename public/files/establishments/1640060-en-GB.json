@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4893265",
+    "Longitude": "-0.9413434"
+  },
   "AddressLine1": "Dunsden Green Farmhouse Church Lane",
   "AddressLine2": "Dunsden",
   "AddressLine3": "Reading Oxon",

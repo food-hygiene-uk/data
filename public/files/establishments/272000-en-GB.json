@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6605262",
+    "Longitude": "-1.169675"
+  },
   "AddressLine1": "184 Fane Drive",
   "AddressLine2": "Berinsfield",
   "AddressLine3": "Wallingford Oxon",

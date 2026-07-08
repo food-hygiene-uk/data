@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6449395",
+    "Longitude": "-1.0042449"
+  },
   "AddressLine1": "60 Couching Street",
   "AddressLine2": "Watlington",
   "AddressLine3": "Oxon",

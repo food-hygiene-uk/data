@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6196932",
+    "Longitude": "-1.300146"
+  },
   "AddressLine1": "4 Milton Gate",
   "AddressLine2": "Milton",
   "AddressLine3": "Abingdon",

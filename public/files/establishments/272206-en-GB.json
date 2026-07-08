@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7470077",
+    "Longitude": "-0.9770167"
+  },
   "AddressLine1": "12A Buttermarket",
   "AddressLine2": "Thame",
   "AddressLine3": "Oxon",

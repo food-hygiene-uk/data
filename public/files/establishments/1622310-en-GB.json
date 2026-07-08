@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7025484",
+    "Longitude": "-1.2823587"
+  },
   "AddressLine1": "Church Farm Barn Sunningwell",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxfordshire",

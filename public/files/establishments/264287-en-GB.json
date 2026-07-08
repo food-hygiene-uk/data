@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5903992",
+    "Longitude": "-1.4419736"
+  },
   "AddressLine1": "King Alfreds School West Challow Road",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

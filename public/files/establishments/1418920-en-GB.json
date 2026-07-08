@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": {
     "Latitude": "53.398006439209",
@@ -18,12 +18,12 @@
   "AddressLine4": "Altrincham",
   "PostCode": "WA15 7UR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-03-10",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-09",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

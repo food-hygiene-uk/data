@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6729857",
+    "Longitude": "-1.3672352"
+  },
   "AddressLine1": "Collins Farm Kingston Road",
   "AddressLine2": "Frilford",
   "AddressLine3": "Abingdon",

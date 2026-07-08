@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6033802",
+    "Longitude": "-1.1883478"
+  },
   "AddressLine1": "Melhuish Farm Wallingford Road",
   "AddressLine2": "North Moreton",
   "AddressLine3": "Didcot Oxon",

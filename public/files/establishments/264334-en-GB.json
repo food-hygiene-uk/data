@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5883475",
+    "Longitude": "-1.4267127"
+  },
   "AddressLine1": "The Arbery Building 11 - 12 Market Place",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

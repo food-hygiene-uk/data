@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5438342",
+    "Longitude": "-1.1580256"
+  },
   "AddressLine1": "Unit S4 Greenlands Farm Cow Lane",
   "AddressLine2": "Moulsford",
   "AddressLine3": "Wallingford",

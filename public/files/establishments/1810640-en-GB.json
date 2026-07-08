@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5997758",
+    "Longitude": "-1.1380371"
+  },
   "AddressLine1": "Mobile Catering Trailer Beadle Trading Estate Hithercroft Road",
   "AddressLine2": "Wallingford",
   "SchemeType": "FHRS",

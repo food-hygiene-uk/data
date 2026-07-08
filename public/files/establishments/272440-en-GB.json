@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6151901",
+    "Longitude": "-1.1519861"
+  },
   "AddressLine1": "Root One High Road",
   "AddressLine2": "Brightwell-Cum-Sotwell",
   "AddressLine3": "Wallingford Oxon",

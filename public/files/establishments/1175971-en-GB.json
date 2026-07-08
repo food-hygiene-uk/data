@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6708594",
+    "Longitude": "-1.2833657"
+  },
   "AddressLine1": "13 - 15 Bath Street Abingdon",
   "AddressLine2": "Oxfordshire",
   "PostCode": "OX14 3QH",

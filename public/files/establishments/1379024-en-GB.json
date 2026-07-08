@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6190963",
+    "Longitude": "-1.5944879"
+  },
   "AddressLine1": "First Floor Henleaze Farm Barn Fernham Road",
   "AddressLine3": "Longcot Faringdon",
   "PostCode": "SN7 7PR",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6702402",
+    "Longitude": "-1.0884895"
+  },
   "AddressLine1": "2 Mill Lane",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

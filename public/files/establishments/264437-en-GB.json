@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5887228",
+    "Longitude": "-1.4262172"
+  },
   "AddressLine1": "42-43 Market Place Wantage",
   "AddressLine2": "Oxon",
   "PostCode": "OX12 8AW",

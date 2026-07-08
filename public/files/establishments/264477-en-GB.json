@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6695893",
+    "Longitude": "-1.2815203"
+  },
   "AddressLine1": "10 East St Helen Street Abingdon",
   "AddressLine2": "Oxon",
   "PostCode": "OX14 5EA",

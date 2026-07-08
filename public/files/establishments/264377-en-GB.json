@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7072671",
+    "Longitude": "-1.316786"
+  },
   "AddressLine1": "6-8 Besselsleigh Road",
   "AddressLine2": "Wootton",
   "AddressLine3": "Abingdon",

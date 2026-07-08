@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.60108",
+    "Longitude": "-1.1244"
+  },
   "AddressLine1": "Unit 16 Lamb Arcade 83 High Street",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

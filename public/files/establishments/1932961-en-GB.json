@@ -1,23 +1,27 @@
 {
   "FHRSID": 1932961,
-  "BusinessName": "Slice of stone",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "Slice Of Stone",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00185/COMM",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6125232",
-    "Longitude": "-0.2756821"
+    "Latitude": "51.612885",
+    "Longitude": "-0.27598"
   },
-  "AddressLine1": "Station Road/ Broadwalk Shopping Centre",
+  "AddressLine1": "Broadwalk Shopping Centre  Station Road Edgware",
   "PostCode": "HA8 7BD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

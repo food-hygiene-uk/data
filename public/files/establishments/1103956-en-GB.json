@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6186869",
+    "Longitude": "-1.5942801"
+  },
   "AddressLine1": "Farmer Gows Fernham Road",
   "AddressLine2": "Longcot",
   "AddressLine3": "Faringdon",

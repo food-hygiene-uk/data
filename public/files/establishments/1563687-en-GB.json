@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6087601",
+    "Longitude": "-1.3129213"
+  },
   "AddressLine1": "Garden House Milton Hill",
   "AddressLine2": "Steventon",
   "PostCode": "OX13 6AF",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5893234",
+    "Longitude": "-1.4276819"
+  },
   "AddressLine1": "13 Mill Street Wantage",
   "AddressLine2": "Oxon",
   "PostCode": "OX12 9AB",

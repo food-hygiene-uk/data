@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5326151",
+    "Longitude": "-1.0732322"
+  },
   "AddressLine1": "6 Wood Green",
   "AddressLine2": "Woodcote",
   "AddressLine3": "Reading",

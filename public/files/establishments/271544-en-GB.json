@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6087923",
+    "Longitude": "-1.2618722"
+  },
   "AddressLine1": "129 Brasenose Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

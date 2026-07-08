@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5748888",
+    "Longitude": "-1.3145"
+  },
   "AddressLine1": "Rutherford Appleton Laboratory Harwell Oxford",
   "AddressLine2": "Didcot",
   "PostCode": "OX11 0QX",

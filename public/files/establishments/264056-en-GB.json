@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6278331",
+    "Longitude": "-1.2995161"
+  },
   "AddressLine1": "44 High Street",
   "AddressLine2": "Milton",
   "AddressLine3": "Abingdon",

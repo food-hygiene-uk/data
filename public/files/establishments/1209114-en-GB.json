@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5714345",
+    "Longitude": "-1.1386533"
+  },
   "AddressLine1": "Oxshed Café 5 Ratcliffe Court",
   "AddressLine3": "Cholsey Wallingford",
   "PostCode": "OX10 9QF",

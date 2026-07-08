@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6569759",
+    "Longitude": "-1.5860802"
+  },
   "AddressLine1": "30A Marlborough Street Faringdon",
   "AddressLine2": "Oxon",
   "PostCode": "SN7 7JP",

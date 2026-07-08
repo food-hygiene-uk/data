@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6583714",
+    "Longitude": "-1.5840436"
+  },
   "AddressLine1": "24 Market Place Faringdon",
   "AddressLine2": "Oxon",
   "PostCode": "SN7 7HU",

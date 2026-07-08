@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6342117",
+    "Longitude": "-1.2792759"
+  },
   "AddressLine1": "Sutton Courtenay Tyre & Garage Services 144 High Street",
   "AddressLine2": "Sutton Courtenay",
   "AddressLine3": "Abingdon",

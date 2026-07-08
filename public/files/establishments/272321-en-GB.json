@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5174296",
+    "Longitude": "-0.9815975"
+  },
   "AddressLine1": "44 Wood Lane",
   "AddressLine2": "Sonning Common",
   "AddressLine3": "Reading",

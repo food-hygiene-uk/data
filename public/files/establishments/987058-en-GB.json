@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6702482",
+    "Longitude": "-1.27974955"
+  },
   "AddressLine1": "Abbey Close",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 3HL",

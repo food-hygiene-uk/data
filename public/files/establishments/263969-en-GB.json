@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5921635",
+    "Longitude": "-1.3778864"
+  },
   "AddressLine1": "The Boars Head Church Street",
   "AddressLine2": "Ardington",
   "AddressLine3": "Wantage",

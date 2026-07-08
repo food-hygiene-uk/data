@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7305629",
+    "Longitude": "-1.2644259"
+  },
   "AddressLine1": "Oxford Garden Centre Southern Bypass",
   "AddressLine2": "South Hinksey",
   "AddressLine3": "Oxford",

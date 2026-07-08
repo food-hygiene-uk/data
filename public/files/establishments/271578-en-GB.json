@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6075171",
+    "Longitude": "-1.2493437"
+  },
   "AddressLine1": "Smallbone Recreation Ground Britwell Road",
   "AddressLine2": "Didcot",
   "AddressLine3": "Oxon",

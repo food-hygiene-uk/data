@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5971217",
+    "Longitude": "-1.4037636"
+  },
   "AddressLine1": "11 Daisy Lane",
   "AddressLine2": "Wantage",
   "PostCode": "OX12 7LP",

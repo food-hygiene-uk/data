@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6559539",
+    "Longitude": "-1.2591118"
+  },
   "AddressLine1": "European School Thame Lane",
   "AddressLine2": "Culham",
   "AddressLine3": "Abingdon",

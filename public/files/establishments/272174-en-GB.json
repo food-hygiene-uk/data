@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.645551",
+    "Longitude": "-1.0036979"
+  },
   "AddressLine1": "13 Shirburn Street",
   "AddressLine2": "Watlington",
   "AddressLine3": "Oxon",

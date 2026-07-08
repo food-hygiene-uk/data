@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6816002",
+    "Longitude": "-1.2760259"
+  },
   "AddressLine1": "Christ Church Northcourt Road",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 1PL",

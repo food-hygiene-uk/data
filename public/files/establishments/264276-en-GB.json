@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6084349",
+    "Longitude": "-1.3157566"
+  },
   "AddressLine1": "Milton Hill House Milton Hill",
   "AddressLine2": "Steventon",
   "AddressLine3": "Abingdon",

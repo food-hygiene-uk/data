@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6458883",
+    "Longitude": "-1.269971"
+  },
   "AddressLine1": "4 Appleford Road",
   "AddressLine2": "Sutton Courtenay",
   "AddressLine3": "Abingdon",

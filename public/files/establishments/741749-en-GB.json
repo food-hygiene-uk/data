@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6413547",
+    "Longitude": "-1.1656608"
+  },
   "AddressLine1": "Sycamore 6 Samian Way",
   "AddressLine2": "Dorchester-On-Thames",
   "AddressLine3": "Wallingford Oxon",

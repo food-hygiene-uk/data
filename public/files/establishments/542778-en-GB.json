@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6441223",
+    "Longitude": "-1.4310868"
+  },
   "AddressLine1": "Cobweb Building Manor Farm Lyford",
   "AddressLine2": "Wantage",
   "PostCode": "OX12 0EE",

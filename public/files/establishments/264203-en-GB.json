@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5988385",
+    "Longitude": "-1.6535269"
+  },
   "AddressLine1": "25 High Street Shrivenham",
   "AddressLine2": "Swindon",
   "PostCode": "SN6 8AN",

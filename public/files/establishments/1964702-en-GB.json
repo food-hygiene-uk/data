@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7840297",
+    "Longitude": "0.1209295"
+  },
   "AddressLine1": "Unit 3",
   "AddressLine2": "Advance House Business Mews",
   "AddressLine3": "Central Road",

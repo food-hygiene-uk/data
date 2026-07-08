@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6229949",
+    "Longitude": "-1.300905"
+  },
   "AddressLine1": "25 Western Avenue Milton Park",
   "AddressLine2": "Milton",
   "AddressLine3": "Abingdon",

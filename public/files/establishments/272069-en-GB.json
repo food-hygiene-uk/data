@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6673403",
+    "Longitude": "-1.0809837"
+  },
   "AddressLine1": "The Crown 96 High Street",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

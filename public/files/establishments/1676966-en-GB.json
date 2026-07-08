@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6069214",
+    "Longitude": "-1.2385313"
+  },
   "AddressLine1": "26A Orchard Street",
   "AddressLine2": "Didcot",
   "PostCode": "OX11 7LG",

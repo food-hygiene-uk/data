@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6142916",
+    "Longitude": "-1.2415339"
+  },
   "AddressLine1": "Willowbrook Bowmont Water",
   "AddressLine2": "Didcot",
   "PostCode": "OX11 7AF",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.671895",
+    "Longitude": "-1.0580296"
+  },
   "AddressLine1": "4 Tower Estate Warpsgrove Lane",
   "AddressLine2": "Chalgrove",
   "AddressLine3": "Oxford",

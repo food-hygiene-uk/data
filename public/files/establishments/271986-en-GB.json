@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.64433149",
+    "Longitude": "-1.16615239"
+  },
   "AddressLine1": "27-29 High Street",
   "AddressLine2": "Dorchester-On-Thames",
   "AddressLine3": "Wallingford Oxon",

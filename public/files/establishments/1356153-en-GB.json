@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5749185",
+    "Longitude": "-0.994403"
+  },
   "AddressLine1": "Manor Farm South High Street",
   "AddressLine3": "Nettlebed Henley-On-Thames",
   "PostCode": "RG9 5DA",

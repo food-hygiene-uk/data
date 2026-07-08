@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.702",
+    "Longitude": "-0.90464"
+  },
   "AddressLine1": "4 Keens Lane",
   "AddressLine2": "Chinnor",
   "AddressLine3": "Oxon",

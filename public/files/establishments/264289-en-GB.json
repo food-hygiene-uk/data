@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5945015",
+    "Longitude": "-1.4128917"
+  },
   "AddressLine1": "12 Barnards Way Charlton Heights",
   "AddressLine2": "Wantage",
   "PostCode": "OX12 7EB",

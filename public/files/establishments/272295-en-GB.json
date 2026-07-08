@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7213909",
+    "Longitude": "-0.8985899"
+  },
   "AddressLine1": "The Peacock Country Inn",
   "AddressLine2": "Henton",
   "AddressLine3": "Chinnor Oxon",

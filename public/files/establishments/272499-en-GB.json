@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5330694",
+    "Longitude": "-1.0690747"
+  },
   "AddressLine1": "Langtree School Ground Reading Road",
   "AddressLine2": "Woodcote",
   "AddressLine3": "Reading Oxon",

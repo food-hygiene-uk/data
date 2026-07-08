@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6866322",
+    "Longitude": "-1.4545201"
+  },
   "AddressLine1": "Village Hall High Street",
   "AddressLine2": "Hinton Waldrist",
   "AddressLine3": "Faringdon",

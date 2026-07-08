@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6424935",
+    "Longitude": "-1.2749681"
+  },
   "AddressLine1": "The Abbey The Green",
   "AddressLine2": "Sutton Courtenay",
   "AddressLine3": "Abingdon",
