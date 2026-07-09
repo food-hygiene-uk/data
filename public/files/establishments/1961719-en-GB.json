@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
   "Geocode": null,
   "AddressLine1": "Filthy Buns @ The Star of Kings",
@@ -16,8 +16,12 @@
   "AddressLine4": "London",
   "PostCode": "N1 0AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

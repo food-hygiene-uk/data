@@ -9,12 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.31023",
+    "Longitude": "-1.146717"
+  },
   "AddressLine1": "Sainsburys Petrol Filing Station",
   "AddressLine2": "High Grounds Way",
   "AddressLine3": "Rhodesia",
   "AddressLine4": "Nottinghamshire",
-  "PostCode": "S80 3AT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.958447",
+    "Longitude": "-1.779569"
+  },
+  "AddressLine1": "THE MARSH",
+  "AddressLine2": "BREAMORE",
+  "AddressLine3": "FORDINGBRIDGE",
+  "PostCode": "SP6 2EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

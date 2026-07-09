@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "376 Torquay Road Roundham With Hyde Paignton Torbay",
+  "Geocode": {
+    "Latitude": "50.4488522",
+    "Longitude": "-3.5553291"
+  },
+  "AddressLine1": "376 Torquay Road Paignton",
   "PostCode": "TQ3 2DN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

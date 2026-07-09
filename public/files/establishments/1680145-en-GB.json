@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Worksop",
-  "AddressLine2": "Nottinghamshire",
+  "Geocode": {
+    "Latitude": "53.305832",
+    "Longitude": "-1.125094"
+  },
+  "AddressLine1": "Wilkinsons Hardware Stores Ltd",
+  "AddressLine2": "Worksop",
+  "AddressLine3": "Nottinghamshire",
   "PostCode": "S80 1JR",
   "SchemeType": "FHRS",
   "RatingValue": "5",

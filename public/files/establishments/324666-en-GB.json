@@ -1,6 +1,6 @@
 {
   "FHRSID": 324666,
-  "BusinessName": "Burbank Produce Ltd",
+  "BusinessName": "Burbank Produce",
   "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "10420",
   "BusinessTypeID": 7,
@@ -18,8 +18,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD4 7PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2004-02-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

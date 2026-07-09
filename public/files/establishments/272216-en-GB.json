@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": {
-    "Latitude": "51.748314",
-    "Longitude": "-0.979933"
+    "Latitude": "51.7487837",
+    "Longitude": "-0.980656"
   },
   "AddressLine1": "26 High Street",
-  "AddressLine3": "THAME",
-  "AddressLine4": "Oxon",
+  "AddressLine2": "Thame",
+  "AddressLine3": "Oxon",
   "PostCode": "OX9 2BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

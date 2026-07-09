@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941251,
-  "BusinessName": "Brewery Kitchen",
+  "BusinessName": "Brewery Kitchen By Mad Franks",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00030/CPREM",
   "BusinessTypeID": 7846,
@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7391099",
+    "Longitude": "0.6867127"
+  },
+  "AddressLine1": "Brewery Kitchen",
+  "AddressLine2": "Unit 15",
+  "AddressLine3": "Heybridge House Industrial Estate",
+  "AddressLine4": "Maldon",
+  "PostCode": "CM9 4XL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

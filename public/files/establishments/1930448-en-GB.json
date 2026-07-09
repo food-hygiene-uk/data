@@ -1,13 +1,13 @@
 {
   "FHRSID": 1930448,
-  "BusinessName": "The Prospect Inn",
+  "BusinessName": "The Prospect Inn & Kitchen",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "90428",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "889",
   "LocalAuthorityName": "Halton",
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
   "RightToReply": "&lt;p&gt;\n\tSince the inspection we have worked hard to improve including: carrying out a deep clean, further structural works, re-training staff and reviewing our procedures. We have worked closely with the EHO to ensure the premises is safe and we have applied for a reinspection and are confident that we will achieve a 5 rating when the inspection takes place.&amp;nbsp;&lt;/p&gt;\n",
   "Geocode": {
@@ -19,8 +19,12 @@
   "AddressLine3": "Halton",
   "PostCode": "WA7 4LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

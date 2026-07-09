@@ -9,13 +9,19 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.658426",
+    "Longitude": "-0.047594"
+  },
+  "AddressLine1": "238 Hertford Road",
+  "AddressLine2": "ENFIELD",
+  "PostCode": "EN3 5BL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingDate": "2026-06-18",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

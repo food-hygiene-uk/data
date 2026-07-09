@@ -14,12 +14,16 @@
     "Longitude": "-0.1112369"
   },
   "AddressLine1": "BunsDeep",
-  "AddressLine2": "11 mount Pleasant",
+  "AddressLine2": "11 Mount Pleasant",
   "AddressLine3": "London",
   "PostCode": "WC1X 0AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

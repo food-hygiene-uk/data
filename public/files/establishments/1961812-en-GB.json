@@ -1,13 +1,13 @@
 {
   "FHRSID": 1961812,
-  "BusinessName": "Froggies Cafe Ltd",
+  "BusinessName": "Froggies Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00529/FOOD",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "153",
   "LocalAuthorityName": "Wyre Forest",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.341994",
@@ -18,8 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "DY13 8DU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

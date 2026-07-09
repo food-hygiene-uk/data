@@ -1,13 +1,13 @@
 {
   "FHRSID": 1932455,
   "BusinessName": "Ibys",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "773159",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": {
     "Latitude": "53.140788",
@@ -18,8 +18,12 @@
   "AddressLine4": "Gwynedd",
   "PostCode": "LL55 1AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

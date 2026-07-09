@@ -1,6 +1,6 @@
 {
   "FHRSID": 1844981,
-  "BusinessName": "Batch No.17",
+  "BusinessName": "Batch Seventeen",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "167967",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

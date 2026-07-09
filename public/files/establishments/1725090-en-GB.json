@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "085",
   "LocalAuthorityName": "Dorset",
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
   "Geocode": {
     "Latitude": "50.6146507",
@@ -17,12 +17,12 @@
   "AddressLine3": "Weymouth",
   "PostCode": "DT4 7EB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-07",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

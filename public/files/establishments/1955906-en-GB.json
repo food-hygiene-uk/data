@@ -1,13 +1,13 @@
 {
   "FHRSID": 1955906,
   "BusinessName": "Spice 37",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "CP/002732",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "856",
   "LocalAuthorityName": "South Gloucestershire",
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
   "Geocode": {
     "Latitude": "51.5489273071289",
@@ -19,8 +19,12 @@
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS37 5UY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

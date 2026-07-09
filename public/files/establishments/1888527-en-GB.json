@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Green",
-  "AddressLine2": "Carlton In Lindrick",
-  "AddressLine3": "Nottinghamshire",
+  "Geocode": {
+    "Latitude": "53.357311",
+    "Longitude": "-1.1125614"
+  },
+  "AddressLine1": "Lindrick Lodge Hotel",
+  "AddressLine2": "The Green",
+  "AddressLine3": "Carlton In Lindrick",
+  "AddressLine4": "Nottinghamshire",
   "PostCode": "S81 9AB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

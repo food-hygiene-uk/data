@@ -1,6 +1,6 @@
 {
   "FHRSID": 1937958,
-  "BusinessName": "Dhillon Food And Wine",
+  "BusinessName": "Dhillon convenience store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "338783",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine4": "Thornaby",
   "PostCode": "TS17 7DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

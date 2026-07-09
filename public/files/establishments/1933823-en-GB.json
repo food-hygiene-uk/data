@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
   "Geocode": null,
   "AddressLine1": "Wiseman House Site 34 Shernhall Street",
@@ -15,8 +15,12 @@
   "AddressLine4": "London",
   "PostCode": "E17 9RT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

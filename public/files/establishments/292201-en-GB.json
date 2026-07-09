@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
     "Latitude": "51.633956",
@@ -18,12 +18,12 @@
   "AddressLine3": "Buckinghamshire",
   "PostCode": "HP12 3BE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2018-09-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

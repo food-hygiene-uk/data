@@ -1,6 +1,6 @@
 {
   "FHRSID": 1131825,
-  "BusinessName": "WH Smith",
+  "BusinessName": "WHSmith - SWC",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "148988",
   "BusinessTypeID": 4613,
@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.461289",
-    "Longitude": "-0.4457665"
-  },
-  "AddressLine1": "Commercial Unit Vp11 Terminal 4 Victor Pier",
+  "Geocode": null,
+  "AddressLine1": "Terminal 4 Airside Victor Pier",
   "AddressLine2": "Stratford Road",
   "AddressLine4": "London Heathrow Airport",
   "PostCode": "TW6 3EX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-04-25",
+  "RatingDate": "2026-06-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

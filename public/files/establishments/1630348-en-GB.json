@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "553",
   "LocalAuthorityName": "Bridgend",
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
   "Geocode": {
     "Latitude": "51.4806137084961",
@@ -18,12 +18,12 @@
   "AddressLine4": "Bridgend",
   "PostCode": "CF36 5DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-12-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

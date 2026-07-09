@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "122",
   "LocalAuthorityName": "Uttlesford",
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
   "Geocode": {
     "Latitude": "51.812459",
@@ -19,12 +19,12 @@
   "AddressLine4": "Bishops Stortford",
   "PostCode": "CM22 7BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

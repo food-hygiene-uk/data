@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "53.776599",
@@ -18,12 +18,12 @@
   "AddressLine3": "East Riding Of Yorkshire",
   "PostCode": "HU16 5DN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-07",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

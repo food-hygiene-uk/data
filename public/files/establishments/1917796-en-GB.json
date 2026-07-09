@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "288",
   "LocalAuthorityName": "East Staffordshire",
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
   "Geocode": {
     "Latitude": "52.8034484",
@@ -18,8 +18,12 @@
   "AddressLine3": "BURTON UPON TRENT",
   "PostCode": "DE14 1AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

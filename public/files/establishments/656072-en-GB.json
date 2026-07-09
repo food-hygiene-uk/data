@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "867",
   "LocalAuthorityName": "Isle of Wight",
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.6501035",
-    "Longitude": "-1.2166023"
-  },
-  "AddressLine1": "Unit 8 Holliers Park",
+  "Geocode": null,
+  "AddressLine1": "Unit 4 Holliers Park",
   "AddressLine2": "Holliers Farm",
   "AddressLine3": "Hale Common",
   "AddressLine4": "Arreton",
   "PostCode": "PO36 0AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-11-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }
