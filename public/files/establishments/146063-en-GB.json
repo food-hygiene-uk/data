@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "109",
   "LocalAuthorityName": "Basildon",
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.569052",
-    "Longitude": "0.458848"
-  },
+  "Geocode": null,
   "AddressLine1": "The Kiosk",
   "AddressLine2": "Southernhay",
   "AddressLine3": "Basildon",
   "AddressLine4": "Essex",
   "PostCode": "SS14 1BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-12",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

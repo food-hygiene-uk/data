@@ -1,6 +1,6 @@
 {
   "FHRSID": 245054,
-  "BusinessName": "Dhillons Bridge Fisheries",
+  "BusinessName": "Dhillon Bridge Fisheries",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "1531",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "York",
   "PostCode": "YO30 6HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

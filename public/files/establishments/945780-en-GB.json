@@ -1,6 +1,6 @@
 {
   "FHRSID": 945780,
-  "BusinessName": "Wood Fired Pizzeria",
+  "BusinessName": "Mama Top Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "12778",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.54767",
-    "Longitude": "-0.235236"
-  },
+  "Geocode": null,
   "AddressLine1": "180 High Road",
   "AddressLine2": "London",
   "PostCode": "NW10 2PB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-05-30",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

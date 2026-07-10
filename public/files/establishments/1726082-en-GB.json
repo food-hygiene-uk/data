@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5852762",
-    "Longitude": "-0.2787358"
-  },
+  "Geocode": null,
   "AddressLine1": "574 Kingsbury Road",
   "AddressLine2": "London",
   "PostCode": "NW9 9HL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-15",
+  "RatingDate": "2026-06-17",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

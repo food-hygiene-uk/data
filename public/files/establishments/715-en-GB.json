@@ -9,19 +9,16 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.079763",
-    "Longitude": "-1.371192"
-  },
+  "Geocode": null,
   "AddressLine1": "Victoria Street Somercotes Alfreton Derbyshire",
   "PostCode": "DE55 4HA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-19",
+  "RatingDate": "2026-06-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.16889",
-    "Longitude": "-1.426361"
-  },
+  "Geocode": null,
   "AddressLine1": "Holmgate Road",
   "AddressLine2": "Clay Cross",
   "AddressLine3": "Chesterfield",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-04",
+  "RatingDate": "2026-07-06",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

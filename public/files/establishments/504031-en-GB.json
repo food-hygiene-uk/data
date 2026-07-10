@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "320",
   "LocalAuthorityName": "Stratford-on-Avon",
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.343565",
@@ -18,12 +18,12 @@
   "AddressLine3": "Solihull",
   "PostCode": "B94 5ED",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-17",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

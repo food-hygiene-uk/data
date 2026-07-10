@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "158",
   "LocalAuthorityName": "Hertsmere",
   "LocalAuthorityWebSite": "http://www.hertsmere.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@hertsmere.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6436729431152",
-    "Longitude": "-0.308057010173798"
-  },
+  "Geocode": null,
   "AddressLine1": "Watford Road",
   "AddressLine2": "Elstree",
   "AddressLine3": "Borehamwood",
   "AddressLine4": "Hertfordshire",
   "PostCode": "WD6 3BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-31",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

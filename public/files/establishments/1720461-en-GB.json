@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "191",
   "LocalAuthorityName": "Tonbridge and Malling",
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
   "Geocode": {
     "Latitude": "51.211764",
@@ -18,12 +18,12 @@
   "AddressLine3": "Kent",
   "PostCode": "TN10 4AE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-20",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

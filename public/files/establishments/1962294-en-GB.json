@@ -1,6 +1,6 @@
 {
   "FHRSID": 1962294,
-  "BusinessName": "Melton Mowbray Village Cafe",
+  "BusinessName": "Melton Sports Village",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00059/COMM",
   "BusinessTypeID": 1,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7538898",
-    "Longitude": "-0.8749913"
-  },
+  "Geocode": null,
   "AddressLine1": "Sport And Leisure Management Ltd",
   "AddressLine2": "Community Sports Centre",
   "AddressLine3": "King Edward Vii Upper School",
   "AddressLine4": "Burton Road",
   "PostCode": "LE13 1DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

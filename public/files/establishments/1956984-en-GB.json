@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "290",
   "LocalAuthorityName": "Newcastle-Under-Lyme",
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Rookery Fish Bar",
@@ -16,8 +16,12 @@
   "AddressLine4": "Kidsgrove",
   "PostCode": "ST7 4RL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
+  }
 }

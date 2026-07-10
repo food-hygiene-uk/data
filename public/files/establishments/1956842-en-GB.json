@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0261641",
-    "Longitude": "0.2409713"
-  },
+  "Geocode": null,
   "AddressLine1": "St Marys Church Of England Primary School",
   "AddressLine2": "Castle Street",
   "AddressLine3": "Saffron Walden",
   "PostCode": "CB10 1BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

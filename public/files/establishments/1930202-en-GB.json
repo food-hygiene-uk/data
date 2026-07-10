@@ -1,18 +1,22 @@
 {
   "FHRSID": 1930202,
-  "BusinessName": "Stalina's sushi",
+  "BusinessName": "Stalina's Sushi",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "F5SALZ-R5P8MQ-DVAQJG",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

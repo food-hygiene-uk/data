@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8138999938965",
-    "Longitude": "0.268581986427307"
-  },
+  "Geocode": null,
   "AddressLine1": "Cammas Hall Fruit Farm",
   "AddressLine2": "Cammas Hall Farm",
   "AddressLine3": "Needham Green Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-11",
+  "RatingDate": "2026-06-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

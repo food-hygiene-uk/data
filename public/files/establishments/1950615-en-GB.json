@@ -8,7 +8,15 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2917938",
+    "Longitude": "1.1006525"
+  },
+  "AddressLine1": "Unit 7",
+  "AddressLine2": "City Business Park",
+  "AddressLine3": "Marshwood Close",
+  "AddressLine4": "Canterbury",
+  "PostCode": "CT1 1DX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

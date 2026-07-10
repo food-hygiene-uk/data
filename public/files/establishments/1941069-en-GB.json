@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0548794",
-    "Longitude": "1.1484185"
-  },
+  "Geocode": null,
   "AddressLine1": "St Clare House",
   "AddressLine2": "Princes Street",
   "AddressLine3": "Ipswich",
   "AddressLine4": "Suffolk",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

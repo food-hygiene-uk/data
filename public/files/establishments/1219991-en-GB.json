@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.763313293457",
-    "Longitude": "-0.882906019687653"
-  },
+  "Geocode": null,
   "AddressLine1": "Mill Street",
   "AddressLine2": "Melton Mowbray",
   "PostCode": "LE13 1AY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-05-08",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

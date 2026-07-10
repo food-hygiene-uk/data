@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
-  "Geocode": {
-    "Latitude": "53.0823292",
-    "Longitude": "-0.8038219"
-  },
+  "Geocode": null,
   "AddressLine1": "Tasty Bites",
   "AddressLine2": "146 North Gate",
   "AddressLine3": "Newark On Trent",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-28",
-  "Scores": null
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

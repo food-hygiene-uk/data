@@ -8,7 +8,15 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3620512",
+    "Longitude": "1.1217637"
+  },
+  "AddressLine1": "Eddington Business Park",
+  "AddressLine2": "Eddington Lane",
+  "AddressLine3": "Herne Bay",
+  "AddressLine4": "Kent",
+  "PostCode": "CT6 5UJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

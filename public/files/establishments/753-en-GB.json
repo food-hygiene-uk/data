@@ -1,6 +1,6 @@
 {
   "FHRSID": 753,
-  "BusinessName": "Nisa Local",
+  "BusinessName": "Budgens",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "0002830/FH",
   "BusinessTypeID": 4613,
@@ -9,19 +9,12 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.084052",
-    "Longitude": "-1.479503"
-  },
+  "Geocode": null,
   "AddressLine1": "Market Place Crich Matlock Derbyshire",
   "PostCode": "DE4 5DD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-12",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

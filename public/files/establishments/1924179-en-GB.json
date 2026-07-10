@@ -7,20 +7,21 @@
   "LocalAuthorityCode": "164",
   "LocalAuthorityName": "Welwyn Hatfield",
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8159222",
-    "Longitude": "-0.2026284"
-  },
+  "Geocode": null,
   "AddressLine1": "The Hedgehog",
   "AddressLine2": "Shoplands",
   "AddressLine3": "Welwyn Garden City",
   "AddressLine4": "Hertfordshire",
   "PostCode": "AL8 7RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

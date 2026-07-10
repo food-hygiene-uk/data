@@ -7,24 +7,21 @@
   "LocalAuthorityCode": "028",
   "LocalAuthorityName": "East Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.410666",
-    "Longitude": "0.249107"
-  },
+  "Geocode": null,
   "AddressLine1": "On Par Golf Driving Range",
   "AddressLine2": "Downham Road",
   "AddressLine3": "Ely",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB6 2SH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

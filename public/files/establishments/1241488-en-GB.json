@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "066",
   "LocalAuthorityName": "Erewash",
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9763293",
-    "Longitude": "-1.3094787"
-  },
+  "Geocode": null,
   "AddressLine2": "143 Bath Street",
   "AddressLine4": "Ilkeston",
   "PostCode": "DE7 8AS",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
     "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "900",
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": null,
   "AddressLine1": "7 Plough Road",
   "AddressLine2": "Wrockwardine Wood",
@@ -15,8 +15,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "TF2 7AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

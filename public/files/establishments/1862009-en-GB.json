@@ -1,28 +1,18 @@
 {
   "FHRSID": 1862009,
   "BusinessName": "UN Vendor",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "171604",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4730348",
-    "Longitude": "-0.3871255"
-  },
-  "AddressLine2": "314 Bath Road",
-  "AddressLine3": "Hounslow",
-  "PostCode": "TW4 7HW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-07-15",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

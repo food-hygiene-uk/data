@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3348197937012",
-    "Longitude": "-0.0777539983391762"
-  },
+  "Geocode": null,
   "AddressLine1": "Pavillion Sanderstead Recreation Ground",
   "AddressLine2": "Limpsfield Road",
   "AddressLine3": "South Croydon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-01",
+  "RatingDate": "2026-07-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

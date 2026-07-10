@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": {
-    "Latitude": "51.590692",
-    "Longitude": "-0.102708"
-  },
+  "Geocode": null,
   "AddressLine2": "278 Langham Road",
   "AddressLine3": "Tottenham",
   "AddressLine4": "London",
   "PostCode": "N15 3NP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

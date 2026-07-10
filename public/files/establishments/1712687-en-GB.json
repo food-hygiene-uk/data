@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "159",
   "LocalAuthorityName": "North Hertfordshire",
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.984511",
-    "Longitude": "-0.224423"
-  },
+  "Geocode": null,
   "AddressLine1": "Letchworth Swimming Pool Icknield Way",
   "AddressLine3": "Letchworth Garden City",
   "AddressLine4": "Hertfordshire",
   "PostCode": "SG6 4UF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-04",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

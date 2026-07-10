@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.537705",
-    "Longitude": "-0.2065722"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 4",
   "AddressLine2": "Queens Studio",
   "AddressLine3": "117-121 Salusbury Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-18",
+  "RatingDate": "2026-06-22",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }
