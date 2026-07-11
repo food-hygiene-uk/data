@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Potlocks Day Nursery",
-  "AddressLine2": "133 TWYFORD ROAD",
-  "AddressLine3": "WILLINGTON",
-  "AddressLine4": "DERBY",
+  "Geocode": {
+    "Latitude": "52.8536717",
+    "Longitude": "-1.5494119"
+  },
+  "AddressLine1": "133 TWYFORD ROAD",
+  "AddressLine2": "WILLINGTON",
+  "AddressLine3": "DERBY",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

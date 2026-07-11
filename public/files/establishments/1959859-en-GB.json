@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": null,
   "AddressLine1": "Rode Hill",
@@ -16,8 +16,12 @@
   "AddressLine4": "Somerset",
   "PostCode": "BA11 6QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-05",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.818406",
+    "Longitude": "-0.189116"
+  },
   "AddressLine1": "Hertford Road",
   "AddressLine2": "Welwyn",
   "AddressLine3": "Hertfordshire",

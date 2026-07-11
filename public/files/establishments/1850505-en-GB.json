@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": null,
   "AddressLine2": "Main Road A1064",
@@ -15,12 +15,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR29 3AF",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-07-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-05",
   "Scores": {
-    "Hygiene": 25,
-    "Structural": 25,
-    "ConfidenceInManagement": 30
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

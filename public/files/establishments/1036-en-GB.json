@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.024233",
+    "Longitude": "-1.484562"
+  },
   "AddressLine1": "18 Bridge Street Belper Derbyshire",
   "PostCode": "DE56 1AX",
   "SchemeType": "FHRS",

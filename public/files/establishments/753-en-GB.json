@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.084052",
+    "Longitude": "-1.479503"
+  },
   "AddressLine1": "Market Place Crich Matlock Derbyshire",
   "PostCode": "DE4 5DD",
   "SchemeType": "FHRS",

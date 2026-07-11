@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Really Awesome Coffee - Derby North",
-  "AddressLine2": "16 STANIER DRIVE",
-  "AddressLine3": "HARTSHORNE",
-  "AddressLine4": "SWADLINCOTE",
+  "Geocode": {
+    "Latitude": "52.7765432",
+    "Longitude": "-1.5290227"
+  },
+  "AddressLine1": "16 STANIER DRIVE",
+  "AddressLine2": "HARTSHORNE",
+  "AddressLine3": "SWADLINCOTE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

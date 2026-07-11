@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portadown",
-  "AddressLine3": "Craigavon",
+  "Geocode": {
+    "Latitude": "54.422008",
+    "Longitude": "-6.458468"
+  },
+  "AddressLine1": "1-5 Loughgall Road",
+  "AddressLine3": "Portadown",
+  "AddressLine4": "Armagh",
   "PostCode": "BT62 4BU",
   "SchemeType": "FHRS",
   "RatingValue": "3",

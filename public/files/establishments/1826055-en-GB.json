@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Within Temptation Lower Union Lane Torquay",
+  "Geocode": {
+    "Latitude": "50.466526",
+    "Longitude": "-3.5306059"
+  },
+  "AddressLine1": "Lower Union Lane Torquay",
   "PostCode": "TQ2 5PR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

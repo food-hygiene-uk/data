@@ -1,13 +1,13 @@
 {
   "FHRSID": 243884,
-  "BusinessName": "Bulldog",
+  "BusinessName": "New Bulldog",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "5404",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "321",
   "LocalAuthorityName": "Warwick",
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
   "Geocode": {
     "Latitude": "52.2743759155273",
@@ -17,8 +17,12 @@
   "AddressLine4": "Leamington Spa",
   "PostCode": "CV31 2NX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

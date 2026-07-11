@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1898942",
+    "Longitude": "0.1364359"
+  },
   "AddressLine1": "Pizza 1889 Cambridge Leisure Park Clifton Way",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

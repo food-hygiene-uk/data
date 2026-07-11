@@ -1,13 +1,13 @@
 {
   "FHRSID": 1657050,
   "BusinessName": "Lutterworth News",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "23/00079/FOODHS",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "211",
   "LocalAuthorityName": "Harborough",
   "LocalAuthorityWebSite": "http://www.harborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@harborough.gov.uk",
   "Geocode": {
     "Latitude": "52.4624836",
@@ -18,12 +18,12 @@
   "AddressLine3": "Leicestershire",
   "PostCode": "LE17 4NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-09",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

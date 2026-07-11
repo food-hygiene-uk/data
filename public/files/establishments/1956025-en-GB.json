@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": {
-    "Latitude": "54.585151",
-    "Longitude": "-5.9445207"
-  },
-  "AddressLine1": "Apartment 6",
-  "AddressLine3": "41 Ulsterville Avenue",
-  "AddressLine4": "Belfast",
-  "PostCode": "BT9 7AS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

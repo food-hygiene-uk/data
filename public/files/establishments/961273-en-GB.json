@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.947698",
+    "Longitude": "-0.258689"
+  },
   "AddressLine1": "William Ransom Primary School Stuart Drive",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

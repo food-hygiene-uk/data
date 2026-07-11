@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.gloucester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "community.wellbeing@gloucester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8636941",
+    "Longitude": "-2.2477934"
+  },
+  "AddressLine1": "45 Southgate Street",
+  "AddressLine2": "Gloucester",
+  "PostCode": "GL1 1TX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Regional Distribution Centre Dundrod Road",
-  "AddressLine3": "Nutts Corner",
-  "PostCode": "BT294SR",
+  "AddressLine1": "Lakeview Road",
+  "AddressLine3": "Craigavon",
+  "AddressLine4": "Armagh",
+  "PostCode": "BT64 1",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

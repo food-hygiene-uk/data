@@ -7,23 +7,22 @@
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
   "Geocode": {
-    "Latitude": "53.3713483",
-    "Longitude": "-0.6965736"
+    "Latitude": "53.37187625",
+    "Longitude": "-0.69354005"
   },
-  "AddressLine2": "24 HIGH STREET",
+  "AddressLine2": "HIGH STREET",
   "AddressLine3": "UPTON",
   "AddressLine4": "GAINSBOROUGH",
-  "PostCode": "DN21 5NL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-05",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

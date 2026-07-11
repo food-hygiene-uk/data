@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Markethill",
-  "AddressLine3": "Armagh",
+  "Geocode": {
+    "Latitude": "54.298663",
+    "Longitude": "-6.521131"
+  },
+  "AddressLine1": "84-86 Main Street",
+  "AddressLine2": "Coolmillish",
+  "AddressLine3": "Markethill",
+  "AddressLine4": "Armagh",
   "PostCode": "BT60 1PL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

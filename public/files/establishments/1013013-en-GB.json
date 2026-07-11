@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.584888",
+    "Longitude": "-0.224426"
+  },
   "AddressLine1": "Hendon United Synagogue 18 Raleigh Close London",
   "PostCode": "NW4 2TA",
   "SchemeType": "FHRS",

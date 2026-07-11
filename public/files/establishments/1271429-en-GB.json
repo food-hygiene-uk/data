@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9752618",
-    "Longitude": "-1.3796975"
-  },
-  "AddressLine2": "134A Belper Road",
-  "AddressLine4": "Stanley Common",
-  "PostCode": "DE7 6FS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

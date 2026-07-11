@@ -1,6 +1,6 @@
 {
   "FHRSID": 1957298,
-  "BusinessName": "Emerald Taste",
+  "BusinessName": "Émeraude Taste",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00083/COM",
   "BusinessTypeID": 7841,
@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3234983",
-    "Longitude": "-0.7127452"
-  },
-  "AddressLine1": "167 Fitzhugh Rise",
-  "AddressLine2": "Wellingborough",
-  "PostCode": "NN8 6ER",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

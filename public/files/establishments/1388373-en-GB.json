@@ -1,6 +1,6 @@
 {
   "FHRSID": 1388373,
-  "BusinessName": "Simply Delicious Hotdogs",
+  "BusinessName": "Simply Delicious WA07 EOL",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "20/00184/MIXED",
   "BusinessTypeID": 7846,
@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.0504357",
+    "Longitude": "-3.3766043"
+  },
+  "AddressLine1": "48 Fordell Gardens Clockluine Road Hillend Dunfermline Fife",
+  "PostCode": "KY11 7HE",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2025-10-22",
+  "RatingDate": "2026-07-03",
   "Scores": null
 }

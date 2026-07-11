@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.614214",
+    "Longitude": "-0.250971"
+  },
   "AddressLine1": "14 Hale Lane London",
   "PostCode": "NW7 3NX",
   "SchemeType": "FHRS",
