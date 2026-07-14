@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941508,
-  "BusinessName": "T&J Mahal",
+  "BusinessName": "T & J Mahal",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00146/CP",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "Southsea",
   "PostCode": "PO5 1JF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

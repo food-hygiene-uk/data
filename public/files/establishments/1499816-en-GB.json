@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "417",
   "LocalAuthorityName": "North Tyneside",
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
   "Geocode": null,
   "AddressLine1": "Former Nursery",
@@ -16,12 +16,12 @@
   "AddressLine4": "Tyne And Wear",
   "PostCode": "NE28 6HB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-17",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-08",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

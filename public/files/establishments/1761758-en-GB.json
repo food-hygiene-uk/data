@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "074",
   "LocalAuthorityName": "Mid Devon",
   "LocalAuthorityWebSite": "http://www.middevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@middevon.gov.uk",
   "Geocode": {
     "Latitude": "50.8527233",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX15 1ED",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

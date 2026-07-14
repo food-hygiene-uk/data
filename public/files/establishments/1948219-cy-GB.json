@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine4": "Powys",
-  "PostCode": "SY18",
+  "Geocode": {
+    "Latitude": "52.4520021",
+    "Longitude": "-3.5411646"
+  },
+  "AddressLine1": "17 Westgate Street",
+  "AddressLine2": "Llanidloes",
+  "AddressLine3": "Powys",
+  "PostCode": "SY18 6HJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "864",
   "LocalAuthorityName": "North Lincolnshire",
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
   "Geocode": {
     "Latitude": "53.590614",
@@ -18,12 +18,12 @@
   "AddressLine4": "North Lincolnshire",
   "PostCode": "DN15 7RA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-08",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

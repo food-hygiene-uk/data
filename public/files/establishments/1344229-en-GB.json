@@ -9,13 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4575216",
+    "Longitude": "-2.9695146"
+  },
+  "AddressLine1": "Unit 2 Dundee Railway Station",
   "AddressLine2": "South Union Street",
   "AddressLine3": "Dundee",
   "PostCode": "DD1 4BY",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2026-06-30",
+  "RatingDate": "2026-07-13",
   "Scores": null
 }

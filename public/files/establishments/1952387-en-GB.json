@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "105",
   "LocalAuthorityName": "Lewes",
   "LocalAuthorityWebSite": "http://www.lewes-eastbourne.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth.ldc@lewes-eastbourne.gov.uk",
   "Geocode": null,
   "AddressLine1": "Tesco Express Kirby Drive",
@@ -15,12 +15,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "BN10 7DY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-07",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
