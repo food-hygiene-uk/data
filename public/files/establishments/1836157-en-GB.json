@@ -1,9 +1,9 @@
 {
   "FHRSID": 1836157,
   "BusinessName": "Dark Matter Chocolate",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "25/00103/COM",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "269",
   "LocalAuthorityName": "Oxford City",
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6104652",
+    "Longitude": "-0.0526262"
+  },
+  "AddressLine1": "Flat 6 Specklewood House",
+  "AddressLine2": "4 Oxeye Way",
+  "AddressLine3": "LONDON",
+  "PostCode": "N18 2FJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1958938,
-  "BusinessName": "Touts",
+  "BusinessName": "Tout Limited",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "A09KCV58MA/1",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.3867334",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS49 4NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

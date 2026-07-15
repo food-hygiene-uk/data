@@ -1,6 +1,6 @@
 {
   "FHRSID": 1963220,
-  "BusinessName": "Cassie's Kitchen",
+  "BusinessName": "Cassie?s Kitchen",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "PSYF49-2NHVKX-CP951K",
   "BusinessTypeID": 7839,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

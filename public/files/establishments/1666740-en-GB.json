@@ -1,28 +1,28 @@
 {
   "FHRSID": 1666740,
-  "BusinessName": "Bal News N Booze",
+  "BusinessName": "Bob's Convenience Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "123429",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "899",
   "LocalAuthorityName": "Nottingham City",
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
   "Geocode": {
-    "Latitude": "52.99302",
-    "Longitude": "-1.18381"
+    "Latitude": "52.99304",
+    "Longitude": "-1.1838658"
   },
-  "AddressLine2": "32 Tollerton Green",
+  "AddressLine2": "30-32 Tollerton Green",
   "AddressLine4": "Nottingham",
   "PostCode": "NG6 9EX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-18",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
