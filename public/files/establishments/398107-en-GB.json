@@ -1,6 +1,6 @@
 {
   "FHRSID": 398107,
-  "BusinessName": "Hoyland Springwood Primary School",
+  "BusinessName": "Compass @ Hoyland Springwood Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "579",
   "BusinessTypeID": 7845,
@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
-    "Latitude": "53.4955749511719",
-    "Longitude": "-1.44255399703979"
+    "Latitude": "53.495583",
+    "Longitude": "-1.442569"
   },
-  "AddressLine1": "Catering Services Springwood Primary School",
+  "AddressLine1": "Springwood Primary School",
   "AddressLine2": "Clough Fields Road",
   "AddressLine4": "Hoyland",
   "PostCode": "S74 0ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

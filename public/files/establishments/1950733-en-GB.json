@@ -1,23 +1,27 @@
 {
   "FHRSID": 1950733,
-  "BusinessName": "KABUL SHEERYAKH",
+  "BusinessName": "Kabul Sheeryakh",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00379/COMM",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5769694",
-    "Longitude": "-0.2387184"
+    "Latitude": "51.5768048",
+    "Longitude": "-0.2385328"
   },
-  "AddressLine1": "194 West Hendon Broadway",
+  "AddressLine1": "186 West Hendon Broadway London",
   "PostCode": "NW9 7EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

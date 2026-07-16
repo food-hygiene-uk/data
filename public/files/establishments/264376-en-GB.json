@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": {
-    "Latitude": "51.593373",
-    "Longitude": "-1.377394"
+    "Latitude": "51.5935251",
+    "Longitude": "-1.3769151"
   },
-  "AddressLine1": "Post Office Bungalow",
-  "AddressLine2": "High Street",
-  "AddressLine3": "Ardington",
-  "AddressLine4": "Wantage",
+  "AddressLine1": "Post Office Bungalow High Street",
+  "AddressLine2": "Ardington",
+  "AddressLine3": "Wantage",
   "PostCode": "OX12 8PS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

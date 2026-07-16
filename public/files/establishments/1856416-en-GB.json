@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
-  "Geocode": {
-    "Latitude": "54.1902422",
-    "Longitude": "-2.9115586"
-  },
-  "AddressLine1": "Compass Point",
-  "AddressLine2": "The Esplanade",
-  "AddressLine4": "Grange-Over-Sands",
-  "PostCode": "LA11 7HH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.048057",
+    "Longitude": "-0.023466"
+  },
+  "AddressLine1": "5 Melbourn Street",
+  "AddressLine3": "Royston",
+  "AddressLine4": "Hertfordshire",
+  "PostCode": "SG8 7BP",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1917891,
-  "BusinessName": "Sweet Soiree",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Abbie's Afro Shop - Caribbean Groceries Food",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "154697",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "Hounslow",
   "PostCode": "TW3 1UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-03-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

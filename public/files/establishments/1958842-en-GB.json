@@ -1,9 +1,9 @@
 {
   "FHRSID": 1958842,
   "BusinessName": "Cornard kebabs",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "FR/000007235",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
@@ -19,8 +19,12 @@
   "AddressLine4": "Great Cornard",
   "PostCode": "CO10 0GL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9264747",
+    "Longitude": "-0.6067001"
+  },
+  "AddressLine1": "Unit 15 Limesquare Business Park",
+  "AddressLine2": "Alma Park Road",
+  "AddressLine3": "Grantham",
+  "AddressLine4": "Lincolnshire",
+  "PostCode": "NG31 9SN",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

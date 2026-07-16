@@ -9,12 +9,12 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Barclays Bank",
-  "AddressLine2": "4 Pentrehedyn Street",
-  "AddressLine3": "Machynlleth",
+  "Geocode": {
+    "Latitude": "52.59130226",
+    "Longitude": "-3.85181365"
+  },
   "AddressLine4": "Powys",
-  "PostCode": "SY20 8DW",
+  "PostCode": "SY20",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

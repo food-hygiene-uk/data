@@ -7,24 +7,19 @@
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2846598",
-    "Longitude": "-0.4572239"
-  },
-  "AddressLine1": "SCOTHERN NURSERIES",
-  "AddressLine2": "8 DUNHOLME ROAD",
+  "Geocode": null,
+  "AddressLine2": "DUNHOLME ROAD",
   "AddressLine3": "SCOTHERN",
   "AddressLine4": "LINCOLN",
-  "PostCode": "LN2 2UD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

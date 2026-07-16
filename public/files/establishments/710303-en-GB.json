@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Market",
-  "AddressLine2": "Curzon Street",
+  "Geocode": {
+    "Latitude": "53.541958",
+    "Longitude": "-2.113487"
+  },
+  "AddressLine2": "High Street",
   "AddressLine3": "Oldham",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-06-22",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

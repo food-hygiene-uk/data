@@ -7,23 +7,19 @@
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4957123",
-    "Longitude": "-0.3165289"
-  },
-  "AddressLine1": "2C",
+  "Geocode": null,
   "AddressLine2": "HORSEMARKET",
   "AddressLine3": "CAISTOR",
   "AddressLine4": "MARKET RASEN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-02-18",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-10",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
   }
 }
