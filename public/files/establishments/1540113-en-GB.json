@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5323892",
-    "Longitude": "-1.7772842"
-  },
+  "Geocode": null,
   "AddressLine1": "B And M",
   "AddressLine2": "Walmley Ash Road",
   "AddressLine3": "Birmingham",
   "AddressLine4": "Birmingham",
   "PostCode": "B76 1FG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2024-03-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.575541",
-    "Longitude": "-1.7664"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 18",
   "AddressLine2": "Moray Road",
   "AddressLine3": "Elgin",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-06",
+  "RatingDate": "2026-07-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

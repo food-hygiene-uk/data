@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.588082",
-    "Longitude": "-0.0337836"
-  },
+  "Geocode": null,
   "AddressLine1": "213 Forest Road",
   "AddressLine3": "Walthamstow",
   "AddressLine4": "London",
   "PostCode": "E17 6HE",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-11-22",
-  "Scores": {
-    "Hygiene": 25,
-    "Structural": 25,
-    "ConfidenceInManagement": 30
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

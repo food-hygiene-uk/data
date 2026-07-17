@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4742205",
-    "Longitude": "-2.2013165"
-  },
+  "Geocode": null,
   "AddressLine1": "Kingdom Mandate Centre",
   "AddressLine2": "410 Ashton Old Road",
   "AddressLine3": "Manchester",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-02-04",
+  "RatingDate": "2026-06-04",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 20,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 20
   }
 }

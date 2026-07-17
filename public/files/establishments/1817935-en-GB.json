@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.445467",
-    "Longitude": "-2.19117"
-  },
+  "Geocode": null,
   "AddressLine2": "805 Stockport Road",
   "AddressLine3": "Manchester",
   "PostCode": "M19 3BS",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-09",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-04-27",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 20,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }

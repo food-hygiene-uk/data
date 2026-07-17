@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5240097045898",
-    "Longitude": "-1.8589940071106"
-  },
+  "Geocode": null,
   "AddressLine1": "Stockland Green Secondary School",
   "AddressLine2": "Slade Road",
   "AddressLine3": "Stockland Green",
   "AddressLine4": "Birmingham",
   "PostCode": "B23 7JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

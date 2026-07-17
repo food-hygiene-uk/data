@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.484347",
-    "Longitude": "-2.238182"
-  },
+  "Geocode": null,
   "AddressLine2": "69 High Street",
   "AddressLine3": "Manchester",
   "PostCode": "M4 1FS",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-30",
+  "RatingDate": "2026-05-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

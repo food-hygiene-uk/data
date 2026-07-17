@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.309993",
-    "Longitude": "-2.6951762"
-  },
+  "Geocode": null,
   "AddressLine1": "Weaver View Halton Station Road",
   "AddressLine2": "Runcorn",
   "AddressLine3": "Halton",
   "PostCode": "WA7 3EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

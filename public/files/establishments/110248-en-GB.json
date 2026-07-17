@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3657569885254",
-    "Longitude": "-2.78026604652405"
-  },
+  "Geocode": null,
   "AddressLine1": "Clincton View",
   "AddressLine2": "Widnes",
   "AddressLine3": "Halton",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-20",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

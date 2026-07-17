@@ -9,19 +9,16 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4324969",
-    "Longitude": "-2.2694386"
-  },
+  "Geocode": null,
   "AddressLine2": "645 Mauldeth Road West",
   "AddressLine3": "Manchester",
   "PostCode": "M21 7SA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-12-03",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 20,
     "Structural": 15,
     "ConfidenceInManagement": 20
   }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": {
-    "Latitude": "54.684215",
-    "Longitude": "-5.921602"
-  },
+  "Geocode": null,
   "AddressLine1": "370 Doagh Road",
   "AddressLine3": "Newtownabbey",
   "AddressLine4": "Antrim",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-03",
-  "Scores": null
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

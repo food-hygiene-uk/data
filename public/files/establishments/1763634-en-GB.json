@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.477395",
-    "Longitude": "-1.890576"
-  },
-  "AddressLine1": "54-57 Allison Street",
-  "AddressLine2": "Birmingham",
+  "Geocode": null,
+  "AddressLine1": "Alleway's Confectionary",
+  "AddressLine2": "54-57 Allison Street",
+  "AddressLine3": "Birmingham",
   "PostCode": "B5 5TH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-09-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

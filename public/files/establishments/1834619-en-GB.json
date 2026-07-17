@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5716441",
-    "Longitude": "-0.0081987"
-  },
+  "Geocode": null,
   "AddressLine1": "698 High Road Leyton",
   "AddressLine3": "Leyton",
   "AddressLine4": "London",
   "PostCode": "E10 6JP",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-05-24",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

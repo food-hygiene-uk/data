@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4459822",
-    "Longitude": "-2.2774706"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit A Ground Floor Chorlton Plaza",
   "AddressLine2": "102 Manchester Road",
   "AddressLine3": "Chorlton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-07",
+  "RatingDate": "2026-05-15",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6305663",
-    "Longitude": "-1.7123183"
-  },
+  "Geocode": null,
   "AddressLine1": "Highworth Hotel",
   "AddressLine2": "1 Westrop",
   "AddressLine3": "Highworth",
   "AddressLine4": "Swindon",
   "PostCode": "SN6 7HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

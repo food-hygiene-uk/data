@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4534755",
-    "Longitude": "-2.4164674"
-  },
+  "Geocode": null,
   "AddressLine1": "within St Josephs Presbytery",
   "AddressLine2": "Cutnook Lane",
   "AddressLine3": "Irlam",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-24",
+  "RatingDate": "2026-07-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

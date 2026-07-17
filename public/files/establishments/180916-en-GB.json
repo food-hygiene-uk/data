@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8549472",
-    "Longitude": "0.5510747"
-  },
+  "Geocode": null,
   "AddressLine1": "St Benedict Victorian Bed And Breakfast 81 Pevensey Road",
   "AddressLine3": "St Leonards-on-sea",
   "AddressLine4": "East Sussex",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-24",
+  "RatingDate": "2026-07-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

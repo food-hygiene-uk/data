@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8552487",
-    "Longitude": "0.5812359"
-  },
+  "Geocode": null,
   "AddressLine1": "11 York Buildings Wellington Place",
   "AddressLine3": "Hastings",
   "AddressLine4": "East Sussex",
   "PostCode": "TN34 1NN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

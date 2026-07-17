@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0631476",
-    "Longitude": "-0.3319502"
-  },
+  "Geocode": null,
   "AddressLine1": "Savers Health   Beauty Ltd",
   "AddressLine2": "30 West Street",
   "AddressLine3": "Horsham",
   "PostCode": "RH12 1PB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

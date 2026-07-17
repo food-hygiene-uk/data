@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "54.98718",
-    "Longitude": "-1.430731"
-  },
+  "Geocode": null,
   "AddressLine1": "48 Chichester Road",
   "AddressLine2": "South Shields",
   "AddressLine3": "Tyne & Wear",
   "PostCode": "NE33 4AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

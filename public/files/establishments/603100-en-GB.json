@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.492496",
-    "Longitude": "-1.938524"
-  },
+  "Geocode": null,
   "AddressLine1": "H M Prison",
   "AddressLine2": "Winson Green Road",
   "AddressLine3": "Birmingham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingDate": "2020-12-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

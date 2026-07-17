@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1359251",
-    "Longitude": "0.2606813"
-  },
+  "Geocode": null,
   "AddressLine1": "26 Mount Ephraim",
   "AddressLine2": "Royal Tunbridge Wells",
   "AddressLine3": "Kent",
   "PostCode": "TN4 8AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

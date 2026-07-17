@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.760127",
-    "Longitude": "-1.9351073"
-  },
+  "Geocode": null,
   "AddressLine2": "4 Albion Street",
   "AddressLine4": "Rugeley",
   "PostCode": "WS15 2BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

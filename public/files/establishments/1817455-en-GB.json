@@ -1,6 +1,6 @@
 {
   "FHRSID": 1817455,
-  "BusinessName": "Simple Local Mini Mart Ltd",
+  "BusinessName": "Premier Curry Mile Mini Market",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "AC-072024-006210",
   "BusinessTypeID": 4613,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.455448",
-    "Longitude": "-2.224888"
-  },
+  "Geocode": null,
   "AddressLine2": "87 Wilmslow Road",
   "AddressLine3": "Manchester",
   "PostCode": "M14 5SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-01-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

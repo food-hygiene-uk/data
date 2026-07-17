@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.762706",
-    "Longitude": "-0.572066"
-  },
+  "Geocode": null,
   "AddressLine2": "333-337 High Street",
   "AddressLine3": "Berkhamsted",
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP4 1AL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-06-08",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

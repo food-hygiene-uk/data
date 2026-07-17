@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.362247467041",
-    "Longitude": "-0.0782430022954941"
-  },
+  "Geocode": null,
   "AddressLine1": "Coombe Wood School",
   "AddressLine2": "30 Melville Avenue",
   "AddressLine3": "South Croydon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingDate": "2026-07-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8554713",
-    "Longitude": "0.5759272"
-  },
+  "Geocode": null,
   "AddressLine1": "Observer Building 53 Cambridge Road",
   "AddressLine3": "Hastings",
   "AddressLine4": "East Sussex",
   "PostCode": "TN34 1DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

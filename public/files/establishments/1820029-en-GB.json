@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.47619",
-    "Longitude": "-2.248923"
-  },
+  "Geocode": null,
   "AddressLine1": "Manchester 235",
   "AddressLine2": "2 Watson Street",
   "AddressLine3": "Manchester",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-05",
+  "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

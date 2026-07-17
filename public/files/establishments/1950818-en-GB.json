@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.069872",
-    "Longitude": "-1.316847"
-  },
+  "Geocode": null,
   "AddressLine1": "Highfield Lodge",
   "AddressLine2": "Worthy Lane",
   "AddressLine3": "Winchester",
   "AddressLine4": "Hampshire",
   "PostCode": "SO23 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1870770,
-  "BusinessName": "Southern Traders Limited",
+  "BusinessName": "Southern Traders",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "AC082025-23429",
   "BusinessTypeID": 7839,
@@ -15,8 +15,12 @@
   "AddressLine3": "MANCHESTER",
   "PostCode": "M23 9DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

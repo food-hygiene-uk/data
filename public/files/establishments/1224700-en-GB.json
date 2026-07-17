@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.403975",
-    "Longitude": "-2.116296"
-  },
+  "Geocode": null,
   "AddressLine1": "Pool Furlong",
   "AddressLine2": "Holy Cross",
   "AddressLine3": "Stourbridge",
   "AddressLine4": "Worcestershire",
   "PostCode": "DY9 9RE",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-01-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

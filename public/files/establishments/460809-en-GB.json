@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4315567016602",
-    "Longitude": "-1.36303400993347"
-  },
+  "Geocode": null,
   "AddressLine2": "17 Masbrough Street",
   "AddressLine3": "Masbrough",
   "AddressLine4": "Rotherham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-08-16",
+  "RatingDate": "2026-06-30",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

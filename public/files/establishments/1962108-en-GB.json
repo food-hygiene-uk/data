@@ -1,6 +1,6 @@
 {
   "FHRSID": 1962108,
-  "BusinessName": "St Lukes Cafe",
+  "BusinessName": "Joanne Brownhill",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "14619",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

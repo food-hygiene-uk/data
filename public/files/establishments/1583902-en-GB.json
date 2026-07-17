@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3485298156738",
-    "Longitude": "-0.0409779995679855"
-  },
+  "Geocode": null,
   "AddressLine1": "Forestdale Primary School",
   "AddressLine2": "Pixton Way",
   "AddressLine3": "Croydon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-21",
+  "RatingDate": "2026-07-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

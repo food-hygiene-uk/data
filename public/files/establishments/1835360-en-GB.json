@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3437614440918",
-    "Longitude": "-0.200795993208885"
-  },
+  "Geocode": null,
   "AddressLine1": "22 Station Road",
   "AddressLine2": "Belmont",
   "PostCode": "SM2 6BS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-13",
-  "Scores": null
+  "RatingDate": "2026-07-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

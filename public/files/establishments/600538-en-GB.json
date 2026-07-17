@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.483299",
-    "Longitude": "-1.770065"
-  },
+  "Geocode": null,
   "AddressLine1": "Gressel Lane",
   "AddressLine2": "Birmingham",
   "PostCode": "B33 9UF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-03",
-  "Scores": null
+  "RatingDate": "2026-07-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

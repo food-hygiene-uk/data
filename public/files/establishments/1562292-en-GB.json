@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.542655",
-    "Longitude": "-1.866793"
-  },
+  "Geocode": null,
   "AddressLine1": "641 College Road",
   "AddressLine2": "Kingstanding",
   "AddressLine3": "Birmingham",
   "PostCode": "B44 0AT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-06-22",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-04-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 20
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

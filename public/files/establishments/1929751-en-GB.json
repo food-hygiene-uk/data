@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": {
-    "Latitude": "51.42034",
-    "Longitude": "-0.078713"
-  },
+  "Geocode": null,
   "AddressLine1": "14 Crystal Palace Parade",
   "AddressLine2": "London",
   "PostCode": "SE19 1UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

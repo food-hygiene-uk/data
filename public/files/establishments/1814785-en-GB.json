@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5825627",
-    "Longitude": "-0.0130768"
-  },
+  "Geocode": null,
   "AddressLine1": "28 - 30 Orford Road",
   "AddressLine3": "Walthamstow",
   "AddressLine4": "London",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-02-12",
-  "Scores": null
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

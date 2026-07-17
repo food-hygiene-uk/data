@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7161445617676",
-    "Longitude": "0.410726994276047"
-  },
+  "Geocode": null,
   "AddressLine1": "Back Lane",
   "AddressLine2": "West Winch",
   "AddressLine3": "King's Lynn",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-25",
+  "RatingDate": "2026-07-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }
