@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts@eastlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.9577778",
+    "Longitude": "-2.968563"
+  },
   "AddressLine1": "Unit L1 Hawthorn Road Prestonpans East Lothian",
   "PostCode": "EH32 9QW",
   "SchemeType": "FHIS",

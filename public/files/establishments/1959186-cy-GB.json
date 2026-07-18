@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "567",
   "LocalAuthorityName": "Rhondda Cynon Taf",
   "LocalAuthorityWebSite": "http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@rctcbc.gov.uk",
   "Geocode": {
     "Latitude": "51.620784",
@@ -17,8 +17,12 @@
   "AddressLine3": "Tonypandy",
   "PostCode": "CF40 1AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

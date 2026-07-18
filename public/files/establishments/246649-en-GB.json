@@ -1,6 +1,6 @@
 {
   "FHRSID": 246649,
-  "BusinessName": "Baker Perkins Limited",
+  "BusinessName": "The Bake House",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "59005",
   "BusinessTypeID": 1,
@@ -9,22 +9,15 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.612654",
-    "Longitude": "-0.242485"
-  },
-  "AddressLine1": "Apv Baker Plc Manor Drive Hou",
+  "Geocode": null,
+  "AddressLine1": "Baker Perkins Ltd",
   "AddressLine2": "Manor Drive",
   "AddressLine3": "Gunthorpe",
   "AddressLine4": "Peterborough",
   "PostCode": "PE4 7AP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-02",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

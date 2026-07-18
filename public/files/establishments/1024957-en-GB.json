@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "320",
   "LocalAuthorityName": "Stratford-on-Avon",
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.145092010498",
@@ -18,12 +18,12 @@
   "AddressLine3": "Banbury",
   "PostCode": "OX17 1EA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-06-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

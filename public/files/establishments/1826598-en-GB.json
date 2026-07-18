@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.47048422",
+    "Longitude": "-3.53662321"
+  },
   "AddressLine1": "Magdalene Road Torquay Torbay",
   "PostCode": "TQ1 4AF",
   "SchemeType": "FHRS",

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Carrisbrooke Nursing Home 50 Teignmouth Road Torquay Torbay",
+  "Geocode": {
+    "Latitude": "50.4757145",
+    "Longitude": "-3.5406367"
+  },
+  "AddressLine1": "50 Teignmouth Road Torquay Torbay",
   "PostCode": "TQ1 4ET",
   "SchemeType": "FHRS",
   "RatingValue": "5",

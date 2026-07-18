@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1508055",
+    "Longitude": "0.8902895"
+  },
   "AddressLine1": "Creative Enterprise Quarter Javelin Way",
   "AddressLine3": "Ashford",
   "SchemeType": "FHRS",

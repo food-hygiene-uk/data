@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6741808",
+    "Longitude": "-3.2367909"
+  },
+  "AddressLine1": "Gwaun Arlwyddes Isaf Farm",
+  "AddressLine2": "Hospital Road",
+  "AddressLine3": "Penpedairheol",
+  "AddressLine4": "Hengoed",
+  "PostCode": "CF82 8DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.481341",
+    "Longitude": "-2.244478"
+  },
   "AddressLine2": "33A Cross Street",
   "AddressLine3": "Manchester",
   "PostCode": "M2 1NL",

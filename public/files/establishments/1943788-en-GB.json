@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.37111",
+    "Longitude": "-2.279541"
+  },
   "AddressLine2": "Thorley Lane",
   "AddressLine3": "Manchester",
   "PostCode": "WA15 8UN",

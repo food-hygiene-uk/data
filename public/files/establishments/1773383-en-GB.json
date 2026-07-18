@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.127966",
+    "Longitude": "0.7500672"
+  },
   "AddressLine1": "Bethersden Playschool Bethersden County Primary School School Road",
   "AddressLine3": "Bethersden",
   "SchemeType": "FHRS",

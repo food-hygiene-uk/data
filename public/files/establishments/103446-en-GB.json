@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "701",
   "LocalAuthorityName": "Bedford",
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
   "Geocode": {
-    "Latitude": "52.1607627868652",
-    "Longitude": "-0.494363993406296"
+    "Latitude": "52.1606783",
+    "Longitude": "-0.4941152"
   },
-  "AddressLine2": "82 High Street",
-  "AddressLine3": "Clapham",
-  "AddressLine4": "Bedford",
+  "AddressLine1": "82 HIGH STREET",
+  "AddressLine3": "CLAPHAM",
+  "AddressLine4": "BEDFORD",
   "PostCode": "MK41 6BW",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-03-05",
+  "RatingDate": "2026-06-11",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.456766",
+    "Longitude": "-2.159776"
+  },
   "AddressLine2": "37 Reddish Lane",
   "AddressLine3": "Manchester",
   "PostCode": "M18 7JH",

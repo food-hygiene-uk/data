@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "409",
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "52.517474",
     "Longitude": "-2.132422"
@@ -17,8 +17,12 @@
   "AddressLine3": "Dudley",
   "PostCode": "DY3 2UB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
-    "Latitude": "51.3770027160645",
-    "Longitude": "-0.106881000101566"
+    "Latitude": "51.3770991",
+    "Longitude": "-0.1072707"
   },
-  "AddressLine1": "38-40 Pitlake",
+  "AddressLine1": "38 - 40 Pitlake",
   "AddressLine2": "Croydon",
   "PostCode": "CR0 3RA",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-03-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-25",
   "Scores": {
     "Hygiene": 10,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

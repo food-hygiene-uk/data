@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
   "Geocode": {
     "Latitude": "51.53317",
@@ -17,12 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "NW10 4TD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-15",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.541285",
+    "Longitude": "1.731863"
+  },
+  "AddressLine2": "Warren Road",
+  "AddressLine3": "Hopton-On-Sea",
+  "AddressLine4": "Norfolk",
+  "PostCode": "NR31 9BW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-11",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.483263",
+    "Longitude": "-2.236442"
+  },
   "AddressLine2": "55 Church Street",
   "AddressLine3": "Manchester",
   "PostCode": "M4 1PD",

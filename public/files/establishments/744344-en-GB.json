@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts@eastlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.059046",
+    "Longitude": "-2.718497"
+  },
   "AddressLine1": "42 High Street North Berwick East Lothian",
   "PostCode": "EH39 4HX",
   "SchemeType": "FHIS",

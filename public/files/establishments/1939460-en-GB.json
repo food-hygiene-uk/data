@@ -7,9 +7,16 @@
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4359996",
+    "Longitude": "-1.8163025"
+  },
+  "AddressLine1": "256 Gospel Lane",
+  "AddressLine2": "Olton",
+  "AddressLine3": "Solihull",
+  "PostCode": "B27 7AH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

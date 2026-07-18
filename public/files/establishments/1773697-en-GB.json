@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.192766",
+    "Longitude": "0.7276143"
+  },
   "AddressLine1": "Egerton Pre-school Playgroup Egerton Millenium Village Hall Elm Close",
   "AddressLine3": "Egerton",
   "SchemeType": "FHRS",

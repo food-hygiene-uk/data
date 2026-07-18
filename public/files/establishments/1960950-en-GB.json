@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.8878517150879",
-    "Longitude": "-4.41757488250732"
-  },
-  "AddressLine1": "Venue Maes Yr Orsaf",
+  "Geocode": null,
+  "AddressLine1": "Morlo Lounge Maes Yr Orsaf",
   "AddressLine3": "Pwllheli",
   "AddressLine4": "Gwynedd",
   "PostCode": "LL53 5HG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

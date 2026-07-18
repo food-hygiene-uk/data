@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1303023",
+    "Longitude": "0.9056608"
+  },
   "AddressLine1": "Boots Ashford Business Park Barrey Road",
   "AddressLine3": "Sevington",
   "SchemeType": "FHRS",

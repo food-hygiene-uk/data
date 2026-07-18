@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3965001",
+    "Longitude": "-1.8046472"
+  },
+  "AddressLine1": "Unit 1",
+  "AddressLine2": "Highlands House",
+  "AddressLine3": "Stirling Road",
+  "AddressLine4": "Shirley",
+  "PostCode": "B90 4NE",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2025-11-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Nisa Local",
-  "AddressLine2": "High Street",
+  "Geocode": {
+    "Latitude": "52.8141722",
+    "Longitude": "-0.5198636"
+  },
+  "AddressLine2": "6 High Street",
   "AddressLine3": "Corby Glen",
   "AddressLine4": "Lincolnshire",
   "PostCode": "NG33 4LX",

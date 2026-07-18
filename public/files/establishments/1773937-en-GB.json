@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1490658",
+    "Longitude": "0.8611312"
+  },
   "AddressLine1": "The Old Iron Foundry Cafe Cobbswood Industrial Estate Brunswick Road",
   "AddressLine3": "Ashford",
   "SchemeType": "FHRS",

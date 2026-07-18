@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1653668",
+    "Longitude": "0.8137501"
+  },
   "AddressLine1": "Hothfield Manor Brain Injury Centre Church Lane",
   "AddressLine3": "Hothfield",
   "SchemeType": "FHRS",

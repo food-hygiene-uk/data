@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0671499",
+    "Longitude": "0.6830355"
+  },
   "AddressLine1": "126 High Street",
   "AddressLine3": "Tenterden",
   "SchemeType": "FHRS",

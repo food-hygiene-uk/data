@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Swansea",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.653529",
@@ -18,12 +18,8 @@
   "AddressLine4": "Gowerton",
   "PostCode": "SA4 3AB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-11-11",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }

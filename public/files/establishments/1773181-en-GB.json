@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0954929",
+    "Longitude": "0.9117696"
+  },
   "AddressLine1": "Frith Business Centre Frith Road",
   "AddressLine3": "Aldington",
   "SchemeType": "FHRS",

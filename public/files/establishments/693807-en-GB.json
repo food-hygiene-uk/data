@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.midlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@midlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8889984",
+    "Longitude": "-3.07974975"
+  },
   "AddressLine1": "Kings Park Eskbank Road Dalkeith EH22 3DQ",
+  "PostCode": "EH22 3DQ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

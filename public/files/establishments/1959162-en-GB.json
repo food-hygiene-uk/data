@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "557",
   "LocalAuthorityName": "Ceredigion",
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
   "Geocode": {
     "Latitude": "52.41596781",
@@ -17,8 +17,12 @@
   "AddressLine3": "Aberystwyth",
   "PostCode": "SY23 2DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -7,16 +7,23 @@
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5561159",
+    "Longitude": "0.0137855"
+  },
   "AddressLine1": "225 Cann Hall Road",
   "AddressLine3": "Leytonstone",
   "AddressLine4": "London",
   "PostCode": "E11 3NJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
     "Latitude": "55.182305",
@@ -19,8 +19,12 @@
   "AddressLine4": "Londonderry",
   "PostCode": "BT55 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -13,14 +13,17 @@
     "Latitude": "50.982638",
     "Longitude": "-0.2101375"
   },
-  "AddressLine1": "Garstons Farm",
-  "AddressLine2": "Chapel Road",
-  "AddressLine3": "Bolney",
-  "AddressLine4": "Haywards Heath",
-  "PostCode": "RH17 5NE",
+  "AddressLine1": "Chapel Barn",
+  "AddressLine2": "Garstons Farm",
+  "AddressLine3": "Chapel Road",
+  "AddressLine4": "Bolney",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

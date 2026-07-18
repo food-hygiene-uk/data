@@ -1,13 +1,13 @@
 {
   "FHRSID": 615314,
-  "BusinessName": "Family Shopper Anlaby Road",
+  "BusinessName": "Family Shopper (Best One)",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "39625",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "866",
   "LocalAuthorityName": "Hull City",
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
   "Geocode": {
     "Latitude": "53.7446739",
@@ -17,8 +17,12 @@
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU4 6AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
+  }
 }

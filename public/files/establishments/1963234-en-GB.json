@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9476544",
+    "Longitude": "1.055508"
+  },
+  "AddressLine1": "Riverside House",
+  "AddressLine2": "Riverside Avenue West",
+  "AddressLine3": "Lawford",
+  "AddressLine4": "Manningtree",
+  "PostCode": "CO11 1UN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

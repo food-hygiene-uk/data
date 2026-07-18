@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.481772",
+    "Longitude": "-2.240065"
+  },
   "AddressLine2": "16 Fountain Street",
   "AddressLine3": "Manchester",
   "PostCode": "M2 2AA",

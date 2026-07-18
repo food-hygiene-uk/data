@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.512745",
+    "Longitude": "-2.212283"
+  },
   "AddressLine1": "Kiosks 2/3 North City Shopping Centre",
   "AddressLine2": "Rochdale Road",
   "AddressLine3": "Manchester",

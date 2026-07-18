@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.461125",
+    "Longitude": "-2.240672"
+  },
   "AddressLine2": "104 Denmark Road",
   "AddressLine3": "Manchester",
   "PostCode": "M15 6JS",

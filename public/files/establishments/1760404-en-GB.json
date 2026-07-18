@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
     "Latitude": "52.462179",
@@ -19,12 +19,12 @@
   "AddressLine4": "Birmingham",
   "PostCode": "B25 8UJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

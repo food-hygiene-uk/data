@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.337958",
+    "Longitude": "-0.4702314"
+  },
   "AddressLine1": "166 High RoadByfleetWest ByfleetSurrey",
   "PostCode": "KT14 7RG",
   "SchemeType": "FHRS",

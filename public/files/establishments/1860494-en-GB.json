@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5314298",
@@ -17,12 +17,12 @@
   "AddressLine4": "Euston Road",
   "PostCode": "N1C 4QP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-05",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-12",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 30
   }
 }

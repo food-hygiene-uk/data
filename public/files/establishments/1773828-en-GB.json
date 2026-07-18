@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1415536",
+    "Longitude": "0.8250906"
+  },
   "AddressLine1": "Stable Block Ashford Prep School Ashford Road",
   "AddressLine3": "Great Chart",
   "SchemeType": "FHRS",

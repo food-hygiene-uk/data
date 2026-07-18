@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.365597",
+    "Longitude": "-2.239426"
+  },
   "AddressLine1": "Trident House",
   "AddressLine2": "Styal Road",
   "AddressLine3": "Manchester",

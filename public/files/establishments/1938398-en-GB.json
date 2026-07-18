@@ -1,21 +1,25 @@
 {
   "FHRSID": 1938398,
-  "BusinessName": "itz delhi",
+  "BusinessName": "Itz Delhi",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9103138",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "408",
   "LocalAuthorityName": "Doncaster",
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
   "Geocode": null,
   "AddressLine1": "Priory House Priory Walk",
   "AddressLine3": "Doncaster",
   "PostCode": "DN1 1TQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

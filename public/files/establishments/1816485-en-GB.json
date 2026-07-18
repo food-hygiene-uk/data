@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.515333",
+    "Longitude": "-2.236756"
+  },
   "AddressLine2": "17 Lansdowne Road",
   "AddressLine3": "Manchester",
   "PostCode": "M8 5SF",

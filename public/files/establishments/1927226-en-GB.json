@@ -1,9 +1,9 @@
 {
   "FHRSID": 1927226,
   "BusinessName": "777 Chinese",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "67461",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
@@ -18,12 +18,8 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR30 1NN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-17",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

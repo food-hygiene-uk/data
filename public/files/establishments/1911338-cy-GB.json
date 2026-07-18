@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.822242",
-    "Longitude": "-4.5079399"
-  },
-  "AddressLine1": "Heulwen 28 Maes Gwydryn",
-  "AddressLine3": "Abersoch",
+  "Geocode": null,
+  "AddressLine1": "Bryn Gwdyn",
+  "AddressLine3": "Nanhoron",
   "AddressLine4": "Gwynedd",
-  "PostCode": "LL53 7ED",
+  "PostCode": "LL53 8DW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5856259",
+    "Longitude": "-5.8676249"
+  },
+  "AddressLine3": "1 Knockwood Park",
+  "AddressLine4": "Belfast",
+  "PostCode": "BT5 6GA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

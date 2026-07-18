@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.519916",
+    "Longitude": "-0.117595"
+  },
   "AddressLine2": "50 Red Lion Street",
   "PostCode": "WC1R 4PF",
   "SchemeType": "FHRS",

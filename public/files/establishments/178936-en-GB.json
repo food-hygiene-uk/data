@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": {
     "Latitude": "52.224835",
@@ -18,12 +18,8 @@
   "AddressLine3": "Powys",
   "PostCode": "LD8 2RH",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2025-01-23",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }

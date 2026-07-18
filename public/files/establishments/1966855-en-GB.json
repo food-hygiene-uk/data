@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record",
-  "AddressLine2": "Brushwood Road",
-  "AddressLine3": "Chesham",
-  "AddressLine4": "Buckinghamshire",
+  "Geocode": {
+    "Latitude": "51.71518815",
+    "Longitude": "-0.5966901"
+  },
+  "AddressLine1": "Brushwood Road",
+  "AddressLine2": "Chesham",
+  "AddressLine3": "Buckinghamshire",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

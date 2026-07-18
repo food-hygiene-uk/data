@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts@eastlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.952482",
+    "Longitude": "-2.978567"
+  },
   "AddressLine1": "John Hastie & Son (Redburn Garage) Mid Road Prestonpans East Lothian",
   "PostCode": "EH32 9ER",
   "SchemeType": "FHIS",

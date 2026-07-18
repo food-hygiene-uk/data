@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3621449",
+    "Longitude": "-2.2731973"
+  },
   "AddressLine1": "Landside Departures Terminal Two",
   "AddressLine2": "Manchester Airport",
   "AddressLine3": "Manchester",

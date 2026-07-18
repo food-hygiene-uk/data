@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.45605",
+    "Longitude": "-2.243128"
+  },
   "AddressLine2": "100 Great Western Street",
   "AddressLine3": "Manchester",
   "PostCode": "M14 4RA",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "063",
   "LocalAuthorityName": "Bolsover",
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
   "Geocode": {
     "Latitude": "53.2701447",
@@ -19,12 +19,12 @@
   "AddressLine4": "Chesterfield",
   "PostCode": "S43 4LQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

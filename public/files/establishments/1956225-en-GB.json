@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5580562",
-    "Longitude": "-0.0505779"
-  },
-  "AddressLine2": "23 Cynthia Road",
-  "AddressLine4": "Grimsby",
-  "PostCode": "DN32 8LT",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

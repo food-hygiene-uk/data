@@ -1,6 +1,6 @@
 {
   "FHRSID": 1891087,
-  "BusinessName": "JR Sports Group at Monks Risborough CoE Primary School",
+  "BusinessName": "JR Sports Group at Monks Risborough CofE Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "25/00628/FCLBH",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP27 9LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

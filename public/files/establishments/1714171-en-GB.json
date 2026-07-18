@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "204",
   "LocalAuthorityName": "Rossendale",
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
   "Geocode": {
     "Latitude": "53.700163",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "BB4 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

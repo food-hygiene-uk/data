@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1234008",
+    "Longitude": "1.0156213"
+  },
   "AddressLine1": "The Black Horse Fiddling Lane",
   "AddressLine3": "Brabourne",
   "PostCode": "TN25 6AP",

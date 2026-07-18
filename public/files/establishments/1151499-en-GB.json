@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
   "Geocode": {
     "Latitude": "53.682245",
@@ -17,12 +17,12 @@
   "AddressLine2": "Wakefield",
   "PostCode": "WF1 1XQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-01-28",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

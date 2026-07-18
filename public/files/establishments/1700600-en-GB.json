@@ -1,13 +1,13 @@
 {
   "FHRSID": 1700600,
-  "BusinessName": "Hippie Chic",
+  "BusinessName": "Hippie Chic / Yellow Submarine Bar",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "77060",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "414",
   "LocalAuthorityName": "Liverpool",
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
   "Geocode": {
     "Latitude": "53.393602",
@@ -17,8 +17,12 @@
   "AddressLine3": "Liverpool",
   "PostCode": "L8 5XJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

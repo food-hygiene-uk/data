@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": {
     "Latitude": "53.461529",
@@ -19,12 +19,12 @@
   "AddressLine4": "Manchester",
   "PostCode": "M32 0TB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2014-02-14",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-19",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 15,
     "ConfidenceInManagement": 0
   }
 }

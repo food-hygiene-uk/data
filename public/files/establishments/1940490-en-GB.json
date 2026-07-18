@@ -10,20 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.6458811",
-    "Longitude": "1.7294364"
+    "Latitude": "52.645874",
+    "Longitude": "1.7294"
   },
   "AddressLine2": "6 Tan Lane",
-  "AddressLine3": "Caister",
-  "AddressLine4": "Great Yarmouth Norfolk",
+  "AddressLine3": "Caister-On-Sea",
+  "AddressLine4": "Norfolk",
   "PostCode": "NR30 5DN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

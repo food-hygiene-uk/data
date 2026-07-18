@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "028",
   "LocalAuthorityName": "East Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
   "Geocode": {
     "Latitude": "52.399498",
@@ -18,12 +18,8 @@
   "AddressLine3": "Cambridgeshire",
   "PostCode": "CB7 4LQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

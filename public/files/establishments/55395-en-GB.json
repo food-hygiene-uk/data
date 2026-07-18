@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": {
     "Latitude": "52.8048400878906",
@@ -18,12 +18,12 @@
   "AddressLine4": "Gwynedd",
   "PostCode": "LL53 8BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-03-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

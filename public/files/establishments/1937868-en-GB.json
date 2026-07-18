@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": null,
   "AddressLine1": "Windmill Sports And Social Club Mancetter Road",
@@ -15,8 +15,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "CV10 0HW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

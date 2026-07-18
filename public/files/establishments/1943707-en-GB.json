@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5139643",
+    "Longitude": "-2.2074107"
+  },
   "AddressLine1": "Holy Trinity church",
   "AddressLine2": "Goodman Street",
   "AddressLine3": "Manchester",

@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
   "Geocode": null,
   "AddressLine1": "ST MARK'S CHURCH NORTH AUDLEY STREET",
   "AddressLine3": "LONDON",
   "PostCode": "W1K 6ZA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-05-13",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3030827",
+    "Longitude": "-0.5498903"
+  },
   "AddressLine1": "4 The TerraceHigh StreetOld WokingWokingSurrey",
   "PostCode": "GU22 9ES",
   "SchemeType": "FHRS",
