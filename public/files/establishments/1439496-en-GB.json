@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "comm@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.532839",
@@ -18,12 +18,12 @@
   "AddressLine3": "Wigan",
   "PostCode": "WN5 8TG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-13",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 10
   }
 }

@@ -7,24 +7,23 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
-    "Latitude": "51.531107",
-    "Longitude": "0.020514"
+    "Latitude": "51.5302161",
+    "Longitude": "0.0227059"
   },
-  "AddressLine1": "Black Lion Public House",
-  "AddressLine2": "59-61 High Street",
-  "AddressLine3": "Plaistow",
-  "AddressLine4": "London",
+  "AddressLine1": "59 - 61 High Street",
+  "AddressLine2": "Plaistow",
+  "AddressLine3": "London",
   "PostCode": "E13 0AD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }
