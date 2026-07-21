@@ -1,9 +1,9 @@
 {
   "FHRSID": 1551716,
-  "BusinessName": "Tanhurst Estate",
-  "BusinessType": "Farmers/growers",
+  "BusinessName": "Tanhurst Estate Café and Events",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "134277",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "308",
   "LocalAuthorityName": "Mole Valley",
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Abinger",
   "PostCode": "RH5 6LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

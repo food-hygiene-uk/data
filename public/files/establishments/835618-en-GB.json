@@ -1,13 +1,13 @@
 {
   "FHRSID": 835618,
-  "BusinessName": "Carhill Primary School",
+  "BusinessName": "Carhill Integrated Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "401193",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "805",
   "LocalAuthorityName": "Causeway Coast and Glens",
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
   "Geocode": {
     "Latitude": "54.943649",
@@ -19,12 +19,12 @@
   "AddressLine4": "Londonderry",
   "PostCode": "BT51 5PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

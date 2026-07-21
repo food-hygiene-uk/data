@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "814",
   "LocalAuthorityName": "Newry, Mourne and Down",
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
   "Geocode": {
     "Latitude": "54.178217",
@@ -19,12 +19,12 @@
   "AddressLine4": "Down",
   "PostCode": "BT35 6HT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-15",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

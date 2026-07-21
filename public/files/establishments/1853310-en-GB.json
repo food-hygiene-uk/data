@@ -7,18 +7,23 @@
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.67634",
-    "Longitude": "-0.048227"
+    "Latitude": "51.6763773",
+    "Longitude": "-0.048186"
   },
-  "AddressLine1": "45 Kempe Road",
-  "AddressLine2": "ENFIELD",
+  "AddressLine1": "Barakah Kitchen",
+  "AddressLine2": "45 Kempe Road",
+  "AddressLine3": "ENFIELD",
   "PostCode": "EN1 4QT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-15",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0308338",
+    "Longitude": "-0.8128021"
+  },
+  "AddressLine2": "9 Zubron Grove",
+  "AddressLine3": "Whitehouse",
+  "AddressLine4": "Milton Keynes",
+  "PostCode": "MK8 1EH",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

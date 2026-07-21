@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Dikes Lane",
+  "Geocode": {
+    "Latitude": "54.4907885",
+    "Longitude": "-1.1053336"
+  },
+  "AddressLine1": "Bike Base 20 Dikes Lane",
   "AddressLine4": "Great Ayton",
-  "PostCode": "TS9 6HL",
+  "PostCode": "TS9 6HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

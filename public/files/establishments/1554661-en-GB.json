@@ -8,11 +8,13 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
-  "AddressLine1": "Pilot IMS",
-  "AddressLine2": "Dudley College",
-  "AddressLine3": "The Broadway",
-  "AddressLine4": "Dudley",
+  "Geocode": {
+    "Latitude": "52.514633",
+    "Longitude": "-2.083447"
+  },
+  "AddressLine1": "Dudley College",
+  "AddressLine2": "The Broadway",
+  "AddressLine3": "Dudley",
   "PostCode": "DY1 4AS",
   "SchemeType": "FHRS",
   "RatingValue": "5",

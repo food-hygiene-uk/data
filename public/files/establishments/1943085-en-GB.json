@@ -1,6 +1,6 @@
 {
   "FHRSID": 1943085,
-  "BusinessName": "The Scrape",
+  "BusinessName": "The Scrape (Mobile)",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "74417",
   "BusinessTypeID": 7846,
@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": {
-    "Latitude": "55.0015227",
-    "Longitude": "-1.6834198"
-  },
-  "AddressLine1": "15 Kyloe Place",
-  "AddressLine2": "Newbiggin Hall",
-  "AddressLine3": "Newcastle Upon Tyne",
-  "PostCode": "NE5 4AU",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

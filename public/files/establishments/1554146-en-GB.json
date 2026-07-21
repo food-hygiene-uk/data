@@ -8,10 +8,12 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
-  "AddressLine1": "St Jamess Church",
-  "AddressLine2": "Salop Street",
-  "AddressLine3": "Dudley",
+  "Geocode": {
+    "Latitude": "52.513763",
+    "Longitude": "-2.093436"
+  },
+  "AddressLine1": "Salop Street",
+  "AddressLine2": "Dudley",
   "PostCode": "DY1 3JA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

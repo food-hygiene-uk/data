@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": {
     "Latitude": "51.439658",
@@ -17,12 +17,12 @@
   "AddressLine3": "CALNE",
   "PostCode": "SN11 0HA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

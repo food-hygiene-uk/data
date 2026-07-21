@@ -1,6 +1,6 @@
 {
   "FHRSID": 1032761,
-  "BusinessName": "Messy Church St Johns Southall",
+  "BusinessName": "St Johns Church Southall",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI000111419",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "Ealing",
   "PostCode": "UB2 4NT",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

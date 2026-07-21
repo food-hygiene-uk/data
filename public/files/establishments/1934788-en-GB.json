@@ -1,6 +1,6 @@
 {
   "FHRSID": 1934788,
-  "BusinessName": "London Wingz - Ealing",
+  "BusinessName": "London Wingz",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "CP05994",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine2": "Ealing",
   "PostCode": "W5 4QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-18",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
