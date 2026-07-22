@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
   "Geocode": {
     "Latitude": "52.8879623413086",
@@ -18,12 +18,12 @@
   "AddressLine3": "Derby",
   "PostCode": "DE23 3AT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-03",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

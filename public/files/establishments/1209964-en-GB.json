@@ -1,13 +1,13 @@
 {
   "FHRSID": 1209964,
-  "BusinessName": "Kawthar Halal Shop",
+  "BusinessName": "Kawthar Mini Market & Bakery",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "23101",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.8010761",
@@ -17,8 +17,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD1 3ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

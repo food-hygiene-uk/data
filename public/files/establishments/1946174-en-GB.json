@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9352421",
-    "Longitude": "-2.2624609"
-  },
-  "AddressLine2": "Bank House",
-  "AddressLine3": "Main Street",
-  "AddressLine4": "Gisburn",
-  "PostCode": "BB7 4HE",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

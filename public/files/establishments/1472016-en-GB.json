@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3928462",
+    "Longitude": "-2.3973779"
+  },
+  "AddressLine1": "28 East Lea Road",
+  "AddressLine2": "Lower Weston",
+  "AddressLine3": "Bath",
+  "AddressLine4": "Bath And North East Somerset",
+  "PostCode": "BA1 3RP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

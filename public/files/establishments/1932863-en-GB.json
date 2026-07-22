@@ -1,13 +1,13 @@
 {
   "FHRSID": 1932863,
-  "BusinessName": "Angry Burg Limited",
+  "BusinessName": "Angry Burg",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/FST/212/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "878",
   "LocalAuthorityName": "Leicester City",
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": {
     "Latitude": "52.630332",
@@ -17,8 +17,12 @@
   "AddressLine2": "Leicester",
   "PostCode": "LE2 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

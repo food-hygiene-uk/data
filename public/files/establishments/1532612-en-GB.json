@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "200",
   "LocalAuthorityName": "Lancaster City",
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
   "Geocode": {
     "Latitude": "54.07116268",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-17",
+  "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

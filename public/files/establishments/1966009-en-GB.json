@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.496466",
+    "Longitude": "-1.9627188"
+  },
+  "AddressLine1": "2 Bridge Street South",
+  "AddressLine4": "Smethwick",
+  "PostCode": "B66 3DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1901541,
-  "BusinessName": "Ghurka Junction",
+  "BusinessName": "Gurkha Junction",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "158571",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine4": "Derby",
   "PostCode": "DE21 7NP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

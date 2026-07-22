@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.044443",
@@ -19,12 +19,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "IP7 5EF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

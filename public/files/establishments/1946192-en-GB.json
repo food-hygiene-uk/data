@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
   "Geocode": {
-    "Latitude": "52.042045",
-    "Longitude": "1.147239"
+    "Latitude": "52.0420482",
+    "Longitude": "1.1472827"
   },
-  "AddressLine1": "69 Maidenhall Approach",
-  "AddressLine2": "Ipswich",
-  "AddressLine3": "Suffolk",
+  "AddressLine1": "Minni's Kitchen",
+  "AddressLine2": "69 Maidenhall Approach",
+  "AddressLine3": "Ipswich",
+  "AddressLine4": "Suffolk",
   "PostCode": "IP2 8PG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

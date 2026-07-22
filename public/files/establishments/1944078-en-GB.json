@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3755362",
-    "Longitude": "-0.3137898"
-  },
-  "AddressLine1": "4 Shafto Cottages Barham Road",
-  "AddressLine3": "Buckworth",
-  "AddressLine4": "Cambridgeshire",
-  "PostCode": "PE28 5AP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

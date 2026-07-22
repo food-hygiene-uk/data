@@ -1,6 +1,6 @@
 {
   "FHRSID": 1964759,
-  "BusinessName": "Maxwell Catering Ltd - Greek/Pizza Tent (Gazebo)",
+  "BusinessName": "Maxwell Catering Ltd - Hog Roast/Greek Kebab (Gazebo)",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00100/COM",
   "BusinessTypeID": 7846,
@@ -19,8 +19,12 @@
   "AddressLine4": "Potters Bar",
   "PostCode": "EN6 5BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

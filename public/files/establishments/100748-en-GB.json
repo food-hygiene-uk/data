@@ -1,13 +1,13 @@
 {
   "FHRSID": 100748,
-  "BusinessName": "R Walton Limited",
+  "BusinessName": "Walton's",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "32563",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "708",
   "LocalAuthorityName": "Shropshire",
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
   "Geocode": {
     "Latitude": "52.3674141",
@@ -18,12 +18,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "SY8 1BP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

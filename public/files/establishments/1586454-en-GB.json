@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "114",
   "LocalAuthorityName": "Colchester",
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
   "Geocode": {
     "Latitude": "51.9029575",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CO4 0NA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-27",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
