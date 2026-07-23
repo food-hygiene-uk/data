@@ -1,9 +1,9 @@
 {
   "FHRSID": 326946,
   "BusinessName": "Ipsum Vinoteca",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "52093",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "Ilkley",
   "PostCode": "LS29 8DH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

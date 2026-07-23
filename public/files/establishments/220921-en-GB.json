@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "412",
   "LocalAuthorityName": "Knowsley",
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
   "Geocode": {
     "Latitude": "53.412797",
@@ -18,12 +18,12 @@
   "AddressLine3": "Knowsley",
   "PostCode": "L36 6ED",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-17",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

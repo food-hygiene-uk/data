@@ -1,6 +1,6 @@
 {
   "FHRSID": 1949817,
-  "BusinessName": "OG's Kitchen t/a Daddy's Jacket Potato and t/a Loaded Bowl",
+  "BusinessName": "OG's Kitchen t/a Daddy's Jacket Potato and t/a Loaded Bowl t/a Mexican Heat t/a 50 States Burger",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00086/COMM",
   "BusinessTypeID": 7844,
@@ -15,8 +15,12 @@
   },
   "AddressLine2": "2 Gold Street Kettering NN16 8JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

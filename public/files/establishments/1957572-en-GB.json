@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3371392",
-    "Longitude": "-1.2737733"
-  },
-  "AddressLine2": "18 Whitebeam Rise",
-  "AddressLine3": "Kiveton Park",
-  "AddressLine4": "Sheffield",
-  "PostCode": "S26 5AF",
+  "Geocode": null,
+  "AddressLine1": "Rotherham Market Halls",
+  "AddressLine2": "Eastwood Lane",
+  "AddressLine3": "Rotherham Town Centre",
+  "AddressLine4": "Rotherham",
+  "PostCode": "S65 1EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

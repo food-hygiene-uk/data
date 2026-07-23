@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6908869",
+    "Longitude": "-0.0615095"
+  },
+  "AddressLine1": "The Smithy",
+  "AddressLine2": "Old Park Ride",
+  "AddressLine3": "Waltham Cross",
+  "AddressLine4": "Hertfordshire",
+  "PostCode": "EN7 5HY",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
   "RatingDate": null,
   "Scores": null
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1944169,
-  "BusinessName": "Sipo Bach",
+  "BusinessName": "Siop Bach",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9103465",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "550",
   "LocalAuthorityName": "Conwy",
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
   "Geocode": null,
   "AddressLine1": "Siop Bach Church Street",
@@ -15,8 +15,12 @@
   "AddressLine4": "Conwy",
   "PostCode": "LL28 5LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

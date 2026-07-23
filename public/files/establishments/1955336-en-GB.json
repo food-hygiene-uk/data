@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7954508",
+    "Longitude": "-1.816171"
+  },
+  "AddressLine2": "10 Sanderling Court",
+  "AddressLine3": "Bradford",
+  "PostCode": "BD8 0RD",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

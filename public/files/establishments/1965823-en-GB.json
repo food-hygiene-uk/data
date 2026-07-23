@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.435458",
+    "Longitude": "-1.3383814"
+  },
+  "AddressLine2": "46 Doncaster Road",
+  "AddressLine3": "East Dene",
+  "AddressLine4": "Rotherham",
+  "PostCode": "S65 2BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

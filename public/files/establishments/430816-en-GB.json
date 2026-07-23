@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "872",
   "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
     "Latitude": "50.718152",
@@ -17,12 +17,12 @@
   "AddressLine3": "Bournemouth",
   "PostCode": "BH2 5AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

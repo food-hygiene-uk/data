@@ -7,12 +7,18 @@
   "LocalAuthorityCode": "860",
   "LocalAuthorityName": "Redcar and Cleveland",
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5325636",
+    "Longitude": "-1.1652701"
+  },
+  "AddressLine2": "5 Rush Gardens",
+  "AddressLine3": "Nunthorpe",
+  "PostCode": "TS7 0GU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

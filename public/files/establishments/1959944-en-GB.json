@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "315",
   "LocalAuthorityName": "Woking",
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
   "Geocode": {
     "Latitude": "51.3213682",
@@ -16,8 +16,12 @@
   "AddressLine1": "58 Chertsey RoadWokingSurrey",
   "PostCode": "GU21 5BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

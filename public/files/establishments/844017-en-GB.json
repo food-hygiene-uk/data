@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Rookery Nook Day Nursery",
+  "Geocode": {
+    "Latitude": "53.781265",
+    "Longitude": "-1.716313"
+  },
   "AddressLine2": "Cutler Heights Lane",
   "AddressLine3": "Bradford",
   "PostCode": "BD4 9HZ",

@@ -7,22 +7,23 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
-    "Latitude": "50.8093032836914",
-    "Longitude": "-1.07143795490265"
+    "Latitude": "50.8090831",
+    "Longitude": "-1.0723256"
   },
-  "AddressLine1": "125 New Road",
-  "AddressLine2": "Portsmouth",
+  "AddressLine1": "Shop",
+  "AddressLine2": "125 New Road",
+  "AddressLine3": "Portsmouth",
   "PostCode": "PO2 7QS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-05-16",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

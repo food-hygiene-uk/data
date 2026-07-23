@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "424",
   "LocalAuthorityName": "Sefton",
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
   "Geocode": {
     "Latitude": "53.6488796",
@@ -17,8 +17,12 @@
   "AddressLine3": "Southport",
   "PostCode": "PR8 1NH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }
