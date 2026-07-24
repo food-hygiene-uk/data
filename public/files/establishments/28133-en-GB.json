@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4824714660645",
-    "Longitude": "-2.0530641078949"
-  },
+  "Geocode": null,
   "AddressLine1": "Tesco Foodstore",
   "AddressLine2": "Trinity Street",
   "AddressLine3": "Stalybridge",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingDate": "2026-07-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

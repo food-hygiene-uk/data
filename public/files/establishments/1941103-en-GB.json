@@ -1,6 +1,6 @@
 {
   "FHRSID": 1941103,
-  "BusinessName": "The Sweet Spot Devon Ltd",
+  "BusinessName": "The Sweet Spot",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "197086909321536",
   "BusinessTypeID": 7844,
@@ -9,15 +9,16 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4177876",
-    "Longitude": "-3.5613218"
-  },
+  "Geocode": null,
   "AddressLine1": "119A Dartmouth Road Paignton",
   "PostCode": "TQ4 6NF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

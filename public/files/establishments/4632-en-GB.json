@@ -1,6 +1,6 @@
 {
   "FHRSID": 4632,
-  "BusinessName": "Village Hotel Manchester Hyde",
+  "BusinessName": "Village Hotel Manchester Hyde Also Starbucks Coffee Co",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "01231/0002/2/000",
   "BusinessTypeID": 7842,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4653952",
-    "Longitude": "-2.090082"
-  },
+  "Geocode": null,
   "AddressLine1": "Village Hotel",
   "AddressLine2": "2 Captain Clarke Road",
   "AddressLine3": "Hyde",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
-  "Scores": null
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

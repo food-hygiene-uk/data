@@ -1,25 +1,26 @@
 {
   "FHRSID": 1921013,
   "BusinessName": "Fire+fly",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "203473",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "528",
   "LocalAuthorityName": "Southwark",
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4967706",
-    "Longitude": "-0.0510277"
-  },
-  "AddressLine1": "Unit 1 Dock Offices",
+  "Geocode": null,
+  "AddressLine1": "Unit 1 Canada Water Retail Park",
   "AddressLine3": "Surrey Quays Road",
   "AddressLine4": "London",
   "PostCode": "SE16 2XU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

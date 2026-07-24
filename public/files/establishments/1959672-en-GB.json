@@ -1,6 +1,6 @@
 {
   "FHRSID": 1959672,
-  "BusinessName": "Starbuck Coffee Co At Pinvin Service Station",
+  "BusinessName": "Starbucks Coffee Co At Pinvin Service Station",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00514/FOOD",
   "BusinessTypeID": 1,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.13148725",
-    "Longitude": "-2.0664441"
-  },
+  "Geocode": null,
   "AddressLine1": "Abbey View Road",
   "AddressLine2": "Pinvin",
   "AddressLine3": "Worcestershire",
   "PostCode": "WR10 2DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

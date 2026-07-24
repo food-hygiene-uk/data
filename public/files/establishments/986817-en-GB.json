@@ -1,6 +1,6 @@
 {
   "FHRSID": 986817,
-  "BusinessName": "The hyderabad kitchen",
+  "BusinessName": "TheHyderabad kitchen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "133646",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.880428314209",
-    "Longitude": "-0.413785010576248"
-  },
+  "Geocode": null,
   "AddressLine2": "55a Cheapside",
   "AddressLine4": "Luton",
   "PostCode": "LU1 2HN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-09",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

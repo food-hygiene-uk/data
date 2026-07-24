@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5196333",
-    "Longitude": "-0.0883435"
-  },
+  "Geocode": null,
   "AddressLine1": "Elior @ linklaters",
   "AddressLine2": "First Floor",
   "AddressLine3": "20 Ropemaker Street",
   "AddressLine4": "London",
   "PostCode": "EC2R 9AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4191242",
-    "Longitude": "-2.4259272"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Partington Shopping Centre",
   "AddressLine2": "Central Road",
   "AddressLine3": "Partington",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-27",
+  "RatingDate": "2026-07-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

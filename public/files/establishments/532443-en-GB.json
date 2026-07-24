@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.563533",
-    "Longitude": "-0.262367"
-  },
+  "Geocode": null,
   "AddressLine1": "Barnhill Pre School Playgroup",
   "AddressLine2": "Poplar Grove Centre",
   "AddressLine3": "Poplar Grove",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-29",
+  "RatingDate": "2026-07-16",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5791333",
-    "Longitude": "-2.1211934"
-  },
+  "Geocode": null,
   "AddressLine1": "Narrowgate Farm",
   "AddressLine2": "Fir Lane",
   "AddressLine3": "Royton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-14",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

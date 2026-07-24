@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.597538",
-    "Longitude": "-2.435882"
-  },
+  "Geocode": null,
   "AddressLine2": "24-26 Garnett Street",
   "AddressLine3": "Bolton",
   "PostCode": "BL1 6NS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-15",
+  "RatingDate": "2026-07-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

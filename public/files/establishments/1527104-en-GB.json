@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7822701",
-    "Longitude": "-2.9984403"
-  },
+  "Geocode": null,
   "AddressLine1": "Far From The Madding Crowd",
   "AddressLine2": "3 Trinity Square",
   "AddressLine3": "Axminster",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-18",
+  "RatingDate": "2026-07-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

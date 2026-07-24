@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.753406",
-    "Longitude": "-1.261881"
-  },
+  "Geocode": null,
   "AddressLine1": "59 George Street",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-21",
+  "RatingDate": "2026-07-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

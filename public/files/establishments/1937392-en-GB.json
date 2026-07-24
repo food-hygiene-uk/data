@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6256071",
-    "Longitude": "-1.719501"
-  },
+  "Geocode": null,
   "AddressLine1": "Grangewood Garden Centre",
   "AddressLine2": "Bonehill Road",
   "AddressLine3": "Mile Oak",
   "AddressLine4": "Tamworth",
   "PostCode": "B78 3HP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.184022",
-    "Longitude": "-2.153235"
-  },
+  "Geocode": null,
   "AddressLine1": "Spetchley Park",
   "AddressLine2": "Spetchley Road",
   "AddressLine3": "Spetchley",
   "AddressLine4": "Worcestershire",
   "PostCode": "WR5 1RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

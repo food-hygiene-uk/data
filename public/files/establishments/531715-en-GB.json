@@ -1,29 +1,26 @@
 {
   "FHRSID": 531715,
-  "BusinessName": "Al Basrah- Soso2008 Ltd",
+  "BusinessName": "Al Basrah",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "10175",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "504",
   "LocalAuthorityName": "Brent",
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.56575",
-    "Longitude": "-0.27798"
-  },
+  "Geocode": null,
   "AddressLine1": "11 Grand Parade",
   "AddressLine2": "Forty Avenue",
   "AddressLine3": "Wembley",
   "PostCode": "HA9 9JS",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-09-30",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-29",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 20,
+    "ConfidenceInManagement": 30
   }
 }

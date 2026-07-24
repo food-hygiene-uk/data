@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": {
-    "Latitude": "53.210493",
-    "Longitude": "-0.5486437"
-  },
+  "Geocode": null,
   "AddressLine2": "59 Newark Road",
   "AddressLine3": "Lincoln",
   "AddressLine4": "Lincolnshire",
   "PostCode": "LN5 8NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

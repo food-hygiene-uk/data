@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4723656",
-    "Longitude": "-0.0694128"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 5 The Aylesham Centre",
   "AddressLine3": "Rye Lane",
   "AddressLine4": "London",
   "PostCode": "SE15 5EW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

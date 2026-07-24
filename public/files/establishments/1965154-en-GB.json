@@ -8,16 +8,17 @@
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.7694445",
-    "Longitude": "-2.3784404"
-  },
+  "Geocode": null,
   "AddressLine1": "12 St. Mary's Street",
   "AddressLine3": "Newport",
   "PostCode": "TF10 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

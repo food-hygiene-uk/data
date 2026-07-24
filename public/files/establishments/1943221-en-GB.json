@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.7641234",
-    "Longitude": "-2.3609214"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 3 Audley Avenue Business Park Audley Avenue",
   "AddressLine3": "Newport",
-  "AddressLine4": "Shropshire",
+  "AddressLine4": "Telford And Wrekin",
   "PostCode": "TF10 7BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
