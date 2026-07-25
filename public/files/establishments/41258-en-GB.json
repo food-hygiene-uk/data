@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
     "Latitude": "51.571102",
@@ -17,12 +17,12 @@
   "AddressLine3": "Caerphilly",
   "PostCode": "CF83 1EF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-06-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-19",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

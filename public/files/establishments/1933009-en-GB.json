@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6160916",
-    "Longitude": "-0.2452078"
+    "Latitude": "51.615707",
+    "Longitude": "-0.245569"
   },
-  "AddressLine1": "123 The Broadway",
+  "AddressLine1": "123 The Broadway London",
   "PostCode": "NW7 3TG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

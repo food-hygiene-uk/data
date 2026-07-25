@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.998198",
+    "Longitude": "-2.942604"
+  },
+  "AddressLine1": "Avalon",
+  "AddressLine2": "Carness Road",
+  "AddressLine3": "St Ola",
+  "PostCode": "KW15 1UE",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": null,
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-06-15",
   "Scores": null
 }

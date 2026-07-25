@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.215618",
+    "Longitude": "-0.60562"
+  },
   "AddressLine2": "82 Jasmin Road",
   "AddressLine3": "Lincoln",
   "PostCode": "LN6 0QQ",

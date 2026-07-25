@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
   "Geocode": null,
-  "AddressLine1": "The Garden Bar And Cafe",
-  "AddressLine2": "Cafe And Nursery Shop",
-  "AddressLine3": "Allwoods Nursery",
-  "AddressLine4": "London Road",
+  "AddressLine1": "Petals Cafe",
+  "AddressLine2": "London Road",
+  "AddressLine3": "Hassocks",
+  "AddressLine4": "West Sussex",
   "PostCode": "BN6 9NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

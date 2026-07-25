@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.275451",
+    "Longitude": "-2.777427"
+  },
   "AddressLine2": "Bath Street",
   "AddressLine3": "Cheddar",
   "PostCode": "BS27 3AA",

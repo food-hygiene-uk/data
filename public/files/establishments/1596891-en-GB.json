@@ -1,13 +1,13 @@
 {
   "FHRSID": 1596891,
   "BusinessName": "Grill Father",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000222093",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
   "Geocode": {
     "Latitude": "52.4259477",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-05-07",
+  "RatingDate": "2026-06-24",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

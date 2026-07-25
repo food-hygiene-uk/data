@@ -9,18 +9,22 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Monimar Coffee Shop Restaurant Woolverstone",
-  "AddressLine2": "Cat House Lane",
-  "AddressLine3": "Woolverstone",
-  "AddressLine4": "IPSWICH",
+  "Geocode": {
+    "Latitude": "52.0064013",
+    "Longitude": "1.195812"
+  },
+  "AddressLine1": "Monimar Coffee Shop Restaurant Monimar",
+  "AddressLine2": "Woolverstone Marina",
+  "AddressLine3": "Cat House Lane",
+  "AddressLine4": "Woolverstone",
+  "PostCode": "IP9 1AS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-19",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

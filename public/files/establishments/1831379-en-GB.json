@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5572674",
+    "Longitude": "-0.1081266"
+  },
   "AddressLine2": "2B Cambridge Road",
   "AddressLine4": "Grimsby",
-  "PostCode": "DB34 5EA",
+  "PostCode": "DN34 5EA",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

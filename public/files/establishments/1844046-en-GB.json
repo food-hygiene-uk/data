@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "704",
   "LocalAuthorityName": "Cheshire West and Chester",
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
   "Geocode": {
     "Latitude": "53.2568553",
@@ -19,8 +19,12 @@
   "AddressLine4": "Cheshire",
   "PostCode": "WA6 0JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

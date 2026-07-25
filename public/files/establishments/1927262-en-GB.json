@@ -1,6 +1,6 @@
 {
   "FHRSID": 1927262,
-  "BusinessName": "RANCH",
+  "BusinessName": "Ranch",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00179/COMM",
   "BusinessTypeID": 1,
@@ -9,12 +9,19 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "16-17 The Promenade Edgwarebury Lane",
+  "Geocode": {
+    "Latitude": "51.615982",
+    "Longitude": "-0.275632"
+  },
+  "AddressLine1": "The Promenade  Edgwarebury Lane Edgware",
   "PostCode": "HA8 7JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.227666",
+    "Longitude": "-0.5393696"
+  },
   "AddressLine1": "Unit 6 Corn Exchange Building",
   "AddressLine2": "Cornhill",
   "AddressLine3": "Lincoln",

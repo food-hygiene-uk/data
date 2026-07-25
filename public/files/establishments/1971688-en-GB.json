@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.57702866",
+    "Longitude": "-2.43107923"
+  },
   "AddressLine2": "Ashburner Street",
   "PostCode": "BL1 1TJ",
   "SchemeType": "FHRS",

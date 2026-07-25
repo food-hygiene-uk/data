@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4353066",
+    "Longitude": "-3.5714457"
+  },
   "AddressLine1": "66 Palace Avenue Paignton",
   "PostCode": "TQ3 3HF",
   "SchemeType": "FHRS",

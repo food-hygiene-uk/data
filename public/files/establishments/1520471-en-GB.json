@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "209",
   "LocalAuthorityName": "Blaby",
   "LocalAuthorityWebSite": "http://www.blaby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaby.gov.uk",
   "Geocode": {
     "Latitude": "52.576097",
@@ -19,12 +19,12 @@
   "AddressLine4": "Leicestershire",
   "PostCode": "LE8 4FZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

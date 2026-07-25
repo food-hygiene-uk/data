@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
   "Geocode": {
     "Latitude": "53.591268",
@@ -17,12 +17,12 @@
   "AddressLine3": "Bury",
   "PostCode": "BL9 0RE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-23",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

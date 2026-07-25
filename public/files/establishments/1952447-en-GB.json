@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "309",
   "LocalAuthorityName": "Reigate and Banstead",
   "LocalAuthorityWebSite": "http://www.reigate-banstead.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
   "Geocode": {
     "Latitude": "51.2601797",
@@ -19,8 +19,12 @@
   "AddressLine4": "Merstham",
   "PostCode": "RH1 3HU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

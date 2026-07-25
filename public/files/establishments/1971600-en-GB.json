@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3194859",
+    "Longitude": "-0.5597184"
+  },
   "AddressLine1": "Kiosk 11Market WalkWokingSurrey",
   "PostCode": "GU21 6AA",
   "SchemeType": "FHRS",

@@ -7,18 +7,18 @@
   "LocalAuthorityCode": "895",
   "LocalAuthorityName": "Herefordshire",
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.855687",
-    "Longitude": "-2.654492"
-  },
-  "AddressLine1": "Crown Hotel",
+  "Geocode": null,
   "AddressLine4": "Whitchurch",
   "PostCode": "HR9 6DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

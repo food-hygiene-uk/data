@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5713509",
-    "Longitude": "-0.1942072"
+    "Latitude": "51.571454",
+    "Longitude": "-0.194444"
   },
-  "AddressLine1": "18 North End Road",
+  "AddressLine1": "18 North End Road London",
   "PostCode": "NW11 7PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

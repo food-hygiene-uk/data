@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.70568296",
+    "Longitude": "-3.07079148"
+  },
   "AddressLine1": "Cross Street",
   "AddressLine2": "Seaton",
   "SchemeType": "FHRS",

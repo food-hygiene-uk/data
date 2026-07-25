@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4350609",
+    "Longitude": "-3.5636501"
+  },
   "AddressLine1": "10 Torbay Road Paignton",
   "PostCode": "TQ4 6AF",
   "SchemeType": "FHRS",

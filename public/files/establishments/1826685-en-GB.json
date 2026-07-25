@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4913007",
+    "Longitude": "-3.5311055"
+  },
   "AddressLine1": "69 Fore Street Barton Torquay Devon",
   "PostCode": "TQ2 8BP",
   "SchemeType": "FHRS",

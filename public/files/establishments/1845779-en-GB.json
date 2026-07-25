@@ -7,19 +7,16 @@
   "LocalAuthorityCode": "306",
   "LocalAuthorityName": "Epsom and Ewell",
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3651312",
-    "Longitude": "-0.2593775"
-  },
-  "AddressLine1": "290 Kingston Road",
-  "AddressLine2": "Epsom",
-  "AddressLine3": "Surrey",
-  "PostCode": "KT19 0SW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

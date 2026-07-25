@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2939588",
+    "Longitude": "-3.009932"
+  },
   "AddressLine1": "Northam Farm",
   "AddressLine2": "South Road",
   "AddressLine3": "Brean",

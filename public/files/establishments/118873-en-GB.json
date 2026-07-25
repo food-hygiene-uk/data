@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.289222",
+    "Longitude": "-2.9459732"
+  },
   "AddressLine1": "Meadgate Garage",
   "AddressLine2": "Bridgwater Road",
   "AddressLine3": "Lympsham",

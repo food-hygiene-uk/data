@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6437265",
+    "Longitude": "-1.124856"
+  },
+  "AddressLine1": "40 Willow Street",
+  "AddressLine2": "Leicester",
+  "PostCode": "LE1 2JY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

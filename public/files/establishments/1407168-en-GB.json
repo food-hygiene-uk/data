@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2234417",
+    "Longitude": "-0.5256472"
+  },
   "AddressLine1": "Unit 7 Vulcan Park",
   "AddressLine2": "George Street",
   "AddressLine3": "Lincoln",

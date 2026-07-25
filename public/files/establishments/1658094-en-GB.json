@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": {
     "Latitude": "53.4293394",
@@ -17,12 +17,12 @@
   "AddressLine3": "Sale",
   "PostCode": "M33 7JN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-25",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

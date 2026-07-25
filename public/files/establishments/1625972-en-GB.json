@@ -1,13 +1,13 @@
 {
   "FHRSID": 1625972,
-  "BusinessName": "The Cakery",
+  "BusinessName": "LULA",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "23/00149/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.6873882",
@@ -19,12 +19,12 @@
   "AddressLine4": "West Vale",
   "PostCode": "HX4 8EW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-08",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.215272",
+    "Longitude": "-0.605317"
+  },
   "AddressLine1": "Units 11-12 Birchwood Shopping Centre",
   "AddressLine2": "Jasmin Road",
   "AddressLine3": "Lincoln",

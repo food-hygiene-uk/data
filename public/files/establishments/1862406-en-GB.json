@@ -1,6 +1,6 @@
 {
   "FHRSID": 1862406,
-  "BusinessName": "Don't worry, be fluffy.",
+  "BusinessName": "Don't Worry Be Fluffy",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "25/FST/463/CP",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

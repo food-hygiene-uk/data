@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3174266",
+    "Longitude": "-0.5645213"
+  },
   "AddressLine1": "Pizza Express65 - 67 Goldsworth RoadWokingSurrey",
   "PostCode": "GU21 6LJ",
   "SchemeType": "FHRS",

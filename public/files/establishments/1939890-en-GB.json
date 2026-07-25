@@ -9,12 +9,19 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Woodridge Primary School Southover",
+  "Geocode": {
+    "Latitude": "51.62394",
+    "Longitude": "-0.193719"
+  },
+  "AddressLine1": "Woodridge Primary School  Southover London",
   "PostCode": "N12 7HE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

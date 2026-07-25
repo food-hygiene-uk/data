@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "570",
   "LocalAuthorityName": "Bro Morgannwg",
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": {
     "Latitude": "51.434505",
@@ -18,12 +18,12 @@
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF64 4AA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2024-12-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-06-19",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.4632993",
@@ -16,12 +16,12 @@
   "AddressLine1": "Unit 1 and 5  Abbey Crescent  Torbay Road  Torquay",
   "PostCode": "TQ2 5HB",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-06-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-23",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

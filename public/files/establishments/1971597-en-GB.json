@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3184569",
+    "Longitude": "-0.5590932"
+  },
   "AddressLine1": "12 Commercial WayWokingSurrey",
   "PostCode": "GU21 6ET",
   "SchemeType": "FHRS",

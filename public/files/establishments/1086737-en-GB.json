@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
     "Latitude": "53.3975473",
@@ -16,12 +16,12 @@
   "AddressLine2": "117 Orford Lane",
   "PostCode": "WA2 7AR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

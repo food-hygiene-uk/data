@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.midulstercouncil.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
-  "Geocode": null,
-  "AddressLine1": "Unit 5-6 148 Eglish Road",
+  "Geocode": {
+    "Latitude": "54.43846",
+    "Longitude": "-6.79348"
+  },
+  "AddressLine1": "148 Eglish Road",
+  "AddressLine2": "Stiloga",
   "AddressLine3": "Dungannon",
   "AddressLine4": "Co. Tyrone",
   "PostCode": "BT70 1LD",

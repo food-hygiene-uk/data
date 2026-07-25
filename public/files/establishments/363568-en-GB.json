@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.44121705",
+    "Longitude": "-0.08684415"
+  },
   "AddressLine3": "Dulwich Common",
   "PostCode": "SE21 7LD",
   "SchemeType": "FHRS",

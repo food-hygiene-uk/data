@@ -1,6 +1,6 @@
 {
   "FHRSID": 1742159,
-  "BusinessName": "Ffions Cake & Bakes",
+  "BusinessName": "Baked by Frampton's",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "170724",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

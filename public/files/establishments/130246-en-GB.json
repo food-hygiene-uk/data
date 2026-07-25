@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.281831",
+    "Longitude": "-2.765835"
+  },
   "AddressLine1": "Cheddar Showcaves",
   "AddressLine2": "Cheddar Gorge",
   "AddressLine3": "Cheddar",
