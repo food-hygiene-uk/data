@@ -1,13 +1,13 @@
 {
   "FHRSID": 238744,
-  "BusinessName": "Golden Fry",
+  "BusinessName": "Golden Fry/Direct Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "455",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "224",
   "LocalAuthorityName": "South Kesteven",
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
   "Geocode": {
     "Latitude": "52.909958",
@@ -18,12 +18,12 @@
   "AddressLine4": "Lincolnshire",
   "PostCode": "NG31 7LY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
