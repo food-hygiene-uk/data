@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "215",
   "LocalAuthorityName": "North West Leicestershire",
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
   "Geocode": null,
   "AddressLine1": "Grace Dieu Manor School",
@@ -15,12 +15,12 @@
   "AddressLine3": "Coalville",
   "PostCode": "LE67 5UG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

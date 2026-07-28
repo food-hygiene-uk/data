@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "887",
   "LocalAuthorityName": "Wokingham",
   "LocalAuthorityWebSite": "http://www.wokingham.gov.uk/welcome/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@wokingham.gov.uk",
   "Geocode": {
     "Latitude": "51.4075582",
@@ -18,12 +18,12 @@
   "AddressLine3": "Wokingham",
   "PostCode": "RG40 2AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

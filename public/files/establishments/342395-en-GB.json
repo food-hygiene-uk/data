@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.719913",
-    "Longitude": "-1.887243"
+    "Latitude": "50.7200188",
+    "Longitude": "-1.8878743"
   },
-  "AddressLine2": "36-40 Poole Hill",
+  "AddressLine2": "38-40 Poole Hill",
   "AddressLine3": "Bournemouth",
   "PostCode": "BH2 5PS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -15,8 +15,12 @@
   "AddressLine4": "Barking",
   "PostCode": "IG11 0BF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

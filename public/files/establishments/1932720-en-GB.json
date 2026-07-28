@@ -7,8 +7,9 @@
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\t&amp;quot;The safety and wellbeing of our customers and team members is always our highest priority. We operate comprehensive food safety systems, procedures and monitoring controls, and have a strong track record of maintaining high standards across our business.&lt;br /&gt;\n\t&lt;br /&gt;\n\tThis inspection took place at the begining of an exceptional period of extreme weather, when temperatures were significantly higher than normal. On that day, our refrigeration affected by the unusually high ambient temperatures and did not maintain its normal operating performance.&lt;br /&gt;\n\t&lt;br /&gt;\n\tAs soon as this issue was identified, appropriate food safety controls were applied, including the recognised 4-hour rule, to ensure food remained safe and that customer safety was not compromised.&lt;br /&gt;\n\t&lt;br /&gt;\n\tFollowing the inspection, we immediately strengthened our controls by installing additional refrigeration capacity, reducing the volume of food displayed during periods of extreme heat, increasing temperature monitoring checks from every two hours to every 30 minutes, and introducing further cooling measures within the premises.&lt;br /&gt;\n\t&lt;br /&gt;\n\tWe have already requested a revisit from Westminster City Council so that the Environmental Health Officer can review the improvements and additional safeguards now in place.&lt;br /&gt;\n\t&lt;br /&gt;\n\tWe remain fully committed to the highest standards of food safety and customer care and are confident that the actions taken provide even greater resilience during exceptional weather conditions.&amp;quot;&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "51.5175078",
     "Longitude": "-0.1774148"
@@ -17,8 +18,12 @@
   "AddressLine3": "LONDON",
   "PostCode": "W2 1HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

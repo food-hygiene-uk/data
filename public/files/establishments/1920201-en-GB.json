@@ -1,9 +1,9 @@
 {
   "FHRSID": 1920201,
   "BusinessName": "Beef On The Block",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00139/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC2M 7PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

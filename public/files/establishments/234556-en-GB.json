@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "GRANGE LANE",
+  "Geocode": {
+    "Latitude": "53.42982105",
+    "Longitude": "-0.51840442"
+  },
   "AddressLine3": "BISHOP NORTON",
   "AddressLine4": "MARKET RASEN",
   "SchemeType": "FHRS",

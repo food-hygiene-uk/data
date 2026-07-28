@@ -1,6 +1,6 @@
 {
   "FHRSID": 1153118,
-  "BusinessName": "Islandhut",
+  "BusinessName": "Island Hut",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "91554",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

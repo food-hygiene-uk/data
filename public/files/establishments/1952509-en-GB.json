@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8096702",
+    "Longitude": "-1.0760469"
+  },
+  "AddressLine1": "36 Binsteed Road",
+  "AddressLine2": "Portsmouth",
+  "PostCode": "PO2 7PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

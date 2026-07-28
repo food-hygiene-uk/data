@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.7541656494141",
-    "Longitude": "-1.76504898071289"
+    "Latitude": "50.754681",
+    "Longitude": "-1.7651369"
   },
   "AddressLine2": "7 Preston Lane",
-  "AddressLine3": "Burton",
-  "AddressLine4": "Christchurch",
+  "AddressLine3": "Christchurch",
   "PostCode": "BH23 7JU",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
   "RatingDate": "2026-06-02",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
     "Latitude": "53.3567849",
@@ -18,12 +18,12 @@
   "AddressLine3": "Sheffield",
   "PostCode": "S11 7PP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-06-16",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

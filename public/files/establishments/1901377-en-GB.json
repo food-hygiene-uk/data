@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CAENBY CLIFF",
+  "Geocode": {
+    "Latitude": "53.39291768",
+    "Longitude": "-0.54798498"
+  },
   "AddressLine3": "CAENBY CORNER",
   "AddressLine4": "MARKET RASEN",
   "SchemeType": "FHRS",

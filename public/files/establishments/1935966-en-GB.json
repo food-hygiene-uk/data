@@ -1,9 +1,9 @@
 {
   "FHRSID": 1935966,
   "BusinessName": "Whole Foods Market",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00246/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "EC3V 0BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

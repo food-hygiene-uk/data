@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.536225",
@@ -16,12 +16,12 @@
   "AddressLine2": "79 Camden High Street",
   "PostCode": "NW1 7JL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-04-29",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 20,
+    "Structural": 20,
     "ConfidenceInManagement": 20
   }
 }

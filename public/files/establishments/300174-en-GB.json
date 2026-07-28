@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "110",
   "LocalAuthorityName": "Braintree",
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
   "Geocode": {
     "Latitude": "51.943748",
@@ -18,12 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CO9 2JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-02",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

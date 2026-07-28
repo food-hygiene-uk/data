@@ -1,13 +1,13 @@
 {
   "FHRSID": 1958196,
-  "BusinessName": "Cafe Mews",
+  "BusinessName": "Cafe Muse",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "173432",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
   "Geocode": {
     "Latitude": "54.584593",
@@ -17,8 +17,12 @@
   "AddressLine4": "Belfast",
   "PostCode": "BT7 2ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

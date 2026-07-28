@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "857",
   "LocalAuthorityName": "Bath and North East Somerset",
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
   "Geocode": {
     "Latitude": "51.321858",
@@ -17,12 +17,12 @@
   "AddressLine2": "Hinton Charterhouse",
   "PostCode": "BA2 7SW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

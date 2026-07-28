@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.734054",
+    "Longitude": "0.5019135"
+  },
+  "AddressLine1": "90 Pollards Green",
+  "AddressLine2": "Chelmer Village",
+  "AddressLine3": "Chelmsford",
+  "AddressLine4": "Essex",
+  "PostCode": "CM2 6UL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CLICKEM WOOD LANE",
+  "Geocode": {
+    "Latitude": "53.44570529",
+    "Longitude": "-0.17350288"
+  },
   "AddressLine3": "SWINHOPE",
   "AddressLine4": "MARKET RASEN",
   "SchemeType": "FHRS",

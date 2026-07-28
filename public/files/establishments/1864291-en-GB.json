@@ -1,6 +1,6 @@
 {
   "FHRSID": 1864291,
-  "BusinessName": "Uncles Holdings Ltd",
+  "BusinessName": "Uncles Braai",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "181896",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Ashley Heath",
-  "AddressLine3": "Ringwood",
+  "Geocode": {
+    "Latitude": "50.8342904",
+    "Longitude": "-1.8481829"
+  },
+  "AddressLine1": "52 Lions Lane",
+  "AddressLine3": "Ashley Heath",
+  "AddressLine4": "Dorset",
   "PostCode": "BH24 2HN",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

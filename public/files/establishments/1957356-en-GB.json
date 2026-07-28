@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8913153",
-    "Longitude": "-1.1484977"
-  },
-  "AddressLine1": "14 Kempson Street",
-  "AddressLine2": "Ruddington",
-  "AddressLine3": "Nottinghamshire",
-  "PostCode": "NG11 6DX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

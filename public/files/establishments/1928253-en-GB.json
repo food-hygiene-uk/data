@@ -1,9 +1,9 @@
 {
   "FHRSID": 1928253,
   "BusinessName": "Crumble Heaven",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "Cx17984",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
@@ -17,8 +17,12 @@
   "AddressLine4": "Malton",
   "PostCode": "YO17 6UX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

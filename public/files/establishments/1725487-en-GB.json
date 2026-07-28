@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "216",
   "LocalAuthorityName": "Oadby and Wigston",
   "LocalAuthorityWebSite": "http://www.oadby-wigston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@oadby-wigston.gov.uk",
   "Geocode": {
     "Latitude": "52.600028",
@@ -18,12 +18,12 @@
   "AddressLine3": "Leicestershire",
   "PostCode": "LE2 5BB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-10",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

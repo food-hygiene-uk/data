@@ -1,13 +1,13 @@
 {
   "FHRSID": 853376,
-  "BusinessName": "Ray's Fast Food",
+  "BusinessName": "Foodies Hotspot",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "67208",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
     "Latitude": "53.5501783",
@@ -17,8 +17,12 @@
   "AddressLine4": "Great Houghton",
   "PostCode": "S72 0DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 20,
+    "ConfidenceInManagement": 30
+  }
 }
