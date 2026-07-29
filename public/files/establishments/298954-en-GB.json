@@ -1,6 +1,6 @@
 {
   "FHRSID": 298954,
-  "BusinessName": "Nook Bar & Kitchen",
+  "BusinessName": "Nook Kitchen",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "11268",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine4": "Staveley Mill Yard",
   "PostCode": "LA8 9LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,23 +7,22 @@
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": {
-    "Latitude": "51.663085",
-    "Longitude": "-1.288896"
+    "Latitude": "51.6630791",
+    "Longitude": "-1.2888669"
   },
-  "AddressLine1": "13-15 Reynolds Way",
-  "AddressLine2": "Abingdon",
-  "AddressLine3": "Oxon",
+  "AddressLine1": "13-15 Reynolds Way Abingdon",
+  "AddressLine2": "Oxon",
   "PostCode": "OX14 5JT",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

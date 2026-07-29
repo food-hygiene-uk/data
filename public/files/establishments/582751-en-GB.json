@@ -1,30 +1,29 @@
 {
   "FHRSID": 582751,
-  "BusinessName": "Crowne Plaza Hotel Marlow",
+  "BusinessName": "Crowne Plaza Marlow",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "13/00549/MIXED",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
-    "Latitude": "51.5713426",
-    "Longitude": "-0.7516557"
+    "Latitude": "51.57020391",
+    "Longitude": "-0.75629108"
   },
-  "AddressLine1": "Crowne Plaza Marlow",
-  "AddressLine2": "Fieldhouse Lane",
-  "AddressLine3": "Marlow",
-  "AddressLine4": "Buckinghamshire",
+  "AddressLine1": "Fieldhouse Lane",
+  "AddressLine2": "Marlow",
+  "AddressLine3": "Buckinghamshire",
   "PostCode": "SL7 1GJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1864759,
-  "BusinessName": "Heatley, Amy",
+  "BusinessName": "The Holiday Shop",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "163770146796323",
   "BusinessTypeID": 4613,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Holiday Shop 1 Kistor Place Belgrave Road Torquay",
+  "Geocode": {
+    "Latitude": "50.4644413",
+    "Longitude": "-3.53617"
+  },
+  "AddressLine1": "1 Kistor Place Belgrave Road Torquay",
   "PostCode": "TQ2 5HP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
