@@ -9,8 +9,14 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Recreation Ground Church Street Ropley Alresford SO24 0DP",
+  "Geocode": {
+    "Latitude": "51.0841207",
+    "Longitude": "-1.0853422"
+  },
+  "AddressLine1": "Ropley Recreation Ground Vicarage Lane",
+  "AddressLine2": "Ropley",
+  "AddressLine3": "Alresford",
+  "AddressLine4": "Hampshire",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

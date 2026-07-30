@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
-    "Latitude": "51.3222999572754",
-    "Longitude": "-0.136590003967285"
+    "Latitude": "51.3222714",
+    "Longitude": "-0.1365963"
   },
-  "AddressLine1": "108A-108B Brighton Road",
+  "AddressLine1": "108A - 108B Brighton Road",
   "AddressLine2": "Coulsdon",
   "PostCode": "CR5 2NB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1113582,
-  "BusinessName": "Fuggle & Golding",
+  "BusinessName": "Fuggle & Golding (bar only)",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "52149",
   "BusinessTypeID": 7843,
@@ -17,8 +17,12 @@
   "AddressLine3": "Ilkley",
   "PostCode": "LS29 8DS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

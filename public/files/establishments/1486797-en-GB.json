@@ -10,18 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.181641",
-    "Longitude": "-0.841903"
+    "Latitude": "51.1827938",
+    "Longitude": "-0.8406147"
   },
-  "AddressLine1": "Birdworld Farnham Road Holt Pound Farnham GU10 4LD",
+  "AddressLine1": "Birdworld Farnham Road",
+  "AddressLine2": "Holt Pound",
+  "AddressLine3": "Farnham",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU10 4LD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-01",
+  "RatingDate": "2024-02-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

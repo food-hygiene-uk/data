@@ -1,13 +1,13 @@
 {
   "FHRSID": 1698282,
-  "BusinessName": "Sunstone House",
+  "BusinessName": "Sunstone A",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000149918",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
     "Latitude": "52.5983835",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-08",
+  "RatingDate": "2026-06-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

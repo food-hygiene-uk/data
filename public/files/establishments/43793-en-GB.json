@@ -10,18 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.042566",
-    "Longitude": "-0.892232"
+    "Latitude": "51.042455",
+    "Longitude": "-0.8921391"
   },
-  "AddressLine1": "Lower Mead 5-7 Hill Brow Road Liss GU33 7RL",
+  "AddressLine1": "Lower Mead 5 - 7 Hill Brow Road",
+  "AddressLine3": "Liss",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU33 7RL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2016-02-05",
+  "RatingDate": "2024-11-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

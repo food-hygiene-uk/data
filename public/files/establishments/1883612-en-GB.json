@@ -10,18 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.1490478515625",
-    "Longitude": "-0.978699028491974"
+    "Latitude": "51.1489326",
+    "Longitude": "-0.9780316"
   },
-  "AddressLine1": "7 Lenten Street Alton GU34 1HG",
+  "AddressLine1": "7 Lenten Street",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 1HG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-04-27",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

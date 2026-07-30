@@ -1,26 +1,28 @@
 {
   "FHRSID": 1135021,
   "BusinessName": "Bramshott Place Restaurant",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "37097",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.0826882",
-    "Longitude": "-0.7949338"
+    "Latitude": "51.0827076",
+    "Longitude": "-0.7949365"
   },
-  "AddressLine1": "Holdenbury House 18 King Georges Drive Liphook GU30 7GE",
+  "AddressLine1": "Holdenbury House 18 King Georges Drive",
+  "AddressLine3": "Liphook",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU30 7GE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-19",
+  "RatingDate": "2026-06-18",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 0,
     "ConfidenceInManagement": 0
   }

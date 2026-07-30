@@ -9,18 +9,13 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1486678",
-    "Longitude": "-0.98012505"
-  },
-  "AddressLine1": "Public Gardens Westbrooke Road Alton",
+  "Geocode": null,
+  "AddressLine1": "Public Gardens Westbrooke Road",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-22",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

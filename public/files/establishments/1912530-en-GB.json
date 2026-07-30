@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Zone B - Landside",
+  "AddressLine2": "Birmingham International Airport",
+  "AddressLine3": "Airport Way",
+  "AddressLine4": "Birmingham Airport",
+  "PostCode": "B26 3QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

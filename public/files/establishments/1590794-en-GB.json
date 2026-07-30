@@ -9,19 +9,18 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.147655",
-    "Longitude": "-0.975542"
-  },
-  "AddressLine1": "Unit 2 The Old Hop Stores Draymans Way Alton GU34 1AU",
+  "Geocode": null,
+  "AddressLine1": "Unit 2 The Old Hop Stores Draymans Way",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 1AU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-03",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

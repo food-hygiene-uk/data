@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "429",
   "LocalAuthorityName": "Sunderland",
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
   "Geocode": {
     "Latitude": "54.9296485",
@@ -18,12 +18,12 @@
   "AddressLine3": "Sunderland",
   "PostCode": "SR6 9AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-24",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

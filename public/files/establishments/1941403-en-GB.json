@@ -9,15 +9,19 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.11169",
-    "Longitude": "-0.981194"
-  },
-  "AddressLine1": "Rose & Crown Crows Lane Farringdon Alton GU34 3ED",
+  "Geocode": null,
+  "AddressLine1": "Rose & Crown Crows Lane",
+  "AddressLine2": "Farringdon",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 3ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,23 +1,25 @@
 {
   "FHRSID": 362262,
   "BusinessName": "Bill's Snack Bar",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "25945",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Land Rear of Bedford Road Petersfield GU32 3DD",
+  "AddressLine1": "Land Rear Of Bedford Road",
+  "AddressLine3": "Petersfield",
+  "AddressLine4": "Hampshire",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-03-13",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-10-13",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

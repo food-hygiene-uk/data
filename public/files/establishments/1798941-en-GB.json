@@ -13,11 +13,17 @@
     "Latitude": "51.0407926",
     "Longitude": "-0.9307928"
   },
-  "AddressLine1": "Wheatham Farm Wheatham Lane Liss GU33 6LN",
+  "AddressLine1": "Wheatham Farm Wheatham Lane",
+  "AddressLine3": "Liss",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU33 6LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "McDonalds Restaurant Ltd (north bound) Liphook By-Pass Liphook GU30 7TT",
+  "Geocode": {
+    "Latitude": "51.083815",
+    "Longitude": "-0.8191445"
+  },
+  "AddressLine1": "Mcdonalds Restaurant Ltd (north Bound) Liphook By-pass",
+  "AddressLine3": "Liphook",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU30 7TT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -10,18 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.0996170043945",
-    "Longitude": "-0.877372980117798"
+    "Latitude": "51.100199",
+    "Longitude": "-0.8750708"
   },
-  "AddressLine1": "Drift Road Stores Drift Road Whitehill Bordon GU35 9EA",
+  "AddressLine1": "Drift Road Stores Drift Road",
+  "AddressLine2": "Whitehill",
+  "AddressLine3": "Bordon",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU35 9DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2022-11-23",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

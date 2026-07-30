@@ -1,27 +1,30 @@
 {
   "FHRSID": 142886,
   "BusinessName": "Old Kitchen Tea Room",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "7994",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.128746",
-    "Longitude": "-0.988122"
+    "Latitude": "51.1281312",
+    "Longitude": "-0.9884374"
   },
-  "AddressLine1": "Chawton House Chawton Alton GU341SJ",
+  "AddressLine1": "Chawton House Gosport Road",
+  "AddressLine2": "Chawton",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 1SJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-01",
+  "RatingDate": "2024-03-28",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

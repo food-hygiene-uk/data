@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 1 The Corner House 29 Market Street Alton GU34 1HA",
+  "Geocode": {
+    "Latitude": "51.1488987",
+    "Longitude": "-0.9775317"
+  },
+  "AddressLine1": "Unit 1 Alton Cobbler 29 Market Street",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 1HA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

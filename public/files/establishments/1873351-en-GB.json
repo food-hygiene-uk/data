@@ -10,14 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.073705",
-    "Longitude": "-0.889177"
+    "Latitude": "51.0734823",
+    "Longitude": "-0.8893188"
   },
-  "AddressLine1": "The Greatham Inn Petersfield Road Greatham Liss GU33 6AD",
+  "AddressLine1": "The Greatham Inn Petersfield Road",
+  "AddressLine2": "Greatham",
+  "AddressLine3": "Liss",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU33 6AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

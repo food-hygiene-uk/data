@@ -13,15 +13,17 @@
     "Latitude": "51.0431013",
     "Longitude": "-0.8925217"
   },
-  "AddressLine1": "46 Station Road Liss GU33 7AA",
+  "AddressLine1": "46 Station Road",
+  "AddressLine3": "Liss",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU33 7AA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-05-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

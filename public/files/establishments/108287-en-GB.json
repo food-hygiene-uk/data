@@ -1,9 +1,9 @@
 {
   "FHRSID": 108287,
   "BusinessName": "Pizza Express",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "3859",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
@@ -13,15 +13,17 @@
     "Latitude": "51.0051125",
     "Longitude": "-0.9380759"
   },
-  "AddressLine1": "25-27 Chapel Street Petersfield GU32 3DY",
+  "AddressLine1": "Pizzaexpress 25 - 27 Chapel Street",
+  "AddressLine3": "Petersfield",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU32 3DY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-27",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-08-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

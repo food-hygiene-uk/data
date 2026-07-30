@@ -10,18 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.127561",
-    "Longitude": "-0.942618"
+    "Latitude": "51.1272202",
+    "Longitude": "-0.9429418"
   },
-  "AddressLine1": "Manor Farm Little Wood Lane West Worldham Alton GU34 3BD",
+  "AddressLine1": "Manor Farm Little Wood Lane",
+  "AddressLine2": "West Worldham",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 3BD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2015-07-21",
+  "RatingDate": "2025-10-16",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

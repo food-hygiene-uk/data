@@ -10,18 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.110622",
-    "Longitude": "-0.747995"
+    "Latitude": "51.1104505",
+    "Longitude": "-0.7468954"
   },
-  "AddressLine1": "Grayshott Village Hall Headley Road Grayshott Hindhead GU26 6TZ",
+  "AddressLine1": "Grayshott Village Hall Headley Road",
+  "AddressLine2": "Grayshott",
+  "AddressLine3": "Hindhead",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU26 6TZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

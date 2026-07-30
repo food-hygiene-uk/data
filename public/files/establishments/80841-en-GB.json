@@ -10,18 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.104587",
-    "Longitude": "-0.86964"
+    "Latitude": "51.1048408",
+    "Longitude": "-0.868002"
   },
-  "AddressLine1": "The Woodlark Petersfield Road Whitehill Bordon GU35 9AH",
+  "AddressLine1": "The Woodlark Petersfield Road",
+  "AddressLine2": "Whitehill",
+  "AddressLine3": "Bordon",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU35 9AH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,30 +1,26 @@
 {
   "FHRSID": 600657,
-  "BusinessName": "Yo! Sushi Selfridges",
+  "BusinessName": "Yo! Sushi",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000429090",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.477946",
-    "Longitude": "-1.893917"
-  },
+  "Geocode": null,
   "AddressLine1": "Selfridges",
-  "AddressLine2": "The Bullring",
-  "AddressLine3": "Lower Mall Bullring",
-  "AddressLine4": "Birmingham",
+  "AddressLine2": "Lower Mall Bullring",
+  "AddressLine3": "Birmingham",
   "PostCode": "B5 4BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-11-05",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
   }
 }

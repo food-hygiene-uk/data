@@ -10,14 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.0053315",
-    "Longitude": "-0.9378874"
+    "Latitude": "51.0053241",
+    "Longitude": "-0.9380586"
   },
-  "AddressLine1": "37 Chapel Street Petersfield GU32 3DY",
+  "AddressLine1": "37 Chapel Street",
+  "AddressLine3": "Petersfield",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU32 3DY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

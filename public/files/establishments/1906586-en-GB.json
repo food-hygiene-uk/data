@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Weyford Junior School Mill Chase Road Bordon GU35 0EP",
+  "Geocode": {
+    "Latitude": "51.11423",
+    "Longitude": "-0.8502027"
+  },
+  "AddressLine1": "Weyford Junior School Washford Lane",
+  "AddressLine3": "Bordon",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU35 0EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

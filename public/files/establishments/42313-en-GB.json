@@ -9,19 +9,19 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.110622",
-    "Longitude": "-0.747995"
-  },
-  "AddressLine1": "The Royal British Legion Headley Road Grayshott Hindhead GU266TZ",
+  "Geocode": null,
+  "AddressLine1": "The Royal British Legion Headley Road",
+  "AddressLine2": "Grayshott",
+  "AddressLine3": "Hindhead",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU26 6TZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2015-12-15",
+  "RatingDate": "2024-11-25",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

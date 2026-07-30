@@ -1,13 +1,13 @@
 {
   "FHRSID": 1950820,
-  "BusinessName": "Riccardo Zappia Trading As Dog & Crook Brambridge",
+  "BusinessName": "The Dog And Crook Brambridge",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00133/MIXED",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "143",
   "LocalAuthorityName": "Winchester City",
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
   "Geocode": {
     "Latitude": "50.9930622",
@@ -19,8 +19,12 @@
   "AddressLine4": "Hampshire",
   "PostCode": "SO50 6HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "McDonalds The Garden Gate",
-  "AddressLine2": "Old Bromley Road",
-  "AddressLine3": "Bromley",
+  "Geocode": {
+    "Latitude": "51.421885",
+    "Longitude": "-0.004358"
+  },
+  "AddressLine1": "Old Bromley Road",
+  "AddressLine2": "Bromley",
   "PostCode": "BR1 4JY",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -10,18 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.17821583",
-    "Longitude": "-0.8711776"
+    "Latitude": "51.1676139",
+    "Longitude": "-0.8597754"
   },
-  "AddressLine1": "Blacknest Road Binsted Alton GU34 4QD",
+  "AddressLine1": "Jolly Farmer Blacknest Road",
+  "AddressLine2": "Binsted",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 4QD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3355742",
+    "Longitude": "-0.943342"
+  },
   "AddressLine1": "Former Clumber Court Care Home",
   "AddressLine2": "Bolham Lane",
   "AddressLine3": "Retford",
   "AddressLine4": "Nottinghamshire",
+  "PostCode": "DN22 6SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

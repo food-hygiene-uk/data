@@ -10,18 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.112075",
-    "Longitude": "-1.042714"
+    "Latitude": "51.1118672",
+    "Longitude": "-1.042966"
   },
-  "AddressLine1": "Tesco Express 55 Winchester Road Four Marks Alton GU34 5HG",
+  "AddressLine1": "Tesco Express 53 - 55 Winchester Road",
+  "AddressLine2": "Four Marks",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 5HG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2014-02-17",
+  "RatingDate": "2024-11-18",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

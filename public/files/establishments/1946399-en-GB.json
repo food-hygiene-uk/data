@@ -1,6 +1,6 @@
 {
   "FHRSID": 1946399,
-  "BusinessName": "Acai Hutt",
+  "BusinessName": "Acai Hutt Ltd",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "HJFYD9-BQ150F-DLBWTK",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

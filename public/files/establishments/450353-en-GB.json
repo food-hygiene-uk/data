@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "702",
   "LocalAuthorityName": "Central Bedfordshire",
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
   "Geocode": {
     "Latitude": "52.018566",
@@ -18,12 +18,12 @@
   "AddressLine3": "Bedford",
   "PostCode": "MK45 2NT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

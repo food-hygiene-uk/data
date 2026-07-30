@@ -1,13 +1,13 @@
 {
   "FHRSID": 1733801,
-  "BusinessName": "Ahmed Halal",
+  "BusinessName": "Mi Somali",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "261881",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "855",
   "LocalAuthorityName": "Bristol",
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": {
     "Latitude": "51.462197",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS5 0PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

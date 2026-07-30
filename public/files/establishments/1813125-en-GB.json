@@ -9,19 +9,15 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "50.994014",
-    "Longitude": "-1.034044"
-  },
-  "AddressLine1": "East Meon Primary School Chapel Street East Meon Petersfield GU32 1NR",
+  "Geocode": null,
+  "AddressLine1": "East Meon Primary School Chapel Street",
+  "AddressLine2": "East Meon",
+  "AddressLine3": "Petersfield",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU32 1NR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-20",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
