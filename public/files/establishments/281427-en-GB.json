@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.77356",
-    "Longitude": "1.480822"
-  },
+  "Geocode": null,
   "AddressLine1": "Wayford Road",
   "AddressLine2": "Wayford Bridge",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-04-18",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

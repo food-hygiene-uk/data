@@ -1,6 +1,6 @@
 {
   "FHRSID": 1928552,
-  "BusinessName": "Doa Afro Caribbean Store Stockport",
+  "BusinessName": "Doa Afro Caribbean Store Stockport T/A Hot And Ready Meals",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00099/C",
   "BusinessTypeID": 4613,
@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4119829",
-    "Longitude": "-2.1580487"
-  },
-  "AddressLine1": "Shop",
-  "AddressLine2": "2A Great Underbank",
-  "AddressLine3": "Stockport",
-  "PostCode": "SK1 1LW",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

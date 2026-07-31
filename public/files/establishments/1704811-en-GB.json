@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.363597",
-    "Longitude": "-2.161861"
-  },
+  "Geocode": null,
   "AddressLine1": "Pownall Green Primary School",
   "AddressLine2": "Bramhall Lane South",
   "AddressLine3": "Bramhall",
   "AddressLine4": "Stockport",
   "PostCode": "SK7 2EB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

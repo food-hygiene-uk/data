@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.388688",
-    "Longitude": "-2.320117"
-  },
+  "Geocode": null,
   "AddressLine2": "101 Wood Lane",
   "AddressLine3": "Timperley",
   "AddressLine4": "Altrincham",
@@ -20,9 +17,9 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-15",
+  "RatingDate": "2026-07-27",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

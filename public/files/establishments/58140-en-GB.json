@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": {
-    "Latitude": "54.585973",
-    "Longitude": "-5.935736"
-  },
+  "Geocode": null,
   "AddressLine3": "48 University Road",
   "AddressLine4": "Belfast",
   "PostCode": "BT7 1NJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-29",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

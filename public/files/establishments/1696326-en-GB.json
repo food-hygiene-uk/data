@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.587423",
-    "Longitude": "-2.0359068"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Cumberland Road",
   "AddressLine2": "Willenhall",
   "AddressLine3": "Walsall",
   "AddressLine4": "West Midlands",
   "PostCode": "WV13 1JL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

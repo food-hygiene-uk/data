@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.37213",
-    "Longitude": "-2.152905"
-  },
+  "Geocode": null,
   "AddressLine1": "Wild Things",
   "AddressLine2": "Stockport Rugby Union Football Club",
   "AddressLine3": "Headlands Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-13",
+  "RatingDate": "2026-05-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.416285",
-    "Longitude": "-2.164197"
-  },
+  "Geocode": null,
   "AddressLine1": "Salvation Army Hall",
   "AddressLine2": "Short Street",
   "AddressLine3": "Heaton Norris",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-28",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

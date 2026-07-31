@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5570481",
-    "Longitude": "-3.0611825"
-  },
+  "Geocode": null,
   "AddressLine2": "23 Chapel Lane",
   "AddressLine3": "Formby",
   "PostCode": "L37 4DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

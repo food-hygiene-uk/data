@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7551879882813",
-    "Longitude": "0.400449007749558"
-  },
+  "Geocode": null,
   "AddressLine1": "61 Railway Road",
   "AddressLine2": "King's Lynn",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-05",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

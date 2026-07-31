@@ -1,6 +1,6 @@
 {
   "FHRSID": 719244,
-  "BusinessName": "The Denby HC-One",
+  "BusinessName": "The Denby",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000203171",
   "BusinessTypeID": 5,
@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5727278",
-    "Longitude": "-1.6584078"
-  },
+  "Geocode": null,
   "AddressLine1": "The Denby At Denby Dale",
   "AddressLine2": "402 Wakefield Road",
   "AddressLine3": "Denby Dale",
   "AddressLine4": "Huddersfield",
   "PostCode": "HD8 8RP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-16",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

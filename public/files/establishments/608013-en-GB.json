@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.918571",
-    "Longitude": "-1.486319"
-  },
+  "Geocode": null,
   "AddressLine1": "48 COMMERCIAL ROAD",
   "AddressLine2": "TOTTON",
   "AddressLine3": "SOUTHAMPTON",
   "PostCode": "SO40 3AG",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-12",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

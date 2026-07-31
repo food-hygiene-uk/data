@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hyndburnbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.753016",
-    "Longitude": "-2.37742"
-  },
+  "Geocode": null,
   "AddressLine1": "194-196 Blackburn Road",
   "AddressLine2": "Accrington",
   "AddressLine3": "Lancashire",
   "PostCode": "BB5 0AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-01-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.639809",
-    "Longitude": "-2.991975"
-  },
+  "Geocode": null,
   "AddressLine2": "45 Scarisbrick New Road",
   "AddressLine3": "Southport",
   "AddressLine4": "Merseyside",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-15",
+  "RatingDate": "2026-07-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

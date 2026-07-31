@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.42975603",
-    "Longitude": "-1.02077963"
-  },
+  "Geocode": null,
   "AddressLine1": "The Turnpike 28 - 30 High Street",
   "AddressLine2": "Bawtry",
   "AddressLine3": "Doncaster",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-14",
+  "RatingDate": "2026-07-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

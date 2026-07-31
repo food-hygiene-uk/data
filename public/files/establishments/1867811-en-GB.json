@@ -1,26 +1,27 @@
 {
   "FHRSID": 1867811,
   "BusinessName": "The Deer Larder",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000151764",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.585171",
-    "Longitude": "-1.934277"
-  },
+  "Geocode": null,
   "AddressLine1": "Hay Head Farm",
   "AddressLine2": "Longwood Lane",
   "AddressLine3": "Walsall",
   "AddressLine4": "West Midlands",
   "PostCode": "WS4 2JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

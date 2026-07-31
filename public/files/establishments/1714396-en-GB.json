@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hyndburnbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.785815",
-    "Longitude": "-2.399221"
-  },
+  "Geocode": null,
   "AddressLine1": "Princess Street",
   "AddressLine2": "Great Harwood",
   "AddressLine3": "Blackburn",
   "PostCode": "BB6 7BD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-07-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

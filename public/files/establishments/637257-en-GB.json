@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
   "Geocode": null,
+  "AddressLine1": "WEST TOTTON COMMUNITY CENTRE",
+  "AddressLine2": "HAZEL FARM ROAD",
+  "AddressLine3": "TOTTON",
+  "AddressLine4": "SOUTHAMPTON",
+  "PostCode": "SO40 8WU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

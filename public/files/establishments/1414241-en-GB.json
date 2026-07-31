@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7531781",
-    "Longitude": "0.3985245"
-  },
+  "Geocode": null,
   "AddressLine1": "18 Blackfriars Street",
   "AddressLine2": "King's Lynn",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-10",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

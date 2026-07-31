@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6058273",
-    "Longitude": "1.7285405"
-  },
+  "Geocode": null,
   "AddressLine2": "29 King Street",
-  "AddressLine3": "Great Yarmouth",
-  "AddressLine4": "Norfolk",
+  "AddressLine3": "Grreat Yarmouth",
   "PostCode": "NR30 2NZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

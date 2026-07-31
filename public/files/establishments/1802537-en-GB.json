@@ -1,9 +1,9 @@
 {
   "FHRSID": 1802537,
-  "BusinessName": "Sugared and spiced",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "Sugared and Spiced",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "PI/1000000161",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

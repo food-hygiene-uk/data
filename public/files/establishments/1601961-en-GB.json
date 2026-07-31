@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6155702",
-    "Longitude": "-1.9138472"
-  },
+  "Geocode": null,
   "AddressLine1": "(Reesra Ltd)",
   "AddressLine2": "7-9 Lazy Hill Road",
   "AddressLine3": "Aldridge",
   "AddressLine4": "Walsall",
   "PostCode": "WS9 8RW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

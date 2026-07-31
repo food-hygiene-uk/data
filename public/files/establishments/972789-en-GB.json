@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.362484",
-    "Longitude": "-0.122189"
-  },
+  "Geocode": null,
   "AddressLine1": "7 The Parade",
   "AddressLine2": "Stafford Road",
   "AddressLine3": "Wallington",
   "PostCode": "SM6 8ND",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-12-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

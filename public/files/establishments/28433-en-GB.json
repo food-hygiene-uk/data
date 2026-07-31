@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.134146",
-    "Longitude": "0.260445"
-  },
+  "Geocode": null,
   "AddressLine1": "80 London Road",
   "AddressLine2": "Royal Tunbridge Wells",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-22",
+  "RatingDate": "2026-07-22",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

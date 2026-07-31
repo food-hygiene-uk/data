@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.35774165",
-    "Longitude": "-2.16558224"
-  },
+  "Geocode": null,
   "AddressLine1": "12 The Bramhall Centre",
   "AddressLine2": "Bramhall Lane South",
   "AddressLine3": "Bramhall",
   "AddressLine4": "Stockport",
   "PostCode": "SK7 1AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2589555",
-    "Longitude": "-1.9375352"
-  },
+  "Geocode": null,
   "AddressLine1": "1224 Evesham Road",
   "AddressLine2": "Astwood Bank",
   "AddressLine3": "Redditch",
   "AddressLine4": "Worcestershire",
   "PostCode": "B96 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

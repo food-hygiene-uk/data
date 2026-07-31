@@ -9,15 +9,16 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4110695",
-    "Longitude": "-0.3037515"
-  },
+  "Geocode": null,
   "AddressLine1": "55 - 57 Clarence Street",
   "AddressLine2": "Kingston Upon Thames",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-11",
-  "Scores": null
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

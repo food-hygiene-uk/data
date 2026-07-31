@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4014053344727",
-    "Longitude": "0.532344996929169"
-  },
+  "Geocode": null,
   "AddressLine1": "Leviathan Way",
   "AddressLine2": "Chatham Maritime",
   "AddressLine3": "Chatham",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-26",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

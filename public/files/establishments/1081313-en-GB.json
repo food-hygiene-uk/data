@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5308062",
-    "Longitude": "-1.1089445"
-  },
+  "Geocode": null,
   "AddressLine1": "Doncaster Royal Infirmary Armthorpe Road",
   "AddressLine2": "Intake",
   "AddressLine3": "Doncaster",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-20",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

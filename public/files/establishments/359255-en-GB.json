@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.89123",
-    "Longitude": "-0.429288"
-  },
+  "Geocode": null,
   "AddressLine2": "117 Biscot Road",
   "AddressLine4": "Luton",
   "PostCode": "LU3 1AN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-03-24",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

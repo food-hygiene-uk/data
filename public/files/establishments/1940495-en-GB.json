@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": null,
-  "AddressLine2": "Unit 7 Market Place",
-  "AddressLine3": "Great Yarmouth",
-  "AddressLine4": "Norfolk",
-  "PostCode": "NR30 1NB",
+  "AddressLine2": "Stall 7",
+  "AddressLine3": "The New Market",
+  "AddressLine4": "Market Place",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

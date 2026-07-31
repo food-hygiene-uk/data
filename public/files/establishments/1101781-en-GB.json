@@ -1,6 +1,6 @@
 {
   "FHRSID": 1101781,
-  "BusinessName": "Costcutter",
+  "BusinessName": "Golocal Extra",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000052659",
   "BusinessTypeID": 4613,
@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6472930908203",
-    "Longitude": "-1.92423701286316"
-  },
+  "Geocode": null,
   "AddressLine1": "Crossways Stores Ltd",
   "AddressLine2": "95 Ogley Road",
   "AddressLine3": "Brownhills",
   "AddressLine4": "Walsall",
   "PostCode": "WS8 6AP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2011-06-02",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-17",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

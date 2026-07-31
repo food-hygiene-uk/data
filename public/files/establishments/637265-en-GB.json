@@ -1,6 +1,6 @@
 {
   "FHRSID": 637265,
-  "BusinessName": "RAILWAY HOTEL",
+  "BusinessName": "THE RAILWAY HOTEL",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "933",
   "BusinessTypeID": 7842,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.929791",
-    "Longitude": "-1.806157"
-  },
+  "Geocode": null,
   "AddressLine1": "116 STATION ROAD",
   "AddressLine2": "FORDINGBRIDGE",
   "PostCode": "SP6 1DG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

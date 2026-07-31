@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.806833",
-    "Longitude": "-0.809071"
-  },
+  "Geocode": null,
   "AddressLine1": "Whitehead Way",
   "AddressLine2": "Aylesbury",
   "AddressLine3": "Buckinghamshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-19",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

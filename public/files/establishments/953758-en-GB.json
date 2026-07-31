@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.396473",
-    "Longitude": "-2.205492"
-  },
+  "Geocode": null,
   "AddressLine1": "St Cuthberts Church",
   "AddressLine2": "6 Cuthbert Road",
   "AddressLine3": "Cheadle",
   "AddressLine4": "Stockport",
   "PostCode": "SK8 2DT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

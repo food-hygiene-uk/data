@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": {
-    "Latitude": "52.585458",
-    "Longitude": "-2.006922"
-  },
+  "Geocode": null,
   "AddressLine1": "Primley Avenue",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-02-26",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

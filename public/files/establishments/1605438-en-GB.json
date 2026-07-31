@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.451538",
-    "Longitude": "-2.366352"
-  },
+  "Geocode": null,
   "AddressLine2": "7-9 Bowfell Road",
   "AddressLine3": "Urmston",
   "AddressLine4": "Manchester",
   "PostCode": "M41 5RW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-03-27",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

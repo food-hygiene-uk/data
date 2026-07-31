@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.450238",
-    "Longitude": "-2.356554"
-  },
+  "Geocode": null,
   "AddressLine2": "49 Park Road North",
   "AddressLine3": "Urmston",
   "AddressLine4": "Manchester",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-10",
+  "RatingDate": "2026-07-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }
