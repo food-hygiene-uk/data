@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.671533",
+    "Longitude": "-3.544148"
+  },
   "AddressLine1": "Taverners Farm Lower Brenton Kennford Exeter",
   "PostCode": "EX6 7YL",
   "SchemeType": "FHRS",

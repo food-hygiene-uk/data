@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.753564",
+    "Longitude": "-1.262487"
+  },
   "AddressLine1": "42 George Street",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxfordshire",

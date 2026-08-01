@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.2181684",
+    "Longitude": "-5.1530901"
+  },
+  "AddressLine1": "Pulla Farm",
+  "AddressLine2": "Pulla Cross",
+  "AddressLine3": "Truro",
+  "AddressLine4": "Cornwall",
+  "PostCode": "TR4 8SA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-19",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

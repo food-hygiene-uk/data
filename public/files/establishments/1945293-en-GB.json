@@ -13,11 +13,16 @@
     "Latitude": "53.5849107",
     "Longitude": "-2.4656891"
   },
-  "AddressLine2": "1C Easedale Road",
+  "AddressLine2": "1c Easedale Road",
+  "AddressLine3": "Bolton",
   "PostCode": "BL1 5LL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

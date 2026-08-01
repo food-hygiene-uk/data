@@ -7,24 +7,22 @@
   "LocalAuthorityCode": "803",
   "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
   "Geocode": {
-    "Latitude": "54.481674",
-    "Longitude": "-6.353663"
+    "Latitude": "54.4816749",
+    "Longitude": "-6.353665"
   },
   "AddressLine1": "235 Lough Road",
-  "AddressLine2": "Drumnakelly",
-  "AddressLine3": "Lurgan",
-  "AddressLine4": "Armagh",
+  "AddressLine3": "Craigavon",
   "PostCode": "BT66 6NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

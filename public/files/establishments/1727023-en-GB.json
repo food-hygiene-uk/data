@@ -1,13 +1,13 @@
 {
   "FHRSID": 1727023,
-  "BusinessName": "Annaluckmi Live Store",
+  "BusinessName": "AP Foods & Wine",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx1186",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "319",
   "LocalAuthorityName": "Rugby",
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
   "Geocode": {
     "Latitude": "52.3763085",
@@ -18,8 +18,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "CV21 3HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 30
+  }
 }

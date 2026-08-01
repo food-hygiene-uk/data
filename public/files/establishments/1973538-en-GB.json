@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5155327",
+    "Longitude": "-3.7564253"
+  },
   "AddressLine1": "Spar Store 1 North Street Ashburton",
   "PostCode": "TQ13 7QJ",
   "SchemeType": "FHRS",

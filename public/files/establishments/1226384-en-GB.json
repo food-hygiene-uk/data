@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5154342651367",
+    "Longitude": "-3.75578689575195"
+  },
   "AddressLine1": "Bank Youth Project 10 East Street Ashburton Devon",
   "PostCode": "TQ13 7AA",
   "SchemeType": "FHRS",

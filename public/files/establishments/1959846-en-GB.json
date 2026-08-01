@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": {
-    "Latitude": "54.7154889",
-    "Longitude": "-6.1950982"
-  },
-  "AddressLine1": "35 Fountain Lane",
-  "AddressLine2": "Towns Parks",
-  "AddressLine3": "Antrim",
-  "AddressLine4": "Antrim",
-  "PostCode": "BT41 1LX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

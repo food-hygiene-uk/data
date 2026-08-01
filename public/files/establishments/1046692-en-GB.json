@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0855102539063",
+    "Longitude": "-0.255418002605438"
+  },
   "AddressLine1": "24 London Road",
   "AddressLine2": "Biggleswade",
   "AddressLine3": "Beds",

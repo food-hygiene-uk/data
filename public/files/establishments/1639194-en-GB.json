@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9425648",
+    "Longitude": "-0.5311181"
+  },
   "AddressLine1": "31 Preston Road",
   "AddressLine2": "Toddington",
   "AddressLine3": "Dunstable",

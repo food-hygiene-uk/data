@@ -1,6 +1,6 @@
 {
   "FHRSID": 1857493,
-  "BusinessName": "Bon Bon Events and Catering Ltd @ Cow Corner Cafe",
+  "BusinessName": "Cow Corner Cafe",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/000004010",
   "BusinessTypeID": 7841,
@@ -18,8 +18,12 @@
   "AddressLine3": "Tavistock",
   "PostCode": "PL19 9DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

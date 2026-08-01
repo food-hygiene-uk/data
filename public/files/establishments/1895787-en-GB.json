@@ -7,18 +7,23 @@
   "LocalAuthorityCode": "877",
   "LocalAuthorityName": "Southampton",
   "LocalAuthorityWebSite": "http://www.southampton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southampton.gov.uk",
   "Geocode": {
-    "Latitude": "50.909056",
-    "Longitude": "-1.40447"
+    "Latitude": "50.908723",
+    "Longitude": "-1.40439"
   },
-  "AddressLine1": "178 Above Bar Street",
-  "AddressLine2": "Southampton",
+  "AddressLine1": "First Floor",
+  "AddressLine2": "178 Above Bar Street",
+  "AddressLine3": "Southampton",
   "PostCode": "SO14 7DW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

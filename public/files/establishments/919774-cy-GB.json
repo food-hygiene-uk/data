@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Sir Fynwy",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
   "Geocode": {
     "Latitude": "51.828047",
@@ -18,12 +18,12 @@
   "AddressLine4": "Monmouthshire",
   "PostCode": "NP7 5TG",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2024-12-02",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-06-26",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

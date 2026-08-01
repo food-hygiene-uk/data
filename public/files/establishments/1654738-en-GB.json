@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3177455",
+    "Longitude": "-0.6179659"
+  },
   "AddressLine1": "34 High StreetKnaphillWokingSurrey",
   "PostCode": "GU21 2PY",
   "SchemeType": "FHRS",

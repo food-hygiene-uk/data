@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5813598632812",
+    "Longitude": "-3.69644498825073"
+  },
   "AddressLine1": "Mulberry House Residential Home Lower Brimley Bovey Tracey Devon",
   "PostCode": "TQ13 9JS",
   "SchemeType": "FHRS",

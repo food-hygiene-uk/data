@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.86792603",
+    "Longitude": "-4.27192211"
+  },
   "AddressLine2": "18 Woodlands Road",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

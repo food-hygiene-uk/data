@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.57221",
+    "Longitude": "-2.4275094"
+  },
+  "AddressLine1": "Unit 1-4 Bridgeman House",
+  "AddressLine2": "77 Bridgeman Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 6BY",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

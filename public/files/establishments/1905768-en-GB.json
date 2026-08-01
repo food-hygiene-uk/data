@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5595776",
+    "Longitude": "-2.3663173"
+  },
+  "AddressLine2": "9 Elm Road",
+  "AddressLine3": "Little Lever",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL3 1JL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

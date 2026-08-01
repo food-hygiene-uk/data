@@ -1,6 +1,6 @@
 {
   "FHRSID": 1960003,
-  "BusinessName": "D And D Grocery Shop",
+  "BusinessName": "D And D Grocery Shop (Extreme Agoo Provisions)",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00409/COMM",
   "BusinessTypeID": 4613,
@@ -19,8 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "SE25 6EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

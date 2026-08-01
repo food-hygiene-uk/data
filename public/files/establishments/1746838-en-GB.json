@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3390389",
+    "Longitude": "-0.5051834"
+  },
   "AddressLine1": "30 - 31 Station ApproachWest ByfleetSurrey",
   "PostCode": "KT14 6NF",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.319879",
+    "Longitude": "-0.5606561"
+  },
   "AddressLine1": "New LookUnit 31a Upper ConcoursePeacocks CentreVictoria WayWokingSurrey",
   "PostCode": "GU21 6GB",
   "SchemeType": "FHRS",
