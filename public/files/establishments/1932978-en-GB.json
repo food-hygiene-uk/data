@@ -1,23 +1,27 @@
 {
   "FHRSID": 1932978,
-  "BusinessName": "Angel Support UK (Edgware) Limited",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "Angel Support UK",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "26/00204/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.6142929",
     "Longitude": "-0.2777113"
   },
-  "AddressLine1": "10 - 11 Old Rectory Gardens",
+  "AddressLine1": "10 Old Rectory Gardens Edgware",
   "PostCode": "HA8 7LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
