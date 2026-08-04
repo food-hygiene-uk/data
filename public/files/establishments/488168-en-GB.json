@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "895",
   "LocalAuthorityName": "Herefordshire",
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
   "Geocode": {
     "Latitude": "52.1695709228516",
@@ -17,12 +17,12 @@
   "AddressLine4": "Pencombe",
   "PostCode": "HR7 4RL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

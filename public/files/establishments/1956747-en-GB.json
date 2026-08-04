@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2202618",
+    "Longitude": "1.4002207"
+  },
+  "AddressLine1": "54 Blenheim Road",
+  "AddressLine3": "Deal",
+  "PostCode": "CT14 7DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "14 MIDLAND ROAD",
+  "Geocode": {
+    "Latitude": "52.1360335",
+    "Longitude": "-0.4688036"
+  },
+  "AddressLine1": "14-15 HARPUR CENTRE",
   "AddressLine3": "BEDFORD",
-  "PostCode": "MK40 1PL",
+  "PostCode": "MK40 1TJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

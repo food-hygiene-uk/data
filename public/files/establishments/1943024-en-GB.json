@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
   "Geocode": {
-    "Latitude": "51.3372924",
-    "Longitude": "-0.7488937"
+    "Latitude": "51.3382949829102",
+    "Longitude": "-0.748467028141022"
   },
-  "AddressLine1": "Unit B5",
-  "AddressLine2": "The Atrium",
-  "AddressLine3": "Park Street",
-  "AddressLine4": "Camberley",
+  "AddressLine1": "40 Park Street",
+  "AddressLine2": "Camberley",
+  "AddressLine3": "Surrey",
   "PostCode": "GU15 3PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "803",
   "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
   "Geocode": {
     "Latitude": "54.4205904",
@@ -17,8 +17,12 @@
   "AddressLine3": "Portadown",
   "PostCode": "BT62 3LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

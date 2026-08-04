@@ -1,6 +1,6 @@
 {
   "FHRSID": 1972534,
-  "BusinessName": "Candy Warehouse",
+  "BusinessName": "Philly Grill Co",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "137201",
   "BusinessTypeID": 4613,
@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9505982",
+    "Longitude": "-1.1203818"
+  },
+  "AddressLine2": "9 Bradbury Street",
+  "AddressLine4": "Nottingham",
+  "PostCode": "NG2 4AZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

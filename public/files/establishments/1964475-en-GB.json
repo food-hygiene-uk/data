@@ -1,6 +1,6 @@
 {
   "FHRSID": 1964475,
-  "BusinessName": "Mote Cricket Club",
+  "BusinessName": "The Mote Cricket Club",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/500513/MIXED",
   "BusinessTypeID": 7843,
@@ -13,13 +13,18 @@
     "Latitude": "51.26775",
     "Longitude": "0.534953"
   },
-  "AddressLine1": "Willow Way",
-  "AddressLine2": "Maidstone",
-  "AddressLine3": "Kent",
+  "AddressLine1": "Mote Cricket Club",
+  "AddressLine2": "Willow Way",
+  "AddressLine3": "Maidstone",
+  "AddressLine4": "Kent",
   "PostCode": "ME15 7RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

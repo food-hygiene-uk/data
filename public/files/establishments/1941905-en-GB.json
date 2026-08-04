@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4234833",
-    "Longitude": "-4.1602977"
-  },
-  "AddressLine2": "1 Taunton Place",
-  "AddressLine3": "Plymouth",
-  "PostCode": "PL5 4HY",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

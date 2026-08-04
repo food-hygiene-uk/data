@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8887782",
+    "Longitude": "0.9441559"
+  },
+  "AddressLine1": "16 Stevens Walk",
+  "AddressLine2": "Colchester",
+  "AddressLine3": "Essex",
+  "PostCode": "CO4 3JX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

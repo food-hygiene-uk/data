@@ -1,6 +1,6 @@
 {
   "FHRSID": 1945159,
-  "BusinessName": "Alexander's",
+  "BusinessName": "Alexanders",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/500266/MIXED",
   "BusinessTypeID": 1,
@@ -16,8 +16,12 @@
   "AddressLine4": "Kent",
   "PostCode": "TN12 9LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

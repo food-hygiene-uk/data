@@ -1,9 +1,9 @@
 {
   "FHRSID": 1966735,
   "BusinessName": "North Street market",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "266742",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "855",
   "LocalAuthorityName": "Bristol",
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS3 1HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

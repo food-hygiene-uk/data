@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "BEDFORD ROWING CLUB DUCKMILL LANE",
+  "Geocode": {
+    "Latitude": "52.1340528",
+    "Longitude": "-0.4651456"
+  },
+  "AddressLine1": "6 DUCKMILL LANE",
   "AddressLine3": "BEDFORD",
   "PostCode": "MK42 0AX",
   "SchemeType": "FHRS",

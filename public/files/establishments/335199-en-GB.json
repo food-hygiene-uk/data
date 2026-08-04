@@ -7,22 +7,23 @@
   "LocalAuthorityCode": "313",
   "LocalAuthorityName": "Tandridge",
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fsa_enforcement@tandridge.gov.uk",
   "Geocode": {
     "Latitude": "51.2527477",
     "Longitude": "-0.0575089"
   },
-  "AddressLine1": "Flower Farm                                                                                          Oxted Road",
+  "AddressLine1": "Flower Farm Oxted Road",
   "AddressLine2": "Godstone",
+  "AddressLine4": "Surrey",
   "PostCode": "RH9 8DE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-22",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

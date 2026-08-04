@@ -1,6 +1,6 @@
 {
   "FHRSID": 1802238,
-  "BusinessName": "Reup",
+  "BusinessName": "RE-UP",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "25/00072/CP",
   "BusinessTypeID": 7841,
@@ -17,8 +17,12 @@
   "AddressLine2": "Portsmouth",
   "PostCode": "PO6 2QZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

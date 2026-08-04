@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "062",
   "LocalAuthorityName": "Amber Valley",
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": {
     "Latitude": "53.0491027832031",
@@ -16,8 +16,12 @@
   "AddressLine1": "1 Wellington Street Ripley Derbyshire",
   "PostCode": "DE5 3EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-06",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }
