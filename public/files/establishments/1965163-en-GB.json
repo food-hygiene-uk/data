@@ -9,17 +9,21 @@
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
   "NewRatingPending": false,
   "Geocode": {
-    "Latitude": "52.6933499",
-    "Longitude": "-2.4918909"
+    "Latitude": "52.6933756",
+    "Longitude": "-2.4917246"
   },
   "AddressLine1": "Mcdonalds Restaurants Ltd Wrekin Retail Park Whitchurch Drive",
   "AddressLine2": "Wellington",
   "AddressLine3": "Telford",
-  "AddressLine4": "Telford And Wrekin",
+  "AddressLine4": "Shropshire",
   "PostCode": "TF1 2DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

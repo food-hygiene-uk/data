@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "553",
   "LocalAuthorityName": "Pen-y-bont ar Ogwr",
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
   "Geocode": {
     "Latitude": "51.4770131",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bridgend",
   "PostCode": "CF36 3YL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

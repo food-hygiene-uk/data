@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
     "Latitude": "53.3909371",
@@ -17,12 +17,12 @@
   "AddressLine2": "Cockhedge Way",
   "PostCode": "WA1 2QA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-03",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

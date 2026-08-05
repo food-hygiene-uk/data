@@ -1,13 +1,13 @@
 {
   "FHRSID": 362293,
-  "BusinessName": "Salmon News Ltd",
+  "BusinessName": "DM News",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "10196",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "530",
   "LocalAuthorityName": "Tower Hamlets",
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
   "Geocode": {
     "Latitude": "51.513684",
@@ -17,12 +17,12 @@
   "AddressLine3": "London",
   "PostCode": "E14 7PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-28",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

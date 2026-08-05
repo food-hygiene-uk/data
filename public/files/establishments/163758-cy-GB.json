@@ -9,21 +9,15 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3269805908203",
-    "Longitude": "-3.43953490257263"
-  },
-  "AddressLine1": "Watergate",
+  "Geocode": null,
+  "AddressLine1": "Brecon Workmans Club",
   "AddressLine2": "Aberhonddu",
-  "AddressLine3": "Powys",
+  "AddressLine3": "Brecon",
+  "AddressLine4": "Powys",
   "PostCode": "LD3 9AN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2019-12-18",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_ratingawaited_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }

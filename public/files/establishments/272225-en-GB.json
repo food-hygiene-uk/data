@@ -1,6 +1,6 @@
 {
   "FHRSID": 272225,
-  "BusinessName": "Dolce at John Hampden Primary School",
+  "BusinessName": "Impact Food Group trading as  Dolce at John Hampden Primary",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "AD:39749",
   "BusinessTypeID": 7845,
@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Park Street",
-  "AddressLine2": "Thame",
-  "AddressLine3": "Oxon",
+  "Geocode": {
+    "Latitude": "51.7425092",
+    "Longitude": "-0.9725848"
+  },
+  "AddressLine1": "John Hampden Primary School",
+  "AddressLine2": "Park Street",
+  "AddressLine3": "Thame",
   "PostCode": "OX9 3HU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

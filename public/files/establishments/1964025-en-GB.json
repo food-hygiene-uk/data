@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "516",
   "LocalAuthorityName": "Havering",
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
   "Geocode": null,
   "AddressLine1": "Mawney Road",
   "AddressLine2": "Romford",
   "PostCode": "RM7 7AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

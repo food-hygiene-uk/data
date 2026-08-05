@@ -1,18 +1,29 @@
 {
   "FHRSID": 1920784,
   "BusinessName": "Tasty Kalavara",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000235092",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.608799",
+    "Longitude": "-1.349398"
+  },
+  "AddressLine1": "51 Kirkby Road",
+  "AddressLine2": "Hemsworth",
+  "AddressLine3": "Pontefract",
+  "PostCode": "WF9 4AS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

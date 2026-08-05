@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Royal Oak",
@@ -16,8 +16,12 @@
   "AddressLine4": "Wolverhampton",
   "PostCode": "WV13 3TJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

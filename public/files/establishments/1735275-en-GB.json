@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "291",
   "LocalAuthorityName": "South Staffordshire",
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
   "Geocode": {
     "Latitude": "52.6775016",
@@ -18,12 +18,12 @@
   "AddressLine3": "STAFFORD",
   "PostCode": "ST19 9BD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-17",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

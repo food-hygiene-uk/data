@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": {
     "Latitude": "51.0691026",
@@ -17,12 +17,12 @@
   "AddressLine3": "SALISBURY",
   "PostCode": "SP1 1TH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-07-07",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

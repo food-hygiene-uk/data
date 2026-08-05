@@ -17,8 +17,12 @@
   "AddressLine2": "Acton",
   "PostCode": "W3 7HH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-12",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

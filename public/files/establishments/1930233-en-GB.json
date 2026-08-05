@@ -1,9 +1,9 @@
 {
   "FHRSID": 1930233,
   "BusinessName": "Star pizza",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "R6NJ8D-B14H97-5APSSW",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "BELMONT",
   "PostCode": "DH1 2AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.475710000001",
+    "Longitude": "0.322754999894771"
+  },
   "AddressLine1": "STREET RECORD",
-  "AddressLine2": "George Street",
+  "AddressLine2": "High Street",
   "AddressLine3": "Grays",
   "AddressLine4": "Essex",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

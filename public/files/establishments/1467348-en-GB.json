@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "155",
   "LocalAuthorityName": "Broxbourne",
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
   "Geocode": {
     "Latitude": "51.684135",
@@ -18,12 +18,12 @@
   "AddressLine3": "Hertfordshire",
   "PostCode": "EN8 7BU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

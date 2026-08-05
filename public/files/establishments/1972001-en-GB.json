@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Campanile Hotels Limited",
-  "AddressLine2": "Monckton Road",
-  "AddressLine3": "Wakefield",
+  "Geocode": {
+    "Latitude": "53.665192",
+    "Longitude": "-1.509998"
+  },
+  "AddressLine1": "Monckton Road",
+  "AddressLine2": "Wakefield",
   "PostCode": "WF2 7AL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

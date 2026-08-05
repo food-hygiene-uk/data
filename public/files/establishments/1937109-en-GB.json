@@ -1,6 +1,6 @@
 {
   "FHRSID": 1937109,
-  "BusinessName": "Desi Mart",
+  "BusinessName": "Go2Mart",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "CP06016",
   "BusinessTypeID": 4613,
@@ -13,13 +13,16 @@
     "Latitude": "51.5007933",
     "Longitude": "-0.3883249"
   },
-  "AddressLine1": "Front Unit",
-  "AddressLine2": "85 Sussex Road",
-  "AddressLine3": "Southall",
+  "AddressLine1": "85 Sussex Road",
+  "AddressLine2": "Southall",
   "PostCode": "UB2 5EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "230",
   "LocalAuthorityName": "King's Lynn and West Norfolk",
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
   "Geocode": {
     "Latitude": "52.7998924255371",
@@ -19,12 +19,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "PE31 6TW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

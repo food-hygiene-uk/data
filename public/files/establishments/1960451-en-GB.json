@@ -1,13 +1,13 @@
 {
   "FHRSID": 1960451,
-  "BusinessName": "The Warren Bridge",
+  "BusinessName": "The Sola Bar And Kitchen",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/05488/MIXED",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "078",
   "LocalAuthorityName": "Teignbridge",
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
   "Geocode": {
     "Latitude": "50.59466711",
@@ -16,8 +16,12 @@
   "AddressLine1": "Warren Road Dawlish Warren",
   "PostCode": "EX7 0PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

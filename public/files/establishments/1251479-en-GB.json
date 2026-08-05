@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.3023437",
@@ -18,12 +18,12 @@
   "AddressLine3": "Northamptonshire",
   "PostCode": "NN8 1PY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

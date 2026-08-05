@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "290",
   "LocalAuthorityName": "Newcastle-Under-Lyme",
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
   "Geocode": {
     "Latitude": "53.0345539",
@@ -18,12 +18,12 @@
   "AddressLine4": "Newcastle Under Lyme",
   "PostCode": "ST5 7HT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

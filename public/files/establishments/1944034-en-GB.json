@@ -1,9 +1,9 @@
 {
   "FHRSID": 1944034,
   "BusinessName": "Ella PT Nutrition",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "H23N1J-KDJDCV-P225T3",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

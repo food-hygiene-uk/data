@@ -1,9 +1,9 @@
 {
   "FHRSID": 1944026,
   "BusinessName": "P.Tron International Transport",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "DL3PGH-ZSYPN2-QLQS1T",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

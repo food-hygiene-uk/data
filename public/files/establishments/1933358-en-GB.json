@@ -1,18 +1,22 @@
 {
   "FHRSID": 1933358,
-  "BusinessName": "Nusoya",
+  "BusinessName": "Nusoya / Calon",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "801239",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "556",
   "LocalAuthorityName": "Cardiff",
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

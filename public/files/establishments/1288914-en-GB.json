@@ -1,13 +1,13 @@
 {
   "FHRSID": 1288914,
-  "BusinessName": "Viet 80s Restaurant",
+  "BusinessName": "Viet 80s Kitchen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "105077",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "899",
   "LocalAuthorityName": "Nottingham City",
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
   "Geocode": {
     "Latitude": "52.9514126",
@@ -17,12 +17,12 @@
   "AddressLine4": "Nottingham",
   "PostCode": "NG1 6DH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

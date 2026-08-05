@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4229426",
+    "Longitude": "-2.8073299"
+  },
+  "AddressLine1": "21 Sinclair Way",
+  "AddressLine2": "Prescot Business Park",
+  "AddressLine3": "Prescot",
+  "AddressLine4": "Knowsley",
+  "PostCode": "L34 1QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

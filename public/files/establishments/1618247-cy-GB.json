@@ -1,6 +1,6 @@
 {
   "FHRSID": 1618247,
-  "BusinessName": "St Clears Service Station",
+  "BusinessName": "Pret a Manager",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "95898",
   "BusinessTypeID": 4613,
@@ -10,20 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
   "Geocode": {
-    "Latitude": "51.818983",
-    "Longitude": "-4.5024452"
+    "Latitude": "51.8178484",
+    "Longitude": "-4.5051213"
   },
+  "AddressLine1": "St Clears Service Station",
   "AddressLine2": "Tenby Road",
   "AddressLine3": "St Clears",
   "AddressLine4": "Carmarthen",
   "PostCode": "SA33 4JW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-08-18",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_ratingawaited_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }
