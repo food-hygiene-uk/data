@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "https://wyre.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialsafety@wyre.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.8381594",
+    "Longitude": "-2.7398136"
+  },
+  "AddressLine1": "913 Garstang Road",
+  "AddressLine2": "Barton",
+  "AddressLine3": "Preston",
+  "AddressLine4": "Lancashire",
+  "PostCode": "PR3 5AB",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-13",
   "Scores": null
 }

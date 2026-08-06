@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": null,
   "AddressLine1": "St Josephs Catholic Academy",
@@ -16,12 +16,12 @@
   "AddressLine4": "Huddersfield",
   "PostCode": "HD5 9HU",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-06-25",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

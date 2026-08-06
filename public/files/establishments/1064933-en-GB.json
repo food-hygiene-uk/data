@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "158",
   "LocalAuthorityName": "Hertsmere",
   "LocalAuthorityWebSite": "http://www.hertsmere.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@hertsmere.gov.uk",
   "Geocode": {
     "Latitude": "51.6536903381348",
@@ -19,12 +19,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "WD6 1QY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

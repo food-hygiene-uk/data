@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "875",
   "LocalAuthorityName": "Brighton and Hove",
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
   "Geocode": {
     "Latitude": "50.837083",
@@ -17,8 +17,12 @@
   "AddressLine2": "Hove",
   "PostCode": "BN3 7GB",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-01-29",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

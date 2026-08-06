@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "560",
   "LocalAuthorityName": "Flintshire",
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
   "Geocode": {
     "Latitude": "53.2068462",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-12-05",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

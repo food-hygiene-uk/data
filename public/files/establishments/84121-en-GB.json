@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
   "Geocode": {
     "Latitude": "53.453177",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-11-27",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

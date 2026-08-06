@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Long Ditton St Marys C of E School",
-  "AddressLine2": "Sugden Road",
-  "AddressLine3": "Thames Ditton",
-  "AddressLine4": "Surrey",
+  "Geocode": {
+    "Latitude": "51.383605",
+    "Longitude": "-0.323627"
+  },
+  "AddressLine1": "Sugden Road",
+  "AddressLine2": "Thames Ditton",
+  "AddressLine3": "Surrey",
   "PostCode": "KT7 0AD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

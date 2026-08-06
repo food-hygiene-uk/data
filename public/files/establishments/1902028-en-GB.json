@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.98297",
-    "Longitude": "-0.010953"
-  },
-  "AddressLine2": "Ashlawn Drive",
-  "AddressLine4": "Boston",
-  "PostCode": "PE21 9PX",
+  "Geocode": null,
+  "AddressLine1": "Hawthorn Tree Primary School",
+  "AddressLine2": "Toot Lane",
+  "AddressLine4": "Fishtoft",
+  "PostCode": "PE21 0PT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

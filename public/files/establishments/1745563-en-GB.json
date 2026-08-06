@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.630909",
+    "Longitude": "-0.147508"
+  },
+  "AddressLine1": "Brunswick Park JMI School  Osidge Lane London",
+  "PostCode": "N14 5DU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

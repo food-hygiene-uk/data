@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
   "Geocode": {
     "Latitude": "51.5524539",
@@ -19,12 +19,12 @@
   "AddressLine4": "London",
   "PostCode": "N5 1SA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-01",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

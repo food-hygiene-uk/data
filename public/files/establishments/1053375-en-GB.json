@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
     "Latitude": "51.7017112",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM5 9DS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-30",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 20
   }
 }
