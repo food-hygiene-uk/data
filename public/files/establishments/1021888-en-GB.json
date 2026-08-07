@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4275093078613",
-    "Longitude": "-1.34968495368958"
-  },
+  "Geocode": null,
   "AddressLine2": "177 Wellgate",
   "AddressLine3": "Rotherham Town Centre",
   "AddressLine4": "Rotherham",
   "PostCode": "S60 2NW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

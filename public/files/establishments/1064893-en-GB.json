@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5659594",
-    "Longitude": "-2.0751422"
-  },
+  "Geocode": null,
   "AddressLine1": "56 Church Street",
   "AddressLine2": "Bilston",
   "AddressLine3": "Wolverhampton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-16",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

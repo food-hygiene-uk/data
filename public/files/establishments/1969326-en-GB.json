@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.394474029541",
-    "Longitude": "-0.0834190025925636"
-  },
+  "Geocode": null,
   "AddressLine1": "St Chads Roman Catholic Primary School",
   "AddressLine2": "Alverston Gardens",
   "AddressLine3": "South Norwood",
   "AddressLine4": "London",
   "PostCode": "SE25 6LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

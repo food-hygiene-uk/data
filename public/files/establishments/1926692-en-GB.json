@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.193189",
-    "Longitude": "-2.2210258"
-  },
+  "Geocode": null,
   "AddressLine1": "3 The Cross",
   "AddressLine2": "Worcester",
   "PostCode": "WR1 3PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

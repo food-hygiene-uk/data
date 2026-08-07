@@ -1,6 +1,6 @@
 {
   "FHRSID": 1620366,
-  "BusinessName": "CHALK FARM FOODBANK C/O REVELATION CHURCH",
+  "BusinessName": "KENTISH TOWN FOODBANK C/O REVELATION CHURCH",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "202694",
   "BusinessTypeID": 1,
@@ -10,12 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": null,
-  "AddressLine2": "Kentish Town Congregational churck",
+  "AddressLine2": "Kentish Town Congregational church",
   "AddressLine4": "Kelly Street",
   "PostCode": "NW1 8PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

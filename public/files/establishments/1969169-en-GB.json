@@ -1,6 +1,6 @@
 {
   "FHRSID": 1969169,
-  "BusinessName": "T/A Harlem",
+  "BusinessName": "Harlem",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00347/COM",
   "BusinessTypeID": 1,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4008835",
-    "Longitude": "-0.2555632"
-  },
+  "Geocode": null,
   "AddressLine1": "94 - 96 High Street",
   "AddressLine2": "New Malden",
   "PostCode": "KT3 4EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

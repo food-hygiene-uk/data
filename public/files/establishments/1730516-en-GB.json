@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.808376",
-    "Longitude": "-1.55205"
-  },
+  "Geocode": null,
   "AddressLine1": "170 Woodhouse Lane",
   "AddressLine2": "Woodhouse",
   "AddressLine3": "Leeds",
   "PostCode": "LS2 9HB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-07-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

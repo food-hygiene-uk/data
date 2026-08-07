@@ -1,6 +1,6 @@
 {
   "FHRSID": 1770052,
-  "BusinessName": "Fit & Feast",
+  "BusinessName": "Flavabox",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "137559",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8959126",
-    "Longitude": "-0.4440566"
-  },
+  "Geocode": null,
   "AddressLine2": "314-318 Selbourne Road",
   "AddressLine4": "Luton",
   "PostCode": "LU4 8NU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-09",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

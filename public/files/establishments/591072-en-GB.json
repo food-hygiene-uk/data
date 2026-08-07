@@ -1,6 +1,6 @@
 {
   "FHRSID": 591072,
-  "BusinessName": "Tasty's Peri Peri",
+  "BusinessName": "Tastys",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "40662",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.418652",
-    "Longitude": "-1.446856"
-  },
+  "Geocode": null,
   "AddressLine2": "30 Bellhouse Road",
   "AddressLine3": "Sheffield",
   "PostCode": "S5 6HL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-11-26",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5211639404297",
-    "Longitude": "-2.93782711029053"
-  },
+  "Geocode": null,
   "AddressLine2": "Northway",
   "AddressLine3": "Maghull",
   "AddressLine4": "Liverpool",
   "PostCode": "L31 0BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

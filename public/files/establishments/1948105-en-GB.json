@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.350884",
-    "Longitude": "-5.6541291"
-  },
+  "Geocode": null,
   "AddressLine1": "30 St Patricks Road",
   "AddressLine2": "Ballintogher",
   "AddressLine3": "Downpatrick",
   "AddressLine4": "Down",
   "PostCode": "BT30 7JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

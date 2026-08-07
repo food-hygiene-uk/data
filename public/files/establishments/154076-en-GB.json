@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6915016174316",
-    "Longitude": "-2.43781995773315"
-  },
+  "Geocode": null,
   "AddressLine1": "Cattle Country And Barn",
   "AddressLine2": "Berkeley Heath",
   "AddressLine3": "Berkeley",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-17",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

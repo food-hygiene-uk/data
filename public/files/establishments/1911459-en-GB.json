@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3889988",
-    "Longitude": "-2.2472355"
-  },
+  "Geocode": null,
   "AddressLine1": "10 - 11 Towers Buildings",
   "AddressLine2": "Blackwell Street",
   "AddressLine3": "Kidderminster",
   "AddressLine4": "Worcestershire",
   "PostCode": "DY10 2DY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

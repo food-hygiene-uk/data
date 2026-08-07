@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6503136",
-    "Longitude": "-2.9996778"
-  },
+  "Geocode": null,
   "AddressLine2": "9 Union Street",
   "AddressLine3": "Southport",
   "PostCode": "PR9 0QF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

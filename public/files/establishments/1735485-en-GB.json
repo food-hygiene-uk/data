@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.716239",
-    "Longitude": "-1.970031"
-  },
+  "Geocode": null,
   "AddressLine1": "65 Castle Street",
   "AddressLine2": "Cirencester",
   "AddressLine3": "Gloucestershire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-03",
+  "RatingDate": "2026-07-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

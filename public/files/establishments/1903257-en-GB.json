@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": {
-    "Latitude": "53.25599115",
-    "Longitude": "-2.12639355"
-  },
+  "Geocode": null,
   "AddressLine1": "Churchill Way",
   "AddressLine4": "Macclesfield",
   "PostCode": "SK11 6AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

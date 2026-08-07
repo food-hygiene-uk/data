@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5982512",
-    "Longitude": "-0.0380234"
-  },
+  "Geocode": null,
   "AddressLine1": "20 Sutton Road",
   "AddressLine3": "Walthamstow",
   "AddressLine4": "London",
   "PostCode": "E17 5QA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-27",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

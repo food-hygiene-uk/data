@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.649382",
-    "Longitude": "-3.005877"
-  },
+  "Geocode": null,
   "AddressLine2": "27 Nevill Street",
   "AddressLine3": "Southport",
   "PostCode": "PR9 0DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

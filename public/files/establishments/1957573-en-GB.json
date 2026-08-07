@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4323724",
-    "Longitude": "-1.3543687"
-  },
+  "Geocode": null,
   "AddressLine1": "25 Market Hall",
   "AddressLine2": "Howard Street",
   "AddressLine3": "Rotherham Town Centre",
   "AddressLine4": "Rotherham",
   "PostCode": "S65 1EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.17831555",
-    "Longitude": "-6.343471"
-  },
+  "Geocode": null,
   "AddressLine1": "Upper Edward Street",
   "AddressLine3": "Newry",
   "PostCode": "BT35 6AX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-28",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

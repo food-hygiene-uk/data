@@ -9,22 +9,14 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8403345",
-    "Longitude": "-2.1860809"
-  },
-  "AddressLine1": "1 Adams Lane",
-  "AddressLine2": "Brockworth",
-  "AddressLine3": "Gloucester",
-  "AddressLine4": "Gloucestershire",
-  "PostCode": "GL3 4HZ",
+  "Geocode": null,
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-15",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

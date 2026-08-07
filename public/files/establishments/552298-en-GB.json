@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.589829",
-    "Longitude": "-0.0280344"
-  },
+  "Geocode": null,
   "AddressLine1": "353 Forest Road",
   "AddressLine3": "Walthamstow",
   "AddressLine4": "London",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-01",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

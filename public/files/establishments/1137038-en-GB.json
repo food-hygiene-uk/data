@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3544787",
-    "Longitude": "-2.2912234"
-  },
+  "Geocode": null,
   "AddressLine1": "83 Mostyn Road",
   "AddressLine2": "Stourport On Severn",
   "AddressLine3": "Worcestershire",
   "PostCode": "DY13 8PW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.runnymede.gov.uk/portal/site/runnymede",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
-  "Geocode": {
-    "Latitude": "51.374344",
-    "Longitude": "-0.496639"
-  },
+  "Geocode": null,
   "AddressLine2": "45 Green Lane",
   "AddressLine4": "Addlestone",
   "PostCode": "KT15 2TX",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-22",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

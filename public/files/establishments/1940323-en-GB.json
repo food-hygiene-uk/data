@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.1657451",
-    "Longitude": "-6.3340224"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Warrenpoint Road",
   "AddressLine3": "Newry",
   "PostCode": "BT34 2PF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

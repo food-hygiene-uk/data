@@ -1,25 +1,26 @@
 {
   "FHRSID": 1929316,
   "BusinessName": "Sweety Pies",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "168637",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5408022",
-    "Longitude": "-1.4487395"
-  },
+  "Geocode": null,
   "AddressLine1": "Colley Croft Cafe",
   "AddressLine2": "Birk Avenue",
   "AddressLine4": "Kendray",
   "PostCode": "S70 3AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

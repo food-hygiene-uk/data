@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.395704",
-    "Longitude": "-0.262739"
-  },
+  "Geocode": null,
   "AddressLine1": "Raleigh House",
   "AddressLine2": "14 Nelson Road",
   "AddressLine3": "New Malden",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-29",
-  "Scores": null
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

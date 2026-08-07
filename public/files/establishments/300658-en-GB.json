@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
-  "Geocode": {
-    "Latitude": "51.807475",
-    "Longitude": "0.635317"
-  },
+  "Geocode": null,
   "AddressLine1": "Church Street",
   "AddressLine2": "Witham",
   "AddressLine3": "Essex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-11",
-  "Scores": null
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
   "Geocode": null,
+  "AddressLine1": "South West Banger Racing Club",
+  "AddressLine2": "Mullacott Cross Industrial Estate",
+  "AddressLine3": "Ilfracombe",
+  "AddressLine4": "Devon",
+  "PostCode": "EX34 8PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

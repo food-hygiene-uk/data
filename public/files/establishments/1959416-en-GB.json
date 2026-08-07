@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.064032",
-    "Longitude": "-6.002995"
-  },
+  "Geocode": null,
   "AddressLine1": "23a Newcastle Street",
   "AddressLine3": "Kilkeel",
   "AddressLine4": "Co. Down",
   "PostCode": "BT34 4AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

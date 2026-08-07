@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2062527",
-    "Longitude": "-1.4797247"
-  },
+  "Geocode": null,
   "AddressLine2": "15 To 17 Bridge Street",
   "AddressLine3": "Andover",
   "AddressLine4": "Hampshire",
   "PostCode": "SP10 1BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

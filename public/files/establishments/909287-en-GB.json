@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.2256681",
-    "Longitude": "-5.8945405"
-  },
+  "Geocode": null,
   "AddressLine1": "33a Castlewellan Road",
   "AddressLine2": "Tollymore",
   "AddressLine3": "Newcastle",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-26",
+  "RatingDate": "2026-07-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

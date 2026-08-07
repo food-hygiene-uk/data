@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5151100158691",
-    "Longitude": "-0.0583689995110035"
-  },
+  "Geocode": null,
   "AddressLine2": "16 Philpot Street",
   "AddressLine3": "London",
   "PostCode": "E1 2DW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
   "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

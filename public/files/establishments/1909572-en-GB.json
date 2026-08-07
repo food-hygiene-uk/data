@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8538436",
-    "Longitude": "0.5579342"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop And Premises 18 Silchester Road",
   "AddressLine3": "St Leonards-on-sea",
   "AddressLine4": "East Sussex",
   "PostCode": "TN38 0JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

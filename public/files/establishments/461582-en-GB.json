@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.32202",
-    "Longitude": "-1.260493"
-  },
+  "Geocode": null,
   "AddressLine2": "60 Union Street",
   "AddressLine3": "Harthill",
   "AddressLine4": "Sheffield",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-02",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

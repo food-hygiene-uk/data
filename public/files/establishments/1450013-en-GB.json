@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "52.06775271",
-    "Longitude": "-1.8188352"
-  },
+  "Geocode": null,
   "AddressLine1": "Friday Street",
   "AddressLine2": "Weston Subedge",
   "AddressLine3": "Chipping Campden",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-16",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

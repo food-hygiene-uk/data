@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.79257143",
-    "Longitude": "-1.59641703"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Wortley Moor Road",
   "AddressLine2": "Upper Wortley",
   "AddressLine3": "Leeds",
   "PostCode": "LS12 4JF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

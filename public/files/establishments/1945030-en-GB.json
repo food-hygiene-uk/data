@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.636219",
-    "Longitude": "-2.15999"
-  },
+  "Geocode": null,
   "AddressLine1": "19 Church Street",
   "AddressLine2": "Tetbury",
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL8 8JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": {
-    "Latitude": "52.632598",
-    "Longitude": "-1.128516"
-  },
+  "Geocode": null,
   "AddressLine1": "99 Granby Street",
   "AddressLine2": "Leicester",
   "PostCode": "LE1 6FD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-28",
-  "Scores": null
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

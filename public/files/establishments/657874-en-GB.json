@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4869",
-    "Longitude": "-1.31309"
-  },
+  "Geocode": null,
   "AddressLine2": "66 Station Street",
   "AddressLine3": "Swinton",
   "AddressLine4": "Rotherham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-18",
+  "RatingDate": "2026-07-31",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

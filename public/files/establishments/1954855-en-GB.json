@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.1011856",
-    "Longitude": "-6.2558904"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Newry Street",
   "AddressLine2": "Ringmackilroy",
   "AddressLine3": "Warrenpoint",
   "AddressLine4": "Down",
   "PostCode": "BT34 3JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
