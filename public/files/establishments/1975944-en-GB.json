@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7436811",
+    "Longitude": "-1.1719489"
+  },
   "AddressLine2": "28-30 High Street",
   "AddressLine4": "Quorn",
   "PostCode": "LE12 8DT",

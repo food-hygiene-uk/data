@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3125003",
+    "Longitude": "-0.5966006"
+  },
   "AddressLine1": "2 Hermitage RoadSt JohnsWokingSurrey",
   "PostCode": "GU21 8TB",
   "SchemeType": "FHRS",

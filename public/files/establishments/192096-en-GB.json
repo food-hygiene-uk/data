@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "866",
   "LocalAuthorityName": "Hull City",
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
   "Geocode": {
     "Latitude": "53.7644386291504",
@@ -17,12 +17,12 @@
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU5 1LW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-04",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

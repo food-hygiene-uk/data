@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.523842",
+    "Longitude": "-0.124107"
+  },
   "AddressLine2": "16 Brunswick Centre",
   "PostCode": "WC1N 1AE",
   "SchemeType": "FHRS",

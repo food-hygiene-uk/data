@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.07681611",
-    "Longitude": "-0.80283312"
-  },
+  "Geocode": null,
   "AddressLine1": "L & S Gift & Coffee House 1 The Square",
   "AddressLine3": "Liphook",
   "AddressLine4": "Hampshire",
   "PostCode": "GU30 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

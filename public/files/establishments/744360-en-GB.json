@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.639734",
+    "Longitude": "-1.10535"
+  },
   "AddressLine1": "Green Lane Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE5 3TH",

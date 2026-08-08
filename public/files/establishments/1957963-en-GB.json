@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "403",
   "LocalAuthorityName": "Bolton",
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
   "Geocode": null,
   "AddressLine2": "61 Knowsley Street",
   "AddressLine3": "Bolton",
   "PostCode": "BL1 2BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

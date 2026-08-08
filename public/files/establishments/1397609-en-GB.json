@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.217482",
+    "Longitude": "-1.542965"
+  },
   "AddressLine1": "Weyhill Road",
   "AddressLine2": "Weyhill",
   "AddressLine3": "Andover",

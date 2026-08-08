@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.725212",
-    "Longitude": "-0.823726"
-  },
+  "Geocode": null,
   "AddressLine1": "69 Woodfield Road",
   "AddressLine2": "Princes Risborough",
   "AddressLine3": "Buckinghamshire",
   "PostCode": "HP27 0HX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

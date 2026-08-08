@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "886",
   "LocalAuthorityName": "Windsor and Maidenhead",
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
   "Geocode": {
     "Latitude": "51.4810563500371",
@@ -17,12 +17,12 @@
   "AddressLine2": "Windsor",
   "PostCode": "SL4 5GG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-31",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

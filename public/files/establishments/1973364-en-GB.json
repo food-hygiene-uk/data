@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1012439",
-    "Longitude": "-0.8346994"
-  },
+  "Geocode": null,
   "AddressLine1": "The Field House Passfield Road",
   "AddressLine2": "Passfield",
   "AddressLine3": "Liphook",
   "AddressLine4": "Hampshire",
   "PostCode": "GU30 7RJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

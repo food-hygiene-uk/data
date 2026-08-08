@@ -9,22 +9,15 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.141218",
-    "Longitude": "-1.809118"
-  },
+  "Geocode": null,
   "AddressLine1": "Cavendish House",
   "AddressLine2": "Church Street",
   "AddressLine3": "Hartington",
   "AddressLine4": "Derbyshire",
   "PostCode": "SK17 0AW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-07-23",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

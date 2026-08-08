@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.529249",
-    "Longitude": "-0.100193"
-  },
+  "Geocode": null,
   "AddressLine1": "13",
   "AddressLine2": "Coniston Avenue",
   "AddressLine4": "Grimsby",
   "PostCode": "DN33 3EE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-20",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-04",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

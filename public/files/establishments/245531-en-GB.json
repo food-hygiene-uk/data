@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": {
-    "Latitude": "53.975651",
-    "Longitude": "-1.057899"
-  },
+  "Geocode": null,
   "AddressLine1": "Fairfield",
   "AddressLine2": "Malton Road",
   "AddressLine3": "Heworth",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-10",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

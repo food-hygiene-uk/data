@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.5612901",
@@ -18,8 +18,12 @@
   "AddressLine3": "Wigan Wigan",
   "PostCode": "WN6 8NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

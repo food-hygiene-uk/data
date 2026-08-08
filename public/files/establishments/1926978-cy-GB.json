@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": {
-    "Latitude": "51.6577694",
-    "Longitude": "-3.1362725"
-  },
+  "Geocode": null,
   "AddressLine2": "80 Coed Celynen Drive",
   "AddressLine3": "Abercarn",
   "AddressLine4": "Newport",
   "PostCode": "NP11 5AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956694,
-  "BusinessName": "Alpaca Evolution",
+  "BusinessName": "Alpaca My Latte",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "EHCP/26/00466",
   "BusinessTypeID": 7846,
@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Fair Winter Farm",
+  "AddressLine2": "Bletchley Road",
+  "AddressLine3": "Great Horwood",
+  "AddressLine4": "Buckinghamshire",
+  "PostCode": "MK17 0RB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

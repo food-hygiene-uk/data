@@ -7,24 +7,17 @@
   "LocalAuthorityCode": "266",
   "LocalAuthorityName": "Rushcliffe",
   "LocalAuthorityWebSite": "http://www.rushcliffe.gov.uk/",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "envhealth@rushcliffe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.882532",
-    "Longitude": "-1.143339"
-  },
+  "Geocode": null,
   "AddressLine1": "Greene Tweed And Company Limited",
   "AddressLine2": "Ruddington Fields Business Park",
   "AddressLine3": "Mere Way",
   "AddressLine4": "Ruddington",
   "PostCode": "NG11 6JS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-30",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

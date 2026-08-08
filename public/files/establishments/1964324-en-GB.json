@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7978504",
-    "Longitude": "-1.1299116"
-  },
+  "Geocode": null,
   "AddressLine1": "4 The Old Railway",
   "AddressLine2": "Gosport",
   "PostCode": "PO12 1FQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

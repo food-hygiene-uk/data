@@ -1,6 +1,6 @@
 {
   "FHRSID": 1914999,
-  "BusinessName": "Slazenger Paddle Club",
+  "BusinessName": "Slazenger Padel Club",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9107737",
   "BusinessTypeID": 1,
@@ -11,12 +11,17 @@
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
   "Geocode": null,
   "AddressLine1": "Slazenger Padel Club Haslingden Road",
+  "AddressLine2": "Guide",
   "AddressLine3": "Blackburn",
   "AddressLine4": "Blackburn With Darwen",
   "PostCode": "BB1 2NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

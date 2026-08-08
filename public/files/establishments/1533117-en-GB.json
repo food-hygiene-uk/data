@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8728296",
-    "Longitude": "0.1583763"
-  },
+  "Geocode": null,
   "AddressLine1": "42H North Street",
   "AddressLine2": "Bishops Stortford",
   "AddressLine3": "Hertfordshire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-12",
-  "Scores": null
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

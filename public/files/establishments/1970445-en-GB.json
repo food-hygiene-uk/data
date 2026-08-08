@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.396646",
-    "Longitude": "0.923273"
-  },
+  "Geocode": null,
   "AddressLine1": "Rose And Crown",
   "AddressLine2": "6 Leysdown Road",
   "AddressLine3": "Leysdown",
   "AddressLine4": "Kent",
   "PostCode": "ME12 4RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

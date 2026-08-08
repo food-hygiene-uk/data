@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0402131",
-    "Longitude": "0.7308738"
-  },
+  "Geocode": null,
   "AddressLine1": "Clarke's Bakery",
   "AddressLine2": "84 North Street",
   "AddressLine3": "SUDBURY",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-14",
-  "Scores": null
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

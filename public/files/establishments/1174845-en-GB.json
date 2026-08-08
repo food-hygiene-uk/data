@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.144355",
-    "Longitude": "-0.163136"
-  },
+  "Geocode": null,
   "AddressLine1": "3 City Place",
   "AddressLine2": "Beehive Ring Road",
   "AddressLine3": "Northgate",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-09",
+  "RatingDate": "2026-03-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
   "Geocode": {
     "Latitude": "52.4359996",
@@ -18,8 +18,12 @@
   "AddressLine3": "Solihull",
   "PostCode": "B27 7AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

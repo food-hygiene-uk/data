@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.533058",
-    "Longitude": "1.05304"
-  },
+  "Geocode": null,
   "AddressLine1": "Shell Travellers Check",
   "AddressLine3": "Besthorpe",
   "AddressLine4": "Norfolk",
   "PostCode": "NR17 2PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

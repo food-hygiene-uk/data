@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7518938",
-    "Longitude": "-2.4666319"
-  },
+  "Geocode": null,
   "AddressLine1": "Daisyfield Business Centre Appleby Street",
   "AddressLine3": "Blackburn",
   "AddressLine4": "Blackburn With Darwen",
   "PostCode": "BB1 3BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "702",
   "LocalAuthorityName": "Central Bedfordshire",
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
   "Geocode": {
     "Latitude": "51.990085",
@@ -18,8 +18,12 @@
   "AddressLine3": "Milton Keynes",
   "PostCode": "MK17 9QB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

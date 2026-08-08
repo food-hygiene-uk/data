@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3275446",
-    "Longitude": "1.1201522"
-  },
+  "Geocode": null,
   "AddressLine1": "Cranswick Country Foods  Canteen Cranswick",
   "AddressLine2": "Oaksmere Business Park",
   "AddressLine3": "Eye Airfield Industrial Estate",
   "AddressLine4": "Yaxley",
   "PostCode": "IP23 8BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

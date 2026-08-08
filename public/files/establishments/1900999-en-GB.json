@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1898058",
-    "Longitude": "-0.8772545"
-  },
+  "Geocode": null,
   "AddressLine1": "Bentley Stores Main Road",
   "AddressLine2": "Bentley",
   "AddressLine3": "Farnham",
   "AddressLine4": "Hampshire",
   "PostCode": "GU10 5HY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

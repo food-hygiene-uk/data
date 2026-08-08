@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.564321",
-    "Longitude": "-0.062648"
-  },
-  "AddressLine2": "196 Durban Road",
+  "Geocode": null,
+  "AddressLine2": "116 Roberts Street",
   "AddressLine4": "Grimsby",
   "PostCode": "DN32 8AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

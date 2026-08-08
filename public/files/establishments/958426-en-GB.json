@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5920753",
-    "Longitude": "-2.2965124"
-  },
+  "Geocode": null,
   "AddressLine2": "Unit 1 Kay Gardens",
   "AddressLine3": "15 Market Street",
   "AddressLine4": "Bury",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-07-09",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.331166",
-    "Longitude": "-4.51886"
-  },
+  "Geocode": null,
   "AddressLine1": "Lansallos Street",
   "AddressLine2": "Polperro",
   "AddressLine3": "Looe",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-01",
+  "RatingDate": "2026-07-31",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

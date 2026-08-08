@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2279438",
+    "Longitude": "-2.336581"
+  },
   "AddressLine1": "Lynwood Close",
   "AddressLine2": "Frome",
   "AddressLine3": "Somerset",

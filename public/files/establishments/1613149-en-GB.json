@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.205287",
+    "Longitude": "-1.4419327"
+  },
   "AddressLine1": "Busy Bees Nursery",
   "AddressLine2": "160 Picket Twenty Way",
   "AddressLine3": "Andover",

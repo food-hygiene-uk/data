@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2455139160156",
-    "Longitude": "-1.81270098686218"
-  },
+  "Geocode": null,
   "AddressLine1": "Blackwell",
   "AddressLine2": "Derbyshire",
   "PostCode": "SK17 9TQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-10-21",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

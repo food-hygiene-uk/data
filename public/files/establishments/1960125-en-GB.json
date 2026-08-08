@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5398024",
-    "Longitude": "-2.3921149"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 6 Express Trading Estate",
   "AddressLine2": "Stone Hill Road",
   "AddressLine3": "Farnworth",
   "AddressLine4": "Bolton",
   "PostCode": "BL4 9TP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

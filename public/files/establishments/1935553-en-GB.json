@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5121654",
-    "Longitude": "-1.6846222"
-  },
+  "Geocode": null,
   "AddressLine1": "Blythe Hall Farm Blythe Road",
   "AddressLine3": "Coleshill",
   "AddressLine4": "Warwickshire",
   "PostCode": "B46 2AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4549308",
-    "Longitude": "-2.5614391"
-  },
+  "Geocode": null,
   "AddressLine1": "High Peak Farm",
   "AddressLine2": "Main Lane",
   "PostCode": "WA3 4AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

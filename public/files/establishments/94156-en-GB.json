@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.029822",
-    "Longitude": "-2.621025"
-  },
+  "Geocode": null,
   "AddressLine2": "A303 Sparkford Road",
   "AddressLine3": "West Camel",
   "AddressLine4": "Yeovil Somerset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-04",
+  "RatingDate": "2026-06-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

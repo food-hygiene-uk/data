@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.631574",
+    "Longitude": "-1.153448"
+  },
   "AddressLine1": "7 Fosse Road South",
   "AddressLine2": "Leicester",
   "PostCode": "LE3 0LP",

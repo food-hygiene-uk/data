@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8383445739746",
-    "Longitude": "-2.21003890037537"
-  },
+  "Geocode": null,
   "AddressLine1": "102 Leeds Road",
   "AddressLine2": "Nelson",
   "AddressLine3": "Lancashire",
   "PostCode": "BB9 9TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

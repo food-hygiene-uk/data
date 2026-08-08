@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3435076661725",
+    "Longitude": "-2.74459187339432"
+  },
   "AddressLine1": "Waterside Court",
   "AddressLine2": "1 Regent Wharf Place",
   "AddressLine4": "Loughborough",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2304759",
+    "Longitude": "-2.3270102"
+  },
   "AddressLine1": "Christchurch Street West",
   "AddressLine2": "Frome",
   "AddressLine3": "Somerset",

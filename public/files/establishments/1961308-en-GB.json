@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": {
-    "Latitude": "51.544191",
-    "Longitude": "-0.0696394"
-  },
+  "Geocode": null,
   "AddressLine2": "350-352 Queensbridge Road London",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
   "PostCode": "E8 3AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

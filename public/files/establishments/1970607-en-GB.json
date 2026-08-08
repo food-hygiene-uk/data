@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3305172",
-    "Longitude": "-0.1822997"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Chequers Court",
   "AddressLine3": "Huntingdon",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE29 3LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

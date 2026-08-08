@@ -1,9 +1,9 @@
 {
   "FHRSID": 1862273,
   "BusinessName": "Cuppybara",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "203337",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "526",
   "LocalAuthorityName": "Redbridge",
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-09-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

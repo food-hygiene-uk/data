@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.978227",
-    "Longitude": "-1.006068"
-  },
+  "Geocode": null,
   "AddressLine1": "Hillesden Road",
   "AddressLine2": "Gawcott",
   "AddressLine3": "Buckinghamshire",
   "PostCode": "MK18 4JF",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-25",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 0
   }
 }

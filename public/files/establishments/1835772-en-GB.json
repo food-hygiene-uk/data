@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7931917",
-    "Longitude": "-0.9769914"
-  },
+  "Geocode": null,
   "AddressLine1": "133 Elm Grove",
   "AddressLine3": "Hayling Island",
   "PostCode": "PO11 9ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

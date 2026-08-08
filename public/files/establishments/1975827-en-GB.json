@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2077781",
+    "Longitude": "-2.6480872"
+  },
   "AddressLine1": "15-17 Broad Street",
   "AddressLine2": "Wells",
   "AddressLine3": "Somerset",

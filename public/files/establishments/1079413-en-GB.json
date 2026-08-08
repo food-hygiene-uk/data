@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6853118",
-    "Longitude": "-0.7346343"
-  },
+  "Geocode": null,
   "AddressLine1": "188 Wycombe Road",
   "AddressLine2": "Prestwood",
   "AddressLine3": "Buckinghamshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-04-24",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

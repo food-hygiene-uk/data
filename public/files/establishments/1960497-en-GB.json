@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lewes-eastbourne.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth.ldc@lewes-eastbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "50.782852",
-    "Longitude": "0.0559511"
-  },
+  "Geocode": null,
   "AddressLine1": "The Hope Inn 24 Fort Gate Fort Road",
   "AddressLine3": "Newhaven",
   "AddressLine4": "East Sussex",
   "PostCode": "BN9 9DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6288589",
+    "Longitude": "-1.1249051"
+  },
   "AddressLine1": "106 New Walk",
   "AddressLine2": "Leicester",
   "PostCode": "LE1 7EA",

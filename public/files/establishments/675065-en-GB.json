@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.516267",
-    "Longitude": "-0.102217"
-  },
+  "Geocode": null,
   "AddressLine1": "Kings Head",
   "AddressLine2": "High Street",
   "AddressLine4": "Waltham",
   "PostCode": "DN37 0LL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1834743,
   "BusinessName": "Bhookbusters",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "203232",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "526",
   "LocalAuthorityName": "Redbridge",
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

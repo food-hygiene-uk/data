@@ -7,23 +7,21 @@
   "LocalAuthorityCode": "290",
   "LocalAuthorityName": "Newcastle-Under-Lyme",
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.920161",
-    "Longitude": "-2.3898091"
-  },
-  "AddressLine2": "1 Newcastle Road",
-  "AddressLine3": "Loggerheads",
+  "Geocode": null,
+  "AddressLine1": "Lodge India",
+  "AddressLine2": "Market Drayton Road",
+  "AddressLine3": "Bloreheath",
   "AddressLine4": "Newcastle Under Lyme",
   "PostCode": "TF9 4PB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-02",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

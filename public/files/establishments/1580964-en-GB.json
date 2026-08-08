@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": {
-    "Latitude": "50.846452",
-    "Longitude": "-0.988904"
-  },
+  "Geocode": null,
   "AddressLine1": "Langstone Technology Park 2B Langstone Road",
   "AddressLine3": "Havant",
   "PostCode": "PO9 1SA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

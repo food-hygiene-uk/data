@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.495724",
-    "Longitude": "-2.284099"
-  },
+  "Geocode": null,
   "AddressLine1": "Units 1 And 2 Orchard Street Industrial Estate",
   "AddressLine2": "Orchard Street",
   "AddressLine3": "Salford",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-12",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

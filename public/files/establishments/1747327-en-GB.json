@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3883012",
-    "Longitude": "-2.5925306"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 3",
   "AddressLine2": "2 Time Square",
   "PostCode": "WA1 2NT",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-05-21",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

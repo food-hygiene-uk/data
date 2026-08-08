@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "50.942556",
-    "Longitude": "-2.63344"
-  },
+  "Geocode": null,
   "AddressLine2": "50 Princes Street",
   "AddressLine3": "Yeovil",
   "AddressLine4": "Somerset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-03",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

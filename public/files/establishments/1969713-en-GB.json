@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.155466",
-    "Longitude": "-1.367201"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Church Street",
   "AddressLine2": "Pilsley",
   "AddressLine3": "Chesterfield",
   "PostCode": "S45 8EX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

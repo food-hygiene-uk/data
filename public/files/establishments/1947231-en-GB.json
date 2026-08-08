@@ -1,9 +1,9 @@
 {
   "FHRSID": 1947231,
   "BusinessName": "The Good Soul Bowl",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "A6PR1S-V0EC69-AYFHSY",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

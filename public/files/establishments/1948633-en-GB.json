@@ -1,6 +1,6 @@
 {
   "FHRSID": 1948633,
-  "BusinessName": "Saver Food",
+  "BusinessName": "Saver Food. Posh Kitchen Bite Box",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "100060342730",
   "BusinessTypeID": 7839,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

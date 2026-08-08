@@ -1,6 +1,6 @@
 {
   "FHRSID": 1970611,
-  "BusinessName": "The Old Station Nursery",
+  "BusinessName": "The Old Station Nursery St Neots",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "9215234",
   "BusinessTypeID": 5,
@@ -15,8 +15,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE19 1BF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

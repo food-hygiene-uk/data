@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "50.876021",
-    "Longitude": "-2.965496"
-  },
+  "Geocode": null,
   "AddressLine1": "Dening Sports Field",
   "AddressLine2": "Zembard Lane",
   "AddressLine3": "Chard",
   "AddressLine4": "Somerset",
   "PostCode": "TA20 1JL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

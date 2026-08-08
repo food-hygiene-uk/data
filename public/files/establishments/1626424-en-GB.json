@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.120789",
-    "Longitude": "-1.800422"
-  },
+  "Geocode": null,
   "AddressLine1": "Whim Farm",
   "AddressLine2": "Hartington",
   "AddressLine3": "Derbyshire",
   "PostCode": "SK17 0AX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2019-06-18",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

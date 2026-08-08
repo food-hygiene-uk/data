@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.219114",
+    "Longitude": "-2.323041"
+  },
   "AddressLine1": "Unit 16",
   "AddressLine2": "Keyford Court",
   "AddressLine3": "Manor Furlong",

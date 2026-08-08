@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3255038",
-    "Longitude": "-0.0746579"
-  },
+  "Geocode": null,
   "AddressLine1": "Suite 1 St Johns Court East Street",
   "AddressLine3": "St Ives",
   "AddressLine4": "Cambridgeshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.770815",
+    "Longitude": "-1.2045601"
+  },
   "AddressLine2": "18-20 High Street",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 2PZ",

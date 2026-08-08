@@ -1,28 +1,25 @@
 {
   "FHRSID": 1468932,
   "BusinessName": "Harry Treagust",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "26412",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": {
-    "Latitude": "50.846393",
-    "Longitude": "-0.9367186"
-  },
+  "Geocode": null,
   "AddressLine1": "17 High Street",
   "AddressLine3": "Emsworth",
   "PostCode": "PO10 7AQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-23",
+  "RatingDate": "2026-06-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.123733",
+    "Longitude": "-2.7368036"
+  },
   "AddressLine1": "BAM FM at Hindhayes Infant School Hindhayes",
   "AddressLine2": "Leigh Road",
   "AddressLine3": "Street",

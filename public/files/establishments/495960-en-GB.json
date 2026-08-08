@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "414",
   "LocalAuthorityName": "Liverpool",
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
   "Geocode": {
     "Latitude": "53.3801455",
@@ -17,12 +17,12 @@
   "AddressLine3": "Liverpool",
   "PostCode": "L17 7BN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-08-16",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

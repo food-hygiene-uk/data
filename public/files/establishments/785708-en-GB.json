@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.52618",
+    "Longitude": "-0.138816"
+  },
   "AddressLine2": "21 Hampstead Road",
   "PostCode": "NW1 3JA",
   "SchemeType": "FHRS",

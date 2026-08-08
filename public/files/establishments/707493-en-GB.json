@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.652914",
+    "Longitude": "-1.119761"
+  },
   "AddressLine1": "27 Melton Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE4 6PN",
