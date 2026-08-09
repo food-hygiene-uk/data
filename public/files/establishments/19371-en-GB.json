@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6508182",
+    "Longitude": "-3.3179458"
+  },
   "AddressLine1": "1 Trinity Road  Elgin  Moray",
   "PostCode": "IV30 1UF",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.234103",
+    "Longitude": "-0.325499"
+  },
   "AddressLine1": "Dorking Service Centre",
   "AddressLine2": "Reigate Road",
   "AddressLine4": "Dorking",

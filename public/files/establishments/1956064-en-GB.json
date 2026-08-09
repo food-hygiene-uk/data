@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956064,
-  "BusinessName": "The Windmill Pub",
+  "BusinessName": "The Windmill Pub (Wet Sales)",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2026/00151/COMM",
   "BusinessTypeID": 7843,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.825574",
-    "Longitude": "-0.148385"
-  },
+  "Geocode": null,
   "AddressLine1": "69 Upper North Street",
   "AddressLine2": "Brighton",
   "PostCode": "BN1 3FL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

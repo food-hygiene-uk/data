@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.003145",
+    "Longitude": "-0.9367617"
+  },
   "AddressLine1": "New Way House St. Peters Road Petersfield Gu32 3hx",
   "SchemeType": "FHRS",
   "RatingValue": "5",

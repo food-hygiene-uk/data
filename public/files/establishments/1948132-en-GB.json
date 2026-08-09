@@ -1,6 +1,6 @@
 {
   "FHRSID": 1948132,
-  "BusinessName": "The Greys",
+  "BusinessName": "The Greys (Wet Sales)",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2026/00118/COMM",
   "BusinessTypeID": 7843,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.829713",
-    "Longitude": "-0.131025"
-  },
+  "Geocode": null,
   "AddressLine1": "105 Southover Street",
   "AddressLine2": "Brighton",
   "PostCode": "BN2 9UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

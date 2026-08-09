@@ -1,6 +1,6 @@
 {
   "FHRSID": 1723434,
-  "BusinessName": "VIM Camps Ltd",
+  "BusinessName": "VIM Camps At Woodingdean Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "2024/00266/COMM",
   "BusinessTypeID": 7845,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8348429",
-    "Longitude": "-0.0785171"
-  },
+  "Geocode": null,
   "AddressLine1": "Woodingdean Primary School",
   "AddressLine2": "Warren Road",
   "AddressLine3": "Woodingdean",
   "AddressLine4": "Brighton",
   "PostCode": "BN2 6BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

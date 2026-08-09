@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4822533",
+    "Longitude": "-3.5235396"
+  },
   "AddressLine1": "51B St Margarets Road Torquay",
   "PostCode": "TQ1 4NU",
   "SchemeType": "FHRS",

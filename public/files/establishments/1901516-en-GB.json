@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8378931",
-    "Longitude": "-0.1755398"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 3",
   "AddressLine2": "Manor Industrial Estate",
   "AddressLine3": "Newtown Road",
   "AddressLine4": "Hove",
   "PostCode": "BN3 7BA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

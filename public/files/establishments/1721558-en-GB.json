@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3885112",
+    "Longitude": "-2.598116"
+  },
   "AddressLine2": "79-81 Sankey Street",
   "PostCode": "WA1 1SL",
   "SchemeType": "FHRS",

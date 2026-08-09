@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.9879928",
+    "Longitude": "-1.0457664"
+  },
   "AddressLine2": "Monks Cross Drive",
   "PostCode": "YO32 9GX",
   "SchemeType": "FHRS",

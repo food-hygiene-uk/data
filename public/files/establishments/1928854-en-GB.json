@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "264",
   "LocalAuthorityName": "Newark and Sherwood",
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
   "Geocode": {
     "Latitude": "53.0970907",
@@ -18,8 +18,12 @@
   "AddressLine3": "Edingley",
   "PostCode": "NG22 8BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

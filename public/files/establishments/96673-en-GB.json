@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8223665",
+    "Longitude": "-0.9634253"
+  },
   "AddressLine1": "The Recreational Hall St Peters Road",
   "AddressLine3": "Hayling Island",
   "SchemeType": "FHRS",

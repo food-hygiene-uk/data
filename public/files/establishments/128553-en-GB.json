@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7816521",
+    "Longitude": "-0.9649603"
+  },
   "AddressLine1": "22 Rails Lane",
   "AddressLine3": "Hayling Island",
   "PostCode": "PO11 9LL",

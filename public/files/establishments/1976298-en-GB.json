@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3865472",
+    "Longitude": "-2.5917483"
+  },
   "AddressLine2": "123 Bridge Street",
   "PostCode": "WA1 2HS",
   "SchemeType": "FHRS",

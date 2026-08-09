@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.123288",
+    "Longitude": "-5.679586"
+  },
   "AddressLine1": "1 Fore Street",
   "AddressLine2": "St Just",
   "AddressLine3": "Penzance",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.580254",
+    "Longitude": "-0.335871"
+  },
   "AddressLine1": "36 College Road",
   "AddressLine2": "Harrow",
   "PostCode": "HA1 1BE",

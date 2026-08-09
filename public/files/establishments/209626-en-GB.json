@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8723352",
+    "Longitude": "-1.0317795"
+  },
   "AddressLine1": "39-43 Mill Road",
   "AddressLine3": "Waterlooville",
   "SchemeType": "FHRS",

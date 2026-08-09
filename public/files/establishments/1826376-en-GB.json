@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.3959733",
+    "Longitude": "-3.5139902"
+  },
   "AddressLine1": "66 Middle Street Brixham Torbay",
   "PostCode": "TQ5 8EJ",
   "SchemeType": "FHRS",

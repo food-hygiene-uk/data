@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.midlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@midlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8510959",
+    "Longitude": "-3.1365988"
+  },
   "AddressLine1": "122 Carnethie Street Rosewell EH24 9AL",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

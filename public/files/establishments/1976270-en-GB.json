@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3806064",
+    "Longitude": "-2.5453709"
+  },
   "AddressLine2": "239 Thelwall New Road",
   "PostCode": "WA4 2XT",
   "SchemeType": "FHRS",

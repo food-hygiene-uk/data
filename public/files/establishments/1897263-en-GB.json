@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "109",
   "LocalAuthorityName": "Basildon",
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
   "Geocode": {
     "Latitude": "51.6276359558105",
@@ -18,12 +18,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM12 9DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-03-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-03",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

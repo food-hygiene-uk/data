@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "511",
   "LocalAuthorityName": "Greenwich",
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
   "Geocode": {
     "Latitude": "51.4506197",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-21",
+  "RatingDate": "2026-07-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }
