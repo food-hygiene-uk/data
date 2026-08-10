@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7453635000078",
+    "Longitude": "-3.37891999982439"
+  },
   "AddressLine1": "Hope And Market Square United Church Three Salmon Street",
   "AddressLine3": "Merthyr Tydfil",
   "SchemeType": "FHRS",
