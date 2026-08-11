@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.675337",
-    "Longitude": "-4.919656"
-  },
+  "Geocode": null,
   "AddressLine1": "Pembroke Unicorn Carvery Commons Road",
   "AddressLine3": "Pembroke",
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA71 4EA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2026-04-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-06-20",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

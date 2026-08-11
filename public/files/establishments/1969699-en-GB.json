@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.610779",
-    "Longitude": "-0.254893"
-  },
+  "Geocode": null,
   "AddressLine1": "Gunthorpe Primary School",
   "AddressLine2": "The Pentlands",
   "AddressLine3": "Gunthorpe",
   "AddressLine4": "Peterborough",
   "PostCode": "PE4 7YP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

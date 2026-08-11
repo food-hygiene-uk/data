@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.577722",
-    "Longitude": "-0.25873"
-  },
+  "Geocode": null,
   "AddressLine2": "160 Aldermans Drive",
   "AddressLine3": "West Town",
   "AddressLine4": "Peterborough",
   "PostCode": "PE3 6BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

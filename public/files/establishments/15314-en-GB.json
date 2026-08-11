@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.627751",
-    "Longitude": "1.298603"
-  },
+  "Geocode": null,
   "AddressLine1": "28 Cattle Market Street",
   "AddressLine2": "Norwich",
   "PostCode": "NR1 3DY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2005-10-11",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

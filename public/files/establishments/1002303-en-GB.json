@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
-  "Geocode": {
-    "Latitude": "52.759651184082",
-    "Longitude": "-0.378089010715485"
-  },
+  "Geocode": null,
   "AddressLine1": "Bourne Elsea Park C Of E Primary School",
   "AddressLine2": "Sandown Drive",
   "AddressLine3": "Bourne",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

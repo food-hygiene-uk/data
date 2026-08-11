@@ -1,25 +1,22 @@
 {
   "FHRSID": 1969682,
   "BusinessName": "Vipertech Ltd",
-  "BusinessType": "Importers/Exporters",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "128871",
-  "BusinessTypeID": 14,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5427144",
-    "Longitude": "-0.3092225"
-  },
+  "Geocode": null,
   "AddressLine2": "27 Tresham Road",
   "AddressLine3": "Orton Southgate",
   "AddressLine4": "Peterborough",
   "PostCode": "PE2 6SG",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
   "RatingDate": null,
   "Scores": null
 }

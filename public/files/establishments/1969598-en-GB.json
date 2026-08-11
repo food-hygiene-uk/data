@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6142499",
-    "Longitude": "1.220441"
-  },
+  "Geocode": null,
   "AddressLine1": "The Priscilla Bacon Lodge",
   "AddressLine2": "Century Place",
   "AddressLine3": "Colney",
   "AddressLine4": "Norfolk",
   "PostCode": "NR4 7YA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

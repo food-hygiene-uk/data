@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5383148193359",
-    "Longitude": "-2.82803988456726"
-  },
+  "Geocode": null,
   "AddressLine1": "Bickerstaffe Service Station (Bp)",
   "AddressLine2": "Rainford Road",
   "AddressLine3": "Bickerstaffe",
   "AddressLine4": "Lancashire",
   "PostCode": "L39 0JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.staffsmoorlands.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1176933",
-    "Longitude": "-2.1750395"
-  },
+  "Geocode": null,
   "AddressLine1": "16 High Street",
   "AddressLine2": "Biddulph",
   "AddressLine3": "Stoke-On-Trent",
   "PostCode": "ST8 6AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

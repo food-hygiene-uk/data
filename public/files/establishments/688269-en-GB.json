@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3916543",
-    "Longitude": "-0.2218285"
-  },
+  "Geocode": null,
   "AddressLine1": "Sunlight House 412 Hillcross Avenue",
   "AddressLine3": "Morden",
   "AddressLine4": "Merton",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-26",
+  "RatingDate": "2026-07-22",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

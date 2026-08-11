@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.775582",
-    "Longitude": "-1.53814"
-  },
-  "AddressLine1": "Burton Road",
-  "AddressLine2": "Woodville",
-  "AddressLine3": "Swadlincote Derbyshire",
+  "Geocode": null,
+  "AddressLine1": "GRANVILLE ACADEMY BURTON ROAD",
+  "AddressLine2": "WOODVILLE",
+  "AddressLine3": "SWADLINCOTE",
   "PostCode": "DE11 7JR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

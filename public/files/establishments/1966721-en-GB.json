@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.511516",
-    "Longitude": "-0.088628"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Abchurch Yard",
   "AddressLine2": "London",
   "PostCode": "EC4N 7BA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

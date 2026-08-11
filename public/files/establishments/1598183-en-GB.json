@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8006294",
-    "Longitude": "-1.8944486"
-  },
+  "Geocode": null,
   "AddressLine1": "14 Church Road",
   "AddressLine3": "Ferndown",
   "AddressLine4": "Dorset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

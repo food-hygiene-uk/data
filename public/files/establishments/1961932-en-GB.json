@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4478798",
-    "Longitude": "-0.3265789"
-  },
+  "Geocode": null,
   "AddressLine1": "37 - 39 York Street",
   "AddressLine3": "Twickenham",
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW1 3LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

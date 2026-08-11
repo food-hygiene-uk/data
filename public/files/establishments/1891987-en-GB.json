@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.49382",
-    "Longitude": "-1.291303"
-  },
+  "Geocode": null,
   "AddressLine1": "92 High Street",
   "AddressLine2": "Mexborough",
   "AddressLine3": "Doncaster",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-20",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

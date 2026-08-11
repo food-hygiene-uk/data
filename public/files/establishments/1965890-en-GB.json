@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5504033",
-    "Longitude": "0.0248323"
-  },
+  "Geocode": null,
   "AddressLine1": "93 Woodgrange Road",
   "AddressLine2": "Forest Gate",
   "AddressLine3": "London",
   "PostCode": "E7 0EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

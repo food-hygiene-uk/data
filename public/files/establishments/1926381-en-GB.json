@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.286179",
-    "Longitude": "1.0904065"
-  },
+  "Geocode": null,
   "AddressLine1": "53 Sturry Road",
   "AddressLine2": "Canterbury",
   "AddressLine3": "Kent",
   "PostCode": "CT1 1BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

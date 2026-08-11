@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.783748626709",
-    "Longitude": "-1.09820401668549"
-  },
+  "Geocode": null,
   "AddressLine1": "Mozzarella Joes",
   "AddressLine2": "Clarence Esplanade",
   "AddressLine3": "Southsea",
   "PostCode": "PO5 3AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.blackpool.gov.uk/Services/A-F/FoodHygiene/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodcontrol@blackpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.817636",
-    "Longitude": "-3.055137"
-  },
+  "Geocode": null,
   "AddressLine1": "29-37 Market Street",
   "AddressLine2": "Blackpool",
   "PostCode": "FY1 1EX",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-02-21",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

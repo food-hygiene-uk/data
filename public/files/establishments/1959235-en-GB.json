@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9542655944824",
-    "Longitude": "-1.1811009645462"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1 Redwood Court",
   "AddressLine2": "Salisbury Street",
   "AddressLine4": "Nottingham",
   "PostCode": "NG7 2BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

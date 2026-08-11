@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4605925",
-    "Longitude": "-0.9903704"
-  },
+  "Geocode": null,
   "AddressLine1": "Key House Cow Lane",
   "AddressLine2": "Reading",
   "PostCode": "RG1 8NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -8,10 +8,7 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.26550395",
-    "Longitude": "1.0548848"
-  },
+  "Geocode": null,
   "AddressLine1": "Cockering Road",
   "AddressLine2": "Thanington Without",
   "AddressLine3": "Kent",
@@ -19,10 +16,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-13",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

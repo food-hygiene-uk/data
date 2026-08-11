@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.staffsmoorlands.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1187210083008",
-    "Longitude": "-2.17800092697144"
-  },
+  "Geocode": null,
   "AddressLine1": "Craigside",
   "AddressLine2": "Biddulph",
   "AddressLine3": "Stoke-On-Trent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-09-28",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

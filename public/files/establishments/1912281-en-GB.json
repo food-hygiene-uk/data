@@ -1,6 +1,6 @@
 {
   "FHRSID": 1912281,
-  "BusinessName": "Fight The Demon Performance Institute/Demonik House",
+  "BusinessName": "Demonik House",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP/26/00018",
   "BusinessTypeID": 1,
@@ -8,18 +8,19 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.3646971",
-    "Longitude": "1.1186677"
-  },
+  "Geocode": null,
   "AddressLine1": "Judo Club Hall",
   "AddressLine2": "Station Road",
   "AddressLine3": "Herne Bay",
   "AddressLine4": "Kent",
   "PostCode": "CT6 8PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

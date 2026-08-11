@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.6807518005371",
-    "Longitude": "-1.1432329416275"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Brading",
   "AddressLine3": "Sandown",
   "AddressLine4": "Isle Of Wight",
   "PostCode": "PO36 0DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

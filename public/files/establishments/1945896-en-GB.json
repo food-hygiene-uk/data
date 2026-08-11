@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.valeofglamorgan.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyBrgndVale-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4122467041016",
-    "Longitude": "-3.5481870174408"
-  },
+  "Geocode": null,
   "AddressLine1": "Horse Shoe Inn",
   "AddressLine3": "Marcross",
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF61 1ZG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

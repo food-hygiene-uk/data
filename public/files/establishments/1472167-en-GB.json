@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5169215",
-    "Longitude": "0.0244519"
-  },
+  "Geocode": null,
   "AddressLine1": "Ground Floor",
   "AddressLine2": "203 Freemasons Road",
   "AddressLine3": "Canning Town",
   "AddressLine4": "London",
   "PostCode": "E16 3PG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-06-24",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

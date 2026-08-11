@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": {
-    "Latitude": "52.953518",
-    "Longitude": "-1.146344"
-  },
+  "Geocode": null,
   "AddressLine2": "20 Pelham Street",
   "AddressLine4": "Nottingham",
   "PostCode": "NG1 2EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

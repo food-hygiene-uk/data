@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
-  "Geocode": {
-    "Latitude": "52.262905",
-    "Longitude": "-4.015862"
-  },
+  "Geocode": null,
   "AddressLine1": "Cartref Nyrsio Pennal View",
   "AddressLine3": "Blaenpennal",
   "AddressLine4": "Ceredigion",
   "PostCode": "SY23 4TR",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2025-01-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-06",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

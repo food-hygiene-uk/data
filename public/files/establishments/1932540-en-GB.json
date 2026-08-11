@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6998961",
-    "Longitude": "-2.0204545"
-  },
+  "Geocode": null,
   "AddressLine2": "114a Cannock Road",
   "AddressLine4": "Chadsmoor",
   "PostCode": "WS11 5BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

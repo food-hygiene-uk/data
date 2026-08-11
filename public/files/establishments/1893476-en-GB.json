@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.627634",
-    "Longitude": "1.307315"
-  },
+  "Geocode": null,
   "AddressLine1": "Basement And Ground Floor",
   "AddressLine2": "10 Thorpe Road",
   "AddressLine3": "Norwich",
   "PostCode": "NR1 1RY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

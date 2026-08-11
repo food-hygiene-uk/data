@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4592546",
-    "Longitude": "-0.3040089"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Wakefield Road",
   "AddressLine3": "Richmond",
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW10 6SD",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-02-21",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

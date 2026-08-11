@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4995017",
-    "Longitude": "0.0310664"
-  },
+  "Geocode": null,
   "AddressLine1": "25 Admiralty Avenue",
   "AddressLine2": "Silvertown",
   "AddressLine3": "London",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-01",
+  "RatingDate": "2026-07-31",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

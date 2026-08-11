@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": {
-    "Latitude": "54.30371415",
-    "Longitude": "-2.19530565"
-  },
+  "Geocode": null,
   "AddressLine1": "Main Street",
   "AddressLine4": "Hawes",
   "PostCode": "DL8 3QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

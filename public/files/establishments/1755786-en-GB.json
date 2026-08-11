@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7199098",
-    "Longitude": "-4.9539378"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 22 Honeyborough Industrial Estate",
   "AddressLine3": "Neyland",
   "AddressLine4": "Pembrokeshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-02-17",
+  "RatingDate": "2026-07-30",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

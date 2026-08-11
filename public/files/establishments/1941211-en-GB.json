@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9370647",
-    "Longitude": "-2.3778621"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 8 Spire Hill Business Park Cooks Lane",
   "AddressLine2": "Thornhill",
   "AddressLine3": "Stalbridge",
   "AddressLine4": "Dorset",
   "PostCode": "DT10 2SG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

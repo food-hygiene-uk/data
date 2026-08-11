@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.839657",
-    "Longitude": "-1.549189"
-  },
-  "AddressLine1": "12 Boot Hill",
-  "AddressLine2": "Repton",
-  "AddressLine3": "Derby Derbyshire",
+  "Geocode": null,
+  "AddressLine1": "12 BOOT HILL",
+  "AddressLine2": "REPTON",
+  "AddressLine3": "DERBY",
   "PostCode": "DE65 6FT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-08-26",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

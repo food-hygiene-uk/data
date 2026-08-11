@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8797217",
-    "Longitude": "-1.87146"
-  },
+  "Geocode": null,
   "AddressLine1": "Verwood House Care Home 42 Ringwood Road",
   "AddressLine3": "Verwood",
   "AddressLine4": "Dorset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-21",
+  "RatingDate": "2026-07-24",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

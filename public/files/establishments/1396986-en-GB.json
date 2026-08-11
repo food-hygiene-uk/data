@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7244720458984",
-    "Longitude": "-2.93391394615173"
-  },
+  "Geocode": null,
   "AddressLine1": "10 Broad Street",
   "AddressLine3": "Lyme Regis",
   "AddressLine4": "Dorset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-10",
+  "RatingDate": "2026-07-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

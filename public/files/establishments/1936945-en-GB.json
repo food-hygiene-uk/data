@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2849537",
-    "Longitude": "-3.8110531"
-  },
+  "Geocode": null,
   "AddressLine1": "71A Conway Road",
   "AddressLine3": "Llandudno Junction",
   "AddressLine4": "Conwy",
   "PostCode": "LL31 9LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

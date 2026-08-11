@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.5628274",
-    "Longitude": "-2.4497602"
-  },
+  "Geocode": null,
   "AddressLine1": "9 Victoria Square",
   "AddressLine3": "Portland",
   "PostCode": "DT5 1AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

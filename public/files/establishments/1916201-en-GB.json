@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.2831471",
-    "Longitude": "1.0845807"
-  },
+  "Geocode": null,
   "AddressLine1": "49 Northgate",
   "AddressLine2": "Canterbury",
   "AddressLine3": "Kent",
   "PostCode": "CT1 1BE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

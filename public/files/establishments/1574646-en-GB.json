@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4497665",
-    "Longitude": "-0.3582442"
-  },
+  "Geocode": null,
   "AddressLine1": "134 High Street",
   "AddressLine3": "Whitton",
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 7LL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-03",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

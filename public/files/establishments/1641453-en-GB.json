@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.2810116",
-    "Longitude": "1.081311"
-  },
+  "Geocode": null,
   "AddressLine1": "13 Palace Street",
   "AddressLine2": "Canterbury",
   "AddressLine3": "Kent",
   "PostCode": "CT1 2DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

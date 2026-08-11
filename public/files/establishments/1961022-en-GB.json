@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": {
-    "Latitude": "54.1178967",
-    "Longitude": "-2.5107944"
-  },
+  "Geocode": null,
   "AddressLine1": "21 Main Street",
   "AddressLine4": "High Bentham",
   "PostCode": "LA2 7HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-05-14",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

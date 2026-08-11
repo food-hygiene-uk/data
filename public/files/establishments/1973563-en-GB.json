@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.554968",
-    "Longitude": "1.365853"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Brooke Industrial Park",
   "AddressLine2": "Norwich Road",
   "AddressLine3": "Brooke",
   "AddressLine4": "Norfolk",
   "PostCode": "NR15 1HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

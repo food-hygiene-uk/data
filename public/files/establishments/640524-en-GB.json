@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5443344116211",
-    "Longitude": "-0.00634700013324618"
-  },
+  "Geocode": null,
   "AddressLine1": "210 The Balcony",
   "AddressLine2": "Westfield Stratford City",
   "AddressLine3": "Montfichet Road",
   "AddressLine4": "Stratford",
   "PostCode": "E20 1GN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-04-23",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

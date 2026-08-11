@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.767562",
-    "Longitude": "-1.508776"
-  },
-  "AddressLine1": "149 Ashby Road",
-  "AddressLine2": "Woodville",
-  "AddressLine3": "Swadlincote Derbyshire",
+  "Geocode": null,
+  "AddressLine1": "THE GREYHOUND INN 149 ASHBY ROAD",
+  "AddressLine2": "WOODVILLE",
+  "AddressLine3": "SWADLINCOTE",
   "PostCode": "DE11 7BU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2025-09-16",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

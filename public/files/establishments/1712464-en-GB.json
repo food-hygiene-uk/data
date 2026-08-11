@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4491769",
-    "Longitude": "-0.378543"
-  },
+  "Geocode": null,
   "AddressLine1": "231 Powder Mill Lane",
   "AddressLine3": "Twickenham",
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW2 6EH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-04-24",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-26",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 597,
-  "BusinessName": "Pizzabaker",
+  "BusinessName": "Pizza Baker",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "0000524/FH",
   "BusinessTypeID": 7844,
@@ -9,19 +9,12 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.096099",
-    "Longitude": "-1.390726"
-  },
+  "Geocode": null,
   "AddressLine1": "45 King Street Alfreton Derbyshire",
   "PostCode": "DE55 7BY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-03-16",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

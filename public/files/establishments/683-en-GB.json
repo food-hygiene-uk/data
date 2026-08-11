@@ -1,6 +1,6 @@
 {
   "FHRSID": 683,
-  "BusinessName": "R & D News",
+  "BusinessName": "PSA Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "0001861/HS",
   "BusinessTypeID": 4613,
@@ -9,19 +9,12 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.076923",
-    "Longitude": "-1.37298"
-  },
+  "Geocode": null,
   "AddressLine1": "55 Main Road Leabrooks Alfreton Derbyshire",
   "PostCode": "DE55 1LA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2017-01-05",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

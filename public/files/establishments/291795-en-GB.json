@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.333315",
-    "Longitude": "0.295525"
-  },
+  "Geocode": null,
   "AddressLine1": "Managers House",
   "AddressLine2": "Thriftwood Caravan And Camping Park",
   "AddressLine3": "Plaxdale Green Road",
   "AddressLine4": "Stansted",
   "PostCode": "TN15 7PB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-11",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

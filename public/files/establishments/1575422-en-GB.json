@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.465232",
-    "Longitude": "-0.2620837"
-  },
+  "Geocode": null,
   "AddressLine1": "166 Upper Richmond Road West",
   "AddressLine3": "East Sheen",
   "AddressLine4": "Richmond Upon Thames",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-10",
+  "RatingDate": "2026-07-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

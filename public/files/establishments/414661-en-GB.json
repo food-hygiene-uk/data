@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.512006",
-    "Longitude": "-0.1233451"
-  },
+  "Geocode": null,
   "AddressLine1": "2 THE MARKET",
   "AddressLine2": "COVENT GARDEN",
   "AddressLine3": "LONDON",
   "PostCode": "WC2E 8RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2020-01-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

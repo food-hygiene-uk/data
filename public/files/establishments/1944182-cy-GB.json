@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5971908569336",
-    "Longitude": "-3.63795399665833"
-  },
+  "Geocode": null,
   "AddressLine1": "103B Mill View Estate",
   "AddressLine2": "Garth",
   "AddressLine3": "Maesteg",
   "AddressLine4": "Bridgend",
   "PostCode": "CF34 0DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

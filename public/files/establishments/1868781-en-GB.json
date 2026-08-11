@@ -1,6 +1,6 @@
 {
   "FHRSID": 1868781,
-  "BusinessName": "Cold Bath Bakehouse Limited",
+  "BusinessName": "The Drunken Piglet",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx12462",
   "BusinessTypeID": 1,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9891183",
-    "Longitude": "-1.5492646"
-  },
-  "AddressLine1": "Cold Bath Bakery  38 Cold Bath Road",
+  "Geocode": null,
+  "AddressLine1": "38 Cold Bath Road",
   "AddressLine4": "Harrogate",
   "PostCode": "HG2 0NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

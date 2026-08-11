@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5251047",
-    "Longitude": "-3.1128288"
-  },
+  "Geocode": null,
   "AddressLine1": "Poachers Arms Church Lane",
   "AddressLine2": "Old St Mellons",
   "AddressLine3": "Cardiff",
   "PostCode": "CF3 5UP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

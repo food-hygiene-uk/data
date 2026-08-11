@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8256454467773",
-    "Longitude": "-1.05517303943634"
-  },
+  "Geocode": null,
   "AddressLine1": "Police Investigation Centre",
   "AddressLine2": "Merlin Park",
   "AddressLine3": "Airport Service Road",
   "AddressLine4": "Portsmouth",
   "PostCode": "PO3 5GE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": {
-    "Latitude": "54.9754233",
-    "Longitude": "-1.7146972"
-  },
+  "Geocode": null,
   "AddressLine1": "The Cone The Old Glassworks Lemington Road",
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE15 8SX",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-02-04",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

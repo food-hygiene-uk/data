@@ -8,10 +8,7 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.3139343261719",
-    "Longitude": "1.15427601337433"
-  },
+  "Geocode": null,
   "AddressLine1": "Blackthorn Road",
   "AddressLine2": "Hersden",
   "AddressLine3": "Canterbury",
@@ -19,10 +16,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-11",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

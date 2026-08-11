@@ -8,10 +8,7 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.3231551",
-    "Longitude": "1.1971985"
-  },
+  "Geocode": null,
   "AddressLine1": "68 Island Road",
   "AddressLine2": "Upstreet",
   "AddressLine3": "Canterbury",
@@ -19,10 +16,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-27",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

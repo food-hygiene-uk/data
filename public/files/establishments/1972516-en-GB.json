@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "899",
   "LocalAuthorityName": "Nottingham City",
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9523887634277",
-    "Longitude": "-1.15206694602966"
-  },
+  "Geocode": null,
   "AddressLine2": "46 Friar Lane",
   "AddressLine4": "Nottingham",
   "PostCode": "NG1 6DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

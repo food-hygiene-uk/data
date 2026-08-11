@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.838271",
-    "Longitude": "-1.548788"
-  },
-  "AddressLine1": "38 High Street",
-  "AddressLine2": "Repton",
-  "AddressLine3": "Derby Derbyshire",
+  "Geocode": null,
+  "AddressLine1": "38 HIGH STREET",
+  "AddressLine2": "REPTON",
+  "AddressLine3": "DERBY",
   "PostCode": "DE65 6GD",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2025-11-11",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

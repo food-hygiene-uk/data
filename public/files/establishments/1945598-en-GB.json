@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4286",
-    "Longitude": "-0.1671"
-  },
+  "Geocode": null,
   "AddressLine1": "29 Tooting High Street",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
   "PostCode": "SW17 0SP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

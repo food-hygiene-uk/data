@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.580072",
-    "Longitude": "-0.24739"
-  },
+  "Geocode": null,
   "AddressLine2": "175 Cromwell Road",
   "AddressLine3": "Peterborough",
   "PostCode": "PE1 2EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

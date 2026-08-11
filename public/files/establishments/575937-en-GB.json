@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.773018",
-    "Longitude": "-1.554043"
-  },
-  "AddressLine1": "73-75 High Street",
-  "AddressLine2": "Swadlincote",
-  "AddressLine3": "Derbyshire",
+  "Geocode": null,
+  "AddressLine1": "73-75 HIGH STREET",
+  "AddressLine3": "SWADLINCOTE",
   "PostCode": "DE11 8JA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-01-21",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

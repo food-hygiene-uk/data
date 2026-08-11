@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2361425",
-    "Longitude": "-1.4447295"
-  },
+  "Geocode": null,
   "AddressLine1": "2A Springfield Avenue",
   "AddressLine4": "Chesterfield",
   "PostCode": "S40 1DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-11-01",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

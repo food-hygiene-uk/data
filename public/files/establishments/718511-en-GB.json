@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9678012",
-    "Longitude": "-1.1408938"
-  },
+  "Geocode": null,
   "AddressLine1": "Sycamore Community Centre",
   "AddressLine2": "33a Hungerhill Road",
   "AddressLine4": "Nottingham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-06",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

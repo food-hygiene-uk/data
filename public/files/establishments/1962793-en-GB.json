@@ -1,6 +1,6 @@
 {
   "FHRSID": 1962793,
-  "BusinessName": "Youth Dreams Project",
+  "BusinessName": "Youth Dreams Project @ Dogsthorpe Academy",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "128904",
   "BusinessTypeID": 5,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.594577",
-    "Longitude": "-0.230673"
-  },
+  "Geocode": null,
   "AddressLine1": "Dogsthorpe Academy",
   "AddressLine2": "Central Avenue",
   "AddressLine3": "Dogsthorpe",
   "AddressLine4": "Peterborough",
   "PostCode": "PE1 4LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
