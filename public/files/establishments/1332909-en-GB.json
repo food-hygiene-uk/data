@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.113712310791",
+    "Longitude": "-1.49074804782867"
+  },
   "AddressLine1": "Lillies",
   "AddressLine2": "High Street",
   "AddressLine3": "Stockbridge",

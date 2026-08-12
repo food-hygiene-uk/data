@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
     "Latitude": "53.4480888",
@@ -19,12 +19,12 @@
   "AddressLine4": "Tameside",
   "PostCode": "M34 7RU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-06",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

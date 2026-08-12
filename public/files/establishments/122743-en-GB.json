@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5387856",
-    "Longitude": "-2.8076696"
-  },
+  "Geocode": null,
   "AddressLine1": "3 High Street",
   "AddressLine3": "Church Stretton",
   "AddressLine4": "Shropshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-08",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

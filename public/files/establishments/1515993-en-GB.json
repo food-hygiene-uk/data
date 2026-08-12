@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": {
-    "Latitude": "51.541715",
-    "Longitude": "0.084452"
-  },
+  "Geocode": null,
   "AddressLine2": "95 Longbridge Road",
   "AddressLine4": "Barking",
   "PostCode": "IG11 8TB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

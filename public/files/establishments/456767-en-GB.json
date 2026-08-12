@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7269972",
-    "Longitude": "-2.7300123"
-  },
+  "Geocode": null,
   "AddressLine1": "Welwyn 72 Sundorne Road",
   "AddressLine3": "Shrewsbury",
   "AddressLine4": "Shropshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2012-10-12",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

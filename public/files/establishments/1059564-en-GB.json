@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.45916409",
+    "Longitude": "-0.95704701"
+  },
   "AddressLine1": "Napier Road",
   "AddressLine2": "Reading",
   "SchemeType": "FHRS",

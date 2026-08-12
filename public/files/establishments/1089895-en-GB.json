@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "115",
   "LocalAuthorityName": "Epping Forest",
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
   "Geocode": {
     "Latitude": "51.7216955",
@@ -19,8 +19,12 @@
   "AddressLine4": "Epping",
   "PostCode": "CM16 6NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3842159",
-    "Longitude": "-0.4021953"
-  },
-  "AddressLine1": "Trading as Silly Symphony by Parc",
-  "AddressLine2": "50 Swansmere Close",
-  "AddressLine3": "Walton-On-Thames",
-  "AddressLine4": "Surrey",
-  "PostCode": "KT12 3FD",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

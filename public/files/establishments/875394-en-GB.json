@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.70377",
-    "Longitude": "-2.321976"
-  },
+  "Geocode": null,
   "AddressLine1": "Haslingden Community Centre",
   "AddressLine2": "Bury Road",
   "AddressLine3": "Haslingden",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-05",
+  "RatingDate": "2026-08-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

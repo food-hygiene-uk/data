@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2345319",
+    "Longitude": "-1.4535609"
+  },
   "AddressLine1": "76-86 Old Hall Road",
   "AddressLine4": "Chesterfield",
   "PostCode": "S40 1HF",

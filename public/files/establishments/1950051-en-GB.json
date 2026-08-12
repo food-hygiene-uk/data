@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9399709",
+    "Longitude": "-1.47008"
+  },
   "AddressLine1": "Unit D1 Adanac Park",
   "AddressLine2": "Adanac Drive",
   "AddressLine3": "Nursling",

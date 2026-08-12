@@ -1,13 +1,13 @@
 {
   "FHRSID": 18484,
-  "BusinessName": "The Hungry Hut",
+  "BusinessName": "The Hungry Hut Belper",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "06/00138/FH",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "062",
   "LocalAuthorityName": "Amber Valley",
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": {
     "Latitude": "53.0284825",
@@ -18,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-11-13",
+  "RatingDate": "2026-07-13",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

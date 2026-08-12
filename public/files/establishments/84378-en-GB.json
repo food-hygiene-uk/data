@@ -1,13 +1,13 @@
 {
   "FHRSID": 84378,
   "BusinessName": "Crawshawbooth Community Centre",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "21",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "204",
   "LocalAuthorityName": "Rossendale",
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
   "Geocode": {
     "Latitude": "53.7251586914063",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "BB4 8PW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-21",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-06",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

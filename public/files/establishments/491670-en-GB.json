@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.45564665",
+    "Longitude": "-0.97217255"
+  },
   "AddressLine1": "Broad Street",
   "AddressLine2": "Reading",
   "SchemeType": "FHRS",

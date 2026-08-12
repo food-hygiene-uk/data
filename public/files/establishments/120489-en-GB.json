@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": {
-    "Latitude": "51.52796",
-    "Longitude": "0.113379"
-  },
+  "Geocode": null,
   "AddressLine2": "161 Chelmer Crescent",
   "AddressLine4": "Barking",
   "PostCode": "IG11 0PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-04-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-27",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7055723",
-    "Longitude": "-2.3263817"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2",
   "AddressLine2": "Haslingden Market",
   "AddressLine3": "Blackburn Road",
   "AddressLine4": "Haslingden",
   "PostCode": "BB4 5QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "55.496832",
-    "Longitude": "-1.634955"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Front Street",
   "AddressLine2": "Embleton",
   "AddressLine3": "Northumberland",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-18",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8979046625023",
-    "Longitude": "-2.07601537869789"
-  },
+  "Geocode": null,
   "AddressLine1": "Street Record",
   "AddressLine2": "Regent Street",
   "AddressLine3": "Cheltenham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-03",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,9 +7,12 @@
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5496212",
+    "Longitude": "0.0250283"
+  },
   "AddressLine1": "5 - 6 Railway Station Bridge",
   "AddressLine2": "Woodgrange Road",
   "AddressLine3": "Forest Gate",

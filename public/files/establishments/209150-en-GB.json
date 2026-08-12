@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.644862",
-    "Longitude": "-2.181014"
-  },
+  "Geocode": null,
   "AddressLine1": "173 Market Street",
   "AddressLine2": "Whitworth",
   "AddressLine3": "Rochdale",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

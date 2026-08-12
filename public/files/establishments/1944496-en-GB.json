@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3673118",
-    "Longitude": "-2.7186535"
-  },
+  "Geocode": null,
   "AddressLine1": "1 The Angel Broad Street",
   "AddressLine3": "Ludlow",
   "AddressLine4": "Shropshire",
   "PostCode": "SY8 1LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

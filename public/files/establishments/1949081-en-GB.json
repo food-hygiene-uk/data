@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4042359",
-    "Longitude": "-0.345958"
-  },
-  "AddressLine1": "4 Hurst Road",
-  "AddressLine2": "East Molesey",
-  "AddressLine3": "Surrey",
-  "PostCode": "KT8 9AF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1968787,
-  "BusinessName": "HG Care Service Ltd",
+  "BusinessName": "HG Care – Norwood Drive",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "77425",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": {
     "Latitude": "53.389983",
@@ -18,8 +18,12 @@
   "AddressLine4": "Altrincham",
   "PostCode": "WA15 7LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

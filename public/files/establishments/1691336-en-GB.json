@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "268",
   "LocalAuthorityName": "Cherwell",
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
   "Geocode": {
     "Latitude": "52.0739294",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-17",
+  "RatingDate": "2026-07-06",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

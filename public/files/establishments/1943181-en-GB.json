@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7534213",
-    "Longitude": "-1.2590538"
-  },
+  "Geocode": null,
   "AddressLine1": "1 - 3 St Michael's Street",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxfordshire",
   "PostCode": "OX1 2DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

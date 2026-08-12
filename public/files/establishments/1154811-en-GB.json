@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7440796",
-    "Longitude": "0.6878641"
-  },
-  "AddressLine1": "20 Everest Way",
-  "AddressLine2": "Heybridge",
-  "AddressLine3": "Maldon",
-  "AddressLine4": "Essex",
-  "PostCode": "CM9 4TX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2019-07-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

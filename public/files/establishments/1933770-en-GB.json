@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0849832",
-    "Longitude": "-1.160748"
-  },
+  "Geocode": null,
   "AddressLine1": "Sun Hill Infant School",
   "AddressLine2": "Sun Lane",
   "AddressLine3": "Alresford",
   "AddressLine4": "Hampshire",
   "PostCode": "SO24 9NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

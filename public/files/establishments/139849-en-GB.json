@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.835448",
-    "Longitude": "-2.608601"
-  },
+  "Geocode": null,
   "AddressLine2": "Inglewhite Road",
   "AddressLine3": "Longridge",
   "AddressLine4": "Preston",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-05-31",
+  "RatingDate": "2026-07-30",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

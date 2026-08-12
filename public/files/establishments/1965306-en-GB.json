@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "55.131108",
-    "Longitude": "-1.593834"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Market Place",
   "AddressLine2": "Bedlington",
   "AddressLine3": "Northumberland",
   "PostCode": "NE22 5TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

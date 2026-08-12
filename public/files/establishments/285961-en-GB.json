@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "55.4716377258301",
-    "Longitude": "-1.60840749740601"
-  },
+  "Geocode": null,
   "AddressLine2": "Dunstan",
   "AddressLine3": "Northumberland",
   "PostCode": "NE66 3SZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

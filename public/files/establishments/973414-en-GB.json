@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.707362",
-    "Longitude": "-2.7541968"
-  },
+  "Geocode": null,
   "AddressLine1": "15 - 16 The Square",
   "AddressLine3": "Shrewsbury",
   "AddressLine4": "Shropshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-05",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "110",
   "LocalAuthorityName": "Braintree",
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
   "Geocode": null,
   "AddressLine1": "Lawn Meadow",
@@ -15,8 +15,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CO9 3QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

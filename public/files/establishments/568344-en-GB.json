@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8854158",
-    "Longitude": "-1.2465617"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit E3",
   "AddressLine2": "Whiteley Shopping Centre",
   "AddressLine3": "Whiteley Way",
   "AddressLine4": "Whiteley",
   "PostCode": "PO15 7PD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-30",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

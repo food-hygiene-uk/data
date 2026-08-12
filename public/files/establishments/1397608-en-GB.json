@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.193546295166",
+    "Longitude": "-1.39086627960205"
+  },
   "AddressLine1": "Longparish",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",

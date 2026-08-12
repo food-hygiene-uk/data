@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gateshead.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
-  "Geocode": {
-    "Latitude": "54.9192827",
-    "Longitude": "-1.8151402"
-  },
+  "Geocode": null,
   "AddressLine2": "19-21 Derwent Street",
   "AddressLine3": "Chopwell",
   "AddressLine4": "Newcastle Upon Tyne",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-10",
+  "RatingDate": "2026-08-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

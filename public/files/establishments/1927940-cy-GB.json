@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@rctcbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.633931",
-    "Longitude": "-3.448914"
-  },
+  "Geocode": null,
   "AddressLine2": "95 Partridge Road",
   "AddressLine3": "Llwyn-Y-Pia",
   "AddressLine4": "Tonypandy",
   "PostCode": "CF40 2LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.533737",
+    "Longitude": "0.0119903"
+  },
   "AddressLine1": "123 Plaistow Road",
   "AddressLine2": "Stratford",
   "AddressLine3": "London",

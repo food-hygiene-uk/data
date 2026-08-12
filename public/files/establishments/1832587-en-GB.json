@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.476681",
-    "Longitude": "-1.188378"
-  },
+  "Geocode": null,
   "AddressLine1": "31B Violet Avenue",
   "AddressLine2": "Edlington",
   "AddressLine3": "Doncaster",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-25",
-  "Scores": null
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

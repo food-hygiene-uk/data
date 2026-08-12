@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6172256469727",
-    "Longitude": "-1.71437096595764"
-  },
+  "Geocode": null,
   "AddressLine1": "Deer Park Road",
   "AddressLine2": "Fazeley",
   "AddressLine3": "Tamworth",
   "AddressLine4": "Staffordshire",
   "PostCode": "B78 3QP",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-05-13",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

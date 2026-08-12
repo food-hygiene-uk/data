@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4890455",
-    "Longitude": "-0.0138111"
-  },
+  "Geocode": null,
   "AddressLine2": "197 East Ferry Road",
   "AddressLine3": "London",
   "PostCode": "E14 3BB",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2024-03-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }
