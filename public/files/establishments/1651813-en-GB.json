@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5459305",
+    "Longitude": "-3.497771"
+  },
   "AddressLine1": "10 Somerset Place Teignmouth",
   "PostCode": "TQ14 8ZZ",
   "SchemeType": "FHRS",

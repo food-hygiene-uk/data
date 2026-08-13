@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.598138",
-    "Longitude": "0.177397"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Moray Way",
   "AddressLine2": "Romford",
   "PostCode": "RM1 4YD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

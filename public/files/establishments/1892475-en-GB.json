@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0730627",
-    "Longitude": "-0.6285218"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2 Building 36",
   "AddressLine2": "Cranfield University",
   "AddressLine3": "College Road",
   "AddressLine4": "Cranfield",
   "PostCode": "MK43 0AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

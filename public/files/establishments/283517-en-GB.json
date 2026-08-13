@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.724702",
-    "Longitude": "-1.354083"
-  },
+  "Geocode": null,
   "AddressLine1": "Hope Street East",
   "AddressLine2": "Castleford",
   "PostCode": "WF10 1DZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-12",
+  "RatingDate": "2026-08-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

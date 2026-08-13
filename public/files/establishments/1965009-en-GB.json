@@ -1,18 +1,22 @@
 {
   "FHRSID": 1965009,
-  "BusinessName": "Staffordshire Honey",
+  "BusinessName": "D & M Rawsthorne",
   "BusinessType": "Farmers/growers",
   "LocalAuthorityBusinessID": "118897",
   "BusinessTypeID": 7838,
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

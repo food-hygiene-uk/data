@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Swansea",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.6308147",
@@ -18,12 +18,12 @@
   "AddressLine4": "Three Crosses",
   "PostCode": "SA4 3PB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2025-11-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-07-07",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

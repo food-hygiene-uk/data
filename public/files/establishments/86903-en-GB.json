@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.449475",
+    "Longitude": "-2.88104"
+  },
   "AddressLine1": "12/14 Castle Street Tayport Fife",
   "PostCode": "DD6 9AF",
   "SchemeType": "FHIS",

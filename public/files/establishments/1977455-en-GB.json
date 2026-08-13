@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8723337",
+    "Longitude": "-4.1290093"
+  },
   "AddressLine2": "70 Auchinlea Road",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

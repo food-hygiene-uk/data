@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "219",
   "LocalAuthorityName": "Boston",
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
   "Geocode": {
     "Latitude": "52.976366",
@@ -17,12 +17,12 @@
   "AddressLine4": "Boston",
   "PostCode": "PE21 8RE",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-12-09",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-07",
   "Scores": {
-    "Hygiene": 20,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8278878",
-    "Longitude": "-0.3693165"
-  },
+  "Geocode": null,
   "AddressLine1": "103 - 105 Broadwater Street East",
   "AddressLine3": "Worthing",
   "AddressLine4": "West Sussex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-30",
-  "Scores": null
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

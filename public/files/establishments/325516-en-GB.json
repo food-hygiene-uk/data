@@ -1,25 +1,26 @@
 {
   "FHRSID": 325516,
   "BusinessName": "The Little Pink Bakery",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "17248",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.767249",
-    "Longitude": "-1.773859"
-  },
+  "Geocode": null,
   "AddressLine2": "176 High Street",
   "AddressLine3": "Wibsey",
   "AddressLine4": "Bradford",
   "PostCode": "BD6 1QU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

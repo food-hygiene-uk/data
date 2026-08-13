@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.531766",
+    "Longitude": "-3.596076"
+  },
   "AddressLine1": "Harrier L L C Brunel Road Newton Abbot Devon",
   "PostCode": "TQ12 4UH",
   "SchemeType": "FHRS",

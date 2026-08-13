@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "321",
   "LocalAuthorityName": "Warwick",
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
   "Geocode": {
     "Latitude": "52.281874",
@@ -18,12 +18,12 @@
   "AddressLine4": "Warwick",
   "PostCode": "CV34 4SA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

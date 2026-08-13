@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.613639831543",
-    "Longitude": "-1.57414102554321"
-  },
+  "Geocode": null,
   "AddressLine1": "Yorkshire Sculpture Park",
   "AddressLine2": "Park Lane",
   "AddressLine3": "Bretton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-27",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

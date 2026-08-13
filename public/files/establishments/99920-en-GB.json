@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.181363",
+    "Longitude": "-3.143406"
+  },
   "AddressLine1": "Bankhead Park Glenrothes Fife",
   "PostCode": "KY7 6GH",
   "SchemeType": "FHIS",

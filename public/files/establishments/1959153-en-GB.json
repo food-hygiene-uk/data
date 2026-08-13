@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.582933",
-    "Longitude": "0.164675"
-  },
+  "Geocode": null,
   "AddressLine1": "176 Mawney Road",
   "AddressLine2": "Romford",
   "PostCode": "RM7 8BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

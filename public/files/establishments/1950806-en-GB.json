@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.599969",
-    "Longitude": "0.208416"
-  },
+  "Geocode": null,
   "AddressLine1": "Heaton Way",
   "AddressLine2": "Romford",
   "PostCode": "RM3 7EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

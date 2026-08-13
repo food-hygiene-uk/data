@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.541498",
+    "Longitude": "-3.506899"
+  },
   "AddressLine1": "The Green Shaldon Teignmouth Devon",
   "PostCode": "TQ14 0DN",
   "SchemeType": "FHRS",

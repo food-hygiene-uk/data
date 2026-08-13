@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.760235",
-    "Longitude": "-1.781496"
-  },
+  "Geocode": null,
   "AddressLine2": "448 Halifax Road",
   "AddressLine3": "Bradford",
   "PostCode": "BD6 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

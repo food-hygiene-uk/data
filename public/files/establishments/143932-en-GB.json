@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.423235",
+    "Longitude": "-2.921303"
+  },
   "AddressLine1": "Abercraig Forgan Newport On Tay Fife",
   "PostCode": "DD6 8RB",
   "SchemeType": "FHIS",

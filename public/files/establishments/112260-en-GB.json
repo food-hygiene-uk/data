@@ -1,6 +1,6 @@
 {
   "FHRSID": 112260,
-  "BusinessName": "Today's Meadows Convenience Store",
+  "BusinessName": "Go Local Meadows Convenience Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "41508",
   "BusinessTypeID": 4613,
@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.723387",
-    "Longitude": "-0.428039"
-  },
+  "Geocode": null,
   "AddressLine1": "88 Hull Road",
   "AddressLine2": "Hessle",
   "AddressLine3": "East Riding Of Yorkshire",
   "PostCode": "HU13 9NB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-01-15",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

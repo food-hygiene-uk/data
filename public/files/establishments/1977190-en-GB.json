@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1330507",
+    "Longitude": "-3.1815527"
+  },
   "AddressLine1": "Unit 4 Chapel Level Kirkcaldy Fife",
   "PostCode": "KY2 6RG",
   "SchemeType": "FHIS",

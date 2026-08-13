@@ -9,20 +9,18 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8733915",
-    "Longitude": "-0.3979999"
-  },
+  "Geocode": null,
   "AddressLine1": "Luton Retail Park",
   "AddressLine2": "Gipsy Lane",
   "AddressLine4": "Luton",
+  "PostCode": "LU1 3JH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-17",
+  "RatingDate": "2026-08-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

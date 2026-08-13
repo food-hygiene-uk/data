@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "068",
   "LocalAuthorityName": "North East Derbyshire",
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
   "Geocode": {
     "Latitude": "53.311507",
@@ -19,12 +19,12 @@
   "AddressLine4": "Dronfield",
   "PostCode": "S18 8XL",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-01-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-07",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 30
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

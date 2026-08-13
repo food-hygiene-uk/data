@@ -1,6 +1,6 @@
 {
   "FHRSID": 489827,
-  "BusinessName": "Haniya Lounge",
+  "BusinessName": "DSP Lounge",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "1000",
   "BusinessTypeID": 7843,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4661868",
-    "Longitude": "-0.364805"
-  },
+  "Geocode": null,
   "AddressLine2": "45 Bell Road",
   "AddressLine3": "Hounslow",
   "PostCode": "TW3 3NX",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-03-05",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

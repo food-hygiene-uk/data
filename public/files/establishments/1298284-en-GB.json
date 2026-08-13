@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bracknell-forest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bracknell-forest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3673256",
-    "Longitude": "-0.8180775"
-  },
+  "Geocode": null,
   "AddressLine1": "204 Dukes Ride",
   "AddressLine3": "Crowthorne",
   "AddressLine4": "Bracknell Forest",
   "PostCode": "RG45 6DS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

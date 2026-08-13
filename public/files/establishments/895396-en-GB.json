@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.237849",
-    "Longitude": "-0.893126"
-  },
+  "Geocode": null,
   "AddressLine1": "11 Fish Street",
   "AddressLine2": "Northampton",
   "AddressLine3": "NN1 2AA",
   "PostCode": "NN1 2AA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2023-11-24",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

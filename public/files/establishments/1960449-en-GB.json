@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5443506",
+    "Longitude": "-3.4982432"
+  },
   "AddressLine1": "3 Queen Street Teignmouth",
   "PostCode": "TQ14 8BY",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "028",
   "LocalAuthorityName": "East Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
   "Geocode": {
     "Latitude": "52.4633143",
@@ -19,12 +19,12 @@
   "AddressLine4": "Ely",
   "PostCode": "CB6 1EW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

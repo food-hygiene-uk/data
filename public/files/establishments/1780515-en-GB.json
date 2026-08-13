@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9261035",
-    "Longitude": "-1.8255274"
-  },
+  "Geocode": null,
   "AddressLine2": "33 Church Street",
   "AddressLine3": "Ilkley",
   "PostCode": "LS29 9DR",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

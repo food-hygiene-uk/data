@@ -7,12 +7,22 @@
   "LocalAuthorityCode": "310",
   "LocalAuthorityName": "Runnymede",
   "LocalAuthorityWebSite": "http://www.runnymede.gov.uk/portal/site/runnymede",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.39163",
+    "Longitude": "-0.503906"
+  },
+  "AddressLine2": "124 Guildford Street",
+  "AddressLine4": "Chertsey",
+  "PostCode": "KT16 9AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

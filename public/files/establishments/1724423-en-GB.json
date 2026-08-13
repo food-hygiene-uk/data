@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4178363",
-    "Longitude": "-0.4183265"
-  },
+  "Geocode": null,
   "AddressLine1": "Saxon House",
   "AddressLine2": "Downside",
   "AddressLine3": "Sunbury-on-Thames",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-25",
+  "RatingDate": "2026-07-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

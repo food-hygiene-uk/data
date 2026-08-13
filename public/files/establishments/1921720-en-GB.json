@@ -1,13 +1,13 @@
 {
   "FHRSID": 1921720,
-  "BusinessName": "Crumbs",
+  "BusinessName": "Crumbs-Sandwiches-Bolton Limited",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "168552",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
     "Latitude": "53.5235029",
@@ -17,8 +17,12 @@
   "AddressLine4": "Bolton Upon Dearne",
   "PostCode": "S63 8EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

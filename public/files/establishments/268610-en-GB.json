@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.731048",
+    "Longitude": "-1.203066"
+  },
   "AddressLine1": "Longwall Beefeater",
   "AddressLine2": "Garsington Road",
   "AddressLine3": "Oxford",

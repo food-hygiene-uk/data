@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.237978",
-    "Longitude": "-0.892434"
-  },
+  "Geocode": null,
   "AddressLine1": "11a The Ridings",
   "AddressLine2": "Northampton",
   "AddressLine3": "NN1 2AQ",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-03-06",
+  "RatingDate": "2025-03-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

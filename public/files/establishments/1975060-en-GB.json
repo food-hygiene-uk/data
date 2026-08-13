@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0502354",
-    "Longitude": "1.1660749"
-  },
+  "Geocode": null,
   "AddressLine1": "283A Duke Street",
   "AddressLine2": "Ipswich",
   "AddressLine3": "Suffolk",
   "PostCode": "IP3 0BF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

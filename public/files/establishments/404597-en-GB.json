@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.892238",
-    "Longitude": "-0.390757"
-  },
+  "Geocode": null,
   "AddressLine2": "5 Yeovil Road",
   "AddressLine4": "Luton",
   "PostCode": "LU2 9EE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-05",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

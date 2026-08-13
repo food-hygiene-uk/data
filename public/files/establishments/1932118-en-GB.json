@@ -1,6 +1,6 @@
 {
   "FHRSID": 1932118,
-  "BusinessName": "Baked By The Book",
+  "BusinessName": "Baked By The Book NE",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "79834",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.760437",
+    "Longitude": "-1.209286"
+  },
   "AddressLine1": "146 London Road",
   "AddressLine2": "Headington",
   "AddressLine3": "Oxford",

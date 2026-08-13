@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.680494",
-    "Longitude": "-1.3133799"
-  },
+  "Geocode": null,
   "AddressLine1": "Rontec Watford Limited",
   "AddressLine2": "Ackworth Road",
   "AddressLine3": "Pontefract",
   "PostCode": "WF8 3QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

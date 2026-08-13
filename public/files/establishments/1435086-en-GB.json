@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.909679",
-    "Longitude": "-0.714746"
-  },
+  "Geocode": null,
   "AddressLine1": "East Dean",
   "AddressLine2": "Chichester",
   "AddressLine3": "West Sussex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-07",
-  "Scores": null
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8161108",
-    "Longitude": "-1.8530338"
-  },
+  "Geocode": null,
   "AddressLine1": "Wilsden Cricket Club",
   "AddressLine2": "Haworth Road",
   "AddressLine3": "Wilsden",
   "AddressLine4": "Bingley",
   "PostCode": "BD15 0JX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

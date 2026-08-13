@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.737557",
-    "Longitude": "-1.7680026"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 9 Whitehall Properties",
   "AddressLine2": "Town Gate",
   "AddressLine3": "Wyke",
   "AddressLine4": "Bradford",
   "PostCode": "BD12 9JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

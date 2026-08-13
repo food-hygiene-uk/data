@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "54.118302",
-    "Longitude": "-0.122602"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Flamborough",
   "AddressLine3": "Bridlington",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-09",
-  "Scores": null
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

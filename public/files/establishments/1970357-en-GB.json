@@ -1,21 +1,25 @@
 {
   "FHRSID": 1970357,
-  "BusinessName": "Buck Inn",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "The Buck Inn",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "Cx17805",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": null,
   "AddressLine1": "Buck Inn Buck Inn Road",
   "AddressLine4": "Buckden",
   "PostCode": "BD23 5JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

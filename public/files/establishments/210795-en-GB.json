@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.930396",
-    "Longitude": "-0.780152"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Pavement",
   "AddressLine2": "Pocklington",
   "AddressLine3": "York",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
-  "Scores": null
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

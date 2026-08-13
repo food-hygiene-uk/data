@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.164594",
+    "Longitude": "-3.325439"
+  },
   "AddressLine1": "7 Benarty Square Ballingry Lochgelly Fife",
   "PostCode": "KY5 8NR",
   "SchemeType": "FHIS",

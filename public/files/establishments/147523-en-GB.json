@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.769233",
-    "Longitude": "-0.874491"
-  },
+  "Geocode": null,
   "AddressLine1": "5 New Parade",
   "AddressLine2": "Shore Road",
   "AddressLine3": "East Wittering",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-23",
-  "Scores": null
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

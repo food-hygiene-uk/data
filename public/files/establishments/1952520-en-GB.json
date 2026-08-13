@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.881503",
-    "Longitude": "-0.178068"
-  },
+  "Geocode": null,
   "AddressLine1": "Car Park",
   "AddressLine2": "Man In The Moon",
   "AddressLine3": "271 Broadwater Crescent",
   "AddressLine4": "Stevenage",
   "PostCode": "SG2 8ET",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.191464",
+    "Longitude": "-2.844934"
+  },
   "AddressLine1": "Grangehill Earlsferry Leven Fife",
   "PostCode": "KY9 1AR",
   "SchemeType": "FHIS",

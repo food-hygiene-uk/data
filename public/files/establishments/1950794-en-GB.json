@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.575964",
-    "Longitude": "0.183106"
-  },
+  "Geocode": null,
   "AddressLine1": "105-111 South Street",
   "AddressLine2": "Romford",
   "PostCode": "RM1 1NX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

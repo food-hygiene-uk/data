@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.035627",
+    "Longitude": "-3.413526"
+  },
   "AddressLine1": "130 Admiralty Road Rosyth Dunfermline Fife",
   "PostCode": "KY11 2QJ",
   "SchemeType": "FHIS",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4466685",
-    "Longitude": "-0.409943"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 22b The Centre",
   "AddressLine2": "High Street",
   "AddressLine3": "Feltham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-05",
+  "RatingDate": "2026-05-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

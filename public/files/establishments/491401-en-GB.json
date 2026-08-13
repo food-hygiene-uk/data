@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.930865",
-    "Longitude": "-0.777656"
-  },
+  "Geocode": null,
   "AddressLine1": "56 Market Place",
   "AddressLine2": "Pocklington",
   "AddressLine3": "York",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-01",
-  "Scores": null
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

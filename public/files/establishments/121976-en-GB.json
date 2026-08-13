@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.133422",
+    "Longitude": "-3.379734"
+  },
   "AddressLine1": "41 Main Street Kelty Fife",
   "PostCode": "KY4 0AA",
   "SchemeType": "FHIS",

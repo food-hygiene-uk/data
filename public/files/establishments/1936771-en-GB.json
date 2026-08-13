@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5408845",
-    "Longitude": "-1.373098"
-  },
-  "AddressLine1": "LFC Pizza Ltd",
-  "AddressLine2": "12 Market Place",
-  "AddressLine3": "Hinckley",
-  "AddressLine4": "Leicestershire",
+  "Geocode": null,
+  "AddressLine1": "12 Market Place",
+  "AddressLine2": "Hinckley",
+  "AddressLine3": "Leicestershire",
   "PostCode": "LE10 1NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

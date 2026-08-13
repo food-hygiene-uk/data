@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.244827",
-    "Longitude": "-0.883637"
-  },
+  "Geocode": null,
   "AddressLine1": "133 Kettering Road",
   "AddressLine2": "Northampton",
   "AddressLine3": "NN1 4BS",
   "PostCode": "NN1 4BS",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2024-02-28",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

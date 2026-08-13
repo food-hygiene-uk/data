@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.707434",
+    "Longitude": "-1.256118"
+  },
   "AddressLine1": "4 Headlands Lane",
   "AddressLine2": "Knottingley",
   "PostCode": "WF11 0LA",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.060132",
-    "Longitude": "1.147227"
-  },
+  "Geocode": null,
   "AddressLine1": "32 St Matthews Street",
   "AddressLine2": "Ipswich",
   "AddressLine3": "Suffolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-15",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1006861",
-    "Longitude": "1.2789671"
-  },
+  "Geocode": null,
   "AddressLine1": "Grange Farm",
   "AddressLine2": "Grundisburgh Road",
   "AddressLine3": "Hasketon",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-12",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

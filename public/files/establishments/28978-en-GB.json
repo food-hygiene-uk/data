@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.12669",
+    "Longitude": "-3.310605"
+  },
   "AddressLine1": "49 Francis Street Lochgelly Fife",
   "PostCode": "KY5 9NN",
   "SchemeType": "FHIS",

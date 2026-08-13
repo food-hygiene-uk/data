@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.353293",
-    "Longitude": "1.401089"
-  },
+  "Geocode": null,
   "AddressLine1": "328 Margate Road",
   "AddressLine2": "Ramsgate",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-20",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

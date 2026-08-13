@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "262",
   "LocalAuthorityName": "Gedling",
   "LocalAuthorityWebSite": "http://www.gedling.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthhousinghandover@gedling.gov.uk",
   "Geocode": null,
   "AddressLine1": "Albert Avenue Park",
@@ -15,8 +15,12 @@
   "AddressLine3": "Nottinghamshire",
   "PostCode": "NG4 1HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.506561",
-    "Longitude": "-0.194762"
-  },
+  "Geocode": null,
   "AddressLine1": "PUBLIC HOUSE",
   "AddressLine2": "119 Kensington Church Street",
   "AddressLine3": "LONDON",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-04-17",
+  "RatingDate": "2026-07-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

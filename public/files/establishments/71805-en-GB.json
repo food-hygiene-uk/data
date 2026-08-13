@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.19326",
+    "Longitude": "-3.14629"
+  },
   "AddressLine1": "59 Bighty Avenue Glenrothes Fife",
   "PostCode": "KY7 5AD",
   "SchemeType": "FHIS",

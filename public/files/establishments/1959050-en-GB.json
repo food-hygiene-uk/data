@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
     "Latitude": "52.5766812",
@@ -19,8 +19,12 @@
   "AddressLine4": "West Midlands",
   "PostCode": "WS10 8HX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

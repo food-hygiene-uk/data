@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.731953",
-    "Longitude": "-0.792335"
-  },
+  "Geocode": null,
   "AddressLine1": "153 High Street",
   "AddressLine2": "Selsey",
   "AddressLine3": "Chichester",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

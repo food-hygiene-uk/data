@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2419561",
-    "Longitude": "-0.8779989"
-  },
+  "Geocode": null,
   "AddressLine1": "209 Wellingborough Road",
   "AddressLine2": "Northampton",
   "AddressLine3": "NN1 4ED",
   "PostCode": "NN1 4ED",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-03",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-05-25",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

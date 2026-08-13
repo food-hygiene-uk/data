@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.082636",
-    "Longitude": "-0.254362"
-  },
+  "Geocode": null,
   "AddressLine1": "111 Mead End",
   "AddressLine2": "Biggleswade",
   "AddressLine3": "Bedfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-25",
+  "RatingDate": "2026-07-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

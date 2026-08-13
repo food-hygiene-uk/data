@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4676948",
+    "Longitude": "-3.5390655"
+  },
   "AddressLine1": "Mariners 35 Belgrave Road Torquay",
   "PostCode": "TQ2 5HX",
   "SchemeType": "FHRS",

@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.241082",
-    "Longitude": "-0.921868"
-  },
+  "Geocode": null,
   "AddressLine1": "85-87 Weedon Road",
   "AddressLine2": "St James",
   "AddressLine3": "Northampton",
   "AddressLine4": "NN5 5BS",
   "PostCode": "NN5 5BS",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-22",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2019-10-25",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

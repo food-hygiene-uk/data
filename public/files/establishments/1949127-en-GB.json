@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.993313",
-    "Longitude": "-0.609542"
-  },
+  "Geocode": null,
   "AddressLine1": "North Street",
   "AddressLine2": "Petworth",
   "AddressLine3": "West Sussex",
   "PostCode": "GU28 9NL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

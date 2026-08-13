@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6122360229492",
-    "Longitude": "0.517642974853516"
-  },
+  "Geocode": null,
   "AddressLine1": "The Downtowner Youth Centre",
   "AddressLine2": "Irvon Hill Road",
   "AddressLine3": "Wickford",
   "AddressLine4": "Essex",
   "PostCode": "SS12 0AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
