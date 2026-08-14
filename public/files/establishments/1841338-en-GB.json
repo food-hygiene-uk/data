@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.509421",
+    "Longitude": "0.068946"
+  },
   "AddressLine2": "Mobile Trader",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

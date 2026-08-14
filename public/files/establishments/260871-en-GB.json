@@ -1,6 +1,6 @@
 {
   "FHRSID": 260871,
-  "BusinessName": "Boot Inn",
+  "BusinessName": "The Boot Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000071505",
   "BusinessTypeID": 7843,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1545622",
-    "Longitude": "-1.8987369"
-  },
+  "Geocode": null,
   "AddressLine1": "BOOT INN HIGH STREET",
   "AddressLine3": "BERWICK ST JAMES",
   "PostCode": "SP3 4TN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

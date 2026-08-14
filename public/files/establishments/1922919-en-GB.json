@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.726112",
+    "Longitude": "-1.363928"
+  },
   "AddressLine1": "1 Methley Road",
   "AddressLine2": "Castleford",
   "PostCode": "WF10 1LX",

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.derrystrabane.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@derrystrabane.com",
-  "Geocode": {
-    "Latitude": "55.000946",
-    "Longitude": "-7.321563"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Lower Clarendon Street",
   "AddressLine2": "Edenballymore",
   "AddressLine3": "Londonderry",
   "AddressLine4": "Londonderry",
   "PostCode": "BT48 7AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

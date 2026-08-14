@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8537128",
+    "Longitude": "-0.4290767"
+  },
   "AddressLine1": "13 New Street",
   "AddressLine2": "Slip End",
   "AddressLine3": "Luton",

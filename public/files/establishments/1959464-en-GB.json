@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.027373",
+    "Longitude": "-0.2753932"
+  },
   "AddressLine1": "Kingfisher Park",
   "AddressLine2": "Arlesey Road",
   "AddressLine3": "Henlow",

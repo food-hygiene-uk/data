@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9981155395508",
+    "Longitude": "-0.49780198931694"
+  },
   "AddressLine1": "The Old School",
   "AddressLine2": "Dunstable Road",
   "AddressLine3": "Flitwick",

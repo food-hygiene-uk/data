@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "211",
   "LocalAuthorityName": "Harborough",
   "LocalAuthorityWebSite": "http://www.harborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@harborough.gov.uk",
   "Geocode": null,
   "AddressLine1": "Turkuaz",
@@ -15,8 +15,12 @@
   "AddressLine3": "Broughton Astley",
   "AddressLine4": "Leicestershire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

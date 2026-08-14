@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7224078",
-    "Longitude": "-0.2024021"
-  },
+  "Geocode": null,
   "AddressLine1": "9 Bradmore Green",
   "AddressLine2": "Brookmans Park",
   "AddressLine3": "Hertfordshire",
   "PostCode": "AL9 7QW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

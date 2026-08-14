@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.753036",
+    "Longitude": "0.0903"
+  },
   "AddressLine1": "Unit 5-7 Staple Tye Mews",
   "AddressLine2": "Perry Road",
   "AddressLine3": "Harlow",

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.508061",
-    "Longitude": "-0.1336668"
-  },
+  "Geocode": null,
   "AddressLine1": "BRITISH COLUMBIA HOUSE 1-3 REGENT STREET",
   "AddressLine3": "LONDON",
   "PostCode": "SW1Y 4QU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-22",
-  "Scores": null
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

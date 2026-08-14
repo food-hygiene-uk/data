@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7720421",
+    "Longitude": "0.0903198"
+  },
   "AddressLine1": "24 Wych Elm",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

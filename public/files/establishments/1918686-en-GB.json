@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7468236",
-    "Longitude": "-3.6200807"
-  },
+  "Geocode": null,
   "AddressLine2": "1 Heathfield Avenue",
   "AddressLine3": "Glynneath",
   "AddressLine4": "Neath Port Talbot",
   "PostCode": "SA11 5AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.85974",
+    "Longitude": "-0.481923"
+  },
   "AddressLine1": "125 Watling Street",
   "AddressLine2": "Kensworth",
   "AddressLine3": "Bedfordshire",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7801045",
+    "Longitude": "0.0935773"
+  },
   "AddressLine1": "TEVA Harlow",
   "AddressLine2": "Number One",
   "AddressLine3": "Station Approach",

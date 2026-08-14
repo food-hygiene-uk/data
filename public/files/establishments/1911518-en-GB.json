@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.88772",
+    "Longitude": "-0.52118"
+  },
   "AddressLine1": "52-53 Broadwalk",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Beds",

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0754975",
-    "Longitude": "-1.8249985"
-  },
+  "Geocode": null,
   "AddressLine1": "CRICKET FIELD HOUSE WILTON ROAD",
   "AddressLine3": "SALISBURY",
   "PostCode": "SP2 9NS",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

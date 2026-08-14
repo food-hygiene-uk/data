@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7692736",
+    "Longitude": "0.092445"
+  },
   "AddressLine1": "Harvey Centre",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

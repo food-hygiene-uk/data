@@ -9,20 +9,14 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4387283",
-    "Longitude": "-3.7671678"
-  },
-  "AddressLine1": "Allercombe Farm",
-  "AddressLine2": "Rattery",
-  "PostCode": "TQ10 9LD",
+  "Geocode": null,
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-14",
+  "RatingDate": "2026-08-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

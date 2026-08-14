@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8803672790527",
+    "Longitude": "-0.519281029701233"
+  },
   "AddressLine1": "Bullpond Lane",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Bedfordshire",

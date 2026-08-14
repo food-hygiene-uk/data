@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.353293",
+    "Longitude": "1.401089"
+  },
   "AddressLine1": "328 Margate Road",
   "AddressLine2": "Ramsgate",
   "AddressLine3": "Kent",

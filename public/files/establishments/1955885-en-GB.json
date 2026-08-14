@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
   "Geocode": null,
-  "AddressLine2": "Ashbrook Court Central Boulevard",
-  "AddressLine4": "Prologis Park",
-  "PostCode": "CV7 8PE",
+  "AddressLine1": "Ashbrook Court",
+  "AddressLine2": "Central Boulevard",
+  "AddressLine4": "Ash Green",
+  "PostCode": "CV6 4QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

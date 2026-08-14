@@ -1,18 +1,15 @@
 {
   "FHRSID": 1515987,
   "BusinessName": "Namaste Gurkha",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "1109",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "221",
   "LocalAuthorityName": "Lincoln City",
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": {
-    "Latitude": "53.214989",
-    "Longitude": "-0.6046365"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 8 Birchwood Shopping Centre",
   "AddressLine2": "Jasmin Road",
   "AddressLine3": "Lincoln",
@@ -21,9 +18,9 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 0
   }

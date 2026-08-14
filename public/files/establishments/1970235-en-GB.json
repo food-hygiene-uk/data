@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.derrystrabane.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@derrystrabane.com",
-  "Geocode": {
-    "Latitude": "54.9996445",
-    "Longitude": "-7.3216363"
-  },
+  "Geocode": null,
   "AddressLine1": "22-24 Strand Road",
   "AddressLine3": "Londonderry",
   "PostCode": "BT48 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

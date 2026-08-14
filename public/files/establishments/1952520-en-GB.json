@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.881503",
+    "Longitude": "-0.178068"
+  },
   "AddressLine1": "Car Park",
   "AddressLine2": "Man In The Moon",
   "AddressLine3": "271 Broadwater Crescent",

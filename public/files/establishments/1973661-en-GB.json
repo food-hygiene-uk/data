@@ -1,6 +1,6 @@
 {
   "FHRSID": 1973661,
-  "BusinessName": "Soulramen LTD",
+  "BusinessName": "Soul Ramen",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/500597/MIXED",
   "BusinessTypeID": 1,
@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1293409",
-    "Longitude": "0.2637088"
-  },
-  "AddressLine1": "Soul Ramen",
-  "AddressLine2": "2 Grove Hill Road",
-  "AddressLine3": "Royal Tunbridge Wells",
-  "AddressLine4": "Kent",
+  "Geocode": null,
+  "AddressLine1": "2 Grove Hill Road",
+  "AddressLine2": "Royal Tunbridge Wells",
+  "AddressLine3": "Kent",
   "PostCode": "TN1 1RZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

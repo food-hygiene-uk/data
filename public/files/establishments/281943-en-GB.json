@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.831191",
-    "Longitude": "0.848972"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Gladstone Road",
   "AddressLine2": "Fakenham",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-09-29",
+  "RatingDate": "2026-08-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

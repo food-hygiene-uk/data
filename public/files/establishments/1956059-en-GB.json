@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
-  "Geocode": {
-    "Latitude": "50.70758",
-    "Longitude": "-3.52998"
-  },
+  "Geocode": null,
   "AddressLine1": "Speed Lounge Cafe",
   "AddressLine2": "6 Trusham Road",
   "AddressLine3": "Marsh Barton Trading Estate",
   "AddressLine4": "Exeter",
   "PostCode": "EX2 8QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

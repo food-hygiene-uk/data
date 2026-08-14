@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.535432",
-    "Longitude": "-2.004503"
-  },
+  "Geocode": null,
   "AddressLine2": "135 Chew Valley Road",
   "AddressLine3": "Greenfield",
   "AddressLine4": "Oldham",
   "PostCode": "OL3 7JN",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-22",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.212534",
-    "Longitude": "-1.43892"
-  },
+  "Geocode": null,
   "AddressLine1": "Arbory Residential Home  Down House",
   "AddressLine2": "London Road",
   "AddressLine3": "Andover Down",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

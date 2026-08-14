@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
     "Latitude": "53.4874964",
     "Longitude": "-2.0921333"
   },
-  "AddressLine1": "O Brasileirao Restaurant And Shop Manchester Ltd",
+  "AddressLine1": "O Brasileirao Restaurant And Shop",
   "AddressLine2": "157 Stamford Street Central",
   "AddressLine3": "Ashton-under-lyne",
   "AddressLine4": "Tameside",
   "PostCode": "OL6 6XW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

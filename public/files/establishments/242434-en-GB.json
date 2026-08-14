@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.292508",
-    "Longitude": "-1.576929"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop And Premises Petrol Fill",
   "AddressLine2": "Coventry Road",
   "AddressLine4": "Warwick",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-11",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

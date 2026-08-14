@@ -1,25 +1,26 @@
 {
   "FHRSID": 1919105,
   "BusinessName": "GBD Doner",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "71616",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5580287",
-    "Longitude": "-2.1376777"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Elk Mill Retail Centre",
   "AddressLine3": "Royton",
   "AddressLine4": "Oldham",
   "PostCode": "OL2 5HX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

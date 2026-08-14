@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@swdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "50.549436",
-    "Longitude": "-4.1466626"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Russell Street",
   "AddressLine2": "Tavistock",
   "PostCode": "PL19 8BD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

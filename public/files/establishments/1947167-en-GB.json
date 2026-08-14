@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5857381",
-    "Longitude": "-2.1269411"
-  },
+  "Geocode": null,
   "AddressLine1": "The Grain Store",
   "AddressLine2": "2 - 3 King Street",
   "AddressLine3": "City Centre",
   "AddressLine4": "Wolverhampton",
   "PostCode": "WV1 1ST",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

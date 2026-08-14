@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.923559",
+    "Longitude": "-0.226422"
+  },
   "AddressLine1": "Unit 6 Crispy Duck Rotisserie",
   "AddressLine2": "Shangri-La Farm",
   "AddressLine3": "Todds Green",

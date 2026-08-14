@@ -1,13 +1,13 @@
 {
   "FHRSID": 24349,
-  "BusinessName": "The Little Chippy",
+  "BusinessName": "Boyles Butty's",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "07640/0047/0/000",
   "BusinessTypeID": 7846,
   "LocalAuthorityCode": "205",
   "LocalAuthorityName": "South Ribble",
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
   "Geocode": {
     "Latitude": "53.7080726623535",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "PR26 6TT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

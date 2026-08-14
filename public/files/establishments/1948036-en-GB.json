@@ -1,13 +1,13 @@
 {
   "FHRSID": 1948036,
-  "BusinessName": "Sudan Coffee Shop",
+  "BusinessName": "Friends Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "87032",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "861",
   "LocalAuthorityName": "Middlesbrough",
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
   "Geocode": {
     "Latitude": "54.571928",
@@ -17,8 +17,12 @@
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS1 5PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6835521",
-    "Longitude": "-0.1009628"
-  },
+  "Geocode": null,
   "AddressLine1": "Thompsons Garden Centre",
   "AddressLine2": "Cattlegate Road",
   "AddressLine3": "ENFIELD",
   "PostCode": "EN2 9DP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-03-15",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

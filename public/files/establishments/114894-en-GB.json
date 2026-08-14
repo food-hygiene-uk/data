@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tewkesbury.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehenquiries@tewkesbury.gov.uk",
-  "Geocode": {
-    "Latitude": "51.953319",
-    "Longitude": "-1.964229"
-  },
+  "Geocode": null,
   "AddressLine1": "Winchcombe Guide Hall",
   "AddressLine2": "High Street",
   "AddressLine3": "Winchcombe",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-08",
+  "RatingDate": "2026-08-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

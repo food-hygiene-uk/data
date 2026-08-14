@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8721511",
-    "Longitude": "0.9292952"
-  },
-  "AddressLine1": "T G Catering",
-  "AddressLine2": "6 Grange Way",
-  "AddressLine3": "Colchester",
-  "AddressLine4": "Essex",
-  "PostCode": "CO2 8HG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

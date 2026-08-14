@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "424",
   "LocalAuthorityName": "Sefton",
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
   "Geocode": {
     "Latitude": "53.649946",
@@ -18,12 +18,12 @@
   "AddressLine4": "Merseyside",
   "PostCode": "PR9 0BY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

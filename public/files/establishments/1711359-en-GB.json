@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "181",
   "LocalAuthorityName": "Dartford",
   "LocalAuthorityWebSite": "http://www.dartford.gov.uk/foodsafety/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": {
     "Latitude": "51.445501",
@@ -20,6 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-19",
-  "Scores": null
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

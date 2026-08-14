@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nuneatonandbedworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.544289",
-    "Longitude": "-1.43937"
-  },
+  "Geocode": null,
   "AddressLine2": "291 Watling Street",
   "AddressLine4": "Nuneaton",
   "PostCode": "CV11 6BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

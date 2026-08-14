@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.290235",
-    "Longitude": "-1.545737"
-  },
+  "Geocode": null,
   "AddressLine1": "Day Nursery",
   "AddressLine2": "8 Warwick New Road",
   "AddressLine4": "Leamington Spa",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-30",
+  "RatingDate": "2026-08-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

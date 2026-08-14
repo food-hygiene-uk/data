@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8857803344727",
+    "Longitude": "-0.522095024585724"
+  },
   "AddressLine1": "6 West Street",
   "AddressLine2": "Dunstable",
   "PostCode": "LU6 1SX",

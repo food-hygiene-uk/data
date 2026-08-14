@@ -1,6 +1,6 @@
 {
   "FHRSID": 531870,
-  "BusinessName": "Pizza Hut (Nine Food Group Limited)",
+  "BusinessName": "Pizza Hut Delivery (Exultant Ltd)",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "12396",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.553433",
-    "Longitude": "-0.29225"
-  },
+  "Geocode": null,
   "AddressLine1": "373 High Road",
   "AddressLine2": "Wembley",
   "PostCode": "HA9 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

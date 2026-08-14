@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5987152",
-    "Longitude": "-3.7920301"
-  },
+  "Geocode": null,
   "AddressLine2": "28 Hopkin Street",
   "AddressLine3": "Aberavon",
   "AddressLine4": "Neath Port Talbot",
   "PostCode": "SA12 6HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-07-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

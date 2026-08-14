@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9826626",
+    "Longitude": "-0.3937224"
+  },
   "AddressLine1": "The Old Rectory",
   "AddressLine2": "Higham Road",
   "AddressLine3": "Higham Gobion",

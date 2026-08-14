@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.562475",
-    "Longitude": "-0.30566"
-  },
+  "Geocode": null,
   "AddressLine1": "197 East Lane",
   "AddressLine2": "Wembley",
   "PostCode": "HA0 3NG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-04-25",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

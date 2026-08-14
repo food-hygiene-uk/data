@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.781784",
+    "Longitude": "0.109954"
+  },
   "AddressLine1": "3 The Oaks Retail Park",
   "AddressLine2": "Howard Way",
   "AddressLine3": "Harlow",

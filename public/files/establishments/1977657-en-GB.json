@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.747986",
+    "Longitude": "0.100194"
+  },
   "AddressLine1": "The Pink Cottage",
   "AddressLine2": "Commonside Road",
   "AddressLine3": "Harlow",

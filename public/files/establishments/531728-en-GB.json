@@ -1,6 +1,6 @@
 {
   "FHRSID": 531728,
-  "BusinessName": "The Roisin",
+  "BusinessName": "J, Reillys",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "10269",
   "BusinessTypeID": 7843,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.584451",
-    "Longitude": "-0.280853"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Fryent Way",
   "AddressLine2": "London",
   "PostCode": "NW9 9ER",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-12-30",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

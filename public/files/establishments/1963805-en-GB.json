@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4142471",
-    "Longitude": "-2.52693"
-  },
+  "Geocode": null,
   "AddressLine1": "11-17 Birchwood Shopping Centre",
   "AddressLine2": "Dewhurst Road",
   "PostCode": "WA3 7PG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

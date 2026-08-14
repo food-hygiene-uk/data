@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.004399",
+    "Longitude": "-0.49762"
+  },
   "AddressLine1": "20 Steppingley Road",
   "AddressLine2": "Flitwick",
   "AddressLine3": "Bedfordshire",

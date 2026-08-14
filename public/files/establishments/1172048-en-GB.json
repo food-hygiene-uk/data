@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.380466",
-    "Longitude": "-1.6016927"
-  },
+  "Geocode": null,
   "AddressLine1": "GREAT BEDWYN BOWLS CLUB FARM LANE",
   "AddressLine3": "GREAT BEDWYN",
   "PostCode": "SN8 3LU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

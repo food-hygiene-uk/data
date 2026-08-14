@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9161809",
+    "Longitude": "-0.6710945"
+  },
   "AddressLine1": "3 Wing Road",
   "AddressLine2": "Linslade",
   "AddressLine3": "Leighton Buzzard",

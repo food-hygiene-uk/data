@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.395246",
-    "Longitude": "0.178041"
-  },
+  "Geocode": null,
   "AddressLine1": "1A High Street",
   "AddressLine2": "Swanley",
   "AddressLine3": "Kent",
   "PostCode": "BR8 8AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

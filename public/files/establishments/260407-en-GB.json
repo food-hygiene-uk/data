@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3569502",
-    "Longitude": "-1.9830405"
-  },
+  "Geocode": null,
   "AddressLine1": "WILTSHIRE POLICE HEADQUARTERS LONDON ROAD",
   "AddressLine3": "DEVIZES",
   "PostCode": "SN10 2DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

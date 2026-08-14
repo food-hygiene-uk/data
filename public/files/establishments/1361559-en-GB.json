@@ -1,26 +1,30 @@
 {
   "FHRSID": 1361559,
   "BusinessName": "Ingestre Orangery (FOOD INSP)",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "117205",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "Geocode": {
-    "Latitude": "52.8182067871094",
-    "Longitude": "-2.02736401557922"
+    "Latitude": "52.8198291",
+    "Longitude": "-2.0349426"
   },
-  "AddressLine1": "Ingestre Orangery And Gardens",
+  "AddressLine1": "Ingestre Orangery",
   "AddressLine2": "Ingestre Road",
   "AddressLine3": "Ingestre",
   "AddressLine4": "Stafford",
   "PostCode": "ST18 0RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": {
-    "Latitude": "50.3467874",
-    "Longitude": "-3.6011025"
-  },
-  "AddressLine1": "Dartmouth Indoor Pool",
-  "AddressLine2": "Dartmouth Leisure Centre",
-  "AddressLine3": "Wessex Way",
-  "AddressLine4": "Dartmouth",
-  "PostCode": "TQ6 0JL",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.767662",
+    "Longitude": "0.094121"
+  },
   "AddressLine1": "3 Civic Walk",
   "AddressLine2": "The Water Gardens",
   "AddressLine3": "Harlow",
