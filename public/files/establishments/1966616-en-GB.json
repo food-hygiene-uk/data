@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2887116",
-    "Longitude": "0.5057027"
-  },
-  "AddressLine1": "10 Rayleigh Close",
-  "AddressLine2": "Maidstone",
-  "AddressLine3": "Kent",
-  "PostCode": "ME16 0UP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
   "Geocode": null,
   "AddressLine2": "90g High Street",
   "AddressLine3": "Burton latimer",
   "AddressLine4": "North Northamptonshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

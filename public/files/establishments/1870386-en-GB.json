@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3873225",
-    "Longitude": "-2.8394792"
-  },
+  "Geocode": null,
   "AddressLine1": "Garden Lodge Nursing Home Middlemass Hey",
   "AddressLine3": "Liverpool",
   "PostCode": "L27 7AR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-12-02",
-  "Scores": null
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

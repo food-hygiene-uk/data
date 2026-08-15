@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.401637",
-    "Longitude": "-2.168383"
-  },
+  "Geocode": null,
   "AddressLine1": "104-106 Castle Street",
   "AddressLine2": "Edgeley",
   "AddressLine3": "Stockport",
   "PostCode": "SK3 9AL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

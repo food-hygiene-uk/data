@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7274646",
-    "Longitude": "-1.7122485"
-  },
+  "Geocode": null,
   "AddressLine1": "The Monal Providence Place",
   "AddressLine2": "Bradford Road",
   "AddressLine3": "Cleckheaton",
   "PostCode": "BD19 3PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

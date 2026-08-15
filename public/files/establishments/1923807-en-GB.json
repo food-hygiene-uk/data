@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2246976",
-    "Longitude": "0.1284717"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Arbury Court",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB4 2JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

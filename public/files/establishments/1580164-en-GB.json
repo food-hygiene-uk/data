@@ -1,6 +1,6 @@
 {
   "FHRSID": 1580164,
-  "BusinessName": "McDonald's Restauants Ltd",
+  "BusinessName": "McDonald's",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "22/00162/FRESTO",
   "BusinessTypeID": 1,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.552146",
-    "Longitude": "-0.487511"
-  },
+  "Geocode": null,
   "AddressLine1": "Mcdonalds Restaurant",
   "AddressLine2": "37 Oxford Road",
   "AddressLine3": "New Denham",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-12-13",
+  "RatingDate": "2026-08-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

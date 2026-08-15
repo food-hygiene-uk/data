@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
-  "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.400355",
-    "Longitude": "-4.114866"
-  },
+  "NewRatingPending": false,
+  "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
+  "Geocode": null,
   "AddressLine2": "3 Church Hill",
   "AddressLine3": "Plymouth",
   "PostCode": "PL6 5RJ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-05-22",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4610588",
-    "Longitude": "-2.9475254"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2c Barclay Trading Estate Brookfield Drive",
   "AddressLine3": "Liverpool",
   "PostCode": "L9 7AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

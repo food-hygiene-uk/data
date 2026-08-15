@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.210093",
+    "Longitude": "-1.505746"
+  },
   "AddressLine1": "Ashfield Road",
   "AddressLine2": "Andover",
   "AddressLine3": "Hants",

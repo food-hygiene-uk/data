@@ -1,9 +1,9 @@
 {
   "FHRSID": 1978017,
   "BusinessName": "Spot On Pani Puri",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00347/DOM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

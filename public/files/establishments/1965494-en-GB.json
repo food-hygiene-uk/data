@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3773161",
-    "Longitude": "-2.1902166"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Station Road",
   "AddressLine2": "Cheadle Hulme",
   "AddressLine3": "Cheadle",
   "PostCode": "SK8 5AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

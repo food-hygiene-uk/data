@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8601951599121",
-    "Longitude": "1.28398394584656"
-  },
+  "Geocode": null,
   "AddressLine1": "Kiosk at",
   "AddressLine2": "Hipkins Beach",
   "AddressLine3": "Naze Park Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-05",
+  "RatingDate": "2026-07-31",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

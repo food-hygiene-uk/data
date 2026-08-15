@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "50.95614699",
-    "Longitude": "-0.13017131"
-  },
+  "Geocode": null,
   "AddressLine1": "Salvation Army",
   "AddressLine2": "36 Cyprus Road",
   "AddressLine3": "Burgess Hill",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

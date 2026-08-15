@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6461314",
-    "Longitude": "-1.781012"
-  },
+  "Geocode": null,
   "AddressLine1": "Merrie England",
   "AddressLine2": "2 Packhorse Shopping Centre",
   "AddressLine3": "Pack Horse Walk",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-15",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

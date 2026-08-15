@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7963542",
-    "Longitude": "-1.5488876"
-  },
+  "Geocode": null,
   "AddressLine1": "Majestic",
   "AddressLine2": "City Square",
   "AddressLine3": "Leeds",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-05-11",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

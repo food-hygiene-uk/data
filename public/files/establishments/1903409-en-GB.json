@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3584675",
-    "Longitude": "-2.0387206"
-  },
+  "Geocode": null,
   "AddressLine1": "7-9 Buxton Old Road",
   "AddressLine2": "Disley",
   "AddressLine4": "Cheshire East",
   "PostCode": "SK12 2BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-19",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

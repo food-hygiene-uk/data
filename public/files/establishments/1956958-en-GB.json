@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.632034",
-    "Longitude": "-1.7937946"
-  },
+  "Geocode": null,
   "AddressLine1": "Scar Cafe",
   "AddressLine2": "1A Woodhead Road",
   "AddressLine3": "Lockwood",
   "AddressLine4": "Huddersfield",
   "PostCode": "HD4 6ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -8,18 +8,19 @@
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.3622729",
-    "Longitude": "-4.1629494"
-  },
+  "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
+  "Geocode": null,
   "AddressLine2": "Unit 3 Arcade",
   "AddressLine3": "Royal William Yard",
   "AddressLine4": "Plymouth",
   "PostCode": "PL1 3RP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

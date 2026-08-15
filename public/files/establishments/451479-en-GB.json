@@ -7,18 +7,19 @@
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
-  "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.369579",
-    "Longitude": "-4.152451"
-  },
+  "NewRatingPending": false,
+  "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
+  "Geocode": null,
   "AddressLine2": "87 Union Street",
   "AddressLine3": "Plymouth",
   "PostCode": "PL1 3NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

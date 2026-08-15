@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.208379",
+    "Longitude": "-1.475531"
+  },
   "AddressLine1": "Lardicake",
   "AddressLine2": "19 Adelaide Road",
   "AddressLine3": "Andover",

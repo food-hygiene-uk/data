@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.149165",
-    "Longitude": "1.053418"
-  },
+  "Geocode": null,
   "AddressLine1": "30A Barking Road",
   "AddressLine2": "Needham Market",
   "AddressLine3": "IPSWICH",
   "AddressLine4": "Suffolk",
   "PostCode": "IP6 8ET",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-01",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.748145",
+    "Longitude": "-0.234837"
+  },
   "AddressLine1": "91 Bishops Rise",
   "AddressLine2": "Hatfield",
   "AddressLine3": "Hertfordshire",

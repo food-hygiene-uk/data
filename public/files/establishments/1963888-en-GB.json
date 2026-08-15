@@ -13,10 +13,14 @@
   "AddressLine2": "23a King Street",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
-  "PostCode": "NR40 2NZ",
+  "PostCode": "NR30 2NZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

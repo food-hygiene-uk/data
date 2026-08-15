@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.210286",
+    "Longitude": "-1.477885"
+  },
   "AddressLine1": "Andover Museum",
   "AddressLine2": "6 Church Close",
   "AddressLine3": "Andover",

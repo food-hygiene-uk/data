@@ -1,6 +1,6 @@
 {
   "FHRSID": 1972022,
-  "BusinessName": "The Inspire Multi Academy Trust (SW)",
+  "BusinessName": "The Inspire Multi Academy Trust (SW) at Ernesettle Community School",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "261813",
   "BusinessTypeID": 1,
@@ -8,18 +8,19 @@
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4164543151855",
-    "Longitude": "-4.1723051071167"
-  },
+  "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
+  "Geocode": null,
   "AddressLine1": "Ernesettle Community School",
   "AddressLine2": "Biggin Hill",
   "AddressLine3": "Plymouth",
   "PostCode": "PL5 2RB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

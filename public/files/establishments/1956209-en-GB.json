@@ -10,13 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": null,
-  "AddressLine2": "Clff Hill",
+  "AddressLine2": "Cliff Hill",
   "AddressLine3": "Gorleston",
-  "AddressLine4": "Great Yarmouth Norfolk",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR31 6DH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

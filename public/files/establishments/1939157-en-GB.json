@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "889",
   "LocalAuthorityName": "Halton",
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
   "RightToReply": "&lt;p&gt;\n\t&amp;ldquo;&lt;em&gt;We have taken on board the findings of the inspection and have been working hard to address them. We have applied and paid for an unannounced reinspection and we are confident that because of the work we have done the score will improve.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;\n",
   "Geocode": {
@@ -18,8 +18,12 @@
   "AddressLine2": "Runcorn",
   "PostCode": "WA7 1LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

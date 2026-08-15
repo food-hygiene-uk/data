@@ -1,24 +1,25 @@
 {
   "FHRSID": 1941897,
   "BusinessName": "T & J CARE Hub Ltd",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "261746",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
-  "LocalAuthorityEmailAddress": "public.protection@plymouth.gov.uk",
-  "Geocode": {
-    "Latitude": "50.3602744",
-    "Longitude": "-4.0938542"
-  },
+  "NewRatingPending": false,
+  "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
+  "Geocode": null,
   "AddressLine2": "249 Dean Cross Road",
   "AddressLine3": "Plymouth",
   "PostCode": "PL9 7AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

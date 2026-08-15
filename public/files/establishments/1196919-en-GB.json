@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.797616",
-    "Longitude": "-1.5978946"
-  },
+  "Geocode": null,
   "AddressLine1": "Units 3/4 Whingate Shopping Centre",
   "AddressLine2": "Armley",
   "AddressLine3": "Leeds",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-10-13",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

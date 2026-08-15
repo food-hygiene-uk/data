@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4008198",
-    "Longitude": "-0.2555081"
-  },
+  "Geocode": null,
   "AddressLine1": "98 High Street",
   "AddressLine2": "New Malden",
   "PostCode": "KT3 4EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 585398,
-  "BusinessName": "Hussain Food Store",
+  "BusinessName": "Hussain Foods",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "216510",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
   "Geocode": {
     "Latitude": "53.805708",
@@ -17,12 +17,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD8 8AD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

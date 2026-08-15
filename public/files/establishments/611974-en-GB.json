@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.944635",
-    "Longitude": "1.079112"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Mistley",
   "AddressLine3": "Manningtree",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-19",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

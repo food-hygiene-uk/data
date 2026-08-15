@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7298907",
-    "Longitude": "-1.7502044"
-  },
+  "Geocode": null,
   "AddressLine1": "Pizza Palace",
   "AddressLine2": "10 Westfield Lane",
   "AddressLine3": "Scholes",
   "AddressLine4": "Cleckheaton",
   "PostCode": "BD19 6DA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

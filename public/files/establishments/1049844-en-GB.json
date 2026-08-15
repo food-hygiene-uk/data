@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.991033",
+    "Longitude": "-0.009808"
+  },
   "AddressLine1": "Pilgrim Hospital",
   "AddressLine2": "Sibsey Road",
   "AddressLine4": "Boston",

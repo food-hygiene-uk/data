@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.416626",
-    "Longitude": "-2.128421"
-  },
+  "Geocode": null,
   "AddressLine1": "44 Osborne Street",
   "AddressLine2": "Bredbury",
   "AddressLine3": "Stockport",
   "PostCode": "SK6 2BT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-27",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

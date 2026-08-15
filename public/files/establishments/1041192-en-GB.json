@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4715423583984",
-    "Longitude": "-4.7226619720459"
-  },
+  "Geocode": null,
   "AddressLine1": "Mad Hatters Tea Rooms",
   "AddressLine2": "77 Fore Street",
   "AddressLine3": "Bodmin",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingDate": "2026-07-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

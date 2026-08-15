@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4078178405762",
-    "Longitude": "-2.15875005722046"
-  },
+  "Geocode": null,
   "AddressLine1": "Little Jack Horner",
   "AddressLine2": "28-30 Lord Street",
   "AddressLine3": "Stockport",
   "PostCode": "SK1 3NA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-14",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

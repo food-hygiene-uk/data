@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1470375061035",
-    "Longitude": "-2.05102396011353"
-  },
+  "Geocode": null,
   "AddressLine1": "Willow Bank",
   "AddressLine2": "Long Lane",
   "AddressLine3": "Tilesford",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-07",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

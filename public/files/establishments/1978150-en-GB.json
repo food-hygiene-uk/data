@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3045546",
+    "Longitude": "-0.6372563"
+  },
   "AddressLine1": "2 Orchard House118 - 124 Connaught RoadBrookwoodWokingSurrey",
   "PostCode": "GU24 0AT",
   "SchemeType": "FHRS",

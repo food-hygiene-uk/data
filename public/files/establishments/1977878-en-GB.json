@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.389525",
+    "Longitude": "-2.5940527"
+  },
   "AddressLine2": "10a Old Market Place",
   "PostCode": "WA1 1QB",
   "SchemeType": "FHRS",

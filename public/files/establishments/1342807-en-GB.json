@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.402625",
-    "Longitude": "-2.0940562"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 6",
   "AddressLine2": "Chadkirk Industrial Estate",
   "AddressLine3": "Vale Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-30",
+  "RatingDate": "2026-06-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

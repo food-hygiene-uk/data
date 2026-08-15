@@ -7,21 +7,24 @@
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": {
-    "Latitude": "51.16425",
-    "Longitude": "-0.946628"
+    "Latitude": "51.1631946",
+    "Longitude": "-0.9484897"
   },
-  "AddressLine1": "The White Hart 139 London Road Holybourne Alton GU34 4EY",
+  "AddressLine1": "The White Hart 139 London Road",
+  "AddressLine2": "Holybourne",
+  "AddressLine3": "Alton",
+  "AddressLine4": "Hampshire",
   "PostCode": "GU34 4EY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-08-06",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

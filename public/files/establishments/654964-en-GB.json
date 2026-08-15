@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8926438",
+    "Longitude": "-0.4983909"
+  },
   "AddressLine1": "45 Katherine Drive",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Bedfordshire",

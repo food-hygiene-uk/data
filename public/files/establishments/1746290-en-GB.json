@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9772973",
+    "Longitude": "-0.0306376"
+  },
   "AddressLine1": "Currys",
   "AddressLine2": "12 Trinity Street",
   "AddressLine4": "Boston",

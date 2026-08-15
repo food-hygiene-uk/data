@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.853985",
-    "Longitude": "1.278971"
-  },
+  "Geocode": null,
   "AddressLine1": "Eastcliffe Kiosk",
   "AddressLine2": "East Terrace",
   "AddressLine3": "Walton On The Naze",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
+  "RatingDate": "2026-07-31",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 994477,
-  "BusinessName": "The Orchard, Brambles",
+  "BusinessName": "The Orchard",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000274515",
   "BusinessTypeID": 5,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6925919",
-    "Longitude": "-1.7127871"
-  },
+  "Geocode": null,
   "AddressLine1": "Brambles Childrens Home",
   "AddressLine2": "Roe Head",
   "AddressLine3": "Far Common Road",
@@ -21,9 +18,9 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-14",
+  "RatingDate": "2023-12-19",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 0,
     "ConfidenceInManagement": 0
   }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7951739",
-    "Longitude": "-1.1190704"
-  },
+  "Geocode": null,
   "AddressLine1": "66 High Street",
   "AddressLine2": "Gosport",
   "PostCode": "PO12 1DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

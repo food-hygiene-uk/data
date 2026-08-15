@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.261571",
-    "Longitude": "0.62591"
-  },
+  "Geocode": null,
   "AddressLine1": "32 Eyhorne Street",
   "AddressLine2": "Hollingbourne",
   "AddressLine3": "Kent",
   "PostCode": "ME17 1TR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

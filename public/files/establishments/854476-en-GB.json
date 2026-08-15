@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.186114",
-    "Longitude": "-5.421426"
-  },
+  "Geocode": null,
   "AddressLine1": "Dominos Pizza",
   "AddressLine2": "14 Penpol Terrace",
   "AddressLine3": "Hayle",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

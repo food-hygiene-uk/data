@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.67609635",
-    "Longitude": "1.2231709"
-  },
+  "Geocode": null,
   "AddressLine1": "Fakenham Road",
   "AddressLine2": "Drayton",
   "AddressLine3": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-16",
+  "RatingDate": "2026-08-12",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

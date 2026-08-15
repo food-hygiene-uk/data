@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.221675",
+    "Longitude": "-1.470898"
+  },
   "AddressLine1": "Compton Square",
   "AddressLine2": "Cricketers Way",
   "AddressLine3": "Andover",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.surreyheath.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3148803710938",
-    "Longitude": "-0.750195026397705"
-  },
+  "Geocode": null,
   "AddressLine1": "Bae Systems",
   "AddressLine2": "Lyon Way",
   "AddressLine3": "Frimley",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

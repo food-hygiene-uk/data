@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3786753",
-    "Longitude": "-2.9488227"
-  },
+  "Geocode": null,
   "AddressLine1": "168 Aigburth Road",
   "AddressLine3": "Liverpool",
   "PostCode": "L17 7BR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-01-07",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

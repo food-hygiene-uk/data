@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.975685",
-    "Longitude": "-0.188066"
-  },
+  "Geocode": null,
   "AddressLine1": "King George Iv London Road",
   "AddressLine3": "Baldock",
   "AddressLine4": "Hertfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-16",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

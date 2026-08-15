@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.947115",
-    "Longitude": "-0.278966"
-  },
+  "Geocode": null,
   "AddressLine1": "22 Market Place",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-28",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }
