@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5351336",
+    "Longitude": "-3.6021355"
+  },
   "AddressLine1": "Unit 18 Olympus Business Park Kingsteignton Road Newton Abbot",
   "PostCode": "TQ12 2SN",
   "SchemeType": "FHRS",

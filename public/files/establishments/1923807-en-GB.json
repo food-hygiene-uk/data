@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2246976",
+    "Longitude": "0.1284717"
+  },
   "AddressLine1": "4 Arbury Court",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

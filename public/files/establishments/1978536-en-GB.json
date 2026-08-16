@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2099347",
+    "Longitude": "0.1173736"
+  },
   "AddressLine1": "2 Quayside",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

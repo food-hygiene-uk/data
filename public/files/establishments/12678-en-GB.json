@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.667332",
+    "Longitude": "-3.642146"
+  },
   "AddressLine1": "Sheldon Sheldon Lane Doddiscombsleigh Devon",
   "PostCode": "EX6 7YT",
   "SchemeType": "FHRS",

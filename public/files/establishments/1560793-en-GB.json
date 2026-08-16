@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5318528",
+    "Longitude": "-3.5993717"
+  },
   "AddressLine1": "The Maltings Teign Road Newton Abbot Devon",
   "PostCode": "TQ12 4AA",
   "SchemeType": "FHRS",

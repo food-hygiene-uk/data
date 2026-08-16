@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2032603",
+    "Longitude": "0.1304909"
+  },
   "AddressLine1": "Parkside Police Station Parkside",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

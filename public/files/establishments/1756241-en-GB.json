@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2066875",
+    "Longitude": "0.1184339"
+  },
   "AddressLine1": "15 Trinity Street",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

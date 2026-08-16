@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.729468",
+    "Longitude": "-3.7171148"
+  },
   "AddressLine1": "Springfield Holiday Park Tedburn St Mary",
   "PostCode": "EX6 6EW",
   "SchemeType": "FHRS",

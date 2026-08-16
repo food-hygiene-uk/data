@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2120581",
+    "Longitude": "0.1633936"
+  },
   "AddressLine1": "17 Barnwell Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

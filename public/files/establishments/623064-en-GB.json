@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.425749",
@@ -19,12 +19,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS48 3QT",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-27",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-10",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

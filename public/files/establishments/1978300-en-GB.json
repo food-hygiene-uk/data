@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9619241",
+    "Longitude": "-0.2771235"
+  },
   "AddressLine1": "3 The Mead",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

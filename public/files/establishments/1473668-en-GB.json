@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1873206",
+    "Longitude": "0.128586"
+  },
   "AddressLine1": "Cambridge University Press Shaftesbury Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

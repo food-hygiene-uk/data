@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5055144",
+    "Longitude": "0.0745998"
+  },
   "AddressLine1": "1 - 2 Lower Dock Walk",
   "AddressLine2": "Beckton",
   "AddressLine3": "London",

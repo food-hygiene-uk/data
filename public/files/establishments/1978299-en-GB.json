@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.99046",
+    "Longitude": "-0.188169"
+  },
   "AddressLine1": "17 Whitehorse Street",
   "AddressLine3": "Baldock",
   "AddressLine4": "Hertfordshire",

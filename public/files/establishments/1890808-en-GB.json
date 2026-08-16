@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
   "Geocode": {
     "Latitude": "53.518333",
@@ -18,8 +18,12 @@
   "AddressLine4": "Manchester",
   "PostCode": "M25 0LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

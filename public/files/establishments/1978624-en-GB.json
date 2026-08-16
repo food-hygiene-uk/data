@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4151621",
+    "Longitude": "-2.9140817"
+  },
   "AddressLine1": "50 Derby Lane",
   "AddressLine3": "Liverpool",
   "PostCode": "L13 3DL",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2068235",
+    "Longitude": "0.1368379"
+  },
   "AddressLine1": "Cambridge Crown Court 83 East Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

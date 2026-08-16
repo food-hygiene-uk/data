@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.200598",
+    "Longitude": "0.1355001"
+  },
   "AddressLine1": "56 Mill Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

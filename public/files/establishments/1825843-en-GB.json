@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4576347",
+    "Longitude": "-3.5475571"
+  },
   "AddressLine1": "Cockington Lane Torquay Devon",
   "PostCode": "TQ2 6QT",
   "SchemeType": "FHRS",

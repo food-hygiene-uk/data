@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "312",
   "LocalAuthorityName": "Surrey Heath",
   "LocalAuthorityWebSite": "http://www.surreyheath.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
   "Geocode": {
     "Latitude": "51.3354484",
@@ -18,12 +18,12 @@
   "AddressLine3": "Surrey",
   "PostCode": "GU15 3PU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2048266",
+    "Longitude": "0.1204089"
+  },
   "AddressLine1": "3 Lion Yard",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

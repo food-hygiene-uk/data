@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.707813",
+    "Longitude": "-0.111498"
+  },
   "AddressLine1": "40 Station Road",
   "AddressLine2": "Potters Bar",
   "AddressLine3": "Hertfordshire",

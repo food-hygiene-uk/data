@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "524",
   "LocalAuthorityName": "Merton",
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
     "Latitude": "51.3973941",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-04",
+  "RatingDate": "2026-07-10",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

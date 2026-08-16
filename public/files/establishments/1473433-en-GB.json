@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2099702",
+    "Longitude": "0.089638"
+  },
   "AddressLine1": "The Nursery 8 Charles Babbage Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

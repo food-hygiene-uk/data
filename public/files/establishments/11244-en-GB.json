@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.534163",
+    "Longitude": "-3.602253"
+  },
   "AddressLine1": "Unit 1 Wharf House Wharf Road Newton Abbot Devon",
   "PostCode": "TQ12 2DA",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "075",
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
   "Geocode": null,
   "AddressLine1": "Highwood",
@@ -16,8 +16,12 @@
   "AddressLine4": "Ilfracombe",
   "PostCode": "EX34 0DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

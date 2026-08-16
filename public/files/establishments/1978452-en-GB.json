@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5589668",
+    "Longitude": "-3.5085754"
+  },
   "AddressLine1": "71 - 73 Higher Coombe Drive Teignmouth",
   "PostCode": "TQ14 9NL",
   "SchemeType": "FHRS",

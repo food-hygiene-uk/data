@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "062",
   "LocalAuthorityName": "Amber Valley",
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
   "Geocode": {
     "Latitude": "53.100963",
@@ -16,12 +16,12 @@
   "AddressLine1": "Firs Avenue Alfreton Derbyshire",
   "PostCode": "DE55 7EN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
