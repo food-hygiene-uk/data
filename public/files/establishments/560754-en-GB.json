@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.280823",
+    "Longitude": "-5.715251"
+  },
   "AddressLine2": "Station Road",
   "AddressLine3": "Kyle of Lochalsh",
   "PostCode": "IV40 8AE",

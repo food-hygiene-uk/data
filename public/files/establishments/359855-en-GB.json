@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.819086",
+    "Longitude": "-5.10174"
+  },
   "AddressLine1": "Charlecote",
   "AddressLine2": "Alma Road",
   "AddressLine3": "Fort William",

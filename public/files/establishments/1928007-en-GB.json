@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.arun.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@arun.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8328962",
-    "Longitude": "-0.6415601"
-  },
+  "Geocode": null,
   "AddressLine1": "The Hollies 84 Barnham Road",
   "AddressLine3": "Eastergate",
   "AddressLine4": "West Sussex",
   "PostCode": "PO22 0ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

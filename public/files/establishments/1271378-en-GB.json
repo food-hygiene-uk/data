@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.1720733642578",
-    "Longitude": "-6.7251148223877"
-  },
+  "Geocode": null,
   "AddressLine1": "117 Strand Road",
   "AddressLine2": "East Crossreagh",
   "AddressLine3": "Portstewart",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-17",
-  "Scores": null
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.691096",
+    "Longitude": "-5.588856"
+  },
   "AddressLine2": "Strontian",
   "AddressLine3": "Acharacle",
   "PostCode": "PH36 4HY",

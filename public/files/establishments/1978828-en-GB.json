@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6050014",
+    "Longitude": "-5.2998489"
+  },
   "AddressLine2": "6 Siloch Terrace",
   "AddressLine3": "Kinlochewe",
   "PostCode": "IV22 2PB",

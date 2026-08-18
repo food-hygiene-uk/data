@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4423521",
+    "Longitude": "-4.2545698"
+  },
   "AddressLine2": "54 Tarradale Place",
   "AddressLine3": "Inverness",
   "PostCode": "IV2 6FZ",

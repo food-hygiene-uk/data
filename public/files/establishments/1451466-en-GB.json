@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.brentwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@brentwood.gov.uk",
-  "Geocode": {
-    "Latitude": "51.621319",
-    "Longitude": "0.2969"
-  },
+  "Geocode": null,
   "AddressLine1": "Club House",
   "AddressLine2": "Bardeswell Close",
   "AddressLine3": "Brentwood",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-08",
+  "RatingDate": "2026-08-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

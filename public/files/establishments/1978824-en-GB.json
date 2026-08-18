@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8429011",
+    "Longitude": "-5.086441"
+  },
   "AddressLine2": "40 The Grazings",
   "AddressLine3": "Fort William",
   "PostCode": "PH33 7EJ",

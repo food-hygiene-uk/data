@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.arun.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@arun.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8413394",
-    "Longitude": "-0.539433"
-  },
+  "Geocode": null,
   "AddressLine1": "The Brewhouse Project Lyminster Road",
   "AddressLine3": "Lyminster",
   "AddressLine4": "West Sussex",
   "PostCode": "BN17 7QN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

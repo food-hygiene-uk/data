@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9161529541016",
-    "Longitude": "-2.18308591842651"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Fountain Street",
   "AddressLine2": "Barnoldswick",
   "AddressLine3": "Lancashire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-13",
+  "RatingDate": "2026-08-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.1461781",
-    "Longitude": "-6.6478518"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 8 Gateside Business Park",
   "AddressLine2": "Boghill",
   "AddressLine3": "Coleraine",
   "AddressLine4": "Londonderry",
   "PostCode": "BT52 2RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

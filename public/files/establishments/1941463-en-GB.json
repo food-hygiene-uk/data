@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.oadby-wigston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@oadby-wigston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.601761",
-    "Longitude": "-1.083002"
-  },
+  "Geocode": null,
   "AddressLine1": "15 Stoughton Road",
   "AddressLine2": "Oadby",
   "AddressLine3": "Leicestershire",
   "PostCode": "LE2 4DS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

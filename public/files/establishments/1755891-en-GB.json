@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.311344",
-    "Longitude": "0.637908"
-  },
+  "Geocode": null,
   "AddressLine1": "West Stow Anglo Saxon Village And Country Park",
   "AddressLine2": "Icklingham Road",
   "AddressLine3": "West Stow",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-23",
+  "RatingDate": "2023-09-07",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

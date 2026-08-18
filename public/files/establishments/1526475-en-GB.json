@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3414035",
-    "Longitude": "0.5738372"
-  },
+  "Geocode": null,
   "AddressLine1": "28B Hempstead Valley Shopping Centre",
   "AddressLine2": "Hempstead Valley Drive",
   "AddressLine3": "Hempstead",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-21",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

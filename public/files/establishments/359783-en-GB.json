@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.882784",
+    "Longitude": "-4.028303"
+  },
   "AddressLine1": "Unit 5d",
   "AddressLine2": "Station Road",
   "AddressLine3": "Dornoch",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.590457",
+    "Longitude": "-3.519583"
+  },
   "AddressLine2": "Millbank Road",
   "AddressLine3": "Thurso",
   "AddressLine4": "Highland",

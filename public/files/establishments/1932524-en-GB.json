@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3392844",
-    "Longitude": "0.5262181"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Sherwood House",
   "AddressLine2": "Walderslade Road",
   "AddressLine3": "Walderslade",
   "AddressLine4": "Chatham",
   "PostCode": "ME5 9UD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

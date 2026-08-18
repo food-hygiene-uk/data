@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.974492",
+    "Longitude": "-3.977258"
+  },
   "AddressLine2": "Fountain Road Car Park",
   "AddressLine3": "Main Street",
   "AddressLine4": "Golspie Sutherland",

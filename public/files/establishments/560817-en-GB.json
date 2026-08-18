@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.341414",
+    "Longitude": "-5.566806"
+  },
   "AddressLine1": "Achmore Village Halll",
   "AddressLine3": "Achmore Strome Ferry",
   "AddressLine4": "Ross-Shire",

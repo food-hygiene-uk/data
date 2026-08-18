@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2225264",
-    "Longitude": "-0.9535277"
-  },
+  "Geocode": null,
   "AddressLine1": "62 Mayfly Road",
   "AddressLine2": "Pineham",
   "AddressLine3": "Northampton",
   "AddressLine4": "NN4 9EQ",
   "PostCode": "NN4 9EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

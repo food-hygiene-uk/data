@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.431543",
+    "Longitude": "-3.096774"
+  },
   "AddressLine2": "Unit 4 Wick Retail Park",
   "AddressLine3": "South Road",
   "AddressLine4": "Wick Caithness",

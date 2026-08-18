@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9390924",
-    "Longitude": "0.4903141"
-  },
+  "Geocode": null,
   "AddressLine1": "63 - 65 Westgate",
   "AddressLine2": "Hunstanton",
   "AddressLine3": "Norfolk",
   "PostCode": "PE36 5EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

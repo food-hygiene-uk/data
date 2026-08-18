@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.484975",
+    "Longitude": "-4.235338"
+  },
   "AddressLine2": "54 Grant Street",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

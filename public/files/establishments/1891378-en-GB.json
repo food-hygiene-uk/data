@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2286109924316",
-    "Longitude": "-0.864161014556885"
-  },
+  "Geocode": null,
   "AddressLine1": "Old Bedford Road",
   "AddressLine2": "Waterside",
   "AddressLine3": "Northampton",
   "AddressLine4": "NN4 7AA",
   "PostCode": "NN4 7AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

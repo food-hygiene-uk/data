@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.837594",
+    "Longitude": "-5.105666"
+  },
   "AddressLine1": "Deli Barqen Takeaway Caol Shopping Centre",
   "AddressLine2": "Glenloy Street",
   "AddressLine3": "Caol",

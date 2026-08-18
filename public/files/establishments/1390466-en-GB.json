@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.8960535",
+    "Longitude": "-5.1595959"
+  },
   "AddressLine2": "27 Argyle Street",
   "AddressLine3": "Ullapool",
   "AddressLine4": "Highland",

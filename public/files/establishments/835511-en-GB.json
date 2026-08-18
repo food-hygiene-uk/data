@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.130164",
-    "Longitude": "-6.676031"
-  },
+  "Geocode": null,
   "AddressLine1": "7-13 Strand Road",
   "AddressLine2": "Churchland",
   "AddressLine3": "Coleraine",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-10-15",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

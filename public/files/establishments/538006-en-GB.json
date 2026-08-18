@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.621495",
+    "Longitude": "-6.377719"
+  },
   "AddressLine2": "19 Linicro",
   "AddressLine3": "Kilmuir",
   "AddressLine4": "By Uig Isle of Skye",

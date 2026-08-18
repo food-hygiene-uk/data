@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.arun.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@arun.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8541444",
-    "Longitude": "-0.5552016"
-  },
+  "Geocode": null,
   "AddressLine1": "25B Tarrant Street",
   "AddressLine3": "Arundel",
   "AddressLine4": "West Sussex",
   "PostCode": "BN18 9DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

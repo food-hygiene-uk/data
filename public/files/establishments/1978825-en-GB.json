@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4449296",
+    "Longitude": "-4.2221549"
+  },
   "AddressLine2": "135 Holm Farm Road",
   "AddressLine3": "Culduthel",
   "AddressLine4": "Inverness",

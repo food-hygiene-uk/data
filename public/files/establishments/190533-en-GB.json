@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.132485",
-    "Longitude": "-0.17467"
-  },
+  "Geocode": null,
   "AddressLine1": "Ibis Gatwick Hotel",
   "AddressLine2": "London Road",
   "AddressLine3": "Northgate",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-06",
+  "RatingDate": "2026-08-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

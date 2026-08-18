@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.5922519",
+    "Longitude": "-3.5247737"
+  },
   "AddressLine2": "48 Princes Street",
   "AddressLine3": "Thurso",
   "AddressLine4": "Highland",

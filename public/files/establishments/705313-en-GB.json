@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3940162658691",
-    "Longitude": "0.562758982181549"
-  },
+  "Geocode": null,
   "AddressLine1": "Outdoor Swimming Pool",
   "AddressLine2": "The Strand Leisure Pool And Park",
   "AddressLine3": "Strand Approach Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2732403",
-    "Longitude": "-0.8653816"
-  },
+  "Geocode": null,
   "AddressLine1": "29 Darnell Way",
   "AddressLine2": "Off Talavera Way",
   "AddressLine3": "Northampton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-11-20",
+  "RatingDate": "2026-02-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

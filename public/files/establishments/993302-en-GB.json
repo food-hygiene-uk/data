@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8001937866211",
-    "Longitude": "-2.76464200019836"
-  },
+  "Geocode": null,
   "AddressLine1": "Penyclawdd & Llangovan Village Hall",
   "AddressLine2": "Penyclawd",
   "AddressLine4": "Monmouth",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-01-21",
+  "RatingDate": "2026-07-16",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

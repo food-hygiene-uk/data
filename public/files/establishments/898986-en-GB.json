@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "529",
   "LocalAuthorityName": "Sutton",
   "LocalAuthorityWebSite": "http://www.sutton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
   "Geocode": {
     "Latitude": "51.384738",
@@ -17,12 +17,12 @@
   "AddressLine2": "Carshalton",
   "PostCode": "SM5 1HA",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-14",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 20,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

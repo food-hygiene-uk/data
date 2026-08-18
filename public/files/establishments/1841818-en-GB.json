@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.3247244",
+    "Longitude": "-3.6203771"
+  },
   "AddressLine1": "Unit 14 Woodlands Industrial Estate",
   "AddressLine2": "Woodlands Terrace",
   "AddressLine3": "Grantown-On-Spey",

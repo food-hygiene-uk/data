@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.280823",
+    "Longitude": "-5.715251"
+  },
   "AddressLine1": "Lochalsh Butchers",
   "AddressLine2": "Station Road",
   "AddressLine3": "Kyle",

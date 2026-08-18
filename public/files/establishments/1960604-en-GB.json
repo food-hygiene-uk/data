@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4565746",
-    "Longitude": "0.0121407"
-  },
+  "Geocode": null,
   "AddressLine1": "1A Eltham Road",
   "AddressLine3": "Eltham",
   "AddressLine4": "Greenwich",
   "PostCode": "SE12 8ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

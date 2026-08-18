@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.245575",
-    "Longitude": "0.716631"
-  },
+  "Geocode": null,
   "AddressLine1": "24 Angel Hill",
   "AddressLine2": "Bury St Edmunds",
   "AddressLine3": "Suffolk",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-23",
-  "Scores": null
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

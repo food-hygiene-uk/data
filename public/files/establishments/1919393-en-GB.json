@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.514828",
-    "Longitude": "-2.127345"
-  },
+  "Geocode": null,
   "AddressLine1": "51 Central Drive",
   "AddressLine2": "Lower Gornal",
   "AddressLine3": "Dudley",
   "PostCode": "DY3 2QE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-01-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

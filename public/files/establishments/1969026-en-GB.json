@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4238982",
-    "Longitude": "-2.26681455"
-  },
+  "Geocode": null,
   "AddressLine1": "CHORLTON WATER PARK",
   "AddressLine2": "MAITLAND AVENUE",
   "AddressLine3": "MANCHESTER",
   "PostCode": "M21 7WH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

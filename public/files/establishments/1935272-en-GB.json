@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8928211",
-    "Longitude": "-1.1598242"
-  },
+  "Geocode": null,
   "AddressLine1": "142 Pingle Drive",
   "AddressLine3": "Bicester",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX26 6EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

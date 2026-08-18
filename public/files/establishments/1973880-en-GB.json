@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7551195",
-    "Longitude": "0.3972357"
-  },
+  "Geocode": null,
   "AddressLine1": "44 Broad Street",
   "AddressLine2": "King's Lynn",
   "AddressLine3": "Norfolk",
   "PostCode": "PE30 1DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

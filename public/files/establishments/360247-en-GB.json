@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.821232",
+    "Longitude": "-5.096393"
+  },
   "AddressLine2": "Glen Nevis Place",
   "AddressLine3": "Fort William",
   "AddressLine4": "Highland",

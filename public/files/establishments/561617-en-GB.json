@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.593006",
+    "Longitude": "-3.524356"
+  },
   "AddressLine1": "Bin Ends",
   "AddressLine2": "42 Princes Street",
   "AddressLine3": "Thurso",

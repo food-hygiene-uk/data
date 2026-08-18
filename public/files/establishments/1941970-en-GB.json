@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3472663",
-    "Longitude": "0.5037945"
-  },
+  "Geocode": null,
   "AddressLine1": "Rochester City Airport",
   "AddressLine2": "Maidstone Road",
   "AddressLine3": "Chatham",
   "AddressLine4": "Medway",
   "PostCode": "ME5 9SD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

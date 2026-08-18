@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4062",
+    "Longitude": "-6.200682"
+  },
   "AddressLine2": "Viewfield Road",
   "AddressLine3": "Portree",
   "AddressLine4": "Highland",

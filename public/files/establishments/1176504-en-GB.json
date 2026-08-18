@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.8910162",
+    "Longitude": "-4.3510389"
+  },
   "AddressLine2": "South Bonar Ind. Estate",
   "AddressLine3": "Bonar Bridge",
   "AddressLine4": "Sutherland.",

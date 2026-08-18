@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.811843",
+    "Longitude": "-4.055122"
+  },
   "AddressLine2": "23 High Street",
   "AddressLine3": "Tain",
   "AddressLine4": "Ross-Shire",

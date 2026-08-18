@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.472331",
+    "Longitude": "-4.187733"
+  },
   "AddressLine1": "Inshes Gate Brewers Fayre & Premier Inn",
   "AddressLine2": "Beechwood Park",
   "AddressLine3": "Inverness",

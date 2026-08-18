@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.6035338",
+    "Longitude": "-3.2575083"
+  },
   "AddressLine1": "2 Lochend Holding",
   "AddressLine2": "Lochend Road",
   "AddressLine3": "Barrock",

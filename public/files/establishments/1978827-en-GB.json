@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4792886",
+    "Longitude": "-4.2267944"
+  },
   "AddressLine2": "18 Queensgate",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

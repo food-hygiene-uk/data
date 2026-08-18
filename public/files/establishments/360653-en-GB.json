@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.819332",
+    "Longitude": "-5.109153"
+  },
   "AddressLine2": "4 Tweedale",
   "AddressLine3": "High Street",
   "AddressLine4": "Fort William",

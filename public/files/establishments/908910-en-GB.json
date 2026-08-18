@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.west-norfolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhygieneandsafety@west-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7569808959961",
-    "Longitude": "0.294964998960495"
-  },
+  "Geocode": null,
   "AddressLine1": "30 Marshland Street",
   "AddressLine2": "Terrington St Clement",
   "AddressLine3": "King's Lynn",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-23",
+  "RatingDate": "2026-08-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.820458",
+    "Longitude": "-5.106197"
+  },
   "AddressLine2": "Travel Centre",
   "AddressLine3": "An Aird",
   "AddressLine4": "Fort William",

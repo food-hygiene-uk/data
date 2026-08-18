@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.741614",
+    "Longitude": "-5.78769"
+  },
   "AddressLine2": "Acharacle",
   "PostCode": "PH36 4JL",
   "SchemeType": "FHIS",

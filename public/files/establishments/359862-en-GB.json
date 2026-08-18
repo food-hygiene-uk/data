@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.811732",
+    "Longitude": "-5.12124"
+  },
   "AddressLine1": "Lochaber Yacht Club",
   "AddressLine2": "Achintore Road",
   "AddressLine3": "Fort William",

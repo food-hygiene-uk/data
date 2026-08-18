@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.1807416",
+    "Longitude": "-3.7274457"
+  },
   "AddressLine1": "Outdoor Dementia Resource Centre",
   "AddressLine2": "Badaguish Outdoor Centre",
   "AddressLine3": "Glenmore",

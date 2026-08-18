@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.972023",
+    "Longitude": "-5.823195"
+  },
   "AddressLine2": "The Garage",
   "AddressLine3": "Morar",
   "AddressLine4": "Inverness-shire",

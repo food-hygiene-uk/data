@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.062261",
+    "Longitude": "-5.903249"
+  },
   "AddressLine2": "Filling Station",
   "AddressLine3": "Armadale",
   "AddressLine4": "Sleat",

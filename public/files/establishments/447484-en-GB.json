@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.629613",
-    "Longitude": "1.291826"
-  },
+  "Geocode": null,
   "AddressLine1": "28 Lower Goat Lane",
   "AddressLine2": "Norwich",
   "PostCode": "NR2 1EL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-27",
-  "Scores": null
+  "RatingDate": "2024-05-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

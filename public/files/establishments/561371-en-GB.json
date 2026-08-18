@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.901887",
+    "Longitude": "-6.14277"
+  },
   "AddressLine2": "Isle of Eigg",
   "PostCode": "PH42 4RL",
   "SchemeType": "FHIS",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.medway.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
-  "Geocode": {
-    "Latitude": "51.389393",
-    "Longitude": "0.568207"
-  },
+  "Geocode": null,
   "AddressLine1": "162 Grange Road",
   "AddressLine2": "Gillingham",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-20",
+  "RatingDate": "2026-05-16",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

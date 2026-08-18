@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.164241",
-    "Longitude": "-6.786796"
-  },
+  "Geocode": null,
   "AddressLine1": "26 Sea Road",
   "AddressLine2": "Bogtown",
   "AddressLine3": "Castlerock",
   "AddressLine4": "Londonderry",
   "PostCode": "BT51 4TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

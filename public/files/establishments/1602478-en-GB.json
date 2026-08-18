@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": {
-    "Latitude": "51.493227",
-    "Longitude": "0.0618743"
-  },
+  "Geocode": null,
   "AddressLine1": "186 Powis Street",
   "AddressLine3": "Woolwich",
   "AddressLine4": "Greenwich",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-04-11",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

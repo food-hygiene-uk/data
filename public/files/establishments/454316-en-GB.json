@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.560756",
+    "Longitude": "-4.716258"
+  },
   "AddressLine1": "Smoo Cave Hotel",
   "AddressLine2": "Smoo",
   "AddressLine3": "Durness",

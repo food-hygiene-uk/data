@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.448686",
+    "Longitude": "-4.226539"
+  },
   "AddressLine2": "Culduthel Road",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

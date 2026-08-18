@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.160824",
-    "Longitude": "-0.1779461"
-  },
+  "Geocode": null,
   "AddressLine1": "North Terminal Airside",
   "AddressLine2": "Departures Road",
   "AddressLine3": "Gatwick",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-11",
-  "Scores": null
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gloucester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "community.wellbeing@gloucester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8647133",
-    "Longitude": "-2.2412825"
-  },
+  "Geocode": null,
   "AddressLine1": "Lister House",
   "AddressLine2": "Station Road",
   "AddressLine3": "Gloucester",
   "PostCode": "GL1 1DH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-04-08",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

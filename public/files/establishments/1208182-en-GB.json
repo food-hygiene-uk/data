@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5999221801758",
+    "Longitude": "-4.44451999664307"
+  },
   "AddressLine1": "West End",
   "AddressLine2": "Strathpeffer Road",
   "AddressLine3": "Dingwall",

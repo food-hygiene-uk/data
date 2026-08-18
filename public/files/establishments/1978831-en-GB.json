@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5667149",
+    "Longitude": "-4.4350847"
+  },
   "AddressLine2": "4 Fraser Street",
   "AddressLine3": "Conon Bridge",
   "PostCode": "IV7 8BW",

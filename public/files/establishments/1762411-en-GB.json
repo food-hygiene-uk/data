@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.491456",
-    "Longitude": "0.146624"
-  },
+  "Geocode": null,
   "AddressLine1": "18 Gilbert Road",
   "AddressLine2": "Belvedere",
   "AddressLine3": "Kent",
   "PostCode": "DA17 5DA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-10-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-04",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.521443",
-    "Longitude": "-0.47606"
-  },
+  "Geocode": null,
   "AddressLine2": "121 Moorfield Road",
   "AddressLine4": "Uxbridge",
   "PostCode": "UB8 3SH",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-04",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-06",
   "Scores": {
     "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 30
   }
 }

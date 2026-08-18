@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.455863",
-    "Longitude": "0.146134"
-  },
+  "Geocode": null,
   "AddressLine1": "Central Mall",
   "AddressLine2": "The Mall",
   "AddressLine3": "Bexleyheath",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1972260,
-  "BusinessName": "Ogden Road Spud Bros",
+  "BusinessName": "Spud Bros",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9103346",
   "BusinessTypeID": 1,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5450396",
-    "Longitude": "-1.082578"
-  },
+  "Geocode": null,
   "AddressLine1": "Ogden Road Petrol Station Unit A Ogden Road",
   "AddressLine2": "Wheatley Hills",
   "AddressLine3": "Doncaster",
   "PostCode": "DN2 4SS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

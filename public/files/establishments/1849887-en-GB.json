@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8268695",
+    "Longitude": "-5.092072"
+  },
   "AddressLine2": "16 Locheil Road",
   "AddressLine3": "Inverlochy",
   "AddressLine4": "Fort William",
