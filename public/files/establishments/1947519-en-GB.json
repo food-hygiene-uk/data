@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3902256",
-    "Longitude": "0.109336"
-  },
+  "Geocode": null,
   "AddressLine1": "Access Self Storage Access House Cray Avenue",
   "AddressLine3": "Orpington",
   "PostCode": "BR5 3QB",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

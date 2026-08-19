@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1936515",
-    "Longitude": "-2.8930486"
-  },
+  "Geocode": null,
   "AddressLine1": "132 Northgate Street",
   "AddressLine3": "Chester",
   "AddressLine4": "Cheshire",
   "PostCode": "CH1 2HT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-08-20",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

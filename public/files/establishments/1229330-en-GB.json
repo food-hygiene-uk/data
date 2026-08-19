@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4576114",
-    "Longitude": "-1.00031"
-  },
+  "Geocode": null,
   "AddressLine1": "513 Oxford Road",
   "AddressLine2": "Reading",
   "PostCode": "RG30 1HF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

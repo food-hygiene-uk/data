@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9742213",
+    "Longitude": "-1.6144725"
+  },
   "AddressLine1": "1 Eldon Square",
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE1 7JG",

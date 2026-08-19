@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.769625",
+    "Longitude": "0.09398"
+  },
   "AddressLine1": "32 Broad Walk",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

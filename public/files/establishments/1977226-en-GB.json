@@ -1,24 +1,25 @@
 {
   "FHRSID": 1977226,
-  "BusinessName": "The New Pot Oil",
+  "BusinessName": "New Pot Oil",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000236619",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6982307434082",
-    "Longitude": "-1.52463805675507"
-  },
+  "Geocode": null,
   "AddressLine1": "Wrenthorpe Road",
   "AddressLine2": "Wakefield",
   "PostCode": "WF2 0JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

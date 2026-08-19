@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.852987",
-    "Longitude": "-2.1927712"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1",
   "AddressLine2": "Silk Way Business Park",
   "AddressLine3": "Whitewalls Drive",
   "AddressLine4": "Colne",
   "PostCode": "BB8 9FJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "408",
   "LocalAuthorityName": "Doncaster",
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
   "Geocode": {
     "Latitude": "53.4713281",
@@ -18,12 +18,12 @@
   "AddressLine3": "Doncaster",
   "PostCode": "DN11 0RE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-14",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

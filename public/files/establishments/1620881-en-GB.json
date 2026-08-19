@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stirling.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@stirling.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.19166568",
+    "Longitude": "-4.03843801"
+  },
   "AddressLine1": "Doune",
   "PostCode": "FK16 6AB",
   "SchemeType": "FHIS",

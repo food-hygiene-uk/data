@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.2032374",
+    "Longitude": "-2.218299"
+  },
   "AddressLine2": "Howe Moss Drive",
   "PostCode": "AB21 0FN",
   "SchemeType": "FHIS",

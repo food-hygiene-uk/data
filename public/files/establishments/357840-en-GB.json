@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3132095",
-    "Longitude": "0.0340838"
-  },
+  "Geocode": null,
   "AddressLine1": "167 Main Road",
   "AddressLine3": "Biggin Hill",
   "PostCode": "TN16 3JR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-26",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

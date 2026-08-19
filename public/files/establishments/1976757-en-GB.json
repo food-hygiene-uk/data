@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4395734",
-    "Longitude": "-0.9671089"
-  },
+  "Geocode": null,
   "AddressLine1": "75 Basingstoke Road",
   "AddressLine2": "Reading",
   "PostCode": "RG2 0ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-10",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

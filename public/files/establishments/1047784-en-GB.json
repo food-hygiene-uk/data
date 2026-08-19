@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.774169921875",
+    "Longitude": "0.092799000442028"
+  },
   "AddressLine1": "Sainsbury's",
   "AddressLine2": "Fifth Avenue",
   "AddressLine3": "Harlow",

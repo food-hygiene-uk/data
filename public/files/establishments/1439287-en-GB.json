@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9867669",
+    "Longitude": "-1.611194"
+  },
   "AddressLine1": "The Fleming Business Centre Burdon Terrace",
   "AddressLine3": "Newcastle Upon Tyne",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.13324",
+    "Longitude": "-1.467307"
+  },
   "AddressLine1": "Leckford Lane",
   "AddressLine2": "Leckford",
   "AddressLine3": "Stockbridge",

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0615841",
-    "Longitude": "-1.3359167"
-  },
+  "Geocode": null,
   "AddressLine1": "9 High Street",
   "AddressLine3": "Banbury",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX16 5DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

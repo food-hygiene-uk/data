@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "317",
   "LocalAuthorityName": "North Warwickshire",
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Bull Coleshill Road",
@@ -15,8 +15,12 @@
   "AddressLine4": "Warwickshire",
   "PostCode": "B46 2LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

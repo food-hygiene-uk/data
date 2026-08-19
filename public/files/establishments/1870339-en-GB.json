@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2756999",
-    "Longitude": "-2.8279744"
-  },
+  "Geocode": null,
   "AddressLine1": "University Of Chester Thornton Science Park Pool Lane",
   "AddressLine2": "Ince",
   "AddressLine3": "Chester",
   "AddressLine4": "Cheshire",
   "PostCode": "CH2 4NU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

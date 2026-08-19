@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.478893",
-    "Longitude": "-0.958719"
-  },
+  "Geocode": null,
   "AddressLine1": "24 Peppard Road Emmer Green",
   "AddressLine2": "Reading",
   "PostCode": "RG4 8NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

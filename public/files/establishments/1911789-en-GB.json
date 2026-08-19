@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5611558",
-    "Longitude": "0.0850776"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2 Kensway House",
   "AddressLine2": "388 High Road",
   "AddressLine4": "Ilford",
   "PostCode": "IG1 1TL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

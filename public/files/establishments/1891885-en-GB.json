@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2239045",
-    "Longitude": "-2.8238626"
-  },
-  "AddressLine1": "5 Cedars Close",
-  "AddressLine2": "Mickle Trafford",
-  "AddressLine3": "Chester",
-  "AddressLine4": "Cheshire",
-  "PostCode": "CH2 4BF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9354166",
-    "Longitude": "0.2444015"
-  },
+  "Geocode": null,
   "AddressLine1": "The Horam Emporium The Oaks High Street",
   "AddressLine3": "Horam",
   "AddressLine4": "East Sussex",
   "PostCode": "TN21 0ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

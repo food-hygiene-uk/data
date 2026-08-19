@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.970549",
-    "Longitude": "-2.45949"
-  },
+  "Geocode": null,
   "AddressLine1": "Main Street",
   "AddressLine2": "Haltwhistle",
   "AddressLine3": "Northumberland",
   "PostCode": "NE49 0AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9760648",
+    "Longitude": "-1.6569806"
+  },
   "AddressLine1": "200 Canning Street",
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE4 8UJ",

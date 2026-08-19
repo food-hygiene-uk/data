@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": {
-    "Latitude": "54.7506752",
-    "Longitude": "-1.6194381"
-  },
+  "Geocode": null,
   "AddressLine1": "10 FREDERICK STREET SOUTH",
   "AddressLine3": "MEADOWFIELD",
   "PostCode": "DH7 8LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-06-26",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

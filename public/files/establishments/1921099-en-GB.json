@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5791511535645",
-    "Longitude": "0.081387996673584"
-  },
+  "Geocode": null,
   "AddressLine1": "St Laurences Vicarage",
   "AddressLine2": "Donington Avenue",
   "AddressLine4": "Barkingside",
   "PostCode": "IG6 1AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

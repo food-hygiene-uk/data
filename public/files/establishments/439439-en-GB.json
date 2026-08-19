@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.211844",
+    "Longitude": "-1.515978"
+  },
   "AddressLine1": "Unit 7",
   "AddressLine2": "Andover Trade Park",
   "AddressLine3": "Joule Road",

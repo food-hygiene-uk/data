@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.883703",
-    "Longitude": "-2.074701"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit E",
   "AddressLine2": "Churchill Industrial Estate",
   "AddressLine3": "Churchill Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-20",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

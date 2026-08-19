@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.denbighshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@denbighshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3175163269043",
-    "Longitude": "-3.4088339805603"
-  },
+  "Geocode": null,
   "AddressLine1": "23 Ffordd Talargoch",
   "AddressLine2": "Meliden",
   "AddressLine3": "Prestatyn",
   "AddressLine4": "Denbighshire",
   "PostCode": "LL19 8LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3229942321777",
-    "Longitude": "-1.91197097301483"
-  },
+  "Geocode": null,
   "AddressLine1": "Thornbrook Road",
   "AddressLine2": "Chapel-En-Le-Frith",
   "AddressLine3": "High Peak",
   "PostCode": "SK23 0LX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

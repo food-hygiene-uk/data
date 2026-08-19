@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.114077",
+    "Longitude": "-1.493442"
+  },
   "AddressLine1": "Thyme And Tides",
   "AddressLine2": "Grosvenor Garage",
   "AddressLine3": "High Street",

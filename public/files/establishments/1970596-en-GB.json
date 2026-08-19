@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7578021",
+    "Longitude": "0.0712882"
+  },
   "AddressLine1": "Katherines Hatch Common Room",
   "AddressLine2": "Katherines Hatch",
   "AddressLine3": "Harlow",

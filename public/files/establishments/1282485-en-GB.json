@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4709988",
+    "Longitude": "-3.2252129"
+  },
   "AddressLine1": "102A High Street  Aberlour  Moray",
   "PostCode": "AB38 9QA",
   "SchemeType": "FHIS",

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1975287,
-  "BusinessName": "ARZ SUPERSTORE",
+  "BusinessName": "ARZ Superstore",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "152164",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.53956",
@@ -17,8 +17,12 @@
   "AddressLine4": "Uxbridge",
   "PostCode": "UB8 2LX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

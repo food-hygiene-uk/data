@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.511769",
@@ -17,12 +17,12 @@
   "AddressLine2": "Southall",
   "PostCode": "UB1 1QF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 5
   }
 }

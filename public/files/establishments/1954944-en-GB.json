@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sthelens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@sthelens.gov.uk",
-  "Geocode": {
-    "Latitude": "53.503271",
-    "Longitude": "-2.789303"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Ormskirk Road",
   "AddressLine3": "Rainford",
   "PostCode": "WA11 8BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-01-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

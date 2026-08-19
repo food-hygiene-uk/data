@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9800706",
+    "Longitude": "-1.6189007"
+  },
   "AddressLine1": "Victoria Wing Royal Victoria Infirmary Queen Victoria Road",
   "AddressLine3": "Newcastle Upon Tyne",
   "SchemeType": "FHRS",

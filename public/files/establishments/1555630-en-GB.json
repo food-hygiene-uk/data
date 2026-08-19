@@ -8,7 +8,10 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.482056",
+    "Longitude": "-2.122362"
+  },
   "AddressLine1": "Albion Street",
   "AddressLine2": "Brierley Hill",
   "PostCode": "DY5 3EE",

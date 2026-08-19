@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9709183",
+    "Longitude": "-1.6186121"
+  },
   "AddressLine1": "88 Clayton Street",
   "AddressLine3": "Newcastle Upon Tyne",
   "SchemeType": "FHRS",

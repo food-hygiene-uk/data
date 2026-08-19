@@ -1,6 +1,6 @@
 {
   "FHRSID": 1091953,
-  "BusinessName": "Happy Holidays (Hunger Scheme)",
+  "BusinessName": "Health Holidays Leeds",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "18/00888/COMM",
   "BusinessTypeID": 1,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7971427",
-    "Longitude": "-1.5882135"
-  },
+  "Geocode": null,
   "AddressLine1": "Armley Library",
   "AddressLine2": "Stocks Hill",
   "AddressLine3": "Armley",
   "AddressLine4": "Leeds",
   "PostCode": "LS12 1UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

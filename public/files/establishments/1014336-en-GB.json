@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4572642",
-    "Longitude": "-0.9986192"
-  },
+  "Geocode": null,
   "AddressLine1": "465 Oxford Road",
   "AddressLine2": "Reading",
   "PostCode": "RG30 1HF",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2026-07-09",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

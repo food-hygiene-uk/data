@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0615604",
-    "Longitude": "1.1265343"
-  },
+  "Geocode": null,
   "AddressLine1": "11 Arkwright Road",
   "AddressLine2": "Ipswich",
   "AddressLine3": "Suffolk",
   "PostCode": "IP2 0UB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

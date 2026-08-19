@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4472152",
+    "Longitude": "-3.1294563"
+  },
   "AddressLine1": "50 Balvenie Street  Dufftown  Keith  Moray",
   "PostCode": "AB55 4AS",
   "SchemeType": "FHIS",

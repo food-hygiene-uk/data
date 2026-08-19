@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4604966",
-    "Longitude": "-1.035614"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Norcot Road",
   "AddressLine2": "Tilehurst",
   "AddressLine3": "Reading",
   "PostCode": "RG30 6BU",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-05-01",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

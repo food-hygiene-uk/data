@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.608497",
-    "Longitude": "0.105506"
-  },
+  "Geocode": null,
   "AddressLine2": "163 Manford Way",
   "AddressLine4": "Chigwell",
   "PostCode": "IG7 4DN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-06-17",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

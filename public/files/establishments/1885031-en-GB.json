@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.14781125",
+    "Longitude": "-2.084436"
+  },
   "AddressLine2": "Miller Street Aberdeen",
   "PostCode": "AB11 5AN",
   "SchemeType": "FHIS",

@@ -14,8 +14,12 @@
   "AddressLine3": "Newcastle Upon Tyne",
   "PostCode": "NE6 2NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2025-07-24",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
+  }
 }

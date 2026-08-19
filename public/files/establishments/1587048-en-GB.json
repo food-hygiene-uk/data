@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.67815697",
+    "Longitude": "-3.50293563"
+  },
   "AddressLine1": "Deepway Lane Exminster Exeter Devon",
   "PostCode": "EX6 8AJ",
   "SchemeType": "FHRS",

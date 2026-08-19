@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5239134",
-    "Longitude": "-0.0745915"
-  },
+  "Geocode": null,
   "AddressLine1": "Gina's Restaurant",
   "AddressLine2": "17 Bethnal Green Road",
   "AddressLine3": "London",
   "PostCode": "E1 6LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

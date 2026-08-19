@@ -1,9 +1,9 @@
 {
   "FHRSID": 1206413,
   "BusinessName": "Stanford Coffee Shop - Grove",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "EH:04607",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
@@ -15,8 +15,12 @@
   "AddressLine3": "Wantage",
   "PostCode": "OX12 9FA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

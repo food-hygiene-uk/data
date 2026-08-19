@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.990408",
+    "Longitude": "-1.500003"
+  },
   "AddressLine1": "25 Church Street",
   "AddressLine2": "Romsey",
   "AddressLine3": "Hampshire",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.145353",
+    "Longitude": "-2.100677"
+  },
   "AddressLine2": "Trinity Centre",
   "AddressLine3": "Union Street",
   "AddressLine4": "Aberdeen",
