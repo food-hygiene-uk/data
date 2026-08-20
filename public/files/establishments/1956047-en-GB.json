@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.3670732",
+    "Longitude": "-3.0298631"
+  },
   "AddressLine1": "Wellburn Lochmalony Rathillet Cupar Fife",
   "PostCode": "KY15 4QF",
   "SchemeType": "FHIS",

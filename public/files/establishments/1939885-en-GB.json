@@ -1,23 +1,27 @@
 {
   "FHRSID": 1939885,
-  "BusinessName": "CAKE IN HOUSE LTD",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Cake In House",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00248/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5553439",
-    "Longitude": "-0.2133167"
+    "Latitude": "51.555294",
+    "Longitude": "-0.213173"
   },
-  "AddressLine1": "116 Cricklewood Broadway",
+  "AddressLine1": "116 Cricklewood Broadway London",
   "PostCode": "NW2 3EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

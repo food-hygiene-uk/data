@@ -9,21 +9,10 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.849092",
-    "Longitude": "-1.395389"
-  },
-  "AddressLine1": "FAWLEY ROAD",
-  "AddressLine2": "HYTHE",
-  "AddressLine3": "SOUTHAMPTON",
-  "PostCode": "SO45 3PA",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-24",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

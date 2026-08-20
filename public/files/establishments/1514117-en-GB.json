@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.439831",
-    "Longitude": "-2.573109"
-  },
+  "Geocode": null,
   "AddressLine2": "184c Wells Road",
   "AddressLine3": "Totterdown",
   "AddressLine4": "Bristol",
   "PostCode": "BS4 2AL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-12",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

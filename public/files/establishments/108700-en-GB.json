@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.125821",
+    "Longitude": "-3.161303"
+  },
   "AddressLine1": "Victoria Hospital Hayfield Road Kirkcaldy Fife",
   "PostCode": "KY2 5AH",
   "SchemeType": "FHIS",

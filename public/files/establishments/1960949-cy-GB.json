@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.709300994873",
-    "Longitude": "-3.69081091880798"
-  },
+  "Geocode": null,
   "AddressLine1": "Ty Derw",
   "AddressLine3": "Dinas Mawddwy",
   "AddressLine4": "Gwynedd",
   "PostCode": "SY20 9LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.196571",
+    "Longitude": "-3.166889"
+  },
   "AddressLine1": "Cinema Church Street Glenrothes Fife",
   "PostCode": "KY7 5ND",
   "SchemeType": "FHIS",

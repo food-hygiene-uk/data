@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.464274",
-    "Longitude": "-2.570493"
-  },
+  "Geocode": null,
   "AddressLine2": "202 Stapleton Road",
   "AddressLine3": "Easton",
   "AddressLine4": "Bristol",
   "PostCode": "BS5 0NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

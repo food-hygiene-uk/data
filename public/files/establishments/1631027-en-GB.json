@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.9060283",
-    "Longitude": "-4.3341277"
-  },
+  "Geocode": null,
   "AddressLine1": "Hafan Y Môr Holiday Park Hafan Y Mor",
   "AddressLine3": "Chwilog",
   "AddressLine4": "Gwynedd",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-05-26",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

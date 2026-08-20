@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.846483",
-    "Longitude": "-1.794471"
-  },
+  "Geocode": null,
   "AddressLine1": "27-29 MARKET PLACE",
   "AddressLine2": "RINGWOOD",
   "PostCode": "BH24 1AN",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-13",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

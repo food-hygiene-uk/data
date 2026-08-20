@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6599991",
-    "Longitude": "-3.1483187"
-  },
+  "Geocode": null,
   "AddressLine1": "34 Broad Street",
   "AddressLine2": "Welshpool",
   "AddressLine3": "Powys",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-08-21",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

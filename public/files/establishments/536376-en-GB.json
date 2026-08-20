@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "51.949685",
-    "Longitude": "-3.634136"
-  },
+  "Geocode": null,
   "AddressLine1": "Trecastle",
   "AddressLine2": "Brecon",
   "AddressLine3": "Powys",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-07-13",
+  "RatingDate": "2026-07-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

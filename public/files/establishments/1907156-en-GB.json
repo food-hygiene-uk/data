@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": {
-    "Latitude": "52.43237875",
-    "Longitude": "-1.48172105"
-  },
+  "Geocode": null,
   "AddressLine1": "Bell Green Road",
   "AddressLine4": "Coventry",
   "PostCode": "CV6 7GP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

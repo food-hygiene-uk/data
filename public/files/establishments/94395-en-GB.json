@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.295014",
+    "Longitude": "-2.972036"
+  },
   "AddressLine1": "Curling Pond Road Ceres Cupar Fife",
   "PostCode": "KY15 5NB",
   "SchemeType": "FHIS",

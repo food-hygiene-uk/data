@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6737115",
+    "Longitude": "-1.3905661"
+  },
   "AddressLine1": "Stonepitt Barn Kingston Road",
   "AddressLine2": "Frilford",
   "AddressLine3": "Abingdon",

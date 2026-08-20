@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8598348",
+    "Longitude": "-4.2515135"
+  },
   "AddressLine2": "241 Ingram Street",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4344376",
-    "Longitude": "-2.5664084"
-  },
+  "Geocode": null,
   "AddressLine2": "318 Wells Road",
   "AddressLine3": "Knowle",
   "AddressLine4": "Bristol",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-04",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

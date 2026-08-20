@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3910501",
-    "Longitude": "-1.2420155"
-  },
+  "Geocode": null,
   "AddressLine1": "Brownsover Community Centre                                                                          Bow Fell",
   "AddressLine2": "Brownsover",
   "AddressLine4": "Rugby",
   "PostCode": "CV21 1JF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.146731",
+    "Longitude": "-3.262822"
+  },
   "AddressLine1": "193 Station Road Cardenden Lochgelly Fife",
   "PostCode": "KY5 0BN",
   "SchemeType": "FHIS",

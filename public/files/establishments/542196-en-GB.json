@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.6556434631348",
-    "Longitude": "-1.15043795108795"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Sandown",
   "AddressLine3": "Isle Of Wight",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-08",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

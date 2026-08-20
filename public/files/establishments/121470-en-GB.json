@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.12565",
+    "Longitude": "-3.310393"
+  },
   "AddressLine1": "74-80 Main Street Lochgelly Fife",
   "PostCode": "KY5 9AA",
   "SchemeType": "FHIS",

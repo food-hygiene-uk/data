@@ -1,6 +1,6 @@
 {
   "FHRSID": 1947325,
-  "BusinessName": "The jolly spud",
+  "BusinessName": "Nicki’s Place",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "Cx2018",
   "BusinessTypeID": 7846,
@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3655789",
-    "Longitude": "-1.2294631"
-  },
-  "AddressLine1": " 241 Lower Hillmorton Road",
-  "AddressLine2": "Hillmorton",
-  "AddressLine4": "Rugby Warwickshire",
-  "PostCode": "CV21 4AB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

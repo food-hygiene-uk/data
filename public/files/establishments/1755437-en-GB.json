@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "153",
   "LocalAuthorityName": "Wyre Forest",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.369108",
@@ -18,12 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "DY11 7BY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-11",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 30
   }
 }

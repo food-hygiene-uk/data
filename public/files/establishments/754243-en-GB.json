@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.670173",
+    "Longitude": "-1.2828704"
+  },
   "AddressLine1": "15B High Street",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

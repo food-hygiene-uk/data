@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3508796691895",
-    "Longitude": "-0.0380630008876324"
-  },
+  "Geocode": null,
   "AddressLine1": "3 The Forestdale Centre",
   "AddressLine2": "Featherbed Lane",
   "AddressLine3": "Croydon",
   "PostCode": "CR0 9AS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

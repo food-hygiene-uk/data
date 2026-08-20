@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0748291015625",
-    "Longitude": "-3.12505388259888"
-  },
+  "Geocode": null,
   "AddressLine1": "St John's Place",
   "AddressLine2": "Lion Street",
   "AddressLine3": "Hay-on-Wye",
   "AddressLine4": "Hereford",
   "PostCode": "HR3 5AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

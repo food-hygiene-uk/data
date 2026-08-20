@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.070776",
-    "Longitude": "-4.044044"
-  },
+  "Geocode": null,
   "AddressLine1": "Weirholme",
   "AddressLine2": "Landkey Road",
   "AddressLine3": "Barnstaple",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2012-09-04",
+  "RatingDate": "2024-12-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

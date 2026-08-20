@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4483604",
-    "Longitude": "-2.5898691"
-  },
+  "Geocode": null,
   "AddressLine1": "St Mary Redcliffe (The Undercroft)",
   "AddressLine2": "Redcliffe Way",
   "AddressLine3": "Redcliff",
   "AddressLine4": "Bristol",
   "PostCode": "BS1 6RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

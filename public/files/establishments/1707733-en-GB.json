@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bracknell-forest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bracknell-forest.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4037026",
-    "Longitude": "-0.7833713"
-  },
+  "Geocode": null,
   "AddressLine1": "71A Sparrowhawk Way",
   "AddressLine3": "Bracknell",
   "AddressLine4": "Bracknell Forest",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-12",
+  "RatingDate": "2026-08-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

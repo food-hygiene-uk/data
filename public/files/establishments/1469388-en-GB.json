@@ -1,6 +1,6 @@
 {
   "FHRSID": 1469388,
-  "BusinessName": "Aramark @ The Wilderness Shack",
+  "BusinessName": "Aramark@The Wilderness Shack",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "22/00079/COM",
   "BusinessTypeID": 1,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3480876",
-    "Longitude": "-0.317647"
-  },
+  "Geocode": null,
   "AddressLine1": "Chessington World Of Adventures Resort",
   "AddressLine2": "Leatherhead Road",
   "AddressLine3": "Chessington",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-18",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

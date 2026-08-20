@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "429",
   "LocalAuthorityName": "Sunderland",
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Four Lane Ends",
@@ -15,12 +15,12 @@
   "AddressLine3": "Houghton-le-Spring",
   "PostCode": "DH5 0AA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-07-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

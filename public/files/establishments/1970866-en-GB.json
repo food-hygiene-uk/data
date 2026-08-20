@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3726863",
-    "Longitude": "-1.2598451"
-  },
+  "Geocode": null,
   "AddressLine1": " 55 Church Street",
   "AddressLine2": "Rugby",
   "AddressLine4": "Warwickshire",
   "PostCode": "CV21 3PT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

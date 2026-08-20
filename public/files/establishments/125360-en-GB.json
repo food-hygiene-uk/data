@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.174658",
+    "Longitude": "-3.23605"
+  },
   "AddressLine1": "Mina Crescent Kinglassie Lochgelly Fife",
   "PostCode": "KY5 0XT",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.182655",
+    "Longitude": "-3.16289"
+  },
   "AddressLine1": "9 Glamis Centre Glenrothes Fife",
   "PostCode": "KY7 4RH",
   "SchemeType": "FHIS",

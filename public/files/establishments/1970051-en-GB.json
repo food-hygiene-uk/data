@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": null,
   "AddressLine1": "Kings Academy Northern Parade",
@@ -15,8 +15,12 @@
   "AddressLine3": "Portsmouth",
   "PostCode": "PO2 9NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

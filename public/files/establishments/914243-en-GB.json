@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.059109",
+    "Longitude": "-3.230406"
+  },
   "AddressLine1": "Links Place Burntisland Fife",
   "PostCode": "KY3 9DY",
   "SchemeType": "FHIS",

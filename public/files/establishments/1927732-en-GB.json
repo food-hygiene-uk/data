@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4437254",
-    "Longitude": "-2.5651286"
-  },
+  "Geocode": null,
   "AddressLine2": "256 Paintworks",
   "AddressLine3": "Brislington",
   "AddressLine4": "Bristol",
   "PostCode": "BS4 3AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

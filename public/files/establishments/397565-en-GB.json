@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.551022",
-    "Longitude": "-1.492586"
-  },
+  "Geocode": null,
   "AddressLine2": "46 Lancaster Street",
   "AddressLine4": "Barnsley",
   "PostCode": "S70 6EW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

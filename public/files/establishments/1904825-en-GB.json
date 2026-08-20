@@ -1,24 +1,25 @@
 {
   "FHRSID": 1904825,
   "BusinessName": "Bertie's Shirts",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "102454",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "410",
   "LocalAuthorityName": "Gateshead",
   "LocalAuthorityWebSite": "http://www.gateshead.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
-  "Geocode": {
-    "Latitude": "54.9654027",
-    "Longitude": "-1.6061019"
-  },
+  "Geocode": null,
   "AddressLine2": "10 Wellington Street",
   "AddressLine3": "Gateshead",
   "PostCode": "NE8 2AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

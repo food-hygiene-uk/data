@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7288117",
-    "Longitude": "-2.6610598"
-  },
+  "Geocode": null,
   "AddressLine1": "188 Station Road",
   "AddressLine2": "Bamber Bridge",
   "AddressLine3": "Preston",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-03-16",
+  "RatingDate": "2026-07-30",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

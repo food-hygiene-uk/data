@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.666221",
+    "Longitude": "-1.297537"
+  },
   "AddressLine1": "6 Suffolk Way",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxfordshire",

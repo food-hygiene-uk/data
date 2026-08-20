@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.060781",
+    "Longitude": "-3.447354"
+  },
   "AddressLine1": "Unit 11 Izatt Avenue Dunfermline Fife",
   "PostCode": "KY11 3BZ",
   "SchemeType": "FHIS",

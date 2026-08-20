@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.101787",
+    "Longitude": "-3.167846"
+  },
   "AddressLine1": "97 Ramsay Road Kirkcaldy Fife",
   "PostCode": "KY1 1UB",
   "SchemeType": "FHIS",

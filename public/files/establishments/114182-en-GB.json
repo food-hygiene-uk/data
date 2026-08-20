@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ynysmon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "iechydyramgylchedd@ynysmon.gov.uk",
-  "Geocode": {
-    "Latitude": "53.281639",
-    "Longitude": "-4.215931"
-  },
+  "Geocode": null,
   "AddressLine1": "Panton Arms",
   "AddressLine3": "Pentraeth",
   "AddressLine4": "Isle Of Anglesey",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-12-20",
-  "Scores": null
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

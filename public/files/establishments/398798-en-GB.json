@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.525968",
-    "Longitude": "-1.631737"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 5 The Old Stables",
   "AddressLine2": "Back Lane",
   "AddressLine4": "Penistone",
   "PostCode": "S36 6AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

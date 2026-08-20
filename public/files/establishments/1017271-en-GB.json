@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": {
-    "Latitude": "52.410822",
-    "Longitude": "-1.5103858"
-  },
+  "Geocode": null,
   "AddressLine1": "Tasty Bites 6 Hales Street",
   "AddressLine4": "Coventry",
   "PostCode": "CV1 1JD",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-01-06",
-  "Scores": null
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1964718,
-  "BusinessName": "Wood Fired Events",
+  "BusinessName": "Wood Fired Events/The Buttered Radish/Betty's Barbecue & PIzza/Flats &",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "266721",
   "BusinessTypeID": 7846,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4294484",
-    "Longitude": "-2.6063127"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 13 Bristol Vale",
   "AddressLine2": "Hartcliffe Way",
   "AddressLine3": "Knowle",
   "AddressLine4": "Bristol",
   "PostCode": "BS3 5RJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

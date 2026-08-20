@@ -1,6 +1,6 @@
 {
   "FHRSID": 1569070,
-  "BusinessName": "Kaspas Deserts",
+  "BusinessName": "Kaspa's Desserts",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "22/00068/REST",
   "BusinessTypeID": 1,
@@ -10,13 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
   "Geocode": null,
-  "AddressLine1": "68 High Street",
-  "AddressLine2": "Stevenage",
-  "AddressLine3": "Herts",
+  "AddressLine1": "Kaspas Desserts",
+  "AddressLine2": "68 High Street",
+  "AddressLine3": "Stevenage",
+  "AddressLine4": "Herts",
   "PostCode": "SG1 3DY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-23",
-  "Scores": null
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

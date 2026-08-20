@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3269805908203",
-    "Longitude": "-3.43953490257263"
-  },
+  "Geocode": null,
   "AddressLine1": "Clwb Golff y Trallwng",
   "AddressLine2": "Golfa",
   "AddressLine3": "Y Trallwng",
   "AddressLine4": "Powys",
   "PostCode": "SY21 9AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2026-07-01",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

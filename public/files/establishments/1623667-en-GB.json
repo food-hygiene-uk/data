@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": {
     "Latitude": "54.7151331",
@@ -17,12 +17,12 @@
   "AddressLine3": "CROOK",
   "PostCode": "DL15 9LW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 15,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

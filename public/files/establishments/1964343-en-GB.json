@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5929987",
-    "Longitude": "-0.8211245"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Lakes Country Park",
   "AddressLine2": "Wharf Road",
   "AddressLine3": "Ealand",
   "AddressLine4": "Scunthorpe",
   "PostCode": "DN17 4BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

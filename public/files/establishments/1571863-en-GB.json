@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "532",
   "LocalAuthorityName": "Wandsworth",
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": {
     "Latitude": "51.4478187",
@@ -18,12 +18,12 @@
   "AddressLine4": "Wandsworth",
   "PostCode": "SW12 9AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-06-27",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
   }
 }

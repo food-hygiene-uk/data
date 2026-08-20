@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "53.81843",
@@ -18,12 +18,12 @@
   "AddressLine3": "Selby",
   "PostCode": "YO8 6LX",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-08-12",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 30
   }
 }

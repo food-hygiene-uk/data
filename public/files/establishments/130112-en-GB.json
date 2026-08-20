@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.342163",
+    "Longitude": "-2.800444"
+  },
   "AddressLine1": "2 Playfair Terrace St Andrews Fife",
   "PostCode": "KY16 9HX",
   "SchemeType": "FHIS",

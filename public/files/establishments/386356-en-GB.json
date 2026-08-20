@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.457851",
-    "Longitude": "-2.565462"
-  },
+  "Geocode": null,
   "AddressLine2": "196 Lawrence Hill",
   "AddressLine3": "Lawrence Hill",
   "AddressLine4": "Bristol",
   "PostCode": "BS5 0DR",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2025-05-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

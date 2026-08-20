@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.18608",
+    "Longitude": "-3.030085"
+  },
   "AddressLine1": "353 Methilhaven Road Methil Leven Fife",
   "PostCode": "KY8 3HR",
   "SchemeType": "FHIS",

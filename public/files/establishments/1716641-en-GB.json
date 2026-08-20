@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
   "Geocode": {
     "Latitude": "53.6092604",
@@ -18,12 +18,12 @@
   "AddressLine4": "Bury",
   "PostCode": "BL8 3EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

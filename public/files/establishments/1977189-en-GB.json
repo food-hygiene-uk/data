@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1337326",
+    "Longitude": "-3.1285368"
+  },
   "AddressLine1": "Robert Bell Joiners Randolph Industrial Estate 1 Randolph Place Kirkcaldy Fife",
   "PostCode": "KY1 2YX",
   "SchemeType": "FHIS",

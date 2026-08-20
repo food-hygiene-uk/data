@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.169911",
+    "Longitude": "-3.033872"
+  },
   "AddressLine1": "21 West High Street Buckhaven Leven Fife",
   "PostCode": "KY8 1AL",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6699526",
+    "Longitude": "-1.2821075"
+  },
   "AddressLine1": "4 High Street",
   "AddressLine3": "Abingdon",
   "PostCode": "OX14 5AX",

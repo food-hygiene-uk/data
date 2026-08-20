@@ -1,6 +1,6 @@
 {
   "FHRSID": 1862438,
-  "BusinessName": "T Retails Ltd",
+  "BusinessName": "City Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "166157",
   "BusinessTypeID": 4613,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5494974",
-    "Longitude": "-1.4756522"
-  },
+  "Geocode": null,
   "AddressLine2": "50 Sheffield Road",
   "AddressLine4": "Barnsley",
   "PostCode": "S70 1HS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

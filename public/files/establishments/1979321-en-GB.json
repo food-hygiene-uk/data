@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.657014",
+    "Longitude": "-1.2106074"
+  },
   "AddressLine1": "The Plough Abingdon Road",
   "AddressLine2": "Clifton Hampden",
   "AddressLine3": "Abingdon",

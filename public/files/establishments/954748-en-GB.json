@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.745451",
-    "Longitude": "-0.34757"
-  },
+  "Geocode": null,
   "AddressLine1": "St Stephens",
   "AddressLine2": "110 Ferensway",
   "AddressLine3": "Kingston Upon Hull",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-22",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

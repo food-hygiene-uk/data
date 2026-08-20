@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.37666",
+    "Longitude": "0.010904"
+  },
   "AddressLine1": "42 Station Approach",
   "AddressLine2": "Hayes",
   "AddressLine3": "Bromley",

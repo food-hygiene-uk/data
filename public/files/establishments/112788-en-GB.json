@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
-  "Geocode": {
-    "Latitude": "54.073156",
-    "Longitude": "-2.865731"
-  },
+  "Geocode": null,
   "AddressLine2": "260-261 Marine Road Central",
   "AddressLine3": "Morecambe",
   "AddressLine4": "Lancashire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-26",
-  "Scores": null
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3601077",
-    "Longitude": "-1.1858127"
-  },
-  "AddressLine1": " 2 Marconi Close",
-  "AddressLine2": "Houlton",
-  "AddressLine4": "Rugby",
-  "PostCode": "CV23 1AT",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 121600,
-  "BusinessName": "Fast Flavour",
+  "BusinessName": "Crispy Flames",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "5027",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "202",
   "LocalAuthorityName": "Preston",
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
   "Geocode": {
     "Latitude": "53.764276",
@@ -17,8 +17,12 @@
   "AddressLine3": "Preston",
   "PostCode": "PR1 1TS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

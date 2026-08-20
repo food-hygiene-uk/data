@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3326148986816",
-    "Longitude": "-0.125361993908882"
-  },
+  "Geocode": null,
   "AddressLine1": "86 Downlands Road",
   "AddressLine2": "Purley",
   "PostCode": "CR8 4JF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-23",
-  "Scores": null
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

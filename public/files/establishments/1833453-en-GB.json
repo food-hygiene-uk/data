@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.453783",
-    "Longitude": "-2.579271"
-  },
+  "Geocode": null,
   "AddressLine1": "Hannah More Primary School",
   "AddressLine2": "New Kingsley Road",
   "AddressLine3": "St Philips",
   "AddressLine4": "Bristol",
   "PostCode": "BS2 0LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

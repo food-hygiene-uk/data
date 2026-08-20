@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.6610336303711",
-    "Longitude": "-1.21133697032928"
-  },
+  "Geocode": null,
   "AddressLine1": "Southland Camping Park",
   "AddressLine2": "Winford Road",
   "AddressLine3": "Newchurch",
   "AddressLine4": "Sandown",
   "PostCode": "PO36 0LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

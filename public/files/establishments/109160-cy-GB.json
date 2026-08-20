@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.7420725",
-    "Longitude": "-3.885937"
-  },
+  "Geocode": null,
   "AddressLine1": "Porth Canol",
   "AddressLine2": "Dolgellau",
   "AddressLine3": "Gwynedd",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2022-03-28",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

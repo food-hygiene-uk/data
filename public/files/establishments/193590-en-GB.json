@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.755113",
-    "Longitude": "-0.3073054"
-  },
+  "Geocode": null,
   "AddressLine2": "131 New Bridge Road",
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU9 2LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

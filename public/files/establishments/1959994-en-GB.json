@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4183279",
-    "Longitude": "-0.0827716"
-  },
+  "Geocode": null,
   "AddressLine1": "54 Westow Street",
   "AddressLine2": "Upper Norwood",
   "AddressLine3": "London",
   "PostCode": "SE19 3AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

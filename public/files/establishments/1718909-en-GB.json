@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.533737",
-    "Longitude": "0.0119903"
-  },
+  "Geocode": null,
   "AddressLine1": "123 Plaistow Road",
   "AddressLine2": "Stratford",
   "AddressLine3": "London",
   "PostCode": "E15 3ET",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
   "RatingDate": "2026-07-10",
   "Scores": {
     "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 30
+    "ConfidenceInManagement": 20
   }
 }

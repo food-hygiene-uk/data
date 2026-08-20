@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.514571",
+    "Longitude": "-0.126376"
+  },
   "AddressLine2": "13 Neal's Yard",
   "PostCode": "WC2H 9DP",
   "SchemeType": "FHRS",

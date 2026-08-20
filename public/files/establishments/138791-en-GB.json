@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.195814",
+    "Longitude": "-3.173796"
+  },
   "AddressLine1": "56 Unicorn Way Glenrothes Fife",
   "PostCode": "KY7 5NU",
   "SchemeType": "FHIS",

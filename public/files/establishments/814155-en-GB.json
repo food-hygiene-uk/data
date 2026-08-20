@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.295485",
-    "Longitude": "-0.32975"
-  },
+  "Geocode": null,
   "AddressLine2": "12 North Street",
   "AddressLine4": "Leatherhead",
   "PostCode": "KT22 7AW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-09-02",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

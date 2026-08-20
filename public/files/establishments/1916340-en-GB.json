@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4545513",
-    "Longitude": "-2.5943239"
-  },
+  "Geocode": null,
   "AddressLine1": "Basement Floor",
   "AddressLine2": "45-47 Corn Street",
   "AddressLine3": "City Centre",
   "AddressLine4": "Bristol",
   "PostCode": "BS1 1HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

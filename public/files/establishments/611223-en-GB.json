@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.818986",
-    "Longitude": "-1.373519"
-  },
+  "Geocode": null,
   "AddressLine1": "179 HAMPTON LANE",
   "AddressLine2": "BLACKFIELD",
   "AddressLine3": "SOUTHAMPTON",
   "PostCode": "SO45 1XA",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-28",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

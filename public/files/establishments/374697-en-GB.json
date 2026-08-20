@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://wyre.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialsafety@wyre.gov.uk",
-  "Geocode": {
-    "Latitude": "53.872849",
-    "Longitude": "-3.025439"
-  },
+  "Geocode": null,
   "AddressLine1": "Amounderness Way",
   "AddressLine2": "Thornton Cleveleys",
   "AddressLine3": "Lancashire",
@@ -21,5 +18,9 @@
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
   "RatingDate": "2026-06-02",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

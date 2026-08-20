@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "321",
   "LocalAuthorityName": "Warwick",
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
   "Geocode": {
     "Latitude": "52.281754",
@@ -18,12 +18,12 @@
   "AddressLine4": "Leamington Spa",
   "PostCode": "CV31 2DT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-19",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 20,
     "Structural": 20,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 30
   }
 }

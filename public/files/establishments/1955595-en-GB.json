@@ -1,6 +1,6 @@
 {
   "FHRSID": 1955595,
-  "BusinessName": "Inspire Restaurants Ltd T/A Mcdonald's",
+  "BusinessName": "McDonald's",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00343/COMM",
   "BusinessTypeID": 1,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3745384216309",
-    "Longitude": "-0.0963070020079613"
-  },
+  "Geocode": null,
   "AddressLine1": "23 Norfolk House",
   "AddressLine2": "George Street",
   "AddressLine3": "Croydon",
   "PostCode": "CR0 1LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

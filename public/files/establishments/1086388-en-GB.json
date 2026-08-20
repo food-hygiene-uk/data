@@ -1,13 +1,13 @@
 {
   "FHRSID": 1086388,
   "BusinessName": "Canolfan Y Fron",
-  "BusinessType": "Hotel/bed & breakfast/guest house",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26135",
-  "BusinessTypeID": 7842,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": {
     "Latitude": "53.0696487426758",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2025-07-03",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

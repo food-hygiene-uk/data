@@ -1,6 +1,6 @@
 {
   "FHRSID": 192975,
-  "BusinessName": "Burger Hut / Pro Pizza Hull",
+  "BusinessName": "Burger Hut",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "41265",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.744384765625",
-    "Longitude": "-0.341789990663528"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Chapel Street",
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU1 3PA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-09-16",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

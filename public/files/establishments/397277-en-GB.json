@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.537599",
-    "Longitude": "-1.386386"
-  },
+  "Geocode": null,
   "AddressLine1": "The Cooperative",
   "AddressLine2": "Barnsley Road",
   "AddressLine4": "Darfield",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-24",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

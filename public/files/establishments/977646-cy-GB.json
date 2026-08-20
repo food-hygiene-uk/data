@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.343864440918",
-    "Longitude": "-3.04924201965332"
-  },
+  "Geocode": null,
   "AddressLine1": "15 Broad Street",
   "AddressLine2": "Knighton",
   "AddressLine3": "Powys",
   "PostCode": "LD7 1BL",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2026-06-05",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

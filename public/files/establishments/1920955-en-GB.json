@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4013648",
-    "Longitude": "-1.3235493"
-  },
+  "Geocode": null,
   "AddressLine1": "34 Market Place",
   "AddressLine3": "Newbury",
   "AddressLine4": "West Berkshire",
   "PostCode": "RG14 5AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

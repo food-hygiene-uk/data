@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6492498",
-    "Longitude": "-0.6846947"
-  },
+  "Geocode": null,
   "AddressLine2": "13 High Street",
   "AddressLine3": "Burton Upon Stather",
   "AddressLine4": "Scunthorpe",
   "PostCode": "DN15 9DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
