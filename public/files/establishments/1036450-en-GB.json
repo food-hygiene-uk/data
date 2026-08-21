@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.7589175",
-    "Longitude": "-1.5955663"
-  },
+  "Geocode": null,
   "AddressLine1": "8 The Tower Centre",
   "AddressLine2": "Alvescot Road",
   "AddressLine3": "Carterton",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-16",
-  "Scores": null
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8927405",
+    "Longitude": "-0.1838401"
+  },
   "AddressLine1": "The Peartree Public House",
   "AddressLine2": "Valley Way",
   "AddressLine3": "Stevenage",

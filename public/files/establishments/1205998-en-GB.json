@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.783851",
-    "Longitude": "-1.486719"
-  },
+  "Geocode": null,
   "AddressLine1": "Eagle Tavern",
   "AddressLine2": "22 Corn Street",
   "AddressLine3": "Witney",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-01-15",
+  "RatingDate": "2026-08-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

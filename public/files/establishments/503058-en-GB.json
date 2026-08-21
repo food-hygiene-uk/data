@@ -1,29 +1,30 @@
 {
   "FHRSID": 503058,
-  "BusinessName": "Golden Bamboo",
+  "BusinessName": "New Golden Bamboo",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "1961",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "320",
   "LocalAuthorityName": "Stratford-on-Avon",
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
   "Geocode": {
-    "Latitude": "52.196817",
-    "Longitude": "-1.590435"
+    "Latitude": "52.1964731",
+    "Longitude": "-1.5908078"
   },
-  "AddressLine1": "4 Newbold Road",
-  "AddressLine2": "Wellesbourne",
-  "AddressLine3": "Warwick",
+  "AddressLine1": "Golden Bamboo",
+  "AddressLine2": "4 Newbold Road",
+  "AddressLine3": "Wellesbourne",
+  "AddressLine4": "Warwick",
   "PostCode": "CV35 9NZ",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-06-18",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

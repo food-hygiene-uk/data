@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.758944",
-    "Longitude": "-1.594651"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Ramillies House",
   "AddressLine2": "Alvescot Road",
   "AddressLine3": "Carterton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-03",
+  "RatingDate": "2026-08-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

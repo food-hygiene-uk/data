@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5078287",
+    "Longitude": "-0.5910705"
+  },
   "AddressLine1": "4C PARK STREET",
   "AddressLine3": "SLOUGH",
   "SchemeType": "FHRS",

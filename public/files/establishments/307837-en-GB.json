@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
-  "Geocode": {
-    "Latitude": "54.797964",
-    "Longitude": "-2.872196"
-  },
+  "Geocode": null,
   "AddressLine1": "Southwaite Motorway Services Area South",
   "AddressLine3": "Broadfield",
   "AddressLine4": "Southwaite",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-29",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

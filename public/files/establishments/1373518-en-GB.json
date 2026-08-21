@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7960333",
-    "Longitude": "-1.5548337"
-  },
+  "Geocode": null,
   "AddressLine1": "Flutter",
   "AddressLine2": "4 Wellington Place",
   "AddressLine3": "Leeds",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-12-06",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

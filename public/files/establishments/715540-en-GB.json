@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.865015",
-    "Longitude": "-2.488968"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Mitcheldean",
   "AddressLine3": "Gloucestershire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-18",
+  "RatingDate": "2026-08-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

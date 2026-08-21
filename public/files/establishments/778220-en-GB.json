@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.763273",
-    "Longitude": "-0.572774"
-  },
+  "Geocode": null,
   "AddressLine2": "360-364 High Street",
   "AddressLine3": "Berkhamsted",
   "AddressLine4": "Herts",
   "PostCode": "HP4 1HU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

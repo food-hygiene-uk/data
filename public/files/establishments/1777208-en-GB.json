@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.642832",
+    "Longitude": "-2.2238949"
+  },
   "AddressLine1": "St Peters Church Hall",
   "AddressLine2": "Whitehouse Lane",
   "AddressLine3": "Codsall Wood",

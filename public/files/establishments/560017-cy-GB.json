@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.666042",
+    "Longitude": "-3.708254"
+  },
   "AddressLine1": "Cemmaes Road",
   "AddressLine2": "Machynlleth",
   "AddressLine3": "Powys",

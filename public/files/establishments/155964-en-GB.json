@@ -1,13 +1,13 @@
 {
   "FHRSID": 155964,
-  "BusinessName": "Masons Arms & Chuck Burger",
+  "BusinessName": "Masons Arms",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "EHFDI/01447/08",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.366517",
@@ -18,12 +18,12 @@
   "AddressLine3": "Louth",
   "PostCode": "LN11 9PY",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-05-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-15",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

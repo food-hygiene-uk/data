@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.660461",
+    "Longitude": "-3.148006"
+  },
   "AddressLine1": "1 Broad Street",
   "AddressLine2": "Welshpool",
   "AddressLine3": "Powys",

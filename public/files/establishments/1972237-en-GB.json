@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.555239",
-    "Longitude": "-0.1298833"
-  },
+  "Geocode": null,
   "AddressLine1": "Falcon Inn",
   "AddressLine2": "1 London Street",
   "AddressLine3": "Whittlesey",
   "AddressLine4": "Peterborough",
   "PostCode": "PE7 1BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

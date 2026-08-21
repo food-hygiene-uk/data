@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7554817",
-    "Longitude": "-4.9976661"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Glebelands",
   "AddressLine3": "Johnston",
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA62 3PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

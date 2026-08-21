@@ -1,6 +1,6 @@
 {
   "FHRSID": 1035554,
-  "BusinessName": "Papa Johns Ashton",
+  "BusinessName": "Papa Johns Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "17/00268/COM",
   "BusinessTypeID": 7844,
@@ -9,11 +9,8 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.491418",
-    "Longitude": "-2.0814011"
-  },
-  "AddressLine1": "Unit 2 - Albion Trading Estate",
+  "Geocode": null,
+  "AddressLine1": "Papa Johns Pizza",
   "AddressLine2": "Mossley Road",
   "AddressLine3": "Ashton-under-lyne",
   "AddressLine4": "Tameside",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-04",
+  "RatingDate": "2026-08-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

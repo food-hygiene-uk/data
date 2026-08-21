@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8798219",
-    "Longitude": "-0.3771283"
-  },
+  "Geocode": null,
   "AddressLine2": "Terminal Building",
   "AddressLine4": "London Luton Airport",
   "PostCode": "LU2 9LU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

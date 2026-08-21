@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.664897",
-    "Longitude": "0.160688"
-  },
+  "Geocode": null,
   "AddressLine1": "14 Market Place",
   "AddressLine2": "Wisbech",
   "AddressLine3": "Cambridgeshire",
   "PostCode": "PE13 1DY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-04-15",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

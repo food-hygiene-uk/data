@@ -1,9 +1,9 @@
 {
   "FHRSID": 960662,
   "BusinessName": "The Shish / Habibi Shawarma",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "17/00041/CP",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "131",
   "LocalAuthorityName": "Basingstoke and Deane",
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
@@ -16,8 +16,12 @@
   "AddressLine4": "Hampshire",
   "PostCode": "RG21 7NX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-05-13",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

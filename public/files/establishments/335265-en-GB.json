@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2123296",
-    "Longitude": "-1.1959439"
-  },
+  "Geocode": null,
   "AddressLine1": "Old Barn Stores",
   "AddressLine2": "The Green",
   "AddressLine3": "North Waltham",
   "AddressLine4": "Basingstoke",
   "PostCode": "RG25 2BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-01-14",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

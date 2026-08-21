@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
   "Geocode": null,
+  "AddressLine1": "Dorn Hill Farm",
+  "AddressLine2": "Aston Magna",
+  "AddressLine3": "Moreton-In-Marsh",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL56 9QG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

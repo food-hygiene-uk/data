@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.674234",
-    "Longitude": "1.714223"
-  },
+  "Geocode": null,
   "AddressLine2": "California Road",
   "AddressLine3": "California",
   "AddressLine4": "Ormesby St Margaret W Scratby",
   "PostCode": "NR29 3QL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.melton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@melton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.941693",
-    "Longitude": "-0.8022"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Market Street",
   "AddressLine2": "Bottesford",
   "PostCode": "NG13 0BW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.602623",
-    "Longitude": "1.735219"
-  },
+  "Geocode": null,
   "AddressLine2": "48 St Peters Road",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
   "PostCode": "NR30 3AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5348467",
-    "Longitude": "-2.418564"
-  },
+  "Geocode": null,
   "AddressLine1": "2A Castle Terrace",
   "AddressLine3": "Bridgnorth",
   "AddressLine4": "Shropshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-22",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -1,26 +1,22 @@
 {
   "FHRSID": 1536543,
   "BusinessName": "Curdle Hill Kitchen",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "W/22/00102/COM",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "272",
   "LocalAuthorityName": "West Oxfordshire",
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.9090569",
-    "Longitude": "-1.5268271"
-  },
-  "AddressLine1": "Curdle Hill Farmhouse",
-  "AddressLine2": "Chipping Norton Road",
-  "AddressLine3": "Chadlington",
-  "AddressLine4": "Chipping Norton",
-  "PostCode": "OX7 3NS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

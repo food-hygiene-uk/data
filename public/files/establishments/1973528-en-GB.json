@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.534472",
+    "Longitude": "0.033986"
+  },
   "AddressLine1": "21 Queens Market",
   "AddressLine2": "Upton Park",
   "AddressLine3": "London",

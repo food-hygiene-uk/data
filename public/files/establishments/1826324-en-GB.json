@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.44793",
+    "Longitude": "-3.5577075"
+  },
   "AddressLine1": "361 Torquay Road Paignton Devon",
   "PostCode": "TQ3 2BT",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.777164",
+    "Longitude": "-3.75966"
+  },
   "AddressLine1": "30 Heol Eglwys",
   "AddressLine2": "Ystradgynlais",
   "AddressLine3": "Swansea",

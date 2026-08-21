@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5084471",
+    "Longitude": "-3.4062811"
+  },
   "AddressLine1": "Porth",
   "AddressLine2": "Moat Lane",
   "AddressLine3": "Caersws",

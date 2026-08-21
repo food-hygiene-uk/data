@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
-  "Geocode": {
-    "Latitude": "51.302668",
-    "Longitude": "-1.18728"
-  },
+  "Geocode": null,
   "AddressLine1": "Pitt Hall Barn",
   "AddressLine2": "Pitt Hall Farm",
   "AddressLine3": "Kingsclere Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-30",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

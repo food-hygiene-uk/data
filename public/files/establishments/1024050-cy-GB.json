@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "560",
   "LocalAuthorityName": "Sir y Fflint",
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
   "Geocode": {
     "Latitude": "53.1624529",
@@ -19,12 +19,12 @@
   "AddressLine4": "Flintshire",
   "PostCode": "CH7 1JB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-07-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-07-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

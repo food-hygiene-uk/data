@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.8408042",
-    "Longitude": "-1.4948792"
-  },
+  "Geocode": null,
   "AddressLine1": "Front Street Coffee House",
   "AddressLine2": "3 Front Street",
   "AddressLine3": "Fence Houses",
   "AddressLine4": "Houghton-le-Spring",
   "PostCode": "DH4 6LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

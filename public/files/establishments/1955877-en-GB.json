@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "52.0862295",
-    "Longitude": "-1.7480479"
-  },
+  "Geocode": null,
   "AddressLine1": "Kiftsgate Court Gardens",
   "AddressLine2": "Kiftsgate Court",
   "AddressLine3": "Kiftsgate",
   "AddressLine4": "Mickleton",
   "PostCode": "GL55 6LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

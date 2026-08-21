@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.896338",
+    "Longitude": "-0.210736"
+  },
   "AddressLine1": "MBDA UK",
   "AddressLine2": "Six Hills Way",
   "AddressLine3": "Stevenage",

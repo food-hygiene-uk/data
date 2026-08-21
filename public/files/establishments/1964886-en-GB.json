@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.9902811",
-    "Longitude": "-1.7025086"
-  },
+  "Geocode": null,
   "AddressLine1": "3A Oxford Street",
   "AddressLine2": "Moreton-In-Marsh",
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL56 0LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

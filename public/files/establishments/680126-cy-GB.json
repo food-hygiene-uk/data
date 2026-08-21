@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.946537",
+    "Longitude": "-3.387617"
+  },
   "AddressLine1": "St David's House",
   "AddressLine2": "48 Free Street",
   "AddressLine3": "Aberhonddu",

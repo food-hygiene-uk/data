@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.901162",
+    "Longitude": "-0.2041126"
+  },
   "AddressLine1": "The Court House - Serco Pecs",
   "AddressLine2": "Danesgate",
   "AddressLine3": "Stevenage",

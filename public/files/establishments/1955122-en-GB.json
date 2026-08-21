@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9658167",
+    "Longitude": "-0.2661478"
+  },
   "AddressLine1": "Unit 1 Cam Square Wilbury Way",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

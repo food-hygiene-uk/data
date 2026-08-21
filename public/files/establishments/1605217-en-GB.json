@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9017308",
+    "Longitude": "-0.2060423"
+  },
   "AddressLine1": "Stevenage Arts & Leisure Centre",
   "AddressLine2": "Lytton Way",
   "AddressLine3": "Stevenage",

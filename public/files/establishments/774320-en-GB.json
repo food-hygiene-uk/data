@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.665785",
-    "Longitude": "0.161722"
-  },
+  "Geocode": null,
   "AddressLine1": "21 - 23 Horsefair",
   "AddressLine2": "Wisbech",
   "AddressLine3": "Cambridgeshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-27",
+  "RatingDate": "2026-08-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "106",
   "LocalAuthorityName": "Rother",
   "LocalAuthorityWebSite": "http://www.rother.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": {
     "Latitude": "50.9383137",
@@ -18,12 +18,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "TN31 7TU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-29",
   "Scores": {
     "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

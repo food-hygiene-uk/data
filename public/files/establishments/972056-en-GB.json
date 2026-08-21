@@ -9,19 +9,16 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1004537",
-    "Longitude": "-1.258216"
-  },
+  "Geocode": null,
   "AddressLine2": "114-116 Victoria Road",
   "PostCode": "NG17 8AS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2026-06-29",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.68642",
-    "Longitude": "-4.752453"
-  },
+  "Geocode": null,
   "AddressLine1": "Great Wedlock",
   "AddressLine2": "Gumfreston",
   "AddressLine3": "Tenby",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-10-18",
+  "RatingDate": "2026-07-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

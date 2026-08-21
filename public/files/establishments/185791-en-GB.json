@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8535537719727",
-    "Longitude": "-2.21437096595764"
-  },
+  "Geocode": null,
   "AddressLine1": "134A Gisburn Road",
   "AddressLine2": "Barrowford",
   "AddressLine3": "Nelson",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
-  "Scores": null
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

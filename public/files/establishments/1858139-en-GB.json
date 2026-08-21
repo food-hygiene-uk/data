@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.8732605",
-    "Longitude": "-1.3994671"
-  },
+  "Geocode": null,
   "AddressLine1": "Silksworth Community Association",
   "AddressLine2": "Tunstall Village Road",
   "AddressLine3": "Sunderland",
   "PostCode": "SR3 2BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
