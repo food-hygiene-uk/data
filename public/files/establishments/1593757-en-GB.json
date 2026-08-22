@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.10085557",
+    "Longitude": "-1.26292527"
+  },
   "AddressLine2": "The Hill",
   "PostCode": "NG17 8JS",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3201064",
+    "Longitude": "-0.555755"
+  },
   "AddressLine1": "39 Chertsey RoadWokingSurrey",
   "PostCode": "GU21 5AJ",
   "SchemeType": "FHRS",

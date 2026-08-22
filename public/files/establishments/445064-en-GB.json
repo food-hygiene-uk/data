@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.70269",
-    "Longitude": "-3.143595"
-  },
+  "Geocode": null,
   "AddressLine2": "Unit 7 Glandwr Industrial Estate",
   "AddressLine3": "Aberbeeg",
   "AddressLine4": "Abertillery",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-01-22",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

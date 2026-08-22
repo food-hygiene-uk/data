@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0378803",
+    "Longitude": "-1.202706"
+  },
   "AddressLine2": "2-2a Watnall Road",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

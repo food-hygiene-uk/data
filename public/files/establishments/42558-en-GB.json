@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.735218",
-    "Longitude": "-3.134612"
-  },
+  "Geocode": null,
   "AddressLine1": "Abertillery Comprehensive School",
   "AddressLine2": "Alma Street",
   "AddressLine3": "Abertillery",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-07-04",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

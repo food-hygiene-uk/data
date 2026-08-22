@@ -1,24 +1,25 @@
 {
   "FHRSID": 1960766,
   "BusinessName": "A1 Kebab & Catering Ltd",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "Cx14151",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4994453",
-    "Longitude": "-1.9437385"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Woodburn Road",
   "AddressLine4": "Smethwick",
   "PostCode": "B66 2PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

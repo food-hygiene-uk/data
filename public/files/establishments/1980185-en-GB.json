@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0712929",
+    "Longitude": "-1.3182991"
+  },
   "AddressLine2": "64a Alfreton Road",
   "PostCode": "NG16 6DQ",
   "SchemeType": "FHRS",

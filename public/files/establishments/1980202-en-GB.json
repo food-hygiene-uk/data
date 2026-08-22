@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.808351",
+    "Longitude": "-1.636097"
+  },
   "AddressLine1": "83 High Street",
   "AddressLine2": "Burford",
   "AddressLine3": "Oxfordshire",

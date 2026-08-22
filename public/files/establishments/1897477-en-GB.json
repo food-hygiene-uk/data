@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.571037",
-    "Longitude": "-0.767322"
-  },
+  "Geocode": null,
   "AddressLine1": "The Royal British Legion Club",
   "AddressLine2": "Station Approach",
   "AddressLine3": "Marlow",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "SL7 1NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

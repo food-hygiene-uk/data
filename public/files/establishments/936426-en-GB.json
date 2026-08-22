@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rochford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@rochford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.600705",
-    "Longitude": "0.656612"
-  },
+  "Geocode": null,
   "AddressLine1": "60 Southend Road",
   "AddressLine2": "Hockley",
   "AddressLine3": "Essex",
   "PostCode": "SS5 4QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

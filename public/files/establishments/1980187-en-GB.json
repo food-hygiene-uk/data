@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1119",
+    "Longitude": "-1.297"
+  },
   "AddressLine2": "367 – 369 Alfreton Road",
   "PostCode": "NG17 1JJ",
   "SchemeType": "FHRS",

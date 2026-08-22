@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.128719",
+    "Longitude": "-1.302059"
+  },
   "AddressLine2": "19 Market Street",
   "PostCode": "NG17 2QY",
   "SchemeType": "FHRS",

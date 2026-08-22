@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "55.0261747",
-    "Longitude": "-1.4570191"
-  },
+  "Geocode": null,
   "AddressLine1": "Preston North Road",
   "AddressLine2": "North Shields",
   "AddressLine3": "Tyne And Wear",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-19",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

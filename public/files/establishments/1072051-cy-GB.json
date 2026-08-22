@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.778038",
-    "Longitude": "-3.20765"
-  },
+  "Geocode": null,
   "AddressLine2": "32 Bethcar Street",
   "AddressLine3": "Ebbw Vale",
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP23 6XX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2018-09-05",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-06-30",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

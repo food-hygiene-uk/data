@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8057384",
-    "Longitude": "-0.0380222"
-  },
+  "Geocode": null,
   "AddressLine1": "St Nicholas Pre School",
   "AddressLine2": "St Nicholas Church Hall",
   "AddressLine3": "Saltdean Vale",
   "AddressLine4": "Saltdean",
   "PostCode": "BN2 8HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

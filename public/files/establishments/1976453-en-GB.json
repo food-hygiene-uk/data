@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.gravesham.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.ratingscheme@gravesham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4421061",
-    "Longitude": "0.3530842"
-  },
+  "Geocode": null,
   "AddressLine1": "77/78  London Road",
   "AddressLine2": "Gravesend",
   "AddressLine3": "Kent",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4853398",
-    "Longitude": "-3.1945254"
-  },
+  "Geocode": null,
   "AddressLine1": "Beverley Hotel 75 - 77 Cathedral Road",
   "AddressLine2": "Pontcanna",
   "AddressLine3": "Cardiff",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-03-22",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

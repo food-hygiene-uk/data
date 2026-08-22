@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": {
-    "Latitude": "51.5693679",
-    "Longitude": "-3.2315522"
-  },
+  "Geocode": null,
   "AddressLine1": "Caerphilly Community Centre",
   "AddressLine2": "Watford Road",
   "AddressLine3": "Watford",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 1BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

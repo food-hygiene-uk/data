@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.3947534",
@@ -18,12 +18,12 @@
   "AddressLine3": "Saltfleetby Louth",
   "PostCode": "LN11 7TP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-01",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9581964",
-    "Longitude": "-0.8584282"
-  },
+  "Geocode": null,
   "AddressLine1": "2C The Hollows",
   "AddressLine2": "Winslow Road",
   "AddressLine3": "Little Horwood",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "MK17 0PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

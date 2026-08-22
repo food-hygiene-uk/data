@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6191763",
-    "Longitude": "-0.7210323"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit A1 Wycombe Retail Park",
   "AddressLine2": "Ryemead Way",
   "AddressLine3": "High Wycombe",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP11 1FY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

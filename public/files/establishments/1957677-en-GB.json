@@ -1,6 +1,6 @@
 {
   "FHRSID": 1957677,
-  "BusinessName": "Trinity Crown Kitchen BamBam",
+  "BusinessName": "Trinity Crown Kitchen BamBam Catering",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "806001900",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "hygiene.ratingscheme@gravesham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

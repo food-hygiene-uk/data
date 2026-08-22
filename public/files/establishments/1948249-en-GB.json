@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0729469",
-    "Longitude": "-1.0290193"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1136 Silverstone Park",
   "AddressLine2": "Buckingham Road",
   "AddressLine3": "Lillingstone Dayrell",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "NN12 8FU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

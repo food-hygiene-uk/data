@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "516",
   "LocalAuthorityName": "Havering",
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
   "Geocode": {
     "Latitude": "51.570133",
@@ -17,8 +17,12 @@
   "AddressLine2": "Romford",
   "PostCode": "RM7 0HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
+  }
 }

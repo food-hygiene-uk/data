@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.090027",
+    "Longitude": "-1.244182"
+  },
   "AddressLine2": "43 Central Avenue",
   "PostCode": "NG17 7FQ",
   "SchemeType": "FHRS",

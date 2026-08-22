@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8637856",
+    "Longitude": "-4.2925755"
+  },
   "AddressLine2": "145 Kelvinhaugh Street",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

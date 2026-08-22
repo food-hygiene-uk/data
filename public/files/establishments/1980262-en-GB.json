@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3333538",
+    "Longitude": "-0.4757533"
+  },
   "AddressLine1": "Church Hall124 Church RoadByfleetWest ByfleetSurrey",
   "PostCode": "KT14 7NF",
   "SchemeType": "FHRS",

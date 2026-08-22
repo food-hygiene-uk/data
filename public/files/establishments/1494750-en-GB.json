@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6444295",
+    "Longitude": "-0.1643673"
+  },
   "AddressLine1": "209 Crescent Road Barnet",
   "PostCode": "EN4 8SB",
   "SchemeType": "FHRS",

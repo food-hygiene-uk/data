@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.203397",
-    "Longitude": "-3.0287208"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Bridge Street",
   "AddressLine4": "Kington",
   "PostCode": "HR5 3DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "066",
   "LocalAuthorityName": "Erewash",
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
   "Geocode": {
     "Latitude": "52.968243",
@@ -17,12 +17,12 @@
   "AddressLine4": "Ilkeston",
   "PostCode": "DE7 5DA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

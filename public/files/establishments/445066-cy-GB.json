@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.797178",
-    "Longitude": "-3.214721"
-  },
+  "Geocode": null,
   "AddressLine2": "1 Cilgant yr Eglwys",
   "AddressLine3": "Cendl",
   "AddressLine4": "Glynebwy",
   "PostCode": "NP23 5PE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2026-06-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2024-11-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

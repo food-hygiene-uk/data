@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "232",
   "LocalAuthorityName": "Norwich City",
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
   "Geocode": {
     "Latitude": "52.6496059",
@@ -18,12 +18,12 @@
   "AddressLine3": "Norwich",
   "PostCode": "NR3 2RJ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

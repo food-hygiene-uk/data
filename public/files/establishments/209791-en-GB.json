@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5140036",
-    "Longitude": "-1.9857158"
-  },
+  "Geocode": null,
   "AddressLine1": " 37 High Street",
   "AddressLine2": "West Bromwich",
   "PostCode": "B70 6PB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-06-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

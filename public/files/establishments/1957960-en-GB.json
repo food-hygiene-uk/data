@@ -9,20 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5610167",
-    "Longitude": "-2.4283022"
-  },
-  "AddressLine2": "267 Rishton Lane",
-  "AddressLine3": "Bolton",
-  "PostCode": "BL3 2EH",
+  "Geocode": null,
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

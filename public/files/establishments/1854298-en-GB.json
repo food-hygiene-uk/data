@@ -10,14 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
   "Geocode": null,
-  "AddressLine1": "9 Callingwood Hall Farm Units",
-  "AddressLine2": "Callingwood Lane",
-  "AddressLine3": "Tatenhill",
-  "AddressLine4": "Burton upon Trent",
-  "PostCode": "DE13 9SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.torridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@torridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.042212",
-    "Longitude": "-4.236516"
-  },
+  "Geocode": null,
   "AddressLine1": "Westbourne Terrace",
   "AddressLine2": "Westward Ho!",
   "AddressLine3": "Bideford",
   "AddressLine4": "Devon",
   "PostCode": "EX39 1LL",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

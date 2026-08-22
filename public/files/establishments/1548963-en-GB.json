@@ -1,18 +1,15 @@
 {
   "FHRSID": 1548963,
   "BusinessName": "The Venue",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP22_000747",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.5114438",
-    "Longitude": "-4.9814329"
-  },
+  "Geocode": null,
   "AddressLine1": "St Merryn Park",
   "AddressLine2": "St Merryn Holiday Village",
   "AddressLine3": "St Merryn",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingDate": "2026-08-20",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

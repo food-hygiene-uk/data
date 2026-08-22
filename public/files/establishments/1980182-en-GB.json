@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.140704",
+    "Longitude": "-1.276899"
+  },
   "AddressLine2": "66 High Street",
   "PostCode": "NG17 3GA",
   "SchemeType": "FHRS",

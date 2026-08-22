@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7786712646484",
-    "Longitude": "-3.20528197288513"
-  },
+  "Geocode": null,
   "AddressLine1": "The Rookery Residential Home",
   "AddressLine2": "Queens Square",
   "AddressLine3": "Ebbw Vale",
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP23 6EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-05-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

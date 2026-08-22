@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6374572",
-    "Longitude": "1.5535789"
-  },
+  "Geocode": null,
   "AddressLine1": "Acle Service Station",
   "AddressLine2": "New Road",
   "AddressLine3": "Acle",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-08-21",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

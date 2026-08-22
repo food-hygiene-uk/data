@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.104421",
+    "Longitude": "-1.237507"
+  },
   "AddressLine2": "36-38 Ashwood Avenue",
   "PostCode": "NG17 7QA",
   "SchemeType": "FHRS",

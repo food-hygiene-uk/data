@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0799235",
+    "Longitude": "-1.2357135"
+  },
   "AddressLine2": "10 Recreation Road",
   "PostCode": "NG15 0AE",
   "SchemeType": "FHRS",

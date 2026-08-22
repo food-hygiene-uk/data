@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
-  "Geocode": {
-    "Latitude": "53.100505",
-    "Longitude": "-1.337151"
-  },
+  "Geocode": null,
   "AddressLine1": "124 The Common",
   "AddressLine2": "South Normanton",
   "AddressLine3": "Alfreton",
   "PostCode": "DE55 2EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

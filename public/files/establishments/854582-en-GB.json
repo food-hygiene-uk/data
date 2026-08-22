@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7316436767578",
-    "Longitude": "-3.13433504104614"
-  },
+  "Geocode": null,
   "AddressLine2": "22 Church Street",
   "AddressLine3": "Abertillery",
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP13 1DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
   "RatingDate": "2026-06-10",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 0
   }
 }

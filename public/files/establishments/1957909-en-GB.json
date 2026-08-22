@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1072784",
+    "Longitude": "-1.2614148"
+  },
   "AddressLine2": "28 Sutton Middle Lane",
   "PostCode": "NG17 8FX",
   "SchemeType": "FHRS",

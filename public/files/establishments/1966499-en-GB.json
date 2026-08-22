@@ -1,26 +1,30 @@
 {
   "FHRSID": 1966499,
-  "BusinessName": "The Crown",
+  "BusinessName": "The Crown Kingsclere",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00254/CP",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "131",
   "LocalAuthorityName": "Basingstoke and Deane",
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
   "Geocode": {
-    "Latitude": "51.325261",
-    "Longitude": "-1.247258"
+    "Latitude": "51.3251786",
+    "Longitude": "-1.2470987"
   },
-  "AddressLine1": "Newbury Road",
-  "AddressLine2": "Kingsclere",
-  "AddressLine3": "Newbury",
-  "AddressLine4": "Hampshire",
+  "AddressLine1": "The Crown",
+  "AddressLine2": "Newbury Road",
+  "AddressLine3": "Kingsclere",
+  "AddressLine4": "Newbury",
   "PostCode": "RG20 5QU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-16",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

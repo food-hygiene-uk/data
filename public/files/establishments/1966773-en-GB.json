@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0107339",
+    "Longitude": "-1.2219421"
+  },
   "AddressLine2": "unit 8 Blenheim park road",
   "PostCode": "NG6 8YP",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8672148",
+    "Longitude": "-0.9838777"
+  },
   "AddressLine1": "38-40 Greywell Road",
   "AddressLine3": "Havant",
   "SchemeType": "FHRS",

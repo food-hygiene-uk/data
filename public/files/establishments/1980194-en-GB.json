@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.032557",
+    "Longitude": "-1.228589"
+  },
   "AddressLine2": "53 Nabbs Lane",
   "PostCode": "NG15 6NT",
   "SchemeType": "FHRS",

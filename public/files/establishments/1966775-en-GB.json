@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.03151",
+    "Longitude": "-1.194073"
+  },
   "AddressLine2": "Hankin Street",
   "PostCode": "NG15 7RR",
   "SchemeType": "FHRS",

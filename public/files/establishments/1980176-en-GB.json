@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.070204",
+    "Longitude": "-1.299766"
+  },
   "AddressLine2": "137 Nottingham Road",
   "PostCode": "NG16 6BT",
   "SchemeType": "FHRS",

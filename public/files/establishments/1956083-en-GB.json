@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.821766",
-    "Longitude": "-0.13465"
-  },
+  "Geocode": null,
   "AddressLine1": "1 George Street",
   "AddressLine2": "Brighton",
   "PostCode": "BN2 1RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

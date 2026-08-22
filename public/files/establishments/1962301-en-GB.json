@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.598713",
-    "Longitude": "-2.547771"
-  },
+  "Geocode": null,
   "AddressLine2": "46 Winter Hey Lane",
   "AddressLine3": "Horwich",
   "AddressLine4": "Bolton",
   "PostCode": "BL6 7NX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

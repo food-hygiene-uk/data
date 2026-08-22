@@ -1,24 +1,28 @@
 {
   "FHRSID": 1968556,
-  "BusinessName": "Calis",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "Calis Coventry",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx21806",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "407",
   "LocalAuthorityName": "Coventry",
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
   "Geocode": {
-    "Latitude": "52.4205639",
-    "Longitude": "-1.4966327"
+    "Latitude": "52.4209728",
+    "Longitude": "-1.49665055"
   },
-  "AddressLine1": "351 Stoney Stanton Road",
+  "AddressLine1": "Stoney Stanton Road",
   "AddressLine4": "Coventry",
   "PostCode": "CV6 5DS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

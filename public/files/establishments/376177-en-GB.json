@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.038452",
+    "Longitude": "-1.203757"
+  },
   "AddressLine2": "52-54 High Street",
   "PostCode": "NG15 7AX",
   "SchemeType": "FHRS",

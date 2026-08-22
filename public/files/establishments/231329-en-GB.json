@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": {
     "Latitude": "52.343149",
@@ -18,12 +18,12 @@
   "AddressLine3": "Powys",
   "PostCode": "LD7 1BT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2026-01-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

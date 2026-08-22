@@ -10,13 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
   "Geocode": null,
-  "AddressLine1": "2 Chesterfield Road",
-  "AddressLine2": "Two Dales",
-  "AddressLine3": "Derbyshire",
+  "AddressLine1": "Tre Fiori",
+  "AddressLine2": "2 Chesterfield Road",
+  "AddressLine3": "Two Dales",
+  "AddressLine4": "Derbyshire",
   "PostCode": "DE4 2EY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

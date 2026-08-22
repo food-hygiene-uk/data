@@ -1,9 +1,9 @@
 {
   "FHRSID": 1960801,
   "BusinessName": "Razia’s Homemade Pickles & Spices",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "Cx14199",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

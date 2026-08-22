@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.0994892",
-    "Longitude": "-5.2724242"
-  },
+  "Geocode": null,
   "AddressLine1": "57 Meneage Street",
   "AddressLine2": "Helston",
   "AddressLine3": "Cornwall",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-20",
+  "RatingDate": "2026-08-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2996486",
-    "Longitude": "-1.4563301"
-  },
+  "Geocode": null,
   "AddressLine1": "Units 5C And 5D",
   "AddressLine2": "Callywhite Lane",
   "AddressLine3": "Dronfield",
   "PostCode": "S18 2NS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

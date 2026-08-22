@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.09826",
+    "Longitude": "-1.243963"
+  },
   "AddressLine2": "1-3 Kingsway",
   "PostCode": "NG17 7BB",
   "SchemeType": "FHRS",

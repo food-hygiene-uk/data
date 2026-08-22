@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.788195",
+    "Longitude": "-1.482929"
+  },
   "AddressLine1": "100 High Street",
   "AddressLine2": "Witney",
   "AddressLine3": "Oxfordshire",

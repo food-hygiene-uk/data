@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rochford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@rochford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.587797",
-    "Longitude": "0.6072011"
-  },
+  "Geocode": null,
   "AddressLine1": "5 - 6 Berrys Arcade",
   "AddressLine2": "High Street",
   "AddressLine3": "Rayleigh",
   "AddressLine4": "Essex",
   "PostCode": "SS6 7EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

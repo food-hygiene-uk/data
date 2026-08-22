@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.559174",
-    "Longitude": "-0.030964"
-  },
+  "Geocode": null,
   "AddressLine2": "69 St Peters Avenue",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 8HF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-07",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

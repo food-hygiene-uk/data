@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9586539",
+    "Longitude": "-1.4483158"
+  },
   "AddressLine1": "Rownhams East Motorway Service Area",
   "AddressLine2": "M27 Eastbound Service Road",
   "AddressLine3": "Rownhams",

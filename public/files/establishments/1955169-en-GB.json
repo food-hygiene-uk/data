@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.torridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@torridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0156898498535",
-    "Longitude": "-4.24822759628296"
-  },
+  "Geocode": null,
   "AddressLine1": "Abbotsham",
   "AddressLine2": "Bideford",
   "AddressLine3": "Devon",
   "PostCode": "EX39 5AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

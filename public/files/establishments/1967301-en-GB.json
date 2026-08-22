@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5623109",
-    "Longitude": "-0.0761877"
-  },
+  "Geocode": null,
   "AddressLine2": "56 Stoke Newington Church Street London",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
   "PostCode": "N16 0NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

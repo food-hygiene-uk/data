@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1205581",
+    "Longitude": "-1.2809264"
+  },
   "AddressLine2": "170 Alfreton Road",
   "PostCode": "NG17 1JB",
   "SchemeType": "FHRS",

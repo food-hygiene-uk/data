@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.901585",
-    "Longitude": "-1.5421953"
-  },
+  "Geocode": null,
   "AddressLine1": "The Hub",
   "AddressLine2": "50 Brierfield Way",
   "AddressLine3": "Derby",
   "PostCode": "DE3 9SA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

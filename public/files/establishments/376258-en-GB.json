@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.036607",
+    "Longitude": "-1.203329"
+  },
   "AddressLine2": "19a Watnall Road",
   "PostCode": "NG15 7LD",
   "SchemeType": "FHRS",

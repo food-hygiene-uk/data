@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.962818145752",
+    "Longitude": "-1.41991698741913"
+  },
   "AddressLine1": "Manor Road",
   "AddressLine2": "Chilworth",
   "AddressLine3": "Southampton",

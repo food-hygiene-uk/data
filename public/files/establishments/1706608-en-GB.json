@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.039621",
+    "Longitude": "-1.207807"
+  },
   "AddressLine2": "Ogle Street",
   "PostCode": "NG15 7FQ",
   "SchemeType": "FHRS",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
-  "Geocode": {
-    "Latitude": "50.52529",
-    "Longitude": "-4.765999"
-  },
+  "Geocode": null,
   "AddressLine1": "Wadebridge Road",
   "AddressLine2": "St Mabyn",
   "AddressLine3": "Bodmin",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-19",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

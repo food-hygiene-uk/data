@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5789465",
-    "Longitude": "-2.1434138"
-  },
+  "Geocode": null,
   "AddressLine1": "149A Merridale Street West",
   "AddressLine2": "Wolverhampton",
   "AddressLine3": "West Midlands",
   "PostCode": "WV3 0RW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

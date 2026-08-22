@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
-  "Geocode": {
-    "Latitude": "53.106315",
-    "Longitude": "-1.342588"
-  },
+  "Geocode": null,
   "AddressLine1": "15 Market Place",
   "AddressLine2": "South Normanton",
   "AddressLine3": "Alfreton",
   "PostCode": "DE55 2BN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

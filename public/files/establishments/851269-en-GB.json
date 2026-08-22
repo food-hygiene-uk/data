@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.123921",
+    "Longitude": "-1.263582"
+  },
   "AddressLine2": "Market Place",
   "PostCode": "NG17 1AQ",
   "SchemeType": "FHRS",

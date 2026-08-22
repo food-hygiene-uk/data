@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3116891",
-    "Longitude": "-1.3542828"
-  },
+  "Geocode": null,
   "AddressLine1": "Manor House",
   "AddressLine2": "62 Church Street",
   "AddressLine3": "Eckington",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-29",
-  "Scores": null
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

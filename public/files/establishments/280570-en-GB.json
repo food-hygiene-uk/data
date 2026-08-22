@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": null,
   "AddressLine1": "149 Wensley Road",
@@ -15,12 +15,12 @@
   "AddressLine3": "Berkshire",
   "PostCode": "RG1 6DU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-16",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

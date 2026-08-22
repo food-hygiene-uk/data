@@ -1,6 +1,6 @@
 {
   "FHRSID": 1949174,
-  "BusinessName": "Crispyfy, Bun N Bite",
+  "BusinessName": "Crispyfy",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000317311",
   "BusinessTypeID": 7844,
@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6327336",
-    "Longitude": "-1.7953859"
-  },
-  "AddressLine1": "Bun N Bite",
+  "Geocode": null,
+  "AddressLine1": "Crispyfy",
   "AddressLine2": "19 Bridge Street",
   "AddressLine3": "Lockwood",
   "AddressLine4": "Huddersfield",
   "PostCode": "HD4 6EL",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-06-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-17",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

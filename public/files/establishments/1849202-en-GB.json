@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": {
-    "Latitude": "52.926855",
-    "Longitude": "-1.463003"
-  },
+  "Geocode": null,
   "AddressLine1": "The County Ground",
   "AddressLine2": "Nottingham Road",
   "AddressLine3": "Derby",
   "PostCode": "DE21 6DA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

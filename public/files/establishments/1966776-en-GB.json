@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1258085",
+    "Longitude": "-1.2591098"
+  },
   "AddressLine2": "2a Outram Street",
   "PostCode": "NG17 4AX",
   "SchemeType": "FHRS",

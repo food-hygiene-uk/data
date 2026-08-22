@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0133706",
-    "Longitude": "-0.0882711"
-  },
+  "Geocode": null,
   "AddressLine1": "Little Broomsticks Coffee Garden",
   "AddressLine2": "The Witch Inn",
   "AddressLine3": "Sunte Avenue",
   "AddressLine4": "Lindfield",
   "PostCode": "RH16 2AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

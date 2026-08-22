@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
-  "Geocode": {
-    "Latitude": "54.55097",
-    "Longitude": "-1.234009"
-  },
+  "Geocode": null,
   "AddressLine1": "31-33 Saltersgill Avenue",
   "AddressLine2": "Middlesbrough",
   "PostCode": "TS4 3LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

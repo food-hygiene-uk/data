@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1982227",
-    "Longitude": "-1.2357007"
-  },
+  "Geocode": null,
   "AddressLine1": "Roseland Park And Crematorium",
   "AddressLine2": "Balkham Lane",
   "AddressLine3": "Shirebrook",
   "AddressLine4": "Mansfield",
   "PostCode": "NG20 8JE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

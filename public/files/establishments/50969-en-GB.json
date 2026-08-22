@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.8514001",
+    "Longitude": "-0.9833092"
+  },
   "AddressLine1": "9 West Street",
   "AddressLine3": "Havant",
   "SchemeType": "FHRS",

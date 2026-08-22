@@ -1,6 +1,6 @@
 {
   "FHRSID": 1975327,
-  "BusinessName": "PIzza GoGo Corby",
+  "BusinessName": "Pizza GoGo Corby",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00088/FOODHS",
   "BusinessTypeID": 7841,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4951918",
-    "Longitude": "-0.6977668"
-  },
+  "Geocode": null,
   "AddressLine1": "King Hong Takeaway",
   "AddressLine2": "85 Occupation Road",
   "AddressLine3": "Corby",
   "PostCode": "NN17 1EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

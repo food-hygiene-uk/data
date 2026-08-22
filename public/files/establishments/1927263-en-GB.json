@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.horsham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl@horsham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0617626",
-    "Longitude": "-0.3282126"
-  },
+  "Geocode": null,
   "AddressLine1": "Felix",
   "AddressLine2": "5 MARKET SQUARE",
   "AddressLine3": "Horsham",
   "PostCode": "RH12 1EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

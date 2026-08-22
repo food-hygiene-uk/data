@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.133627",
+    "Longitude": "-1.27204"
+  },
   "AddressLine2": "61 Northwood Avenue",
   "PostCode": "NG17 2FU",
   "SchemeType": "FHRS",

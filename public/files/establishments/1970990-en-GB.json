@@ -1,13 +1,13 @@
 {
   "FHRSID": 1970990,
-  "BusinessName": "Banh-Mi Caphe",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "The Viet Banh Mi Caphe",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "266825",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "855",
   "LocalAuthorityName": "Bristol",
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
   "Geocode": {
     "Latitude": "51.440132",
@@ -18,8 +18,12 @@
   "AddressLine4": "Bristol",
   "PostCode": "BS3 1JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

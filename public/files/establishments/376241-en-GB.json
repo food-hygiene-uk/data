@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1248002",
+    "Longitude": "-1.2617573"
+  },
   "AddressLine2": "28 The Idlewells",
   "PostCode": "NG17 1BN",
   "SchemeType": "FHRS",

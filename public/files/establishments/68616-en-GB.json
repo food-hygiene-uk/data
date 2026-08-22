@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.129058",
+    "Longitude": "-1.303204"
+  },
   "AddressLine2": "Chesterfield Road",
   "PostCode": "NG17 2PY",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.0986938476563",
+    "Longitude": "-1.24283599853516"
+  },
   "AddressLine2": "Diamond Avenue",
   "PostCode": "NG17 7GN",
   "SchemeType": "FHRS",

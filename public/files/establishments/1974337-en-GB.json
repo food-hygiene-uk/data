@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7326383",
-    "Longitude": "-1.2710715"
-  },
+  "Geocode": null,
   "AddressLine1": "Charnwood Forest Farm",
   "AddressLine2": "Charley Road",
   "AddressLine3": "Charley",
   "AddressLine4": "Loughborough",
   "PostCode": "LE12 9XJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

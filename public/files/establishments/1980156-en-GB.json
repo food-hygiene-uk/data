@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8500977",
+    "Longitude": "-4.2541773"
+  },
   "AddressLine2": "162 Gorbals Street",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",

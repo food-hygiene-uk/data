@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.340711",
-    "Longitude": "0.7326727"
-  },
+  "Geocode": null,
   "AddressLine1": "18 West Street",
   "AddressLine2": "Sittingbourne",
   "AddressLine3": "Kent",
   "PostCode": "ME10 1AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

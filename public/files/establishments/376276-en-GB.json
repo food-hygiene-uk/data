@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.100071",
+    "Longitude": "-1.244648"
+  },
   "AddressLine2": "50 Lowmoor Road",
   "PostCode": "NG17 7BG",
   "SchemeType": "FHRS",

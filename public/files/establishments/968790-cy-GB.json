@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.srs.wales/en/Environmental-Health/Food-Hygiene-Standards/Food.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafetyCardiff-SRSWales@valeofglamorgan.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4768188",
-    "Longitude": "-3.1871907"
-  },
+  "Geocode": null,
   "AddressLine1": "58 - 60 Stryd Tudor",
   "AddressLine2": "Glan yr Afon",
   "AddressLine3": "Caerdydd",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2016-09-05",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

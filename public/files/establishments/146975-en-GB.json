@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.03605",
+    "Longitude": "-1.195375"
+  },
   "AddressLine2": "Ashgate Road",
   "PostCode": "NG15 7UQ",
   "SchemeType": "FHRS",

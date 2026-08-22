@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.609219",
+    "Longitude": "-0.2226402"
+  },
   "AddressLine1": "7 Salcombe Gardens London",
   "PostCode": "NW7 2NU",
   "SchemeType": "FHRS",

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.773893",
-    "Longitude": "-3.207429"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Church Street",
   "AddressLine3": "Ebbw Vale",
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP23 6BE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2026-03-16",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-06-30",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

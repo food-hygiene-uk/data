@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.349195",
-    "Longitude": "0.732531"
-  },
+  "Geocode": null,
   "AddressLine1": "94 High Street",
   "AddressLine2": "Milton Regis",
   "AddressLine3": "Sittingbourne",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-28",
-  "Scores": null
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

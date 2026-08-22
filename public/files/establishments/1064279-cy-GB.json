@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8003534",
-    "Longitude": "-3.1870589"
-  },
+  "Geocode": null,
   "AddressLine2": "13 Heol Onen",
   "AddressLine3": "Brynmawr",
   "AddressLine4": "Blaenau Gwent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-07-31",
+  "RatingDate": "2026-07-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

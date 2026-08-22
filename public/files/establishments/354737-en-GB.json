@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.658249",
-    "Longitude": "-1.82073"
-  },
+  "Geocode": null,
   "AddressLine1": "36 Occupation Road",
   "AddressLine2": "Lindley",
   "AddressLine3": "Huddersfield",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-18",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

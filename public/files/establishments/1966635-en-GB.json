@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7465039",
-    "Longitude": "-3.3795638"
-  },
+  "Geocode": null,
   "AddressLine1": "13 Wheatsheaf Lane",
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF47 8AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

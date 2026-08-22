@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0661151",
-    "Longitude": "-0.0354903"
-  },
+  "Geocode": null,
   "AddressLine1": "Highfield Farm Old North Road",
   "AddressLine3": "Bassingbourn Cum Kneesworth",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "SG8 5JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

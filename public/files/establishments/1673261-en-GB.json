@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.welhat.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "e.health@welhat.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.776342",
+    "Longitude": "-0.220415"
+  },
   "AddressLine1": "Tesco",
   "AddressLine2": "Great North Road",
   "AddressLine3": "Hatfield",

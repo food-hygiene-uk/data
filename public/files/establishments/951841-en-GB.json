@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.625021",
+    "Longitude": "-0.272688"
+  },
   "AddressLine1": "St Andrews Church Of England Church  Lynford Gardens Edgware",
   "PostCode": "HA8 8TZ",
   "SchemeType": "FHRS",
