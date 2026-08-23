@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5813487",
+    "Longitude": "-3.4694012"
+  },
   "AddressLine1": "26 - 27 The Strand Dawlish",
   "PostCode": "EX7 9PS",
   "SchemeType": "FHRS",

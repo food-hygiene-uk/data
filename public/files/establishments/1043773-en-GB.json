@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "508",
   "LocalAuthorityName": "City of London Corporation",
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
   "Geocode": {
     "Latitude": "51.516935",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "EC2M 4RH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-19",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

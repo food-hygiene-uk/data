@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.416981",
+    "Longitude": "0.741823"
+  },
   "AddressLine1": "1 High Street",
   "AddressLine2": "Queenborough",
   "AddressLine3": "Kent",

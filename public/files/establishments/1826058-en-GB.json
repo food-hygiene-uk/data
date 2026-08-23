@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4842831",
+    "Longitude": "-3.5381102"
+  },
   "AddressLine1": "77-79 Hele Road Torquay",
   "PostCode": "TQ2 7PR",
   "SchemeType": "FHRS",

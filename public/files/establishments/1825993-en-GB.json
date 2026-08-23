@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4622835",
+    "Longitude": "-3.5252306"
+  },
   "AddressLine1": "1a The Strand Torquay",
   "PostCode": "TQ1 2AA",
   "SchemeType": "FHRS",

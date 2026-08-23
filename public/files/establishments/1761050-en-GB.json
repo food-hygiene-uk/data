@@ -1,30 +1,27 @@
 {
   "FHRSID": 1761050,
-  "BusinessName": "Woodend Catering",
+  "BusinessName": "Nick's Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "118414",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "897",
   "LocalAuthorityName": "Blackburn",
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
-  "Geocode": {
-    "Latitude": "53.62094",
-    "Longitude": "-2.41939"
-  },
-  "AddressLine1": "Wood End Farm Wood End Farm Hospital Road",
+  "Geocode": null,
+  "AddressLine1": "Turton Golf Club Hospital Road",
   "AddressLine2": "Turton",
   "AddressLine3": "Bolton",
   "AddressLine4": "Blackburn With Darwen",
   "PostCode": "BL7 9QD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-04-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

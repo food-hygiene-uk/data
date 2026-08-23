@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5819386",
+    "Longitude": "-3.4718209"
+  },
   "AddressLine1": "2 Park Road Dawlish",
   "PostCode": "EX7 9LQ",
   "SchemeType": "FHRS",

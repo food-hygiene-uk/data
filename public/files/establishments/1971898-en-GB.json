@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "263",
   "LocalAuthorityName": "Mansfield",
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentaladministration@mansfield.gov.uk",
   "Geocode": {
     "Latitude": "53.1505646",
@@ -18,8 +18,12 @@
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG19 6EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-17",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }
