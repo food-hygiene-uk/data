@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "874",
   "LocalAuthorityName": "Darlington",
   "LocalAuthorityWebSite": "http://www.darlington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@darlington.gov.uk",
   "Geocode": {
     "Latitude": "54.512051",
@@ -17,12 +17,12 @@
   "AddressLine2": "DARLINGTON",
   "PostCode": "DL3 8QN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

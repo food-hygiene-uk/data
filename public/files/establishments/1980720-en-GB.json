@@ -1,28 +1,21 @@
 {
-  "FHRSID": 1556734,
+  "FHRSID": 1980720,
   "BusinessName": "Nosh Box",
   "BusinessType": "Takeaway/sandwich shop",
-  "LocalAuthorityBusinessID": "22/00386/CP",
+  "LocalAuthorityBusinessID": "26/00329/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.80126375",
-    "Longitude": "-1.0890246"
-  },
+  "Geocode": null,
   "AddressLine1": "Commercial Road",
   "AddressLine2": "Portsmouth",
   "PostCode": "PO1 1BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-27",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

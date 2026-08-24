@@ -1,28 +1,21 @@
 {
-  "FHRSID": 1500206,
+  "FHRSID": 1980726,
   "BusinessName": "Allaway Grill",
   "BusinessType": "Takeaway/sandwich shop",
-  "LocalAuthorityBusinessID": "22/00198/CP",
+  "LocalAuthorityBusinessID": "26/00335/CP",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8495254516602",
-    "Longitude": "-1.09288597106934"
-  },
+  "Geocode": null,
   "AddressLine1": "135 Allaway Avenue",
   "AddressLine2": "Portsmouth",
   "PostCode": "PO6 4HE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-18",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
