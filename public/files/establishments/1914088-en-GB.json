@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5216968",
-    "Longitude": "-1.1301122"
-  },
+  "Geocode": null,
   "AddressLine1": "Diamond Live Lounge Wood Street",
   "AddressLine3": "Doncaster",
   "PostCode": "DN1 3LH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-15",
-  "Scores": null
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

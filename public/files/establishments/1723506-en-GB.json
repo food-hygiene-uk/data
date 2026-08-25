@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": {
-    "Latitude": "50.3506679",
-    "Longitude": "-3.5784329"
-  },
+  "Geocode": null,
   "AddressLine1": "5-6 Fairfax Place",
   "AddressLine2": "Dartmouth",
   "PostCode": "TQ6 9AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

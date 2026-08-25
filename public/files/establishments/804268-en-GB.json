@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.496614",
-    "Longitude": "-2.686542"
-  },
+  "Geocode": null,
   "AddressLine1": "Avonmouth Football Club",
   "AddressLine2": "Avonmouth Road",
   "AddressLine3": "Avonmouth",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-16",
-  "Scores": null
+  "RatingDate": "2023-03-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

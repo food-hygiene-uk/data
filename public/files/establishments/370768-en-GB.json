@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3533608",
-    "Longitude": "1.2533288"
-  },
+  "Geocode": null,
   "AddressLine1": "Bell Inn The Street",
   "AddressLine2": "St Nicholas At Wade",
   "AddressLine3": "Birchington",
   "AddressLine4": "Kent",
   "PostCode": "CT7 0NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

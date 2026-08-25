@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956515,
-  "BusinessName": "Peking Panda",
+  "BusinessName": "Peking Panda / Peking City / New Garden / Wok u Like",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "801656",
   "BusinessTypeID": 7844,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.508157",
-    "Longitude": "-3.5769551"
-  },
+  "Geocode": null,
   "AddressLine1": "49 Wyndham Street",
   "AddressLine3": "Bridgend",
   "PostCode": "CF31 1EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

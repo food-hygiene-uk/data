@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3787694",
-    "Longitude": "-0.4601793"
-  },
+  "Geocode": null,
   "AddressLine1": "Thames Lock",
   "AddressLine2": "Whittets Ait",
   "AddressLine3": "Jessamy Road",
   "AddressLine4": "Weybridge",
   "PostCode": "KT13 8LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

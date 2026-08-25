@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7348594665527",
-    "Longitude": "-2.06205201148987"
-  },
+  "Geocode": null,
   "AddressLine1": "The Bakers Arms Dorchester Road",
   "AddressLine3": "Lytchett Minster",
   "AddressLine4": "Dorset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-12",
+  "RatingDate": "2026-08-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

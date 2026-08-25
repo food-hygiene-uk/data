@@ -1,6 +1,6 @@
 {
   "FHRSID": 1964851,
-  "BusinessName": "The Risig Sun",
+  "BusinessName": "The Rising Sun",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00071/COMM",
   "BusinessTypeID": 7843,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3309269",
-    "Longitude": "-0.2632276"
-  },
+  "Geocode": null,
   "AddressLine1": "The Rising Sun Public House",
   "AddressLine2": "14 Heathcote Road",
   "AddressLine3": "Epsom",
   "AddressLine4": "Surrey",
   "PostCode": "KT18 5DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

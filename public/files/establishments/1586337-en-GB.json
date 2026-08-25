@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8338348",
-    "Longitude": "0.9170948"
-  },
+  "Geocode": null,
   "AddressLine1": "Abberton And District Cricket Club",
   "AddressLine2": "Abberton Road",
   "AddressLine3": "Langenhoe",
   "AddressLine4": "Essex",
   "PostCode": "CO5 7AW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

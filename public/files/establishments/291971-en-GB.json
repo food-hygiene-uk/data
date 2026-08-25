@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.291334",
-    "Longitude": "0.469611"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2",
   "AddressLine2": "Wood Close",
   "AddressLine3": "Quarry Wood Industrial Estate",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-12",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

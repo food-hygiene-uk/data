@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8738855",
-    "Longitude": "0.9268217"
-  },
+  "Geocode": null,
   "AddressLine1": "Bannatynes Health Club Heath House",
   "AddressLine2": "Heath Business Park",
   "AddressLine3": "Grange Way",
   "AddressLine4": "Colchester",
   "PostCode": "CO2 8GU",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4718393",
-    "Longitude": "0.9528059"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit T29 Snetterton Park Harling Road",
   "AddressLine3": "Snetterton",
   "AddressLine4": "Norfolk",
   "PostCode": "NR16 2JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

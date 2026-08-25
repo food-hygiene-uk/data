@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3292359",
-    "Longitude": "-3.8283352"
-  },
+  "Geocode": null,
   "AddressLine1": "Llandudno Pier North Parade",
   "AddressLine3": "Llandudno",
   "AddressLine4": "Conwy",
   "PostCode": "LL30 2LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

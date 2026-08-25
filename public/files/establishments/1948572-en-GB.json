@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9294736",
-    "Longitude": "-1.1178776"
-  },
+  "Geocode": null,
   "AddressLine1": "Askham Bar Park And Ride",
   "AddressLine2": "Tadcaster Road",
   "AddressLine3": "Dringhouses",
   "AddressLine4": "York",
   "PostCode": "YO24 1LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

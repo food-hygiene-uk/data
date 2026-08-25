@@ -1,6 +1,6 @@
 {
   "FHRSID": 119979,
-  "BusinessName": "Accomplish",
+  "BusinessName": "The Light House",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "4906",
   "BusinessTypeID": 5,
@@ -9,21 +9,13 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2438512",
-    "Longitude": "-2.9977035"
-  },
-  "AddressLine1": "The Lighthouse",
+  "Geocode": null,
   "AddressLine2": "25 Berrow Road",
   "AddressLine3": "Burnham-On-Sea",
   "PostCode": "TA8 2EY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-23",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

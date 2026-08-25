@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2175915",
-    "Longitude": "1.3821026"
-  },
+  "Geocode": null,
   "AddressLine1": "311 London Road",
   "AddressLine3": "Deal",
   "PostCode": "CT14 9PP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

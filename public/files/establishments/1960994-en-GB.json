@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4559135437012",
-    "Longitude": "-2.49291706085205"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Westons Way",
   "AddressLine2": "Kingswood",
   "AddressLine3": "South Gloucestershire",
   "PostCode": "BS15 9RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 0
+  }
 }

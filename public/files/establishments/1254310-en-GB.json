@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.675666809082",
-    "Longitude": "-1.9716579914093"
-  },
+  "Geocode": null,
   "AddressLine2": "49 Brownhills Road",
   "AddressLine4": "Norton Canes",
-  "PostCode": "WS11 9SD",
+  "PostCode": "WS11 9SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

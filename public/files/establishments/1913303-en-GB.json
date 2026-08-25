@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cannockchasedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cannockchasedc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6575277",
-    "Longitude": "-1.9722309"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 28 Yates Industrial Estate",
   "AddressLine2": "Lime Lane",
   "AddressLine4": "Pelsall",
   "PostCode": "WS3 5AS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

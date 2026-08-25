@@ -8,16 +8,17 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.2793237",
-    "Longitude": "1.0784588"
-  },
+  "Geocode": null,
   "AddressLine1": "30-33 High Street",
   "AddressLine2": "Canterbury",
   "PostCode": "CT1 2RX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-23",
-  "Scores": null
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

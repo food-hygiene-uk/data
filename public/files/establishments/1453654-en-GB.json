@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "307",
   "LocalAuthorityName": "Guildford",
   "LocalAuthorityWebSite": "http://www.guildford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
   "Geocode": {
     "Latitude": "51.26521",
@@ -18,12 +18,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "KT24 6RT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-06",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "55.160719",
-    "Longitude": "-1.67904"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Second Avenue",
   "AddressLine2": "Stobhill Gate",
   "AddressLine3": "Morpeth",
   "PostCode": "NE61 2ET",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-05-20",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 20,
-    "ConfidenceInManagement": 30
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

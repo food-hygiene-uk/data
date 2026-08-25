@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8459433",
-    "Longitude": "0.8543204"
-  },
+  "Geocode": null,
   "AddressLine1": "Layer Village Hall",
   "AddressLine2": "New Cut",
   "AddressLine3": "Layer De La Haye",
   "AddressLine4": "Essex",
   "PostCode": "CO2 0EH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

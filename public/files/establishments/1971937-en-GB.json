@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4813432",
-    "Longitude": "1.042507"
-  },
+  "Geocode": null,
   "AddressLine1": "Church House Church Lane",
   "AddressLine3": "Old Buckenham",
   "AddressLine4": "Norfolk",
   "PostCode": "NR17 1RP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

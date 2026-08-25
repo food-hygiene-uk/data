@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.conwy.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1387386",
-    "Longitude": "-3.7980032"
-  },
+  "Geocode": null,
   "AddressLine1": "Llywelyns 1 Denbigh Street",
   "AddressLine3": "Llanrwst",
   "AddressLine4": "Conwy",
   "PostCode": "LL26 0LL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

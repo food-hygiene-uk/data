@@ -1,9 +1,9 @@
 {
   "FHRSID": 1835001,
-  "BusinessName": "OASIS SNACK LTD",
-  "BusinessType": "Other catering premises",
+  "BusinessName": "Oasis Snack Ltd",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "25/00274/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

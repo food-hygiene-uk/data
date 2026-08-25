@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5917982",
-    "Longitude": "-0.0696592"
-  },
+  "Geocode": null,
   "AddressLine2": "428 High Road",
   "AddressLine3": "Tottenham",
   "AddressLine4": "London",
   "PostCode": "N17 9JB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-20",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

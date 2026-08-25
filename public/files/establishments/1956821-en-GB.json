@@ -1,6 +1,6 @@
 {
   "FHRSID": 1956821,
-  "BusinessName": "Labman",
+  "BusinessName": "The Hangar at Labman",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx18378",
   "BusinessTypeID": 1,
@@ -14,8 +14,12 @@
   "AddressLine4": "Seamer",
   "PostCode": "TS9 5NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

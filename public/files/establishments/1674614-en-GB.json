@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2405388",
-    "Longitude": "0.7321134"
-  },
+  "Geocode": null,
   "AddressLine1": "Dragonfly Hotel. Dragonfly Hotel",
   "AddressLine2": "Symonds Road",
   "AddressLine3": "Bury St Edmunds",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-28",
-  "Scores": null
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8959198",
-    "Longitude": "-2.1529227"
-  },
+  "Geocode": null,
   "AddressLine1": "Kelbrook Road Service Station",
   "AddressLine2": "Colne Road",
   "AddressLine3": "Kelbrook",
   "AddressLine4": "Lancashire",
   "PostCode": "BB18 6TG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

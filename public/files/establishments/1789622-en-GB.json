@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8633772",
-    "Longitude": "0.8759356"
-  },
+  "Geocode": null,
   "AddressLine1": "Fun 4 Kids St Michaels County Primary School",
   "AddressLine2": "Camulodunum Way",
   "AddressLine3": "Colchester",
   "AddressLine4": "Essex",
   "PostCode": "CO2 9RA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

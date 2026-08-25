@@ -8,10 +8,7 @@
   "LocalAuthorityName": "Canterbury City",
   "LocalAuthorityWebSite": "http://www.canterbury.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "51.2708473",
-    "Longitude": "1.0922307"
-  },
+  "Geocode": null,
   "AddressLine1": "Ellerslie",
   "AddressLine2": "54 New Dover Road",
   "AddressLine3": "Canterbury",
@@ -19,10 +16,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

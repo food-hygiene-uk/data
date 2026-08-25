@@ -1,6 +1,6 @@
 {
   "FHRSID": 329957,
-  "BusinessName": "The Treaty of Commerce",
+  "BusinessName": "Treaty of Commerce",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "310",
   "BusinessTypeID": 7843,
@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2263501",
-    "Longitude": "-0.542131"
-  },
+  "Geocode": null,
   "AddressLine2": "173 High Street",
   "AddressLine3": "Lincoln",
   "AddressLine4": "Lincolnshire",
   "PostCode": "LN5 7AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-05",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

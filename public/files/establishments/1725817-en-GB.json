@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7289878",
-    "Longitude": "0.4705988"
-  },
+  "Geocode": null,
   "AddressLine1": "Titus Kitchen",
   "AddressLine2": "170 Moulsham Street",
   "AddressLine3": "Chelmsford",
   "PostCode": "CM2 0LD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
