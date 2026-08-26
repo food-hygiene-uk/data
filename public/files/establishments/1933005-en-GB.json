@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6113012",
+    "Longitude": "-0.2796869"
+  },
   "AddressLine1": "90-92 High Street",
   "PostCode": "HA8 7HF",
   "SchemeType": "FHRS",

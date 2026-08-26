@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "860",
   "LocalAuthorityName": "Redcar and Cleveland",
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
   "Geocode": {
     "Latitude": "54.618161",
@@ -17,12 +17,12 @@
   "AddressLine3": "Redcar",
   "PostCode": "TS10 1DU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-18",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3899059",
-    "Longitude": "0.0498427"
-  },
+  "Geocode": null,
   "AddressLine1": "201 Southborough Lane",
   "AddressLine3": "Bromley",
   "PostCode": "BR2 8AR",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-09",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

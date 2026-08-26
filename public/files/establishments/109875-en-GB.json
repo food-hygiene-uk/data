@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.112281",
+    "Longitude": "-3.344578"
+  },
   "AddressLine1": "94 High Street Cowdenbeath Fife",
   "PostCode": "KY4 9NF",
   "SchemeType": "FHIS",

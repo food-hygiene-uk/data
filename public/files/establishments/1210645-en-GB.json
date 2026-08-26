@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0227737426758",
-    "Longitude": "-3.10285210609436"
-  },
+  "Geocode": null,
   "AddressLine1": "Great Western House",
   "AddressLine2": "Station Approach South",
   "AddressLine3": "Taunton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-24",
+  "RatingDate": "2026-05-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

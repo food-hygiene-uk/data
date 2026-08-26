@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.331592",
+    "Longitude": "1.413008"
+  },
   "AddressLine1": "29 West Cliff Road",
   "AddressLine2": "Ramsgate",
   "AddressLine3": "Kent",

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.80061",
-    "Longitude": "-1.554304"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Leighton Street",
   "AddressLine2": "Leeds",
   "PostCode": "LS1 3EB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-26",
+  "RatingDate": "2026-08-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

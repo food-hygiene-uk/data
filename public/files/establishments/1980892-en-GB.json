@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.566425",
+    "Longitude": "-0.217241"
+  },
   "AddressLine1": "Clitterhouse Farm 60 Claremont Road",
   "PostCode": "NW2 1AP",
   "SchemeType": "FHRS",

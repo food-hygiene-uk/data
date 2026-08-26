@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5586915",
+    "Longitude": "-0.2147542"
+  },
   "AddressLine1": "Broadway Retail Park",
   "PostCode": "NW2 1ES",
   "SchemeType": "FHRS",

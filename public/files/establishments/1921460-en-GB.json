@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6280456",
+    "Longitude": "-0.1473258"
+  },
   "AddressLine1": "5 Nurserymans Road",
   "PostCode": "N11 1DW",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6152948",
+    "Longitude": "-0.2752336"
+  },
   "AddressLine1": "240 Station Road",
   "PostCode": "HA8 7AU",
   "SchemeType": "FHRS",

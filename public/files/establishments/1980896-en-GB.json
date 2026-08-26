@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5775485",
+    "Longitude": "-0.239299"
+  },
   "AddressLine1": "220 - 222 West Hendon Broadway",
   "PostCode": "NW9 7EE",
   "SchemeType": "FHRS",

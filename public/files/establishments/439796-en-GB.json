@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5550927",
+    "Longitude": "-2.5842145"
+  },
   "AddressLine1": "The Lifeboat House Arbroath Harbour Fishmarket Quay Arbroath",
   "PostCode": "DD11 1PD",
   "SchemeType": "FHIS",

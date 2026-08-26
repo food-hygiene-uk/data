@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.broxtowe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@broxtowe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.917573",
-    "Longitude": "-1.232642"
-  },
+  "Geocode": null,
   "AddressLine1": "265 High Road",
   "AddressLine2": "Chilwell",
   "AddressLine3": "Nottinghamshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-22",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

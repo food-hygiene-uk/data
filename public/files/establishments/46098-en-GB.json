@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.109421",
+    "Longitude": "-3.163382"
+  },
   "AddressLine1": "Sheriff Court House Whytescauseway Kirkcaldy Fife",
   "PostCode": "KY1 1XQ",
   "SchemeType": "FHIS",

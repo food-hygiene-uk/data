@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6142828",
+    "Longitude": "-0.1770344"
+  },
   "AddressLine1": "367 Ballards Lane",
   "PostCode": "N12 8LJ",
   "SchemeType": "FHRS",

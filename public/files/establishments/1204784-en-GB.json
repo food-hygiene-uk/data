@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.6441988",
+    "Longitude": "-2.8887894"
+  },
   "AddressLine1": "1 Castle Street Forfar",
   "PostCode": "DD8 3AE",
   "SchemeType": "FHIS",

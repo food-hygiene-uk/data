@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.444686",
+    "Longitude": "-2.869639"
+  },
   "AddressLine1": "Canniepairt Shanwell Road Tayport Fife",
   "PostCode": "DD6 9ES",
   "SchemeType": "FHIS",

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4801699",
-    "Longitude": "-0.6107311"
-  },
+  "Geocode": null,
   "AddressLine1": "The Jelly Lounge",
   "AddressLine2": "Unit 1",
   "AddressLine3": "29 - 33 William Street",
   "AddressLine4": "Windsor",
   "PostCode": "SL4 1BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

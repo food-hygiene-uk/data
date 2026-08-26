@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.522876",
-    "Longitude": "-0.716054"
-  },
+  "Geocode": null,
   "AddressLine1": "Papa Johns Pizza House",
   "AddressLine2": "5 Glynwood House",
   "AddressLine3": "Bridge Avenue",
   "AddressLine4": "Maidenhead",
   "PostCode": "SL6 1RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5713782",
+    "Longitude": "-0.21001665"
+  },
   "AddressLine1": "Wessex Gardens",
   "PostCode": "NW11 9RR",
   "SchemeType": "FHRS",

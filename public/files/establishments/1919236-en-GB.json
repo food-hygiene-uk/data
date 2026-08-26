@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4089328",
-    "Longitude": "-0.688256"
-  },
+  "Geocode": null,
   "AddressLine1": "Heatherwood Hospital",
   "AddressLine2": "Brook Avenue",
   "AddressLine3": "Ascot",
   "PostCode": "SL5 7GB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6043595",
+    "Longitude": "-0.225888"
+  },
   "AddressLine1": "Champions Way",
   "PostCode": "NW4 1PX",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6504589",
+    "Longitude": "-0.1730005"
+  },
   "AddressLine1": "Railway Bell 13 East Barnet Road Barnet",
   "PostCode": "EN4 8RR",
   "SchemeType": "FHRS",

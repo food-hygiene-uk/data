@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": {
-    "Latitude": "51.546565",
-    "Longitude": "-0.179859"
-  },
+  "Geocode": null,
   "AddressLine2": "199 Finchley Road",
   "AddressLine4": "London",
   "PostCode": "NW3 6NN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-19",
+  "RatingDate": "2026-08-19",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1825896,
-  "BusinessName": "Tor Dean Hotel",
+  "BusinessName": "Tor Dean Guest House",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "143407635644196",
   "BusinessTypeID": 7842,
@@ -9,19 +9,16 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": {
-    "Latitude": "50.4671318",
-    "Longitude": "-3.5421897"
-  },
+  "Geocode": null,
   "AddressLine1": "27 Bampfylde Road Torquay",
   "PostCode": "TQ2 5AY",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-05-28",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

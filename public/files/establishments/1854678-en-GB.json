@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5963",
+    "Longitude": "-0.243011"
+  },
   "AddressLine1": "14 Heritage Avenue London",
   "PostCode": "NW9 5EN",
   "SchemeType": "FHRS",

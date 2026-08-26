@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.653124",
+    "Longitude": "-0.2066033"
+  },
   "AddressLine1": "92 Wood Street",
   "PostCode": "EN5 4BW",
   "SchemeType": "FHRS",

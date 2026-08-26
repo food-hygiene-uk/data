@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5899999",
+    "Longitude": "-0.2214208"
+  },
   "AddressLine1": "6 Parson Street",
   "PostCode": "NW4 1QB",
   "SchemeType": "FHRS",

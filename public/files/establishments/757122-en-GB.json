@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.596481",
+    "Longitude": "-0.198"
+  },
   "AddressLine1": "240 Regents Park Road London",
   "PostCode": "N3 3HP",
   "SchemeType": "FHRS",

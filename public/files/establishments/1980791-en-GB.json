@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587196",
+    "Longitude": "-0.220121"
+  },
   "AddressLine1": "8 Sentinel Square London",
   "PostCode": "NW4 2EL",
   "SchemeType": "FHRS",

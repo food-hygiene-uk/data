@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6162084",
+    "Longitude": "-0.1771756"
+  },
   "AddressLine1": "811 High Road",
   "PostCode": "N12 8JT",
   "SchemeType": "FHRS",

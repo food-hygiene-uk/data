@@ -1,29 +1,29 @@
 {
   "FHRSID": 1775946,
-  "BusinessName": "Jade House",
+  "BusinessName": "Jade House / Sushi Boss",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "24/500696/MIXED",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "185",
   "LocalAuthorityName": "Maidstone",
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
   "Geocode": {
-    "Latitude": "51.27037",
-    "Longitude": "0.510165"
+    "Latitude": "51.2701764",
+    "Longitude": "0.5107558"
   },
-  "AddressLine1": "46 Tonbridge Road",
+  "AddressLine1": "46 - 48 Tonbridge Road",
   "AddressLine2": "Maidstone",
   "AddressLine3": "Kent",
   "PostCode": "ME16 8SE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-21",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

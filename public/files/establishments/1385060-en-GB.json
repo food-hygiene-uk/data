@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.562876",
+    "Longitude": "-0.197958"
+  },
   "AddressLine1": "372 Cricklewood Lane London",
   "PostCode": "NW2 2QJ",
   "SchemeType": "FHRS",

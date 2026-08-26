@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.72214774",
+    "Longitude": "-2.47449056"
+  },
   "AddressLine1": "Brechin Road Montrose",
   "PostCode": "DD10 9LE",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.158212",
+    "Longitude": "-3.119924"
+  },
   "AddressLine3": "Fiddington Bridgwater",
   "PostCode": "TA5 1JG",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6215669",
+    "Longitude": "-0.2874699"
+  },
   "AddressLine1": "5 Hayling Way",
   "PostCode": "HA8 8BN",
   "SchemeType": "FHRS",

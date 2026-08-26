@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5748165",
+    "Longitude": "-0.2099126"
+  },
   "AddressLine1": "37A  Elmcroft Crescent",
   "PostCode": "NW11 9TB",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.318242",
+    "Longitude": "-3.012139"
+  },
   "AddressLine1": "37/39 Crossgate Cupar Fife",
   "PostCode": "KY15 5AS",
   "SchemeType": "FHIS",

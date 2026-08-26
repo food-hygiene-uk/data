@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6300091",
+    "Longitude": "-0.1752377"
+  },
   "AddressLine1": "1257 High Road",
   "PostCode": "N20 0EW",
   "SchemeType": "FHRS",

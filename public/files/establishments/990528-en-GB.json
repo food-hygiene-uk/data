@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3845373",
+    "Longitude": "-2.6458238"
+  },
   "AddressLine2": "2 Grange Drive",
   "PostCode": "WA5 2JN",
   "SchemeType": "FHRS",

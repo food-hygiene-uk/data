@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4116453",
-    "Longitude": "-1.7792066"
-  },
+  "Geocode": null,
   "AddressLine1": "46 Upper Jubilee Walk",
   "AddressLine2": "Touchwood",
   "AddressLine3": "Solihull",
   "PostCode": "B91 3QW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

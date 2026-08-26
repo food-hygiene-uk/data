@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4913578",
-    "Longitude": "-0.5606293"
-  },
+  "Geocode": null,
   "AddressLine1": "Ditton Manor",
   "AddressLine2": "Ditton Park Road",
   "AddressLine3": "Datchet",
   "AddressLine4": "Slough",
   "PostCode": "SL3 7JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.380827",
+    "Longitude": "-2.478298"
+  },
   "AddressLine2": "5 The Cross",
   "PostCode": "WA13 0HR",
   "SchemeType": "FHRS",

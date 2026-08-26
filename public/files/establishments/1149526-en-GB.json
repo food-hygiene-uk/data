@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5773672",
+    "Longitude": "-0.2070257"
+  },
   "AddressLine1": "Maurice Wohl Centre 221 Golders Green Road London",
   "PostCode": "NW11 9DQ",
   "SchemeType": "FHRS",

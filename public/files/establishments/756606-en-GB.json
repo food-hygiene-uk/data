@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.58706",
+    "Longitude": "-0.215853"
+  },
   "AddressLine1": "83 Bell Lane London",
   "PostCode": "NW4 2AS",
   "SchemeType": "FHRS",

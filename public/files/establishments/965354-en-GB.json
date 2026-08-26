@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587321",
+    "Longitude": "-0.223581"
+  },
   "AddressLine1": "Salvation Army Hall 3 Brampton Grove London",
   "PostCode": "NW4 4AE",
   "SchemeType": "FHRS",

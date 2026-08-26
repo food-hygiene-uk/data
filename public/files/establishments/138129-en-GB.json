@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.330963",
+    "Longitude": "-2.799773"
+  },
   "AddressLine1": "91 Tom Morris Drive St Andrews Fife",
   "PostCode": "KY16 8EL",
   "SchemeType": "FHIS",

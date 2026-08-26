@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "206",
   "LocalAuthorityName": "West Lancashire",
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
   "Geocode": {
     "Latitude": "53.569318",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "L39 3NH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-15",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-20",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

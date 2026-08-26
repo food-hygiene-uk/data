@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5908187",
+    "Longitude": "-0.2267991"
+  },
   "AddressLine1": "28 Church End",
   "PostCode": "NW4 4JX",
   "SchemeType": "FHRS",

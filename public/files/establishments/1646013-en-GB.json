@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.613805",
+    "Longitude": "-0.152639"
+  },
   "AddressLine1": "The Broadway  Friern Barnet Road London",
   "PostCode": "N11 3DT",
   "SchemeType": "FHRS",

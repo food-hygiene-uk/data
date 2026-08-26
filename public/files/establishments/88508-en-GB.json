@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.135014",
+    "Longitude": "-3.203384"
+  },
   "AddressLine1": "Suite 1-4 Cluny Court Chapelton Drive Kirkcaldy Fife",
   "PostCode": "KY2 6QJ",
   "SchemeType": "FHIS",

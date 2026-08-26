@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.224161",
+    "Longitude": "-2.820797"
+  },
   "AddressLine2": "Blackford Road",
   "AddressLine3": "Wedmore",
   "PostCode": "BS28 4BS",

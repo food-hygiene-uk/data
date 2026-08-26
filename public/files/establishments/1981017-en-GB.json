@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7318809",
+    "Longitude": "-2.6626127"
+  },
   "AddressLine1": "12 St Mary Street Brechin",
   "PostCode": "DD9 6JQ",
   "SchemeType": "FHIS",

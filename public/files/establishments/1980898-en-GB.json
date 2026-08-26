@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.574143",
+    "Longitude": "-0.2008449"
+  },
   "AddressLine1": "130 Golders Green Road",
   "PostCode": "NW11 8HB",
   "SchemeType": "FHRS",

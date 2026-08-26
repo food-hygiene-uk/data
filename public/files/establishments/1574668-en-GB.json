@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.418653",
-    "Longitude": "-0.3685348"
-  },
+  "Geocode": null,
   "AddressLine1": "Denmead School 41 - 43 Wensleydale Road",
   "AddressLine3": "Hampton",
   "AddressLine4": "Richmond Upon Thames",
@@ -21,5 +18,9 @@
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2025-09-29",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

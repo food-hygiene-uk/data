@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5870976",
+    "Longitude": "-0.2504766"
+  },
   "AddressLine1": "18 Varley Parade The Hyde",
   "PostCode": "NW9 6RR",
   "SchemeType": "FHRS",

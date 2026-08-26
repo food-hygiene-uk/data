@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6114575",
+    "Longitude": "-0.2787347"
+  },
   "AddressLine1": "St Margarets Church 1 Station Road Edgware",
   "PostCode": "HA8 7JE",
   "SchemeType": "FHRS",

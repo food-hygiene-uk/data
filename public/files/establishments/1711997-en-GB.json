@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.571454",
+    "Longitude": "-0.194444"
+  },
   "AddressLine1": "10 North End Road London",
   "PostCode": "NW11 7PH",
   "SchemeType": "FHRS",

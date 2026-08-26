@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.578299",
+    "Longitude": "-0.207422"
+  },
   "AddressLine1": "Russell Parade  Golders Green Road London",
   "PostCode": "NW11 9NN",
   "SchemeType": "FHRS",

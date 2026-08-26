@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6160506",
+    "Longitude": "-0.2745781"
+  },
   "AddressLine1": "295 Hale Lane",
   "PostCode": "HA8 7AX",
   "SchemeType": "FHRS",

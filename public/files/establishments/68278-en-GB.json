@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4977766",
+    "Longitude": "-2.7190133"
+  },
   "AddressLine1": "12 Links Parade Carnoustie",
   "PostCode": "DD7 7JF",
   "SchemeType": "FHIS",

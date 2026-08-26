@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.571168",
+    "Longitude": "-0.195711"
+  },
   "AddressLine1": "887 Finchley Road London",
   "PostCode": "NW11 8RR",
   "SchemeType": "FHRS",

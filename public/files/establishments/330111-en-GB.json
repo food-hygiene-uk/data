@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2519768",
+    "Longitude": "-0.5459484"
+  },
   "AddressLine1": "11 Trelawney House",
   "AddressLine2": "Trelawney Crescent",
   "AddressLine3": "Lincoln",

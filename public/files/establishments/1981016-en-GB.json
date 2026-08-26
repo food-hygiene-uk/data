@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.6421662",
+    "Longitude": "-2.8738711"
+  },
   "AddressLine1": "81 South Street Forfar",
   "PostCode": "DD8 2BS",
   "SchemeType": "FHIS",

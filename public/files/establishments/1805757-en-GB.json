@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5738238",
+    "Longitude": "-0.234271"
+  },
   "AddressLine1": "1A Brent Park Road",
   "PostCode": "NW9 7AJ",
   "SchemeType": "FHRS",

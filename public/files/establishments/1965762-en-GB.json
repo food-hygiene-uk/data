@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4219709",
-    "Longitude": "-0.2089399"
-  },
+  "Geocode": null,
   "AddressLine1": "2B Worple Road Mews",
   "AddressLine3": "Wimbledon",
   "AddressLine4": "Merton",
   "PostCode": "SW19 4DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

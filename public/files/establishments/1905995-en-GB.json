@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.641748",
+    "Longitude": "-0.162646"
+  },
   "AddressLine1": "1 Church Hill Road Barnet",
   "PostCode": "EN4 8SY",
   "SchemeType": "FHRS",

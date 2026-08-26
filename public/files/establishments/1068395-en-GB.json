@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5860259",
+    "Longitude": "-0.1816872"
+  },
   "AddressLine1": "The Market Place  Falloden Way London",
   "PostCode": "NW11 6JT",
   "SchemeType": "FHRS",

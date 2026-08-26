@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5802037",
+    "Longitude": "-0.1892839"
+  },
   "AddressLine1": "St Judes Vicarage Central Square",
   "PostCode": "NW11 7AH",
   "SchemeType": "FHRS",

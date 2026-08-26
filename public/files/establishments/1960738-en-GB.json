@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5898757",
+    "Longitude": "-0.2248028"
+  },
   "AddressLine1": "39 Church Road",
   "PostCode": "NW4 4EB",
   "SchemeType": "FHRS",

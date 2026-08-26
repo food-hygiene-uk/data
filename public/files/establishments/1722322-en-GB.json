@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "133",
   "LocalAuthorityName": "Eastleigh",
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
   "Geocode": {
     "Latitude": "50.9692727",
@@ -16,12 +16,12 @@
   "AddressLine1": "41 LEIGH ROAD EASTLEIGH SO50 9DF",
   "PostCode": "SO50 9DF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-03",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

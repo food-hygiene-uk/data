@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5954942",
+    "Longitude": "-0.2506565"
+  },
   "AddressLine1": "Unit 6 16 - 18 Charcot Road",
   "PostCode": "NW9 5WU",
   "SchemeType": "FHRS",

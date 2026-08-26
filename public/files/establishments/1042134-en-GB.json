@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6498396",
+    "Longitude": "-0.1727037"
+  },
   "AddressLine1": "18 East Barnet Road Barnet",
   "PostCode": "EN4 8RW",
   "SchemeType": "FHRS",

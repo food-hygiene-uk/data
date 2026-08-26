@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6160328",
+    "Longitude": "-0.1433967"
+  },
   "AddressLine1": "35 - 37 Friern Barnet Road",
   "PostCode": "N11 1ND",
   "SchemeType": "FHRS",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4773137",
-    "Longitude": "-0.1477678"
-  },
+  "Geocode": null,
   "AddressLine1": "Arch 65 Rear Of 310 To 320 Queenstown Road Queens Circus",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-27",
+  "RatingDate": "2026-08-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

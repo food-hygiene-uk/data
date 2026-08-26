@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5861029",
+    "Longitude": "-0.2001496"
+  },
   "AddressLine1": "Ashbourne Parade  Finchley Road London",
   "PostCode": "NW11 0AD",
   "SchemeType": "FHRS",

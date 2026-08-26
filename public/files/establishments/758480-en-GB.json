@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.584961",
+    "Longitude": "-0.244834"
+  },
   "AddressLine1": "Connaught Business Centre  Hyde Estate Road London",
   "PostCode": "NW9 6JL",
   "SchemeType": "FHRS",

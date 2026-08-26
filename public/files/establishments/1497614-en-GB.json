@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.623576",
+    "Longitude": "-0.153557"
+  },
   "AddressLine1": "433 Oakleigh Road North London",
   "PostCode": "N20 0RU",
   "SchemeType": "FHRS",

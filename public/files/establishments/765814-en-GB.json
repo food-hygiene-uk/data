@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5662983",
+    "Longitude": "-2.6085219"
+  },
   "AddressLine1": "5 Condor Drive Arbroath",
   "PostCode": "DD11 3EP",
   "SchemeType": "FHIS",

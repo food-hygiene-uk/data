@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
-  "Geocode": {
-    "Latitude": "55.120716",
-    "Longitude": "-1.509646"
-  },
+  "Geocode": null,
   "AddressLine1": "200 Plessey Road",
   "AddressLine2": "Blyth",
   "AddressLine3": "Northumberland",
   "PostCode": "NE24 3HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-07-03",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 0
   }
 }

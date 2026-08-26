@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8678052",
-    "Longitude": "-2.3949223"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 3 Holmes Mill",
   "AddressLine2": "Greenacre Street",
   "AddressLine3": "Clitheroe",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-06",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

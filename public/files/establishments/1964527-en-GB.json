@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.616682",
+    "Longitude": "-0.1764753"
+  },
   "AddressLine1": "808 High Road London",
   "PostCode": "N12 9QU",
   "SchemeType": "FHRS",

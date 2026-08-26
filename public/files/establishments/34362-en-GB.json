@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.17134",
+    "Longitude": "-3.255046"
+  },
   "AddressLine1": "Whinnyhall Farm Kinglassie  Lochgelly Fife",
   "PostCode": "KY5 0UB",
   "SchemeType": "FHIS",

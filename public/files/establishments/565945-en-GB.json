@@ -7,23 +7,24 @@
   "LocalAuthorityCode": "223",
   "LocalAuthorityName": "South Holland",
   "LocalAuthorityWebSite": "http://www.sholland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhs@sholland.gov.uk",
   "Geocode": {
-    "Latitude": "52.803708",
+    "Latitude": "52.8037079",
     "Longitude": "0.0154243"
   },
-  "AddressLine1": "Former 10 High Street",
+  "AddressLine1": "Julias Polish Shop 10 - 12 High Street",
   "AddressLine2": "Holbeach",
   "AddressLine3": "Spalding",
   "AddressLine4": "Lincolnshire",
+  "PostCode": "PE12 7DY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

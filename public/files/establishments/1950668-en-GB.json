@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6083513",
+    "Longitude": "-0.269275"
+  },
   "AddressLine1": "Watling Park School  Pavilion Way Edgware",
   "PostCode": "HA8 9YA",
   "SchemeType": "FHRS",

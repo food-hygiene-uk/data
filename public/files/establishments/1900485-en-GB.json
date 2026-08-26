@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "411",
   "LocalAuthorityName": "Kirklees",
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
   "Geocode": null,
   "AddressLine1": "Chunky Steak House Ltd",
@@ -15,8 +15,12 @@
   "AddressLine3": "Huddersfield",
   "PostCode": "HD1 3HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-02-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

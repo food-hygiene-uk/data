@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.584967",
+    "Longitude": "-0.184353"
+  },
   "AddressLine1": "Pavilion House 99 Northway London",
   "PostCode": "NW11 6NY",
   "SchemeType": "FHRS",

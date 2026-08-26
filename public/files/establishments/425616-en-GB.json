@@ -1,6 +1,6 @@
 {
   "FHRSID": 425616,
-  "BusinessName": "Tamada Ltd",
+  "BusinessName": "Geamos",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "58289",
   "BusinessTypeID": 1,
@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5372487",
-    "Longitude": "-0.1856671"
-  },
+  "Geocode": null,
   "AddressLine2": "122 Boundary Road",
   "AddressLine4": "London",
   "PostCode": "NW8 0RH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2017-11-02",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-08",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

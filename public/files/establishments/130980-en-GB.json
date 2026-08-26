@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.056534",
+    "Longitude": "-3.445589"
+  },
   "AddressLine1": "5 Pitreavie Court Dunfermline Fife",
   "PostCode": "KY11 8PU",
   "SchemeType": "FHIS",

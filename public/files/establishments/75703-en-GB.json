@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7321937",
+    "Longitude": "-2.6612453"
+  },
   "AddressLine1": "20 - 22 St David Street Brechin",
   "PostCode": "DD9 6EQ",
   "SchemeType": "FHIS",

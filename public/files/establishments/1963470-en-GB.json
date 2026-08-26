@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0677603",
-    "Longitude": "-0.5628443"
-  },
+  "Geocode": null,
   "AddressLine1": "Drapers Farm",
   "AddressLine2": "Beancroft Road",
   "AddressLine3": "Marston Moretaine",
   "AddressLine4": "Bedford",
   "PostCode": "MK43 0QE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

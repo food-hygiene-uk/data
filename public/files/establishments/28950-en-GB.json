@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.338657",
+    "Longitude": "-2.79927"
+  },
   "AddressLine1": "158 South Street St Andrews Fife",
   "PostCode": "KY16 9EQ",
   "SchemeType": "FHIS",

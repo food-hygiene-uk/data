@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6126612",
+    "Longitude": "-0.261803"
+  },
   "AddressLine1": "84 Hale Drive",
   "PostCode": "NW7 3ED",
   "SchemeType": "FHRS",

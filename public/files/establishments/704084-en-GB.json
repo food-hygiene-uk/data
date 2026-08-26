@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.551627",
@@ -16,12 +16,12 @@
   "AddressLine2": "248 Haverstock Hill",
   "PostCode": "NW3 2AE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-04-30",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 20,
+    "Structural": 20,
     "ConfidenceInManagement": 20
   }
 }

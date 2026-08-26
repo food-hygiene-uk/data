@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.589723",
+    "Longitude": "-0.228453"
+  },
   "AddressLine1": "Middlesex University  The Burroughs London",
   "PostCode": "NW4 4BT",
   "SchemeType": "FHRS",

@@ -1,25 +1,29 @@
 {
   "FHRSID": 1948911,
-  "BusinessName": "Emdee West Ltd",
+  "BusinessName": "Emdeewest Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "67640",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
     "Latitude": "52.6059526",
     "Longitude": "1.720839"
   },
-  "AddressLine2": "14A Southtown Road",
+  "AddressLine2": "14a Southtown Road",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
   "PostCode": "NR31 0HU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }
