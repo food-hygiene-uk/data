@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.766433",
+    "Longitude": "-3.27335"
+  },
   "AddressLine1": "38 High Street",
   "AddressLine2": "Llanfyllin",
   "AddressLine3": "Powys",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "109",
   "LocalAuthorityName": "Basildon",
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
   "Geocode": {
     "Latitude": "51.6268501281738",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM11 2DG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

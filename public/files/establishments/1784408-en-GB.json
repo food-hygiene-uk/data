@@ -1,6 +1,6 @@
 {
   "FHRSID": 1784408,
-  "BusinessName": "Mr&Mrs Pizza",
+  "BusinessName": "Mr & Mrs Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "96472",
   "BusinessTypeID": 7844,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.366757",
-    "Longitude": "-2.9246021"
-  },
+  "Geocode": null,
   "AddressLine1": "386 Aigburth Road",
   "AddressLine3": "Liverpool",
   "PostCode": "L19 3QD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

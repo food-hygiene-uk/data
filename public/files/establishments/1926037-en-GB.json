@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "52.991057",
-    "Longitude": "-2.144015"
-  },
+  "Geocode": null,
   "AddressLine1": "Phoenix Park",
   "AddressLine2": "Phoenix Way",
   "AddressLine3": "Longton",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST3 2JD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

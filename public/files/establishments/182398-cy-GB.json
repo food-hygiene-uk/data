@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.780469",
+    "Longitude": "-3.088922"
+  },
   "AddressLine1": "The Cross",
   "AddressLine2": "Llanymynech",
   "AddressLine3": "Powys",

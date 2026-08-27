@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.670623",
-    "Longitude": "-1.480571"
-  },
+  "Geocode": null,
   "AddressLine1": "136-138 Doncaster Road",
   "AddressLine2": "Wakefield",
   "PostCode": "WF1 5HL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-12-02",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "53.072572",
-    "Longitude": "-2.193676"
-  },
+  "Geocode": null,
   "AddressLine2": "Biddulph Road",
   "AddressLine3": "Chell",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST6 6SW",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-05-14",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": {
-    "Latitude": "52.8587226867676",
-    "Longitude": "-4.49584197998047"
-  },
+  "Geocode": null,
   "AddressLine1": "Ship Inn Ffordd Pedrog",
   "AddressLine3": "Llanbedrog",
   "AddressLine4": "Gwynedd",
   "PostCode": "LL53 7PE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

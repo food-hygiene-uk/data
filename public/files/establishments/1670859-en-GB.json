@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "210",
   "LocalAuthorityName": "Charnwood",
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
   "Geocode": {
     "Latitude": "52.699383",
@@ -19,6 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-07-16",
-  "Scores": null
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

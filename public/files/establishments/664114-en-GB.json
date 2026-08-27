@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "138",
   "LocalAuthorityName": "New Forest",
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
   "Geocode": {
     "Latitude": "50.74711",
@@ -17,12 +17,12 @@
   "AddressLine2": "NEW MILTON",
   "PostCode": "BH25 6QA",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-03-04",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 30
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

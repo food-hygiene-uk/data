@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5546755",
+    "Longitude": "-0.1402262"
+  },
   "AddressLine2": "85 Fortess Road",
   "PostCode": "NW5 1AG",
   "SchemeType": "FHRS",

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8189387",
-    "Longitude": "-0.3917186"
-  },
+  "Geocode": null,
   "AddressLine1": "16 South Street",
   "AddressLine3": "Worthing",
   "AddressLine4": "West Sussex",
   "PostCode": "BN14 7LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

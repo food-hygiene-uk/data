@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4699313",
-    "Longitude": "-0.3582117"
-  },
+  "Geocode": null,
   "AddressLine2": "102a High Street",
   "AddressLine3": "Hounslow",
   "PostCode": "TW3 1NH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-03-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1824241,
-  "BusinessName": "The Wild Buffalo",
+  "BusinessName": "The Wild Buffalo, Lady Bird",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "205830",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5342292785645",
@@ -17,8 +17,12 @@
   "AddressLine4": "London",
   "PostCode": "N1C 4DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

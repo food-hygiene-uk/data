@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7288733",
-    "Longitude": "0.4709112"
-  },
+  "Geocode": null,
   "AddressLine1": "55 Moulsham Street",
   "AddressLine2": "Chelmsford",
   "PostCode": "CM2 0JA",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-07-23",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

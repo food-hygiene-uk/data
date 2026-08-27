@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.056784",
-    "Longitude": "-0.640147"
-  },
+  "Geocode": null,
   "AddressLine1": "Pipers Lane",
   "AddressLine2": "Northchapel",
   "AddressLine3": "Petworth",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-05-06",
+  "RatingDate": "2026-08-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

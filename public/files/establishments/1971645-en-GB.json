@@ -1,26 +1,26 @@
 {
   "FHRSID": 1971645,
-  "BusinessName": "THE KINGS HEAD",
+  "BusinessName": "The Kings Head",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "EHCP/26/00609",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "021",
   "LocalAuthorityName": "Buckinghamshire",
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.584644",
-    "Longitude": "-0.74129"
-  },
-  "AddressLine1": "The Kings Head",
-  "AddressLine2": "Church Road",
-  "AddressLine3": "Little Marlow",
-  "AddressLine4": "Buckinghamshire",
+  "Geocode": null,
+  "AddressLine1": "Church Road",
+  "AddressLine2": "Little Marlow",
+  "AddressLine3": "Buckinghamshire",
   "PostCode": "SL7 3RZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

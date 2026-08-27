@@ -1,13 +1,13 @@
 {
   "FHRSID": 865620,
-  "BusinessName": "The Beach Hotel",
+  "BusinessName": "Beach Hotel (The)",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "U04JWM55-5/3",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "858",
   "LocalAuthorityName": "North Somerset",
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.339384",
@@ -18,8 +18,12 @@
   "AddressLine4": "North Somerset",
   "PostCode": "BS23 1BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "271",
   "LocalAuthorityName": "Vale of White Horse",
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
   "Geocode": null,
   "AddressLine1": "The White Hart Main Road",
@@ -15,12 +15,8 @@
   "AddressLine3": "Abingdon",
   "PostCode": "OX13 5LW",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-07-22",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingPublication",
+  "RatingKey": "fhrs_awaitingpublication_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

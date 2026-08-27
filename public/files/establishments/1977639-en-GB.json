@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.700831",
-    "Longitude": "-1.305468"
-  },
+  "Geocode": null,
   "AddressLine1": "Flying Horse Garage",
   "AddressLine2": "5 Shaw Lane",
   "AddressLine3": "Markfield",
   "AddressLine4": "Leicestershire",
   "PostCode": "LE67 9PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

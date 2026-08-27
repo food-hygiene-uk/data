@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9017308",
-    "Longitude": "-0.2060423"
-  },
+  "Geocode": null,
   "AddressLine1": "Stevenage Arts & Leisure Centre",
   "AddressLine2": "Lytton Way",
   "AddressLine3": "Stevenage",
   "AddressLine4": "Herts",
   "PostCode": "SG1 1LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

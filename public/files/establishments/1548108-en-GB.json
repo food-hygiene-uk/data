@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.698931",
-    "Longitude": "-1.8722125"
-  },
+  "Geocode": null,
   "AddressLine1": "Copley Lane",
   "AddressLine2": "Halifax",
   "AddressLine3": "Calderdale",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-16",
+  "RatingDate": "2026-08-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

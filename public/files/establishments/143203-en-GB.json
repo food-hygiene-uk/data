@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "52.986017",
-    "Longitude": "-2.11735"
-  },
+  "Geocode": null,
   "AddressLine2": "77 Weston Coyney Road",
   "AddressLine3": "Weston Coyney",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST3 5LD",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-05-14",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

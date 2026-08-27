@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2042646",
+    "Longitude": "-3.4861213"
+  },
   "AddressLine1": "Springbank",
   "AddressLine2": "35 Parkhouse Road",
   "AddressLine3": "Minehead",

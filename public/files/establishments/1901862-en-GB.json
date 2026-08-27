@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "53.0254017",
-    "Longitude": "-2.1790915"
-  },
+  "Geocode": null,
   "AddressLine1": "The Old Telephone Exchange",
   "AddressLine2": "Trinity Street",
   "AddressLine3": "Hanley",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST1 5NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

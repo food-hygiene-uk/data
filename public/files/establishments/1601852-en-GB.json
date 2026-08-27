@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.089848",
+    "Longitude": "-2.513041"
+  },
   "AddressLine2": "High Street",
   "AddressLine3": "Castle Cary",
   "AddressLine4": "Somerset",

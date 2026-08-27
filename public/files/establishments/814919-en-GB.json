@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8149657",
-    "Longitude": "-0.3682519"
-  },
+  "Geocode": null,
   "AddressLine1": "The Corner House 80 High Street",
   "AddressLine3": "Worthing",
   "AddressLine4": "West Sussex",
   "PostCode": "BN11 1DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-03-13",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

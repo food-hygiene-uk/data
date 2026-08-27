@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.496811",
-    "Longitude": "0.1668929"
-  },
+  "Geocode": null,
   "AddressLine1": "Car Park",
   "AddressLine2": "Unit 4",
   "AddressLine3": "Mulberry Way",
   "AddressLine4": "Belvedere",
   "PostCode": "DA17 6AN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-07-20",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

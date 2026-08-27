@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.481499",
+    "Longitude": "-0.651504"
+  },
   "AddressLine1": "Homer First School",
   "AddressLine2": "Testwood Road",
   "AddressLine3": "Windsor",

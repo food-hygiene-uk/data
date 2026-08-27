@@ -1,24 +1,25 @@
 {
   "FHRSID": 1960798,
   "BusinessName": "Chill n Grill",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "Cx14195",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4982516",
-    "Longitude": "-1.9759104"
-  },
+  "Geocode": null,
   "AddressLine1": "16  High Street",
   "AddressLine4": "Smethwick",
   "PostCode": "B66 1DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

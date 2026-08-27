@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7012668",
-    "Longitude": "-1.7794098"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Huddersfield Road",
   "AddressLine2": "Brighouse",
   "AddressLine3": "Calderdale",
   "PostCode": "HD6 1JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

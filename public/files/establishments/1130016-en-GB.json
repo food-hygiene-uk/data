@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": {
     "Latitude": "51.443045",
@@ -17,12 +17,12 @@
   "AddressLine2": "Reading",
   "PostCode": "RG2 7AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-07-01",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
     "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

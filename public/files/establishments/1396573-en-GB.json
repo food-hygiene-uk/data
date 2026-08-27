@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "292",
   "LocalAuthorityName": "Stafford",
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
   "RightToReply": "&lt;p&gt;\n\t&lt;em&gt;We appreciate the feedback received during our initial inspection and have taken all of the officer&amp;rsquo;s comments on board.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&lt;em&gt;The inspection took place before our daily opening checks and temperature records had been completed, as these are carried out immediately prior to opening each day.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&lt;em&gt;The hot food items referred to in the report had been purchased for a promotional photo shoot the previous day while they were within date. As hot food service was not due to begin until the following week, these items were never intended to be sold to customers and were due to be disposed of before trading commenced. Likewise, some sections of the Safer Food Better Business pack relating to hot and raw food had not yet been fully completed because those food operations had not yet started.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&lt;em&gt;Since the inspection, all of the recommendations have been fully implemented. Our food safety procedures, documentation, fridge organisation and daily checks have been reviewed and updated, and we remain committed to maintaining high food hygiene standards.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;\n\t&lt;em&gt;We are proud of the standards we operate to and welcome customers to ask any questions about our food storage or hygiene procedures at any time.&lt;/em&gt;&lt;/p&gt;\n",
   "Geocode": {
@@ -20,8 +20,12 @@
   "AddressLine4": "Stafford",
   "PostCode": "ST16 1TQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

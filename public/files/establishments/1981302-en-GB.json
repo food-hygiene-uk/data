@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.21283",
+    "Longitude": "-3.474425"
+  },
   "AddressLine1": "Quay Street",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

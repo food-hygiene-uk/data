@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.762751",
+    "Longitude": "-2.732546"
+  },
   "AddressLine2": "Mariners Way",
   "AddressLine3": "Preston",
   "SchemeType": "FHRS",

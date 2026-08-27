@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6572688",
-    "Longitude": "-0.0585057"
-  },
+  "Geocode": null,
   "AddressLine1": "UNIT 1213 Nxt Bar & Wipey",
   "AddressLine2": "720 Great Cambridge Road",
   "AddressLine3": "ENFIELD",
-  "PostCode": "EN1 3RN",
+  "PostCode": "EN1 3WX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

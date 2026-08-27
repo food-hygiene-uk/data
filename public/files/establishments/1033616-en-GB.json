@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "509",
   "LocalAuthorityName": "Ealing",
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
     "Latitude": "51.527204",
@@ -18,12 +18,12 @@
   "AddressLine3": "Greenford",
   "PostCode": "UB6 9DW",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-01-27",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 20,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8040378",
-    "Longitude": "-1.7161179"
-  },
+  "Geocode": null,
   "AddressLine1": "Mortimer House Childrens Centre",
   "AddressLine2": "18-20 Mortimer Avenue",
   "AddressLine3": "Bradford",
   "PostCode": "BD3 7EY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

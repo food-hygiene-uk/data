@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5218388",
+    "Longitude": "-0.1241371"
+  },
   "AddressLine2": "61-66 Russell Square",
   "PostCode": "WC1B 5BB",
   "SchemeType": "FHRS",

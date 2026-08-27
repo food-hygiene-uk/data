@@ -7,9 +7,12 @@
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.8572692871094",
+    "Longitude": "-4.48587894439697"
+  },
   "AddressLine1": "Glyn Y Weddw Arms",
   "AddressLine3": "Llanbedrog",
   "AddressLine4": "Gwynedd",

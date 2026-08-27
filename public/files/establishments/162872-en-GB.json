@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
-  "Geocode": {
-    "Latitude": "51.097508",
-    "Longitude": "0.0344849"
-  },
+  "Geocode": null,
   "AddressLine1": "9 Hartfield Road",
   "AddressLine3": "Forest Row",
   "AddressLine4": "East Sussex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-01",
-  "Scores": null
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

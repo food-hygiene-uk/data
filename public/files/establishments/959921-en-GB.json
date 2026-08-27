@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "126",
   "LocalAuthorityName": "Forest of Dean",
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
   "Geocode": {
     "Latitude": "51.802422",
@@ -19,12 +19,12 @@
   "AddressLine4": "Coleford",
   "PostCode": "GL16 7EG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

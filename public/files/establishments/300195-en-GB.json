@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
-  "Geocode": {
-    "Latitude": "51.820635",
-    "Longitude": "0.676951"
-  },
+  "Geocode": null,
   "AddressLine1": "BP Filling Station",
   "AddressLine2": "London Road",
   "AddressLine3": "Rivenhall End",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

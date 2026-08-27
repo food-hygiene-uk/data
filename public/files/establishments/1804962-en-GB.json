@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.090124",
+    "Longitude": "-2.513415"
+  },
   "AddressLine1": "Old Bank House",
   "AddressLine2": "High Street",
   "AddressLine3": "Castle Cary",

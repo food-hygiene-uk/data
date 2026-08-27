@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4625015258789",
-    "Longitude": "0.180665999650955"
-  },
+  "Geocode": null,
   "AddressLine1": "Perry Street",
   "AddressLine2": "Crayford",
   "AddressLine3": "Dartford",
   "AddressLine4": "Kent",
   "PostCode": "DA1 4RB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-05",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

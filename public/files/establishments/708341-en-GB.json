@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.768151",
+    "Longitude": "-2.70583"
+  },
   "AddressLine2": "1 Aqueduct Street",
   "AddressLine3": "Preston",
   "PostCode": "PR1 7RF",

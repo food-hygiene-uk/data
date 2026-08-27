@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9066532",
-    "Longitude": "-0.2145789"
-  },
+  "Geocode": null,
   "AddressLine1": "1 The Orbital Centre",
   "AddressLine2": "Cockerell Close",
   "AddressLine3": "Stevenage",
   "AddressLine4": "Herts",
   "PostCode": "SG1 2NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7001989",
-    "Longitude": "-1.9291685"
-  },
-  "AddressLine1": "180 Rochdale Road",
-  "AddressLine2": "Triangle",
-  "AddressLine3": "Sowerby Bridge",
-  "AddressLine4": "West Yorkshire",
-  "PostCode": "HX6 3PB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.567898",
-    "Longitude": "-1.169395"
-  },
+  "Geocode": null,
   "AddressLine2": "23 Kingsway Avenue",
   "AddressLine3": "Teesville",
   "PostCode": "TS6 0AT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-15",
-  "Scores": null
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

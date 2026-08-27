@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4032485",
-    "Longitude": "-2.9781289"
-  },
+  "Geocode": null,
   "AddressLine1": "53 Bold Street",
   "AddressLine3": "Liverpool",
   "PostCode": "L1 4EU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-25",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

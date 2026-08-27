@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6742820739746",
-    "Longitude": "-0.04245800152421"
-  },
+  "Geocode": null,
   "AddressLine1": "Fern House School",
   "AddressLine2": "Keswick Drive",
   "AddressLine3": "ENFIELD",
   "PostCode": "EN3 6NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6903800964355",
-    "Longitude": "-1.30799698829651"
-  },
+  "Geocode": null,
   "AddressLine1": "Pontefract Hospital",
   "AddressLine2": "Friarwood Lane",
   "AddressLine3": "Pontefract",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-14",
+  "RatingDate": "2026-08-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

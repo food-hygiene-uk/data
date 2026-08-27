@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.394709",
-    "Longitude": "-3.058223"
-  },
+  "Geocode": null,
   "AddressLine1": "62 Upton Road",
-  "AddressLine2": "Claughton",
-  "AddressLine3": "Wirral",
+  "AddressLine3": "Claughton",
+  "AddressLine4": "Wirral",
   "PostCode": "CH41 0DH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-07-25",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-02",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 0
   }
 }

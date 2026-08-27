@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4197806",
-    "Longitude": "-0.419983"
-  },
+  "Geocode": null,
   "AddressLine1": "13 The Parade",
   "AddressLine2": "Staines Road West",
   "AddressLine3": "Sunbury-on-Thames",
   "PostCode": "TW16 7AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

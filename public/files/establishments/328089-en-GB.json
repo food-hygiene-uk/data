@@ -1,6 +1,6 @@
 {
   "FHRSID": 328089,
-  "BusinessName": "The Victoria Inn (Bar only)",
+  "BusinessName": "The Victoria Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "87899",
   "BusinessTypeID": 7843,
@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.814659",
-    "Longitude": "-1.832761"
-  },
+  "Geocode": null,
   "AddressLine2": "8 Cottingley Road",
   "AddressLine3": "Sandy Lane",
   "AddressLine4": "Bradford",
   "PostCode": "BD15 9JP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-22",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

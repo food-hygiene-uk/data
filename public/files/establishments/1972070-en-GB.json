@@ -1,13 +1,13 @@
 {
   "FHRSID": 1972070,
-  "BusinessName": "Cj deli/Phat mammas",
+  "BusinessName": "Phat mammas",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "FR/000004187",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "427",
   "LocalAuthorityName": "South Tyneside",
   "LocalAuthorityWebSite": "https://www.southtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southtyneside.gov.uk",
   "Geocode": {
     "Latitude": "54.9589466",
@@ -19,8 +19,12 @@
   "AddressLine4": "Tyne & Wear",
   "PostCode": "NE34 8HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

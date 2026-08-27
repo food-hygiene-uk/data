@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5619983",
-    "Longitude": "-1.7840157"
-  },
+  "Geocode": null,
   "AddressLine1": "19 The Parade",
   "AddressLine2": "Swindon",
   "PostCode": "SN1 1BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.941765",
+    "Longitude": "-0.53044"
+  },
   "AddressLine1": "2-4 Bradford Road",
   "AddressLine2": "Toddington",
   "AddressLine3": "Bedfordshire",

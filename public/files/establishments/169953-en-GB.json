@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "107",
   "LocalAuthorityName": "Wealden",
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
   "Geocode": {
     "Latitude": "50.8400218",
@@ -18,8 +18,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "BN26 6UE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-04",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

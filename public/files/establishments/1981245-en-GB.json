@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.111813",
+    "Longitude": "-2.452744"
+  },
   "AddressLine2": "Silver Street",
   "AddressLine3": "Bruton",
   "AddressLine4": "Somerset",

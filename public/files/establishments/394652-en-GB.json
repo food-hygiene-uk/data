@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.32839205",
-    "Longitude": "-3.09924165"
-  },
+  "Geocode": null,
   "AddressLine1": "Telegraph Road",
   "AddressLine3": "Heswall",
   "AddressLine4": "Wirral",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-15",
+  "RatingDate": "2026-08-13",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

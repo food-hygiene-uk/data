@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.053538",
+    "Longitude": "-2.742187"
+  },
   "AddressLine2": "Gassons Lane",
   "AddressLine3": "Somerton",
   "AddressLine4": "Somerset",

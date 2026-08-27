@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.swindon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealth&safety@swindon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5718532",
-    "Longitude": "-1.8046315"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 76",
   "AddressLine2": "Bss House",
   "AddressLine3": "Cheney Manor Industrial Estate",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-24",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.445649",
-    "Longitude": "-0.472713"
-  },
+  "Geocode": null,
   "AddressLine1": "Tesco",
   "AddressLine2": "Town Lane",
   "AddressLine3": "Stanwell",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-17",
+  "RatingDate": "2026-06-24",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

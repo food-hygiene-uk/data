@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8536071777344",
-    "Longitude": "-0.714697003364563"
-  },
+  "Geocode": null,
   "AddressLine1": "Tangmere Primary Academy",
   "AddressLine2": "Bishops Road",
   "AddressLine3": "Tangmere",
   "AddressLine4": "Chichester",
   "PostCode": "PO20 2JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

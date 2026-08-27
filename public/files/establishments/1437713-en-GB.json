@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
   "Geocode": null,
   "AddressLine1": "Blacksmiths Arms Cudham Lane South",
@@ -15,12 +15,12 @@
   "AddressLine3": "Sevenoaks",
   "PostCode": "TN14 7QB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-02-12",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.890583",
+    "Longitude": "-0.525919"
+  },
   "AddressLine1": "Ashton Road",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Bedfordshire",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.484389",
+    "Longitude": "-3.524595"
+  },
   "AddressLine1": "2 Petitor Road Torquay",
   "PostCode": "TQ1 4QA",
   "SchemeType": "FHRS",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "199",
   "LocalAuthorityName": "Hyndburn",
   "LocalAuthorityWebSite": "http://www.hyndburnbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
   "Geocode": {
     "Latitude": "53.7860336303711",
@@ -18,8 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "BB6 7AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

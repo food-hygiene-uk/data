@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4207669",
-    "Longitude": "-3.0763112"
-  },
+  "Geocode": null,
   "AddressLine1": "189 Leasowe Road",
-  "AddressLine2": "Leasowe",
-  "AddressLine3": "Wirral",
+  "AddressLine3": "Leasowe",
+  "AddressLine4": "Wirral",
   "PostCode": "CH45 8LN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-10-26",
+  "RatingDate": "2026-08-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

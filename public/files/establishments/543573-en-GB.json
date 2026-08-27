@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.522115",
+    "Longitude": "-0.722101"
+  },
   "AddressLine1": "13 Nicholsons Walk",
   "AddressLine2": "Maidenhead",
   "PostCode": "SL6 1LB",

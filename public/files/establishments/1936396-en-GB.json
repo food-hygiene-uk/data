@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8776833",
+    "Longitude": "-0.5319828"
+  },
   "AddressLine1": "30 Spoondell",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Beds",

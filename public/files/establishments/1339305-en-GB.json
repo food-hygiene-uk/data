@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5502969",
-    "Longitude": "0.0247935"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 6",
   "AddressLine2": "85 - 87 Woodgrange Road",
   "AddressLine3": "Forest Gate",
   "AddressLine4": "London",
   "PostCode": "E7 0EP",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-06-02",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

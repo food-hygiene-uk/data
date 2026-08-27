@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.877396",
-    "Longitude": "-1.878964"
-  },
+  "Geocode": null,
   "AddressLine2": "Hospital Road",
   "AddressLine3": "Riddlesden",
   "AddressLine4": "Keighley",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-11",
+  "RatingDate": "2026-08-24",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

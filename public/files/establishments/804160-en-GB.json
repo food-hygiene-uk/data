@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.hart.gov.uk/environment/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@hart.gov.uk",
-  "Geocode": {
-    "Latitude": "51.290171",
-    "Longitude": "-0.833123"
-  },
+  "Geocode": null,
   "AddressLine1": "1 - 3 Fleet Road",
   "AddressLine2": "Fleet",
   "AddressLine3": "Hampshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-22",
+  "RatingDate": "2026-08-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

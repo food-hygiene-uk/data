@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4707757",
+    "Longitude": "-3.53801"
+  },
   "AddressLine1": "221 Union Street Torquay",
   "PostCode": "TQ1 4BZ",
   "SchemeType": "FHRS",

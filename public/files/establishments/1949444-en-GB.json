@@ -10,12 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
   "Geocode": null,
-  "AddressLine1": "ALISONS  KING STREET",
+  "AddressLine1": "UNIT 2  KING STREET",
   "AddressLine3": "BRIERCLIFFE",
   "PostCode": "BB10 2HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

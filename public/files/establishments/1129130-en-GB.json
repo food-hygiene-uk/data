@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "708",
   "LocalAuthorityName": "Shropshire",
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
   "Geocode": {
     "Latitude": "52.4965473",
@@ -18,12 +18,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "WV16 6SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-01-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

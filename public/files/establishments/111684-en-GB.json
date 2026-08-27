@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.954939",
+    "Longitude": "-2.748873"
+  },
   "AddressLine2": "Castle Street",
   "AddressLine3": "Stoke Sub Hamdon",
   "AddressLine4": "Somerset",

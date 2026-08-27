@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
-  "Geocode": {
-    "Latitude": "51.895099",
-    "Longitude": "0.68799"
-  },
+  "Geocode": null,
   "AddressLine1": "Herons Farm",
   "AddressLine2": "Colne Road",
   "AddressLine3": "Coggeshall",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-25",
-  "Scores": null
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

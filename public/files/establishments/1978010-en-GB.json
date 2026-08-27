@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.48153",
-    "Longitude": "-2.062089"
-  },
+  "Geocode": null,
   "AddressLine1": "Wharf Tavern",
   "AddressLine2": "77 Caroline Street",
   "AddressLine3": "Stalybridge",
   "AddressLine4": "Tameside",
   "PostCode": "SK15 1PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

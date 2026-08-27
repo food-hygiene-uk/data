@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8855974",
+    "Longitude": "-0.520639"
+  },
   "AddressLine1": "20 High Street South",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Beds",

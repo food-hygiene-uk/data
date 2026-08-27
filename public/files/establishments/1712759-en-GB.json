@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3990512",
-    "Longitude": "-2.9908078"
-  },
+  "Geocode": null,
   "AddressLine1": "9 Britannia Pavilion Gower Street",
   "AddressLine3": "Liverpool",
   "PostCode": "L3 4AD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-01-22",
-  "Scores": null
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

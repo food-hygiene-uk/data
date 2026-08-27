@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "51.952909",
-    "Longitude": "1.339262"
-  },
+  "Geocode": null,
   "AddressLine1": "Kiosks 4 And 5",
   "AddressLine2": "Forum Centre",
   "AddressLine3": "Sea Road",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-21",
-  "Scores": null
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

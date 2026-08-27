@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3940966",
-    "Longitude": "-0.4481701"
-  },
+  "Geocode": null,
   "AddressLine1": "The Wool Studios Ltd",
   "AddressLine2": "Unit B",
   "AddressLine3": "42 - 44 High Street",
   "AddressLine4": "Shepperton",
   "PostCode": "TW17 9AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

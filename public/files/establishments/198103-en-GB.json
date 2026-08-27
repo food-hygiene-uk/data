@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.343866",
+    "Longitude": "-3.049242"
+  },
   "AddressLine1": "16-19 Broad Street",
   "AddressLine2": "Knighton",
   "AddressLine3": "Powys",

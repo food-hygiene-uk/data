@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.544071",
+    "Longitude": "-0.175713"
+  },
   "AddressLine2": "149 Finchley Road",
   "PostCode": "NW3 6JH",
   "SchemeType": "FHRS",

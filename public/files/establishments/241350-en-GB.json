@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "321",
   "LocalAuthorityName": "Warwick",
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
   "Geocode": {
     "Latitude": "52.268972",
@@ -17,12 +17,12 @@
   "AddressLine4": "Whitnash",
   "PostCode": "CV31 2LY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

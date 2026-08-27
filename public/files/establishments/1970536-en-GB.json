@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.718237",
-    "Longitude": "-1.8819827"
-  },
+  "Geocode": null,
   "AddressLine1": "Broadway Retail Park",
   "AddressLine2": "Queens Road",
   "AddressLine3": "King Cross",
   "AddressLine4": "Halifax",
   "PostCode": "HX1 3BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

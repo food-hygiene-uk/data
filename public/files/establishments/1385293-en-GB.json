@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4103144",
-    "Longitude": "-0.3012917"
-  },
+  "Geocode": null,
   "AddressLine1": "International House",
   "AddressLine2": "31 Wheatfield Way",
   "AddressLine3": "Kingston Upon Thames",
   "PostCode": "KT1 2PD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-03-26",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -1,18 +1,15 @@
 {
   "FHRSID": 689015,
   "BusinessName": "Dougherty and Allen Ltd",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "366740",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7839,
   "LocalAuthorityCode": "560",
   "LocalAuthorityName": "Flintshire",
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1796071",
-    "Longitude": "-2.9376377"
-  },
+  "Geocode": null,
   "AddressLine1": "Dougherty and Allen Ltd",
   "AddressLine2": "Unit 8 Borders Industrial Park",
   "AddressLine3": "River Lane Saltney",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2026-04-21",
+  "RatingDate": "2026-07-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.019199",
+    "Longitude": "-3.076807"
+  },
   "AddressLine2": "Outer Circle",
   "AddressLine3": "Taunton",
   "AddressLine4": "Somerset",

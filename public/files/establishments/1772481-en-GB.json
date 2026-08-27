@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
     "Latitude": "52.605962",
@@ -18,12 +18,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR30 2JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-04",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

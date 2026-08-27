@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.stoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@stoke.gov.uk",
-  "Geocode": {
-    "Latitude": "52.968037",
-    "Longitude": "-2.156654"
-  },
+  "Geocode": null,
   "AddressLine2": "21 Ulverston Road",
   "AddressLine3": "Blurton",
   "AddressLine4": "Stoke-On-Trent",
   "PostCode": "ST3 3ND",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

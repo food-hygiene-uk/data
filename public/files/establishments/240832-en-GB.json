@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.coventry.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcommercial@coventry.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4066318",
-    "Longitude": "-1.4771195"
-  },
+  "Geocode": null,
   "AddressLine1": "85 Binley Road",
   "AddressLine4": "Coventry",
   "PostCode": "CV3 1HX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-11",
-  "Scores": null
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

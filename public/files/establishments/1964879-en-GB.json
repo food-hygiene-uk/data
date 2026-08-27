@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7184323",
-    "Longitude": "-1.8343258"
-  },
+  "Geocode": null,
   "AddressLine1": "Marsh Meadows",
   "AddressLine2": "31 Marsh Lane",
   "AddressLine3": "Southowram",
   "AddressLine4": "Halifax",
   "PostCode": "HX3 9UF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

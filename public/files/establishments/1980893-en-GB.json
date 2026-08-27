@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6501208",
+    "Longitude": "-0.1784979"
+  },
   "AddressLine1": "8 Plantagenet Road",
   "PostCode": "EN5 5JQ",
   "SchemeType": "FHRS",

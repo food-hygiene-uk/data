@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "870",
   "LocalAuthorityName": "Milton Keynes",
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": {
     "Latitude": "52.043826",
@@ -18,8 +18,12 @@
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK9 3PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 5
+  }
 }

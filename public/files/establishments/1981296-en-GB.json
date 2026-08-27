@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9158702",
+    "Longitude": "-0.6592272"
+  },
   "AddressLine1": "Leighton Buzzard Theatre",
   "AddressLine2": "Leighton Buzzard Library",
   "AddressLine3": "Lake Street",

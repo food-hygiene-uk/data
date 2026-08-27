@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wealden.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0598984",
-    "Longitude": "0.2901478"
-  },
+  "Geocode": null,
   "AddressLine1": "Dene Farm Wadhurst Road",
   "AddressLine3": "Mark Cross",
   "AddressLine4": "East Sussex",
   "PostCode": "TN6 3PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.025622",
+    "Longitude": "-2.758196"
+  },
   "AddressLine2": "On The Green",
   "AddressLine3": "Long Sutton",
   "AddressLine4": "Langport Somerset",

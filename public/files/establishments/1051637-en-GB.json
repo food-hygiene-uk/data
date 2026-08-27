@@ -1,13 +1,13 @@
 {
   "FHRSID": 1051637,
-  "BusinessName": "Mercure Exeter Rougemont Hotel",
+  "BusinessName": "The Rougemont Hotel",
   "BusinessType": "Hotel/bed & breakfast/guest house",
   "LocalAuthorityBusinessID": "PI/000078454",
   "BusinessTypeID": 7842,
   "LocalAuthorityCode": "073",
   "LocalAuthorityName": "Exeter City",
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
   "Geocode": {
     "Latitude": "50.725258",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX4 3SP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7085",
-    "Longitude": "-1.9057"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 6",
   "AddressLine2": "Lock Hill Mills",
   "AddressLine3": "Holmes Road",
   "AddressLine4": "Sowerby Bridge",
   "PostCode": "HX6 3LD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

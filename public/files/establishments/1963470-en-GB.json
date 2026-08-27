@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0677603",
+    "Longitude": "-0.5628443"
+  },
   "AddressLine1": "Drapers Farm",
   "AddressLine2": "Beancroft Road",
   "AddressLine3": "Marston Moretaine",

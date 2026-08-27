@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0060232",
+    "Longitude": "-0.3291047"
+  },
   "AddressLine1": "Unit 12 Rectory Farm",
   "AddressLine2": "Meppershall Road",
   "AddressLine3": "Upper Stondon",

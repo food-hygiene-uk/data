@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "262",
   "LocalAuthorityName": "Gedling",
   "LocalAuthorityWebSite": "http://www.gedling.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthhousinghandover@gedling.gov.uk",
   "Geocode": null,
   "AddressLine1": "Oxton Road",
@@ -15,8 +15,12 @@
   "AddressLine3": "Nottinghamshire",
   "PostCode": "NG14 6NU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
