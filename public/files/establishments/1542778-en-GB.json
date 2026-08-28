@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.960338",
+    "Longitude": "-0.267049"
+  },
   "AddressLine1": "117 Grove Road",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

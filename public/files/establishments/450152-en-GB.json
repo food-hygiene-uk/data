@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.904968",
+    "Longitude": "-0.519372"
+  },
   "AddressLine1": "21 Bedford Square",
   "AddressLine2": "Houghton Regis",
   "AddressLine3": "Bedfordshire",

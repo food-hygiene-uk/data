@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8914996",
+    "Longitude": "-0.5138041"
+  },
   "AddressLine1": "Units 9-10 White Lion Retail Park",
   "AddressLine2": "Boscombe Road",
   "AddressLine3": "Dunstable",

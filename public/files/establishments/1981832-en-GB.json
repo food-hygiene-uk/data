@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.4046769",
+    "Longitude": "-2.9087277"
+  },
   "AddressLine1": "1 The Parade Northway",
   "AddressLine3": "Liverpool",
   "PostCode": "L15 7JU",

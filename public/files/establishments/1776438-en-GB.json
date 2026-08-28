@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.912727355957",
+    "Longitude": "-0.209299996495247"
+  },
   "AddressLine1": "54 High Street",
   "AddressLine2": "Stevenage",
   "AddressLine3": "Herts",

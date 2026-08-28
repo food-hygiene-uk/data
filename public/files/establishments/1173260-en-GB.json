@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0172729492188",
+    "Longitude": "-0.551153004169464"
+  },
   "AddressLine1": "Manor House Farm",
   "AddressLine2": "Beckerings Park",
   "AddressLine3": "Ridgmont",

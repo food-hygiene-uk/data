@@ -1,18 +1,15 @@
 {
   "FHRSID": 564913,
   "BusinessName": "Community Coffee Morning",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "10309",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "785",
   "LocalAuthorityName": "Orkney Islands",
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": {
-    "Latitude": "58.938171",
-    "Longitude": "-3.127561"
-  },
+  "Geocode": null,
   "AddressLine1": "Orphir Church",
   "AddressLine2": "Gyre Road",
   "AddressLine3": "Orphir Village",
@@ -21,6 +18,6 @@
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2026-03-05",
+  "RatingDate": "2019-03-20",
   "Scores": null
 }

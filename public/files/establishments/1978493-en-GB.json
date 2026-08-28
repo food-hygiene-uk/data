@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7994428",
-    "Longitude": "1.0782281"
-  },
+  "Geocode": null,
   "AddressLine1": "11 Clacton Road",
   "AddressLine2": "St Osyth",
   "AddressLine3": "Clacton On Sea",
   "AddressLine4": "Essex",
   "PostCode": "CO16 8PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

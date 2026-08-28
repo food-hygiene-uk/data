@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rushmoor.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@rushmoor.gov.uk",
-  "Geocode": {
-    "Latitude": "51.282146",
-    "Longitude": "-0.76856"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Templer Avenue",
   "AddressLine2": "Farnborough",
   "AddressLine3": "Hampshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingDate": "2026-06-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

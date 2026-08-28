@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.902255",
+    "Longitude": "-0.189002"
+  },
   "AddressLine1": "Poachers",
   "AddressLine2": "129 Bedwell Crescent",
   "AddressLine3": "Stevenage",

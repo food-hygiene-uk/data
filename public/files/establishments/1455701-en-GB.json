@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7463501",
-    "Longitude": "-2.2184279"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 7",
   "AddressLine2": "Indoor Market",
   "AddressLine3": "Five Valleys Shopping Centre",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-16",
-  "Scores": null
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

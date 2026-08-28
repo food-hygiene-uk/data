@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.894694",
+    "Longitude": "-0.158989"
+  },
   "AddressLine1": "Magpie Crescent",
   "AddressLine2": "Stevenage",
   "AddressLine3": "Herts",

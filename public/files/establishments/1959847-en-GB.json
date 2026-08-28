@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": {
-    "Latitude": "54.75272",
-    "Longitude": "-6.001432"
-  },
+  "Geocode": null,
   "AddressLine1": "4 The Square",
   "AddressLine2": "Ballyclare",
   "AddressLine3": "Ballyclare",
   "AddressLine4": "Antrim",
   "PostCode": "BT39 9BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

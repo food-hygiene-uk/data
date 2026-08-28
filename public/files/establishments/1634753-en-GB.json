@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.455266",
-    "Longitude": "-1.876945"
-  },
-  "AddressLine1": "262 Ladypool Road",
-  "AddressLine2": "Birmingham",
+  "Geocode": null,
+  "AddressLine2": "262 Ladypool Road",
+  "AddressLine3": "Birmingham",
   "PostCode": "B12 8JU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-01",
+  "RatingDate": "2022-05-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

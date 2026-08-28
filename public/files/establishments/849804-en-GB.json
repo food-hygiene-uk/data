@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.87437",
+    "Longitude": "-0.513738"
+  },
   "AddressLine1": "57 Lowther Road",
   "AddressLine2": "Dunstable",
   "PostCode": "LU6 3NL",

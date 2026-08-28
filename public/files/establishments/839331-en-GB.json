@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.537782",
-    "Longitude": "-2.108976"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2B Alexandra Centre Retail Park",
   "AddressLine2": "Park Road",
   "AddressLine3": "Oldham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-05-19",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

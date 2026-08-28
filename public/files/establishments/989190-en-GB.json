@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "118",
   "LocalAuthorityName": "Rochford",
   "LocalAuthorityWebSite": "http://www.rochford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@rochford.gov.uk",
   "Geocode": {
     "Latitude": "51.600288",
@@ -18,8 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "SS6 9NL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

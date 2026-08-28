@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.901966",
+    "Longitude": "-0.201224"
+  },
   "AddressLine1": "Superdrug Stores Plc",
   "AddressLine2": "39-41 Queensway",
   "AddressLine3": "Town Centre",

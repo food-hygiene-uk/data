@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2138595581055",
-    "Longitude": "-1.98064994812012"
-  },
+  "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Inkberrow",
   "AddressLine3": "Worcester",
   "AddressLine4": "Worcestershire",
   "PostCode": "WR7 4DY",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

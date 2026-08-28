@@ -1,25 +1,26 @@
 {
   "FHRSID": 1925098,
   "BusinessName": "Fun-Kay Services",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000707271",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.502217",
-    "Longitude": "-1.901873"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Lozells Road",
   "AddressLine2": "Aston",
   "AddressLine3": "Birmingham",
   "PostCode": "B19 2TH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

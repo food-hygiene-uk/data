@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.112965",
-    "Longitude": "-1.323397"
-  },
+  "Geocode": null,
   "AddressLine1": "Building 61",
   "AddressLine2": "Connaught Road",
   "AddressLine3": "Worthy Down",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-26",
+  "RatingDate": "2026-08-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

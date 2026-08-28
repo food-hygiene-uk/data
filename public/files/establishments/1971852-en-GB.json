@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midulstercouncil.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
-  "Geocode": {
-    "Latitude": "54.847524",
-    "Longitude": "-6.7171922"
-  },
+  "Geocode": null,
   "AddressLine1": "181b Glen Road",
   "AddressLine2": "Fallagloon",
   "AddressLine3": "Maghera",
   "AddressLine4": "Co. Londonderry",
   "PostCode": "BT46 5LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5263379",
-    "Longitude": "-0.0881128"
-  },
+  "Geocode": null,
   "AddressLine1": "Flip-Dog Bar",
   "AddressLine2": "Unit 1 Imperial Hall",
   "AddressLine3": "104-122 City Road",
   "AddressLine4": "London",
   "PostCode": "EC1V 2NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

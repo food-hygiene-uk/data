@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stroud.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
-  "Geocode": {
-    "Latitude": "51.743607",
-    "Longitude": "-2.240652"
-  },
+  "Geocode": null,
   "AddressLine1": "18 - 20 Westward Road",
   "AddressLine2": "Stroud",
   "AddressLine3": "Gloucestershire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-04",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

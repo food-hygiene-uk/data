@@ -1,6 +1,6 @@
 {
   "FHRSID": 1936303,
-  "BusinessName": "The Yard Cafe & Kitchen",
+  "BusinessName": "The Yard Too",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "CP6839",
   "BusinessTypeID": 1,
@@ -10,9 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stroud.gov.uk",
   "Geocode": null,
+  "AddressLine1": "54 High Street",
+  "AddressLine2": "Stroud",
+  "AddressLine3": "Gloucestershire",
+  "PostCode": "GL5 1AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.139442",
-    "Longitude": "0.242762"
-  },
+  "Geocode": null,
   "AddressLine1": "Bishops Down County Primary School",
   "AddressLine2": "Rydal Drive",
   "AddressLine3": "Royal Tunbridge Wells",
   "AddressLine4": "Kent",
   "PostCode": "TN4 9SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

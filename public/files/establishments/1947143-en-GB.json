@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0477603",
+    "Longitude": "-0.0240162"
+  },
   "AddressLine1": "11 High Street",
   "AddressLine3": "Royston",
   "AddressLine4": "Hertfordshire",

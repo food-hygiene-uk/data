@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5612505",
-    "Longitude": "-0.2819232"
-  },
+  "Geocode": null,
   "AddressLine1": "Troubadour Wembley Park Theatre",
   "AddressLine2": "3 Fulton Road",
   "AddressLine3": "Wembley",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-12-06",
+  "RatingDate": "2026-08-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4844688",
-    "Longitude": "-1.8926671"
-  },
+  "Geocode": null,
   "AddressLine1": "205-213 Corporation Street",
   "AddressLine2": "Birmingham",
   "PostCode": "B4 6SE",
@@ -22,7 +19,7 @@
   "RatingDate": "2026-07-08",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

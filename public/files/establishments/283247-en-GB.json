@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
   "Geocode": {
-    "Latitude": "52.869054",
-    "Longitude": "-1.353087"
+    "Latitude": "52.8686965",
+    "Longitude": "-1.351661"
   },
-  "AddressLine1": "134 London Road",
-  "AddressLine2": "Shardlow",
-  "AddressLine3": "Derby Derbyshire",
+  "AddressLine1": "134 LONDON ROAD",
+  "AddressLine2": "SHARDLOW",
+  "AddressLine3": "DERBY",
   "PostCode": "DE72 2GP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.543867",
+    "Longitude": "0.049562"
+  },
   "AddressLine1": "347 High Street North",
   "AddressLine2": "Manor Park",
   "AddressLine3": "London",

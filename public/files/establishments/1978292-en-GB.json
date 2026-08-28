@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9636674",
+    "Longitude": "-0.2681354"
+  },
   "AddressLine1": "17 Wallace Way",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

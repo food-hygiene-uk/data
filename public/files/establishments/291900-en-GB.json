@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.287757",
-    "Longitude": "0.327272"
-  },
+  "Geocode": null,
   "AddressLine1": "Apple Trees",
   "AddressLine2": "Comp Lane",
   "AddressLine3": "Platt",
   "AddressLine4": "Sevenoaks",
   "PostCode": "TN15 8NR",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-11-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

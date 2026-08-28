@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9012776",
+    "Longitude": "-0.1785207"
+  },
   "AddressLine1": "Fairlands Valley Splash Park",
   "AddressLine2": "Six Hills Way",
   "AddressLine3": "Stevenage",

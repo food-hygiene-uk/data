@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.562025",
-    "Longitude": "-0.283372"
-  },
+  "Geocode": null,
   "AddressLine1": "87-89 Wembley Park Drive",
   "AddressLine2": "Wembley",
   "PostCode": "HA9 8HF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-31",
+  "RatingDate": "2026-08-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

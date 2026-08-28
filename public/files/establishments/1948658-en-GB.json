@@ -1,6 +1,6 @@
 {
   "FHRSID": 1948658,
-  "BusinessName": "Telford Crisis support",
+  "BusinessName": "Telford Crisis Support",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9105996",
   "BusinessTypeID": 4613,
@@ -8,18 +8,19 @@
   "LocalAuthorityName": "Telford and Wrekin Council",
   "LocalAuthorityWebSite": "http://www.telford.gov.uk/",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.6750338",
-    "Longitude": "-2.4289586"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit C2 Stafford Park 15",
   "AddressLine2": "Stafford Park",
   "AddressLine3": "Telford",
   "AddressLine4": "Shropshire",
   "PostCode": "TF3 3BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

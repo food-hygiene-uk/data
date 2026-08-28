@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "187",
   "LocalAuthorityName": "Sevenoaks",
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
   "Geocode": null,
   "AddressLine1": "Cafe",
@@ -15,8 +15,12 @@
   "AddressLine3": "Swanley Bypass",
   "AddressLine4": "Swanley",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

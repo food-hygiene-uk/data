@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0472145080566",
-    "Longitude": "0.511731028556824"
-  },
+  "Geocode": null,
   "AddressLine1": "Queens Inn",
   "AddressLine2": "Rye Road",
   "AddressLine3": "Hawkhurst",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-30",
-  "Scores": null
+  "RatingDate": "2026-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

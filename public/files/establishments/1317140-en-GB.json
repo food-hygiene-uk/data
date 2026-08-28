@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5155513",
-    "Longitude": "-0.150656"
-  },
+  "Geocode": null,
   "AddressLine1": "BASEMENT AND GROUND FLOOR 44 JAMES STREET",
   "AddressLine2": "MARYLEBONE",
   "AddressLine3": "LONDON",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-02-10",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }
