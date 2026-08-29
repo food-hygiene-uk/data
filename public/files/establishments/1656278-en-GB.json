@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.288276",
-    "Longitude": "0.194718"
-  },
+  "Geocode": null,
   "AddressLine1": "Sevenoaks Hospital",
   "AddressLine2": "Hospital Road",
   "AddressLine3": "Sevenoaks",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-27",
+  "RatingDate": "2026-08-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

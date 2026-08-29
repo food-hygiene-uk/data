@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": {
-    "Latitude": "51.465897",
-    "Longitude": "-0.126542"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop",
   "AddressLine2": "27 Landor Road",
   "AddressLine3": "London",
   "PostCode": "SW9 9RT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-02-28",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-06-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

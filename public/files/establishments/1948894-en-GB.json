@@ -1,6 +1,6 @@
 {
   "FHRSID": 1948894,
-  "BusinessName": "Dog & Gun",
+  "BusinessName": "Dog and Gun Syston",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "FR/000002604",
   "BusinessTypeID": 7843,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": {
-    "Latitude": "52.699312",
-    "Longitude": "-1.07618"
-  },
+  "Geocode": null,
   "AddressLine2": "28 Chapel Street",
   "AddressLine4": "Syston",
   "PostCode": "LE7 1GN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

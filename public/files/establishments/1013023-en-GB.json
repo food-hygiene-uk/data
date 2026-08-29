@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4297370910645",
-    "Longitude": "-1.35391104221344"
-  },
+  "Geocode": null,
   "AddressLine2": "3A Wellgate",
   "AddressLine3": "Rotherham Town Centre",
   "AddressLine4": "Rotherham South Yorkshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-15",
+  "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

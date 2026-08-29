@@ -1,6 +1,6 @@
 {
   "FHRSID": 207739,
-  "BusinessName": "Hove Rugby Club - Bar",
+  "BusinessName": "Hove Rugby Club Bar",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2002/00527/COMM",
   "BusinessTypeID": 7843,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.839087",
-    "Longitude": "-0.16525"
-  },
+  "Geocode": null,
   "AddressLine1": "Hove Rugby Football Club",
   "AddressLine2": "Hove Recreation Ground",
   "AddressLine3": "Shirley Drive",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2016-04-08",
+  "RatingDate": "2026-08-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

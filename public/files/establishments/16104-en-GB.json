@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3245975",
+    "Longitude": "-0.57524765"
+  },
   "AddressLine1": "Meadway DriveHorsellWokingSurrey",
   "PostCode": "GU21 4TA",
   "SchemeType": "FHRS",

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.kirklees.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kirklees.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6738433",
-    "Longitude": "-1.6296812"
-  },
+  "Geocode": null,
   "AddressLine1": "Pizza Cottage",
   "AddressLine2": "265 Headfield Road",
   "AddressLine3": "Thornhill Lees",
   "AddressLine4": "Dewsbury",
   "PostCode": "WF12 9JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9836082458496",
+    "Longitude": "-2.95953392982483"
+  },
   "AddressLine1": "Albert Hotel",
   "AddressLine2": "Mounthoolie Place",
   "AddressLine3": "Kirkwall",

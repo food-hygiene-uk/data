@@ -1,6 +1,6 @@
 {
   "FHRSID": 1974833,
-  "BusinessName": "Eds Busy Bees At The Heart Of Loose Valley",
+  "BusinessName": "Ed's Busy Bees At The Heart Of Loose Valley",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/500150/FOOD",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

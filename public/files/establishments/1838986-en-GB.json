@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.008109",
+    "Longitude": "-3.12123"
+  },
   "AddressLine1": "Pomona Inn",
   "AddressLine3": "Finstown",
   "AddressLine4": "Firth",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentaladministration@mansfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1586025",
-    "Longitude": "-1.1889123"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Old Mill Lane",
   "AddressLine3": "Mansfield Woodhouse",
   "AddressLine4": "Nottinghamshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-15",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

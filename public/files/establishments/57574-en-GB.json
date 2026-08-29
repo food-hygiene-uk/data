@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": {
-    "Latitude": "54.57657",
-    "Longitude": "-5.977522"
-  },
+  "Geocode": null,
   "AddressLine1": "Units 16-19 Martins Yard",
   "AddressLine3": "11 Kennedy Way",
   "AddressLine4": "Belfast",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-22",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

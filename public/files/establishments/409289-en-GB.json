@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3037681",
+    "Longitude": "-0.5406584"
+  },
   "AddressLine1": "7 Manor WayOld WokingWokingSurrey",
   "PostCode": "GU22 9JX",
   "SchemeType": "FHRS",

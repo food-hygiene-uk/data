@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6151679",
-    "Longitude": "-1.6132407"
-  },
+  "Geocode": null,
   "AddressLine1": "Royal Oak Inn Grendon Road",
   "AddressLine3": "Polesworth",
   "AddressLine4": "Warwickshire",
   "PostCode": "B78 1NU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

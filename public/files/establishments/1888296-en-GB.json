@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4914992",
+    "Longitude": "-1.8583781"
+  },
   "AddressLine1": "20 Alum Rock Road",
   "AddressLine3": "Birmingham",
   "SchemeType": "FHRS",

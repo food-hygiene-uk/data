@@ -1,29 +1,26 @@
 {
   "FHRSID": 222974,
   "BusinessName": "Premier Meden Vale Convenience",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "48907",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7840,
   "LocalAuthorityCode": "263",
   "LocalAuthorityName": "Mansfield",
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentaladministration@mansfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2199218",
-    "Longitude": "-1.1344819"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1 - 2 11 Ossington Close",
   "AddressLine3": "Meden Vale",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG20 9PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-29",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-19",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 15,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

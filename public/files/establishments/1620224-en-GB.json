@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": {
-    "Latitude": "54.348488",
-    "Longitude": "-6.628995"
-  },
+  "Geocode": null,
   "AddressLine1": "50 Hamiltonsbawn Road",
   "AddressLine3": "Armagh",
   "PostCode": "BT60 1HW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-13",
-  "Scores": null
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

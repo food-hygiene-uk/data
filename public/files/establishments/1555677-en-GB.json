@@ -8,18 +8,19 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.4586591",
-    "Longitude": "-2.083631"
-  },
+  "Geocode": null,
   "AddressLine1": "Vakas Balti",
   "AddressLine2": "64 Windmill Hill",
   "AddressLine3": "Cradley",
   "AddressLine4": "Halesowen",
   "PostCode": "B63 2BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-13",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2024-12-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

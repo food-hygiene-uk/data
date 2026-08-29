@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentaladministration@mansfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2038787",
-    "Longitude": "-1.1548965"
-  },
+  "Geocode": null,
   "AddressLine1": "38 High Street",
   "AddressLine3": "Warsop",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG20 0AE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

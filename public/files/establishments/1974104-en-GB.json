@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3251127",
-    "Longitude": "-1.3160061"
-  },
+  "Geocode": null,
   "AddressLine1": "Porta Cabin",
   "AddressLine2": "157 - 163 Sheffield Road",
   "AddressLine3": "Killamarsh",
   "AddressLine4": "Sheffield",
   "PostCode": "S21 1DY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

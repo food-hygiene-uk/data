@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5779391",
-    "Longitude": "-1.5489909"
-  },
+  "Geocode": null,
   "AddressLine1": "45 - 47 Long Street",
   "AddressLine3": "Atherstone",
   "AddressLine4": "Warwickshire",
   "PostCode": "CV9 1AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

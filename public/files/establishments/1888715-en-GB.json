@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.134555",
+    "Longitude": "-3.05471"
+  },
   "AddressLine1": "Taversoe Hotel",
   "AddressLine3": "Rousay",
   "PostCode": "KW17 2PT",

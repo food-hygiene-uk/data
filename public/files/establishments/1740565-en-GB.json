@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": {
-    "Latitude": "52.200124",
-    "Longitude": "0.1263897"
-  },
+  "Geocode": null,
   "AddressLine1": "86 Regent Street",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB2 1DP",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-01",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-06-12",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

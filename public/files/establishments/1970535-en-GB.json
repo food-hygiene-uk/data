@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7307782",
-    "Longitude": "-1.9834119"
-  },
+  "Geocode": null,
   "AddressLine1": "15 - 17 Bridge End",
   "AddressLine2": "Burnley Road",
   "AddressLine3": "Mytholmroyd",
   "AddressLine4": "Hebden Bridge",
   "PostCode": "HX7 5DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

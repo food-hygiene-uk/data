@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5158599",
-    "Longitude": "0.2844098"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Aire Drive",
   "AddressLine2": "South Ockendon",
   "AddressLine3": "Essex",
   "PostCode": "RM15 5AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

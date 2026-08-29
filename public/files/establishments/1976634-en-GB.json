@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976634,
-  "BusinessName": "Artpod People CIC",
+  "BusinessName": "Artpod People HAF Club",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "2026/00255/COMM",
   "BusinessTypeID": 7845,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8063087463379",
-    "Longitude": "-0.0558010004460812"
-  },
+  "Geocode": null,
   "AddressLine1": "St Margarets CE Primary School",
   "AddressLine2": "Whiteway Lane",
   "AddressLine3": "Rottingdean",
   "AddressLine4": "Brighton",
   "PostCode": "BN2 7HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

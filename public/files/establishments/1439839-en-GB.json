@@ -1,6 +1,6 @@
 {
   "FHRSID": 1439839,
-  "BusinessName": "Westbury Food & Wine",
+  "BusinessName": "Westbury Express Food & Wine",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "22/00018/COMM",
   "BusinessTypeID": 4613,
@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": {
-    "Latitude": "51.435122",
-    "Longitude": "-0.128622"
-  },
+  "Geocode": null,
   "AddressLine1": "90-92 Streatham High Road",
   "AddressLine2": "London",
   "PostCode": "SW16 1BS",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2021-12-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-14",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

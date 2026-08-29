@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": {
-    "Latitude": "51.476765",
-    "Longitude": "-0.1229"
-  },
+  "Geocode": null,
   "AddressLine1": "The Canton Arms Public House",
   "AddressLine2": "177 South Lambeth Road",
   "AddressLine3": "London",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-25",
-  "Scores": null
+  "RatingDate": "2026-08-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hertsmere.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@hertsmere.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6563222",
-    "Longitude": "-0.2742236"
-  },
+  "Geocode": null,
   "AddressLine1": "100 Shenley Road",
   "AddressLine2": "Borehamwood",
   "AddressLine3": "Hertfordshire",
   "PostCode": "WD6 1EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

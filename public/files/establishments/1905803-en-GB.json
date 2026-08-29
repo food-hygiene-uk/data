@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.mansfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentaladministration@mansfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1325381",
-    "Longitude": "-1.1816604"
-  },
-  "AddressLine1": "Unit 1a Madeline Court",
+  "Geocode": null,
+  "AddressLine1": "Unit 1 Madeline Court",
   "AddressLine3": "Mansfield",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG18 4XW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

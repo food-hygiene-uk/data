@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.953351",
+    "Longitude": "-3.299823"
+  },
   "AddressLine1": "Stromness Golf Club",
   "AddressLine2": "Back Road",
   "AddressLine3": "Stromness",

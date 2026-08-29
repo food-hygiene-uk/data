@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.962538",
+    "Longitude": "-3.299926"
+  },
   "AddressLine1": "Stromness Community Centre",
   "AddressLine2": "Church Road",
   "AddressLine3": "Stromness",

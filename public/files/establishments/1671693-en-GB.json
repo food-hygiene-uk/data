@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.068357",
+    "Longitude": "-3.232831"
+  },
   "AddressLine1": "Dounby Stores",
   "AddressLine3": "Dounby",
   "AddressLine4": "Sandwick",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.8220699",
+    "Longitude": "-2.9537845"
+  },
   "AddressLine1": "Mount Pleasant",
   "AddressLine2": "Haybrake Road",
   "AddressLine3": "South Ronaldsay",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2201690673828",
-    "Longitude": "0.65988701581955"
-  },
+  "Geocode": null,
   "AddressLine1": "Windmill Hill",
   "AddressLine2": "Ulcombe",
   "AddressLine3": "Maidstone",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-25",
+  "RatingDate": "2026-08-24",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

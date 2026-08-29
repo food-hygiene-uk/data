@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3116328",
+    "Longitude": "-0.5353154"
+  },
   "AddressLine1": "Hoebridge Golf CentreOld Woking RoadWokingSurrey",
   "PostCode": "GU22 8JH",
   "SchemeType": "FHRS",

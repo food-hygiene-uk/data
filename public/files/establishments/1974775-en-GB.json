@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hertsmere.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@hertsmere.gov.uk",
-  "Geocode": {
-    "Latitude": "51.685101",
-    "Longitude": "-0.3178305"
-  },
+  "Geocode": null,
   "AddressLine1": "231 Watling Street",
   "AddressLine2": "Radlett",
   "AddressLine3": "Hertfordshire",
   "PostCode": "WD7 7AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

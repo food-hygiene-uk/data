@@ -1,20 +1,27 @@
 {
   "FHRSID": 1950703,
   "BusinessName": "The Games Yard",
-  "BusinessType": "Hospitals/Childcare/Caring Premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00346/COMM",
-  "BusinessTypeID": 5,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Summers Lane",
+  "Geocode": {
+    "Latitude": "51.6059226989746",
+    "Longitude": "-0.172735005617142"
+  },
+  "AddressLine1": "Finchley Rugby Football Club  Summers Lane London",
   "PostCode": "N12 0PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

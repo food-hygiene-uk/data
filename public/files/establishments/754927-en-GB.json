@@ -1,26 +1,27 @@
 {
   "FHRSID": 754927,
   "BusinessName": "CHAPMANS FARM FRESH FRUIT & VEG",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "488",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "803",
   "LocalAuthorityName": "Armagh City, Banbridge and Craigavon",
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": {
-    "Latitude": "54.399984",
-    "Longitude": "-6.483763"
-  },
+  "Geocode": null,
   "AddressLine1": "47 Dobbin Road",
   "AddressLine2": "Drumnasoo",
   "AddressLine3": "Portadown",
   "AddressLine4": "Armagh",
   "PostCode": "BT62 4EY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-12-02",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

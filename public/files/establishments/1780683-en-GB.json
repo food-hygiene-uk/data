@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8288685",
-    "Longitude": "-1.1703195"
-  },
+  "Geocode": null,
   "AddressLine1": "72 Gregson Avenue",
   "AddressLine2": "Gosport",
   "PostCode": "PO13 0UR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.318475",
+    "Longitude": "-0.5569112"
+  },
   "AddressLine1": "StarbucksPlatform 5Woking Railway StationStation ApproachWokingSurrey",
   "PostCode": "GU22 7AE",
   "SchemeType": "FHRS",

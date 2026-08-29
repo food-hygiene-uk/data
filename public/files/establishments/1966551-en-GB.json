@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": {
-    "Latitude": "54.298226",
-    "Longitude": "-6.522913"
-  },
+  "Geocode": null,
   "AddressLine1": "20 Keady Street",
   "AddressLine2": "Coolmillish",
   "AddressLine3": "Markethill",
   "AddressLine4": "Armagh",
   "PostCode": "BT60 1PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9841346740723",
+    "Longitude": "-2.95826101303101"
+  },
   "AddressLine1": "Dil Se",
   "AddressLine2": "7 Bridge Street",
   "AddressLine3": "Kirkwall",

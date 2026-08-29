@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.0012509",
+    "Longitude": "-2.9417929"
+  },
   "AddressLine1": "Achins",
   "AddressLine2": "9 Castlehame Park",
   "AddressLine3": "St Ola",

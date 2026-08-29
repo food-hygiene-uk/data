@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3217144",
+    "Longitude": "-0.5396877"
+  },
   "AddressLine1": "Bradbury CentreSmiles PlaceWokingSurrey",
   "PostCode": "GU22 8BJ",
   "SchemeType": "FHRS",

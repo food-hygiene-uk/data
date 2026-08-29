@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midandeastantrim.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ballymena.envhealth@midandeastantrim.gov.uk",
-  "Geocode": {
-    "Latitude": "54.962407",
-    "Longitude": "-6.226525"
-  },
+  "Geocode": null,
   "AddressLine1": "67 Glenravel Road",
   "AddressLine2": "Martinstown",
   "AddressLine3": "Martinstown",
   "AddressLine4": "Antrim",
   "PostCode": "BT43 6QQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

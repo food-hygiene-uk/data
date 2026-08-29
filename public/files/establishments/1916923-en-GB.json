@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.349402",
-    "Longitude": "-1.299438"
-  },
+  "Geocode": null,
   "AddressLine1": "Rother Valley Country Park",
   "AddressLine2": "Mansfield Road",
   "AddressLine3": "Waleswood",
   "AddressLine4": "Sheffield",
   "PostCode": "S26 5PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

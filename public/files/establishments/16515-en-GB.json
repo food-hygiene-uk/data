@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts@eastlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.058409",
+    "Longitude": "-2.718358"
+  },
   "AddressLine1": "Oxfam 51 High Street North Berwick East Lothian",
   "PostCode": "EH39 4HH",
   "SchemeType": "FHIS",

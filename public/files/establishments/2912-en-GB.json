@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3220595",
+    "Longitude": "-0.5392866"
+  },
   "AddressLine1": "The Bernard Sunley Nursing HomeCollege RoadWokingSurrey",
   "PostCode": "GU22 8BT",
   "SchemeType": "FHRS",

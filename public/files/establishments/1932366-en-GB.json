@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gloucester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "community.wellbeing@gloucester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8570175",
-    "Longitude": "-2.2320211"
-  },
+  "Geocode": null,
   "AddressLine1": "St James Trading Estate",
   "AddressLine2": "278 Barton Street",
   "AddressLine3": "Gloucester",
   "PostCode": "GL1 4JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

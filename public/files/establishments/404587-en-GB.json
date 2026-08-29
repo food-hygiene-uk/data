@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.887076",
+    "Longitude": "-0.423883"
+  },
   "AddressLine1": "Fire Station",
   "AddressLine2": "Studley Road",
   "AddressLine4": "Luton",

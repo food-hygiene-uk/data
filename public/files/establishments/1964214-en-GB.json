@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northwarks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6177929",
-    "Longitude": "-1.6301738"
-  },
+  "Geocode": null,
   "AddressLine1": "The Dairy Hermitage Lane",
   "AddressLine3": "Polesworth",
   "AddressLine4": "Warwickshire",
   "PostCode": "B78 1JL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
