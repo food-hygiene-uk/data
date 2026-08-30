@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "298",
   "LocalAuthorityName": "West Suffolk",
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.2374025",
@@ -19,8 +19,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "IP32 7EA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

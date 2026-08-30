@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.982149",
+    "Longitude": "-2.957353"
+  },
   "AddressLine1": "Kirkwall East Church",
   "AddressLine2": "King Street",
   "AddressLine3": "Kirkwall",

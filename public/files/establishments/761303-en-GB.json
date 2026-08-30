@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9583053588867",
+    "Longitude": "-3.22485303878784"
+  },
   "AddressLine1": "Button-Ben",
   "AddressLine2": "Button Road",
   "AddressLine3": "Stenness",

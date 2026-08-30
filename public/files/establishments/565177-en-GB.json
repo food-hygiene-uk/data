@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.315913",
+    "Longitude": "-2.978669"
+  },
   "AddressLine1": "Pierowall Fish Ltd",
   "AddressLine2": "Broughton Road",
   "AddressLine3": "Westray",

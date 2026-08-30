@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.120001",
+    "Longitude": "-2.610096"
+  },
   "AddressLine1": "Stronsay Junior High School",
   "AddressLine3": "Stronsay",
   "PostCode": "KW17 2AE",

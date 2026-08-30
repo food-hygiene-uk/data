@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.228458404541",
+    "Longitude": "-1.46606600284576"
+  },
   "AddressLine1": "Ravenna Lodge",
   "AddressLine2": "East Anton Farm Road",
   "AddressLine3": "Andover",

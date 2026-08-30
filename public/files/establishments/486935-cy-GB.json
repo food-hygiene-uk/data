@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.825363",
+    "Longitude": "-3.30155"
+  },
   "AddressLine1": "Market Square",
   "AddressLine2": "Llanrhaeadr-Ym-Mochnant",
   "AddressLine3": "Oswestry",

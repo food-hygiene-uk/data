@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4577721",
+    "Longitude": "-4.2138488"
+  },
   "AddressLine2": "22 Johnston Place",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

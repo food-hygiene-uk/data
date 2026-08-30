@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.325364",
+    "Longitude": "-3.533861"
+  },
   "AddressLine2": "Balmenach Distillery",
   "AddressLine3": "Cromdale",
   "AddressLine4": "Grantown-On-Spey",

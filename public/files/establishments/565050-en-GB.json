@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.069203",
+    "Longitude": "-3.309538"
+  },
   "AddressLine1": "Isbister Bros Ltd",
   "AddressLine3": "Sandwick",
   "PostCode": "KW16 3LT",

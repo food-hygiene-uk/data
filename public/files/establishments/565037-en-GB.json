@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.984949",
+    "Longitude": "-3.229849"
+  },
   "AddressLine1": "Kaya",
   "AddressLine3": "Stenness",
   "PostCode": "KW16 3JX",

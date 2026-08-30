@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.595143",
+    "Longitude": "-3.519855"
+  },
   "AddressLine2": "7a Rotterdam Street",
   "AddressLine3": "Thurso",
   "AddressLine4": "Highland",

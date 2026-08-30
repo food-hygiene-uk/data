@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9631881713867",
+    "Longitude": "-3.29788088798523"
+  },
   "AddressLine1": "Unit 2",
   "AddressLine2": "14a Victoria Street",
   "AddressLine3": "Stromness",

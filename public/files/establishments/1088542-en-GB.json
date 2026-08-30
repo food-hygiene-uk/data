@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2146159",
+    "Longitude": "-1.534546"
+  },
   "AddressLine1": "Weyhill East Service Station",
   "AddressLine2": "A303",
   "AddressLine3": "Weyhill",

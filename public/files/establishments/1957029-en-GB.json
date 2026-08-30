@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2427473",
+    "Longitude": "-1.4747"
+  },
   "AddressLine1": "Enham",
   "AddressLine2": "Enham Place",
   "AddressLine3": "Newbury Road",

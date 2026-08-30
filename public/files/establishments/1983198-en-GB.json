@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4628717",
+    "Longitude": "-4.211006"
+  },
   "AddressLine2": "18 Tomatin",
   "AddressLine3": "by Inverness",
   "SchemeType": "FHIS",

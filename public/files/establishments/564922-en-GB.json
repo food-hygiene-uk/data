@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.067116",
+    "Longitude": "-3.231095"
+  },
   "AddressLine1": "Smiddybrae House",
   "AddressLine2": "Vetquoy Road",
   "AddressLine3": "Dounby",

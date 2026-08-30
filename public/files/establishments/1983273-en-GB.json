@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.4424058",
+    "Longitude": "-3.092694"
+  },
   "AddressLine2": "28 Bridge Street",
   "AddressLine3": "Wick",
   "AddressLine4": "Highland",

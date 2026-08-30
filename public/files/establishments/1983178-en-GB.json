@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4040812",
+    "Longitude": "-6.1979757"
+  },
   "AddressLine1": "Green Acres",
   "AddressLine2": "Viewfield Road",
   "AddressLine3": "Portree",

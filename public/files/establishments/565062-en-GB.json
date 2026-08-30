@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.053678",
+    "Longitude": "-3.219857"
+  },
   "AddressLine1": "Merkister Hotel",
   "AddressLine2": "Russland Road",
   "AddressLine3": "Harray",

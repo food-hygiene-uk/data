@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9856468",
+    "Longitude": "-2.9523004"
+  },
   "AddressLine1": "Heatherlea",
   "AddressLine2": "Weyland Terrace",
   "AddressLine3": "Kirkwall",

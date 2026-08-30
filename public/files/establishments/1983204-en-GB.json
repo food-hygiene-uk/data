@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4546497",
+    "Longitude": "-4.2506172"
+  },
   "AddressLine2": "5 Beauly",
   "AddressLine4": "by Inverness",
   "SchemeType": "FHIS",

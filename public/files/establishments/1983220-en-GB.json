@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4151796",
+    "Longitude": "-6.1914651"
+  },
   "AddressLine2": "22 Kitson Crescent",
   "AddressLine3": "Portree",
   "AddressLine4": "Highland",

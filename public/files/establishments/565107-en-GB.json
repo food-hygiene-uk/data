@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.984512",
+    "Longitude": "-2.959698"
+  },
   "AddressLine1": "The Girnel House",
   "AddressLine2": "22 Harbour Street",
   "AddressLine3": "Kirkwall",

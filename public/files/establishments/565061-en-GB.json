@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.062696",
+    "Longitude": "-3.223595"
+  },
   "AddressLine1": "Dounby Primary School",
   "AddressLine3": "Dounby",
   "AddressLine4": "Sandwick",

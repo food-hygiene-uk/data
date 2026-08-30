@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.104087",
+    "Longitude": "-3.087819"
+  },
   "AddressLine1": "Evie Primary School",
   "AddressLine3": "Evie School",
   "AddressLine4": "Evie",

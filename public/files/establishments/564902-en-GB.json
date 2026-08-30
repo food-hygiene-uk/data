@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.983266",
+    "Longitude": "-3.214913"
+  },
   "AddressLine1": "Stenness Primary School",
   "AddressLine2": "Ireland Road",
   "AddressLine3": "Stenness Village",

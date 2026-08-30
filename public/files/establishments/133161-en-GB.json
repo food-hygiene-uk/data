@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5598302",
+    "Longitude": "-2.5816843"
+  },
   "AddressLine1": "142 High Street Arbroath",
   "PostCode": "DD11 1HN",
   "SchemeType": "FHIS",

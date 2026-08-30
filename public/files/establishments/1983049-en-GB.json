@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.742627",
+    "Longitude": "-1.16743"
+  },
   "AddressLine2": "10 Leicester Road",
   "AddressLine4": "Quorn",
   "PostCode": "LE12 8ET",

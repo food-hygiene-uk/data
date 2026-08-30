@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9649200439453",
+    "Longitude": "-3.29616689682007"
+  },
   "AddressLine1": "Co-Operative Group Shop",
   "AddressLine2": "Ferry Road",
   "AddressLine3": "Stromness",

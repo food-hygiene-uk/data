@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8002647",
+    "Longitude": "-5.1358991"
+  },
   "AddressLine1": "Melantee",
   "AddressLine2": "Achintore Road",
   "AddressLine3": "Fort William",

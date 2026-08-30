@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4764297",
+    "Longitude": "-4.2233178"
+  },
   "AddressLine2": "28 Ardconnel Street",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7492018",
+    "Longitude": "-1.1475786"
+  },
   "AddressLine2": "22 South Street",
   "AddressLine4": "Barrow Upon Soar",
   "PostCode": "LE12 8LZ",

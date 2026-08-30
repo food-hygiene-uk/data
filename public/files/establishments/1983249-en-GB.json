@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.2704506",
+    "Longitude": "-5.743748"
+  },
   "AddressLine1": "Mo Dhachaidh",
   "AddressLine2": "Old Kyle Farm Road",
   "AddressLine3": "Kyleakin",

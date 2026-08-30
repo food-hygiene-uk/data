@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.473392",
+    "Longitude": "-4.234863"
+  },
   "AddressLine2": "2 Glenurquhart Road",
   "AddressLine3": "Inverness",
   "PostCode": "IV3 5NU",

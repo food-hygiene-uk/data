@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5587589",
-    "Longitude": "-0.0740004"
-  },
+  "Geocode": null,
   "AddressLine2": "66 STOKE NEWINGTON HIGH STREET",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-15",
-  "Scores": null
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

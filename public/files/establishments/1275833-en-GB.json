@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.951832",
+    "Longitude": "-1.467773"
+  },
   "AddressLine1": "Romsey Golf Club",
   "AddressLine2": "Romsey Road",
   "AddressLine3": "Nursling",

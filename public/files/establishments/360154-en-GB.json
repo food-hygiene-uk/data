@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.58493",
+    "Longitude": "-3.868531"
+  },
   "AddressLine1": "Occasions",
   "AddressLine2": "66 High Street",
   "AddressLine3": "Nairn",

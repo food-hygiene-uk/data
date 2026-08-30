@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.9789602",
+    "Longitude": "-3.9651243"
+  },
   "AddressLine2": "1 Sibell Road",
   "AddressLine3": "Golspie",
   "AddressLine4": "Highland",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.3254727",
+    "Longitude": "-3.61948"
+  },
   "AddressLine2": "66 Strathspey Drive",
   "AddressLine3": "Grantown-On-Spey",
   "AddressLine4": "Highland",

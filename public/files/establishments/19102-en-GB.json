@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6478411",
+    "Longitude": "-3.3191615"
+  },
   "AddressLine1": "202 - 204 High Street  Elgin  Moray",
   "PostCode": "IV30 1BA",
   "SchemeType": "FHIS",

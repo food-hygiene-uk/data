@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1735217",
+    "Longitude": "0.1360475"
+  },
   "AddressLine1": "Royal Papworth Hospital Papworth Road",
   "AddressLine2": "Cambridge Biomedical Campus",
   "AddressLine3": "Cambridge",

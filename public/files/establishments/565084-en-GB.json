@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.984783",
+    "Longitude": "-2.948501"
+  },
   "AddressLine1": "Orkney College",
   "AddressLine2": "East Road",
   "AddressLine3": "Kirkwall",

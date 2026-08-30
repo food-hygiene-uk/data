@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.981255",
+    "Longitude": "-2.950753"
+  },
   "AddressLine1": "Papdale Primary School",
   "AddressLine2": "Willow Road",
   "AddressLine3": "Kirkwall",

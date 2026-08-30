@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.982164",
+    "Longitude": "-2.958972"
+  },
   "AddressLine2": "7 Strynd",
   "AddressLine3": "Kirkwall",
   "PostCode": "KW15 1HG",

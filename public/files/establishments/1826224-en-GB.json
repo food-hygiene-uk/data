@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.3959725",
@@ -16,12 +16,12 @@
   "AddressLine1": "Manor Inn  2 Stoke Gabriel Road Galmpton Brixham",
   "PostCode": "TQ5 0NL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

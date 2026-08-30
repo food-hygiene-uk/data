@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2142379",
+    "Longitude": "0.098958"
+  },
   "AddressLine1": "Moller Building Churchill College Storeys Way",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

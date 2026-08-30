@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "893",
   "LocalAuthorityName": "Southend-On-Sea",
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
   "Geocode": null,
   "AddressLine1": "Toulouse Restaurant",
@@ -16,8 +16,12 @@
   "AddressLine4": "Essex",
   "PostCode": "SS0 8FE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8871233",
+    "Longitude": "-4.8384519"
+  },
   "AddressLine2": "c/o Mrs Bond",
   "AddressLine3": "17 Glenspean Park",
   "AddressLine4": "Roy Bridge",

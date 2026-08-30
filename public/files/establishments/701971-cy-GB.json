@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.149805",
+    "Longitude": "-3.413209"
+  },
   "AddressLine1": "Garth Road",
   "AddressLine2": "Builth Wells",
   "AddressLine3": "Powys",

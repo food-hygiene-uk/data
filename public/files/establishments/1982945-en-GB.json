@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5469081",
+    "Longitude": "-3.4937793"
+  },
   "AddressLine1": "11 Regent Street Teignmouth",
   "PostCode": "TQ14 8SJ",
   "SchemeType": "FHRS",

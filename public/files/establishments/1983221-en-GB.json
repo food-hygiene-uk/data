@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4175302",
+    "Longitude": "-6.1935175"
+  },
   "AddressLine1": "Four Winds",
   "AddressLine2": "Stormy Hill Road",
   "AddressLine3": "Portree",

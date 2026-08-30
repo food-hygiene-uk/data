@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.59355291",
+    "Longitude": "-3.52190722"
+  },
   "AddressLine2": "Sir George Street",
   "AddressLine3": "Thurso",
   "SchemeType": "FHIS",

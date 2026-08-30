@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.964055",
+    "Longitude": "-3.295531"
+  },
   "AddressLine1": "Serco Northlink Ferries Terminal Building",
   "AddressLine2": "Ferry Road",
   "AddressLine3": "Stromness",

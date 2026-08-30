@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.987637",
+    "Longitude": "-2.953556"
+  },
   "AddressLine1": "Benmora",
   "AddressLine2": "Cromwell Road",
   "AddressLine3": "Kirkwall",

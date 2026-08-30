@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.957739",
+    "Longitude": "-5.836871"
+  },
   "AddressLine1": "The Gatehouse",
   "AddressLine3": "Tougal",
   "AddressLine4": "Morar",

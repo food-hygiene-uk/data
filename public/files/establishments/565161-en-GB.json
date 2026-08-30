@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.82455",
+    "Longitude": "-2.964364"
+  },
   "AddressLine1": "Hope Primary School",
   "AddressLine2": "School Road",
   "AddressLine3": "St Margarets Hope",

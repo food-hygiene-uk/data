@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.1532565",
+    "Longitude": "-5.250718"
+  },
   "AddressLine1": "Davar",
   "AddressLine2": "Baddidarroch",
   "AddressLine3": "Lochinver",

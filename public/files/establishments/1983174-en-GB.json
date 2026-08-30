@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5881998",
+    "Longitude": "-3.89079455"
+  },
   "AddressLine2": "Seabank Road",
   "AddressLine3": "Nairn",
   "AddressLine4": "Highland",

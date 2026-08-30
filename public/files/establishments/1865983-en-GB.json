@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7814716",
+    "Longitude": "-1.1984856"
+  },
   "AddressLine1": "Unit 4a Falcon Industrial Park",
   "AddressLine2": "Meadow Lane",
   "AddressLine4": "Loughborough",

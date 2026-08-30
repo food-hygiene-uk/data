@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.708325",
+    "Longitude": "-1.138969"
+  },
   "AddressLine2": "20 Woodgate",
   "AddressLine4": "Rothley",
   "PostCode": "LE7 7LJ",

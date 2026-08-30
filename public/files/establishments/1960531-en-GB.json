@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7601",
+    "Longitude": "-1.293175"
+  },
   "AddressLine2": "Ashby Road Central",
   "AddressLine4": "Shepshed",
   "PostCode": "LE12 9BE",

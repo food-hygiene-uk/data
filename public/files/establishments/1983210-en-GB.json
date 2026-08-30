@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.2732166",
+    "Longitude": "-5.7363114"
+  },
   "AddressLine2": "16 Kyleside",
   "AddressLine3": "Kyleakin",
   "AddressLine4": "Isle Of Skye",

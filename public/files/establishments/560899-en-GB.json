@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.835731",
+    "Longitude": "-6.228047"
+  },
   "AddressLine1": "The Square",
   "AddressLine3": "Isle Of Muck Mallaig",
   "AddressLine4": "Inverness-Shire",

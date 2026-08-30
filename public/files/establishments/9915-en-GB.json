@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.583085",
+    "Longitude": "-3.490796"
+  },
   "AddressLine1": "The Rise Dawlish Devon",
   "PostCode": "EX7 0QL",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5597235",
+    "Longitude": "-2.5909565"
+  },
   "AddressLine1": "55 Keptie Street Arbroath",
   "PostCode": "DD11 3AQ",
   "SchemeType": "FHIS",

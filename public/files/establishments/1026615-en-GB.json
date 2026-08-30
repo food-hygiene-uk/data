@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4200553894043",
+    "Longitude": "-6.19805383682251"
+  },
   "AddressLine2": "3 Cearn Romasdail",
   "AddressLine3": "Portree",
   "AddressLine4": "Highland",

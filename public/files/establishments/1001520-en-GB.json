@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.731804",
+    "Longitude": "-1.109421"
+  },
   "AddressLine2": "8 King Street",
   "AddressLine4": "Sileby",
   "PostCode": "LE12 7NA",

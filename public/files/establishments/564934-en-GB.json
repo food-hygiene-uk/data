@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.0322952270508",
+    "Longitude": "-2.90928506851196"
+  },
   "AddressLine1": "Shoreside",
   "AddressLine3": "Shapinsay",
   "PostCode": "KW17 2DX",

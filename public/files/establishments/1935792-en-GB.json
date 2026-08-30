@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.0847804",
+    "Longitude": "-4.0452658"
+  },
   "AddressLine2": "36 Dunbarry Terrace",
   "AddressLine3": "Kingussie",
   "AddressLine4": "Highland",

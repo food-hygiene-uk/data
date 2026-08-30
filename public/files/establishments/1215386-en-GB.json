@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.988512",
+    "Longitude": "-1.494125"
+  },
   "AddressLine1": "123 The Hundred",
   "AddressLine2": "Romsey",
   "AddressLine3": "Hampshire",

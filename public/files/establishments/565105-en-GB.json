@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.982809",
+    "Longitude": "-2.959129"
+  },
   "AddressLine2": "38 Albert Street",
   "AddressLine3": "Kirkwall",
   "PostCode": "KW15 1HQ",

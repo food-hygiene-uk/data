@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2085057",
+    "Longitude": "-1.4808589"
+  },
   "AddressLine1": "71 Chantry Way",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",

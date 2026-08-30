@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4883271",
+    "Longitude": "-4.2161324"
+  },
   "AddressLine1": "William Hay & Sons (Aberdeen)",
   "AddressLine2": "20 Seafield Road",
   "AddressLine3": "Inverness",

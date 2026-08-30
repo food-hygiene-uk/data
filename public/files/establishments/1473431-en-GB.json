@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2125244",
+    "Longitude": "0.118375"
+  },
   "AddressLine1": "29 Chesterton Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.771685",
+    "Longitude": "-1.288096"
+  },
   "AddressLine2": "14-16 The Lant",
   "AddressLine4": "Shepshed",
   "PostCode": "LE12 9PD",

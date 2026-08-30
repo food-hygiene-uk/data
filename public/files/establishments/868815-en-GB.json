@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.736688",
+    "Longitude": "-1.100331"
+  },
   "AddressLine1": "Highgate Primary School",
   "AddressLine2": "Heathcote Drive",
   "AddressLine4": "Sileby",

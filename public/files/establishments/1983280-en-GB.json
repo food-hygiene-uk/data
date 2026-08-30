@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.910267",
+    "Longitude": "-5.8434446"
+  },
   "AddressLine1": "3 Clanranald Place",
   "AddressLine3": "Arisaig",
   "AddressLine4": "Highland",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.142655",
+    "Longitude": "-3.2345266"
+  },
   "AddressLine1": "Swannay Brewery",
   "AddressLine3": "Birsay",
   "PostCode": "KW17 2NP",

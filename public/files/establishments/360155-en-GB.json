@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.816918",
+    "Longitude": "-5.112624"
+  },
   "AddressLine1": "The Granite House",
   "AddressLine2": "74 High Street",
   "AddressLine3": "Fort William",

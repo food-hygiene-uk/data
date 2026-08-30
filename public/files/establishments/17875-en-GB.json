@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6904849",
+    "Longitude": "-2.8207278"
+  },
   "AddressLine1": "12 Grant Street  Cullen  Buckie  Moray",
   "PostCode": "AB56 4RS",
   "SchemeType": "FHIS",

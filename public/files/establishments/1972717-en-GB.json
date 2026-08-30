@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.6259391",
+    "Longitude": "-3.4471236"
+  },
   "AddressLine1": "The Galleon Inn The Strand Starcross",
   "PostCode": "EX6 8PR",
   "SchemeType": "FHRS",

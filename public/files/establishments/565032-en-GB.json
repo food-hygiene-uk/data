@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.069203",
+    "Longitude": "-3.309538"
+  },
   "AddressLine1": "The Orkney Brewery",
   "AddressLine2": "Quoyloo Road",
   "AddressLine3": "Sandwick",

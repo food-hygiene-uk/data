@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.175584",
+    "Longitude": "0.1335366"
+  },
   "AddressLine1": "Builders Compound Francis Crick Avenue",
   "AddressLine2": "Cambridge Biomedical Campus",
   "AddressLine3": "Cambridge",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4910376",
+    "Longitude": "-3.6286579"
+  },
   "AddressLine1": "Parkhill Cross Service Station Totnes Road Ipplepen",
   "PostCode": "TQ12 5TN",
   "SchemeType": "FHRS",

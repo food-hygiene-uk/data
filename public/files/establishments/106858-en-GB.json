@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.780658",
+    "Longitude": "-1.200937"
+  },
   "AddressLine1": "Unit 16 Meadow Rd Ind Est",
   "AddressLine2": "Gordon Road",
   "AddressLine4": "Loughborough",

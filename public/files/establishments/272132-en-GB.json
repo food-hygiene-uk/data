@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
   "Geocode": null,
   "AddressLine1": "Red Lion Farm House",
@@ -15,12 +15,12 @@
   "AddressLine3": "Watlington Oxon",
   "PostCode": "OX49 5LG",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-28",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

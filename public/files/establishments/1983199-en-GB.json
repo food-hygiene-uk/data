@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4867816",
+    "Longitude": "-4.2390134"
+  },
   "AddressLine2": "1 Wyvis Place",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

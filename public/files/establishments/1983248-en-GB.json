@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.485",
+    "Longitude": "-4.254722"
+  },
   "AddressLine2": "Muirtown Basin",
   "AddressLine3": "Inverness",
   "SchemeType": "FHIS",

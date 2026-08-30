@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.109748",
+    "Longitude": "-3.324321"
+  },
   "AddressLine1": "Birsay Community Hall",
   "AddressLine2": "Community Centre Road",
   "AddressLine3": "Birsay",

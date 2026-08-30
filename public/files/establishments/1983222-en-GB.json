@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.410713",
+    "Longitude": "-6.201266"
+  },
   "AddressLine1": "Grianan",
   "AddressLine2": "Viewfield Road",
   "AddressLine3": "Portree",

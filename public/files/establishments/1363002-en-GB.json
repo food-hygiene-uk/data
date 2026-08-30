@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6887335",
+    "Longitude": "-4.1618916"
+  },
   "AddressLine2": "140 High Street",
   "AddressLine3": "Invergordon",
   "AddressLine4": "Ross-Shire",

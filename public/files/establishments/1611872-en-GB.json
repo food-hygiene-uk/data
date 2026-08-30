@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.48434748",
+    "Longitude": "-4.14880982"
+  },
   "AddressLine2": "3a4 Smithton Industrial Estate Inverness",
   "PostCode": "IV2 7WL",
   "SchemeType": "FHIS",

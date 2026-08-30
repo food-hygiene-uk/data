@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7167274",
+    "Longitude": "-5.5626659"
+  },
   "AddressLine2": "Upper Scotstown",
   "AddressLine3": "Strontian",
   "PostCode": "PH36 4JB",

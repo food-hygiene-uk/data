@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5297",
+    "Longitude": "-3.6116"
+  },
   "AddressLine1": "10 Courtenay Street Newton Abbot",
   "PostCode": "TQ12 2DT",
   "SchemeType": "FHRS",

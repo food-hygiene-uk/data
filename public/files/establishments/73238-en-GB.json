@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.672043",
+    "Longitude": "-1.188841"
+  },
   "AddressLine2": "59 Bradgate Road",
   "AddressLine4": "Anstey",
   "PostCode": "LE7 7AB",

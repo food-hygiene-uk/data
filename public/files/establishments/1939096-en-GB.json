@@ -1,26 +1,27 @@
 {
   "FHRSID": 1939096,
   "BusinessName": "Greggs",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "FR/000007170",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "297",
   "LocalAuthorityName": "Babergh",
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.004972",
-    "Longitude": "1.05784"
-  },
+  "Geocode": null,
   "AddressLine1": "Capelgate Filling Station",
   "AddressLine2": "London Road",
   "AddressLine3": "Capel St Mary",
   "AddressLine4": "IPSWICH",
   "PostCode": "IP9 2JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "420",
   "LocalAuthorityName": "Rotherham",
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
   "Geocode": {
     "Latitude": "53.5035215",
@@ -18,12 +18,12 @@
   "AddressLine4": "Rotherham",
   "PostCode": "S63 6PU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

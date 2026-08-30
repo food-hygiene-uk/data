@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.774653",
+    "Longitude": "-1.200869"
+  },
   "AddressLine2": "45 Nottingham Road",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 1ER",

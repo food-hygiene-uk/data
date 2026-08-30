@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.8251876831055",
+    "Longitude": "-2.96104001998901"
+  },
   "AddressLine1": "The Cromarty Hall",
   "AddressLine2": "Cromarty Square",
   "AddressLine3": "St Margarets Hope",

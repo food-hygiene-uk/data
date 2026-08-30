@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2206249",
+    "Longitude": "0.111411"
+  },
   "AddressLine1": "189 Histon Road",
   "AddressLine3": "Cambridge",
   "AddressLine4": "Cambridgeshire",

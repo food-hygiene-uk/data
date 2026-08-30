@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.44144864",
+    "Longitude": "-3.0923882"
+  },
   "AddressLine2": "Victoria Place",
   "AddressLine3": "Wick",
   "AddressLine4": "Caithness",

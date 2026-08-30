@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.677013",
+    "Longitude": "-1.119306"
+  },
   "AddressLine2": "Wanlip Lane",
   "AddressLine4": "Birstall",
   "PostCode": "LE4 4JS",

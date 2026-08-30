@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7722313",
+    "Longitude": "-1.2061466"
+  },
   "AddressLine2": "19-21 Market Place",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 3EB",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.84548",
+    "Longitude": "-2.914485"
+  },
   "AddressLine1": "Burray Primary School",
   "AddressLine2": "Westshore Road",
   "AddressLine3": "Burray Village",

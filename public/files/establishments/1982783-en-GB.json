@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1787499",
+    "Longitude": "0.12029"
+  },
   "AddressLine1": "83 Clay Farm Drive",
   "AddressLine2": "Trumpington",
   "AddressLine3": "Cambridge",

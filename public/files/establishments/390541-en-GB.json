@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "894",
   "LocalAuthorityName": "Thurrock",
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
   "Geocode": {
     "Latitude": "51.503738",
@@ -19,12 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "RM15 5QZ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

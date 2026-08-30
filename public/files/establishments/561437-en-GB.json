@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.006156",
+    "Longitude": "-5.830194"
+  },
   "AddressLine2": "Mallaig Harvest Station",
   "AddressLine3": "Mallaig",
   "PostCode": "PH41 4PX",

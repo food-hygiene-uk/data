@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.817667",
+    "Longitude": "-5.112129"
+  },
   "AddressLine2": "Millhouse",
   "AddressLine3": "67 High Street",
   "AddressLine4": "Fort William",

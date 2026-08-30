@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.769034",
+    "Longitude": "-1.207479"
+  },
   "AddressLine2": "58 Wards End",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 3HB",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.336073",
+    "Longitude": "-2.972955"
+  },
   "AddressLine1": "Wheeling Steen Gallery",
   "AddressLine2": "Aikerness Road",
   "AddressLine3": "Westray",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.477074",
+    "Longitude": "-4.226365"
+  },
   "AddressLine2": "19 -21 Bridge Street",
   "AddressLine3": "Inverness",
   "PostCode": "IV1 1HG",

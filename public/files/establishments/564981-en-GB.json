@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.98483",
+    "Longitude": "-2.957845"
+  },
   "AddressLine1": "2 Shore Street Offices",
   "AddressLine2": "Shore Street",
   "AddressLine3": "Kirkwall",

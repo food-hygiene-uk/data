@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9887816",
+    "Longitude": "-1.4999418"
+  },
   "AddressLine1": "Town Hall",
   "AddressLine2": "1 Market Place",
   "AddressLine3": "Romsey",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.9049759",
+    "Longitude": "-5.1622205"
+  },
   "AddressLine2": "3 Vyner Place",
   "AddressLine3": "Ullapool",
   "AddressLine4": "Highland",

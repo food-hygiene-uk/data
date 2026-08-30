@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.254109",
+    "Longitude": "-2.599481"
+  },
   "AddressLine1": "Ayres Rock Takeaway",
   "AddressLine2": "Coo Road",
   "AddressLine3": "Sanday",

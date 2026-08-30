@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.773345",
+    "Longitude": "-1.205474"
+  },
   "AddressLine2": "6 Church Gate",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 1UD",

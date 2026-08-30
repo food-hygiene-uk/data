@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.963663",
+    "Longitude": "-2.995825"
+  },
   "AddressLine1": "Scapa House",
   "AddressLine3": "St Ola",
   "PostCode": "KW15 1SE",

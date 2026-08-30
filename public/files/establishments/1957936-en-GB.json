@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5524093",
-    "Longitude": "-0.0854762"
-  },
-  "AddressLine2": "Flat 6 Holland House 42 Newington Green London",
-  "AddressLine3": "Hackney",
-  "AddressLine4": "London",
-  "PostCode": "N16 9PQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

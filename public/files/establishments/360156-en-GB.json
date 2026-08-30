@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8154373168945",
+    "Longitude": "-5.11541843414307"
+  },
   "AddressLine2": "Fort William",
   "PostCode": "PH33 6EE",
   "SchemeType": "FHIS",

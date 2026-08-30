@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.766317",
+    "Longitude": "-1.199051"
+  },
   "AddressLine2": "164 Leicester Road",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 2AQ",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.89725503",
+    "Longitude": "-5.15534944"
+  },
   "AddressLine2": "Mill Street",
   "AddressLine3": "Ullapool",
   "AddressLine4": "Highland",

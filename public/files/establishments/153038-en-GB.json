@@ -7,23 +7,22 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
   "Geocode": {
-    "Latitude": "52.771436",
-    "Longitude": "-1.559098"
+    "Latitude": "52.7712099",
+    "Longitude": "-1.5588581"
   },
-  "AddressLine1": "50 Alexandra Road",
-  "AddressLine2": "Swadlincote",
-  "AddressLine3": "Derbyshire",
+  "AddressLine1": "50 ALEXANDRA ROAD",
+  "AddressLine3": "SWADLINCOTE",
   "PostCode": "DE11 9AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 25,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

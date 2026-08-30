@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.973725",
+    "Longitude": "-3.29031"
+  },
   "AddressLine1": "Burnside",
   "AddressLine2": "North End Road",
   "AddressLine3": "Stromness",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6047839",
+    "Longitude": "-4.4357565"
+  },
   "AddressLine2": "5 Munro Place",
   "AddressLine3": "Dingwall",
   "AddressLine4": "Highland",

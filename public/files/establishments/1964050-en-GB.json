@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.338062286377",
-    "Longitude": "-0.11625300347805"
-  },
+  "Geocode": null,
   "AddressLine1": "17 Purley Road",
   "AddressLine2": "Purley",
   "PostCode": "CR8 2HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

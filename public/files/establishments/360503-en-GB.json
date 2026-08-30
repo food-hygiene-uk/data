@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.583925",
+    "Longitude": "-3.869651"
+  },
   "AddressLine1": "Stafford House Hotel",
   "AddressLine2": "High Street",
   "AddressLine3": "Nairn",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4892992",
+    "Longitude": "-3.6285955"
+  },
   "AddressLine1": "Buttlands Industrial Estate Totnes Road Ipplepen",
   "PostCode": "TQ12 5UE",
   "SchemeType": "FHRS",

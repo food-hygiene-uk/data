@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.809767",
+    "Longitude": "-5.1200932"
+  },
   "AddressLine1": "Trencrom",
   "AddressLine2": "Lundavra Road",
   "AddressLine3": "Fort William",

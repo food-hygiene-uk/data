@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": {
     "Latitude": "53.99452",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-19",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

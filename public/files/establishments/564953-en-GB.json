@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.969889",
+    "Longitude": "-3.289628"
+  },
   "AddressLine1": "Asgard",
   "AddressLine2": "Cairston Road",
   "AddressLine3": "Stromness",

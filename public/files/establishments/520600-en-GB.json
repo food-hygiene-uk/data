@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "517",
   "LocalAuthorityName": "Hillingdon",
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
   "Geocode": {
     "Latitude": "51.5116767883301",
@@ -18,12 +18,12 @@
   "AddressLine4": "Hayes",
   "PostCode": "UB3 3HG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-27",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 20,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

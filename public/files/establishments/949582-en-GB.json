@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.824782",
+    "Longitude": "-2.956058"
+  },
   "AddressLine1": "Robertson And Sons",
   "AddressLine2": "Church Road",
   "AddressLine3": "St Margarets Hope",

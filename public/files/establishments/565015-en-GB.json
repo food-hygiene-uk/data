@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.0684776306152",
+    "Longitude": "-3.23255705833435"
+  },
   "AddressLine1": "Smithfield Hotel",
   "AddressLine2": "Hillside Road",
   "AddressLine3": "Dounby",

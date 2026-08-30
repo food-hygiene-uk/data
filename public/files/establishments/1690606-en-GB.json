@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5074002",
+    "Longitude": "-4.2663367"
+  },
   "AddressLine1": "16",
   "AddressLine2": "Barclay Gardens",
   "AddressLine4": "North Kessock",

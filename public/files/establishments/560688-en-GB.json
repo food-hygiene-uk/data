@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.594491",
+    "Longitude": "-3.520291"
+  },
   "AddressLine2": "13 Traill Street",
   "AddressLine3": "Thurso",
   "PostCode": "KW14 8EJ",

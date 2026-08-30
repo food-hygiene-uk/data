@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6887109",
+    "Longitude": "-2.8671648"
+  },
   "AddressLine1": "Smiddy Cottage  Buckie  Moray",
   "PostCode": "AB56 4DY",
   "SchemeType": "FHIS",

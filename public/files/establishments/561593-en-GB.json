@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.91115",
+    "Longitude": "-5.841979"
+  },
   "AddressLine2": "Mid Road",
   "AddressLine3": "Arisaig",
   "PostCode": "PH39 4NJ",

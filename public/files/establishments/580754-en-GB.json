@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.975989",
+    "Longitude": "-2.969254"
+  },
   "AddressLine1": "Gilbertson Day Centre",
   "AddressLine2": "Old Scapa Road",
   "AddressLine3": "Kirkwall",

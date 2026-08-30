@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.56345",
+    "Longitude": "-4.436059"
+  },
   "AddressLine2": "Station Road",
   "AddressLine3": "Conon Bridge",
   "AddressLine4": "Dingwall",

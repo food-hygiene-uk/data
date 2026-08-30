@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5563545227051",
+    "Longitude": "-3.64393258094788"
+  },
   "AddressLine1": "Stover Country Park Stover Devon",
   "PostCode": "TQ12 6QG",
   "SchemeType": "FHRS",

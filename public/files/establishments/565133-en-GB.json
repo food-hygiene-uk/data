@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.159622",
+    "Longitude": "-2.984657"
+  },
   "AddressLine1": "Rousay Primary School",
   "AddressLine3": "Rousay",
   "PostCode": "KW17 2PR",

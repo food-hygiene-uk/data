@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.821865",
+    "Longitude": "-5.09734905"
+  },
   "AddressLine2": "Belford Road",
   "AddressLine3": "Fort William",
   "AddressLine4": "Highland",

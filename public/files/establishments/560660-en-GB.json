@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.483665",
+    "Longitude": "-4.459121"
+  },
   "AddressLine2": "3 The Square",
   "AddressLine3": "Beauly",
   "AddressLine4": "Highland",

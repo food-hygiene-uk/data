@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.956316",
+    "Longitude": "-3.013223"
+  },
   "AddressLine1": "Foveran Hotel",
   "AddressLine3": "Scapa Brae",
   "AddressLine4": "St Ola",

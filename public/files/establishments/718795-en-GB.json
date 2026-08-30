@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.983598",
+    "Longitude": "-2.958211"
+  },
   "AddressLine1": "The Brig Larder",
   "AddressLine2": "1 Albert Street",
   "AddressLine3": "Kirkwall",

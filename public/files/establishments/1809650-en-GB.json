@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6782321",
+    "Longitude": "-1.1224708"
+  },
   "AddressLine2": "79 Sibson Road",
   "AddressLine4": "Birstall",
   "PostCode": "LE4 4DX",

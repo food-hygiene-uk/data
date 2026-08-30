@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.25616",
+    "Longitude": "-2.574862"
+  },
   "AddressLine1": "Sanday Community School",
   "AddressLine2": "School Road",
   "AddressLine3": "Sanday",

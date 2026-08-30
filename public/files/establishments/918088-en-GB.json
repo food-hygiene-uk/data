@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.033699",
+    "Longitude": "-2.857348"
+  },
   "AddressLine1": "North Church",
   "AddressLine2": "Brecks Road",
   "AddressLine3": "Shapinsay",

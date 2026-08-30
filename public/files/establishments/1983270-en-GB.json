@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4798349",
+    "Longitude": "-4.2380543"
+  },
   "AddressLine2": "3 Harrowden Road",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "59.128991",
+    "Longitude": "-3.315839"
+  },
   "AddressLine1": "Birsay Bay Tearoom",
   "AddressLine2": "Linkshouse Road",
   "AddressLine3": "The Palace",

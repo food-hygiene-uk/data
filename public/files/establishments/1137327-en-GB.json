@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9802591",
+    "Longitude": "-2.9594582"
+  },
   "AddressLine1": "Bishops And Earls Palaces",
   "AddressLine2": "Watergate",
   "AddressLine3": "Kirkwall",

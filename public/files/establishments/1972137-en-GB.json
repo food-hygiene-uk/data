@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6469763",
+    "Longitude": "-3.3202527"
+  },
   "AddressLine1": "Highfield House  Northfield Terrace  Elgin  Moray",
   "PostCode": "IV30 1NE",
   "SchemeType": "FHIS",

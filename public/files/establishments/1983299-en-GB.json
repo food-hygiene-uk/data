@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.3217766",
+    "Longitude": "-3.6225392"
+  },
   "AddressLine1": "Slaughterhouse",
   "AddressLine2": "Strathspey Industrial Estate",
   "AddressLine3": "Woodlands Terrace",

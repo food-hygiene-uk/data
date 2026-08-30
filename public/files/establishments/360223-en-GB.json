@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.831784",
+    "Longitude": "-5.077179"
+  },
   "AddressLine2": "North Road",
   "AddressLine3": "Fort William",
   "AddressLine4": "Highland",

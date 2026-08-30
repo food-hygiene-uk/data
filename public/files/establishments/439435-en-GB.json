@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.989061",
+    "Longitude": "-1.498308"
+  },
   "AddressLine1": "Oxfam",
   "AddressLine2": "12 The Hundred",
   "AddressLine3": "Romsey",

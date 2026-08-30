@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.9179844",
+    "Longitude": "-3.1816754"
+  },
   "AddressLine1": "Orkneylodge",
   "AddressLine2": "Houton Road",
   "AddressLine3": "Orphir",

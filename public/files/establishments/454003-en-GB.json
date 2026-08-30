@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5530776977539",
+    "Longitude": "-4.05023002624512"
+  },
   "AddressLine1": "Connage Highland Dairy",
   "AddressLine3": "Ardersier",
   "AddressLine4": "Inverness",

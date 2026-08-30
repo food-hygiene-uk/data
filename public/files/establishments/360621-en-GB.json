@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.84261",
+    "Longitude": "-4.178134"
+  },
   "AddressLine2": "Balblair Distillery",
   "AddressLine3": "Edderton",
   "AddressLine4": "Tain Ross-Shire",

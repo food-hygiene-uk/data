@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.orkney.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@orkney.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.799162",
+    "Longitude": "-3.200717"
+  },
   "AddressLine1": "Anchorfast Buildings",
   "AddressLine2": "Pier Road",
   "AddressLine3": "Longhope",

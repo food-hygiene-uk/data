@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5821732",
+    "Longitude": "-3.90270761"
+  },
   "AddressLine2": "Sandown Farm Lane",
   "AddressLine3": "Nairn",
   "AddressLine4": "Highland",
