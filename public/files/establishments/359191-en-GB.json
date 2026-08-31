@@ -1,24 +1,29 @@
 {
   "FHRSID": 359191,
-  "BusinessName": "LK Food and Wine Ltd",
+  "BusinessName": "KING OF DRINKS",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "15278",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
-    "Latitude": "51.892475",
-    "Longitude": "-0.407504"
+    "Latitude": "51.8924829",
+    "Longitude": "-0.4075104"
   },
-  "AddressLine2": "105 Stockingstone Road",
+  "AddressLine1": "KING OF DRINKS",
+  "AddressLine2": "105-107 Stockingstone Road",
   "AddressLine4": "Luton",
   "PostCode": "LU2 7NE",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-07-25",
-  "Scores": null
+  "RatingDate": "2026-07-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4506175",
-    "Longitude": "0.0583302"
-  },
+  "Geocode": null,
   "AddressLine1": "6 - 8 Arcade Chambers Eltham High Street",
   "AddressLine3": "Eltham",
   "AddressLine4": "Greenwich",
   "PostCode": "SE9 1BG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

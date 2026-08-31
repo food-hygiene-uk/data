@@ -7,16 +7,23 @@
   "LocalAuthorityCode": "298",
   "LocalAuthorityName": "West Suffolk",
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2456817626953",
+    "Longitude": "0.408499985933304"
+  },
+  "AddressLine1": "7 Exeter Road",
+  "AddressLine2": "Newmarket",
+  "AddressLine3": "Suffolk",
+  "PostCode": "CB8 8FP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

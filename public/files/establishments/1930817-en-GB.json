@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": {
-    "Latitude": "51.493205",
-    "Longitude": "0.0820911"
-  },
+  "Geocode": null,
   "AddressLine1": "1C Goosander Way",
   "AddressLine3": "Thamesmead",
   "AddressLine4": "Greenwich",
   "PostCode": "SE28 0ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

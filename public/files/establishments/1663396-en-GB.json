@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": {
     "Latitude": "51.4636095",
@@ -17,12 +17,12 @@
   "AddressLine2": "Reading",
   "PostCode": "RG1 8NQ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-25",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }
