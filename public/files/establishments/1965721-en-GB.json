@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6600836",
-    "Longitude": "-0.1350207"
-  },
+  "Geocode": null,
   "AddressLine1": "TRENT PARK HOUSE OF SECRETS CAFE",
   "AddressLine2": "Trent Park House",
   "AddressLine3": "13 Daffodil Crescent",
   "AddressLine4": "BARNET",
   "PostCode": "EN4 0BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

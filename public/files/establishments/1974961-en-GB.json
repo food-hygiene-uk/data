@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6451571",
-    "Longitude": "-0.1266534"
-  },
+  "Geocode": null,
   "AddressLine1": "St Thomas Oakwood  Community Cafe",
   "AddressLine2": "St Thomas Church Oakwood Hall",
   "AddressLine3": "Prince George Avenue",
   "AddressLine4": "LONDON",
   "PostCode": "N14 4UE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
