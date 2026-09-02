@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7561383",
-    "Longitude": "-1.8025033"
-  },
+  "Geocode": null,
   "AddressLine2": "1-2 Marlow Drive",
   "AddressLine3": "Christchurch",
   "PostCode": "BH23 2RR",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-09-27",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-03-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

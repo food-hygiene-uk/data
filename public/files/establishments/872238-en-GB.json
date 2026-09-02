@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.784511",
-    "Longitude": "0.134788"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Garden Terrace Road",
   "AddressLine2": "Old Harlow",
   "AddressLine3": "Essex",
   "PostCode": "CM17 0AT",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-20",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

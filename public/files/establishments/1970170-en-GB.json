@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2355852",
+    "Longitude": "-1.4397167"
+  },
   "AddressLine1": "35 Chatsworth Road",
   "AddressLine4": "Chesterfield",
   "SchemeType": "FHRS",

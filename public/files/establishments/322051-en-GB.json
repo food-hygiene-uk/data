@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.829185",
-    "Longitude": "-1.567173"
-  },
+  "Geocode": null,
   "AddressLine1": "58 Green Road",
   "AddressLine2": "Meanwood",
   "AddressLine3": "Leeds",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-29",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

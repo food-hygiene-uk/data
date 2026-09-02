@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4913919",
-    "Longitude": "-0.057466"
-  },
+  "Geocode": null,
   "AddressLine2": "34",
   "AddressLine3": "Raymouth Road",
   "AddressLine4": "London",
   "PostCode": "SE16 2DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1940426,
-  "BusinessName": "Balamurugan Packrisami",
+  "BusinessName": "ShopnDrive @ Rontec Prees Heath",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9104146",
   "BusinessTypeID": 4613,
@@ -16,8 +16,12 @@
   "AddressLine4": "Shropshire",
   "PostCode": "SY13 3JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.204948",
-    "Longitude": "-6.523433"
-  },
+  "Geocode": null,
   "AddressLine1": "127 Main Street",
   "AddressLine2": "Magheraboy Or Bushmills",
   "AddressLine3": "Bushmills",
   "AddressLine4": "Antrim",
   "PostCode": "BT57 8QB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

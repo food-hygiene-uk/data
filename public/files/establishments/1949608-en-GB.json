@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
-  "Geocode": {
-    "Latitude": "54.66208",
-    "Longitude": "-5.6719961"
-  },
+  "Geocode": null,
   "AddressLine1": "19 Grays Hill",
   "AddressLine3": "Bangor",
   "PostCode": "BT20 3BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

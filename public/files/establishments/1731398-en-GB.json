@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
   "Geocode": {
     "Latitude": "50.372565",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "0",
   "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-12-01",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 20,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }

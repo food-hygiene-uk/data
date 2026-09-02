@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2715127",
-    "Longitude": "-2.9207086"
-  },
+  "Geocode": null,
   "AddressLine1": "Morrisons Local Bp Overpool Road",
   "AddressLine2": "Great Sutton",
   "AddressLine3": "Ellesmere Port",
   "AddressLine4": "Cheshire",
   "PostCode": "CH66 2JF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

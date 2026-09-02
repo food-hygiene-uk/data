@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1583649",
-    "Longitude": "-0.4585695"
-  },
+  "Geocode": null,
   "AddressLine1": "20 AVON DRIVE",
   "AddressLine3": "BEDFORD",
   "PostCode": "MK41 7AF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

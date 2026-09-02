@@ -9,17 +9,13 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8156635",
-    "Longitude": "-1.0799743"
-  },
-  "AddressLine1": "Shop 81B To 81C",
-  "AddressLine2": "London Road",
-  "AddressLine3": "Portsmouth",
+  "Geocode": null,
+  "AddressLine1": "81B - 81C London Road",
+  "AddressLine2": "Portsmouth",
   "PostCode": "PO2 0BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

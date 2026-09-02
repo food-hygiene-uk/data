@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1337836",
-    "Longitude": "-0.4850456"
-  },
+  "Geocode": null,
   "AddressLine1": "77-81 IDDESLEIGH ROAD",
   "AddressLine3": "BEDFORD",
   "PostCode": "MK40 4LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2021-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9323757",
-    "Longitude": "-1.5307581"
-  },
+  "Geocode": null,
   "AddressLine1": "TATCHBURY MOUNT HOSPITAL",
   "AddressLine2": "HORSESHOE DRIVE",
   "AddressLine3": "TATCHBURY MOUNT",
@@ -24,7 +21,7 @@
   "RatingDate": "2026-07-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

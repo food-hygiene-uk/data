@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6507557",
-    "Longitude": "1.1313818"
-  },
+  "Geocode": null,
   "AddressLine1": "Broadland Food Innovation Centre",
   "AddressLine2": "Enterprise Way",
   "AddressLine3": "Honingham",
   "AddressLine4": "Norfolk",
   "PostCode": "NR9 5FX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

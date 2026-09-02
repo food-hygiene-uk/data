@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9004698",
-    "Longitude": "-2.0742432"
-  },
+  "Geocode": null,
   "AddressLine1": "166 - 168 High Street",
   "AddressLine2": "Cheltenham",
   "AddressLine3": "Gloucestershire",
   "PostCode": "GL50 1EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

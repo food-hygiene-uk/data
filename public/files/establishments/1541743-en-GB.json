@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "55.017364",
-    "Longitude": "-1.424908"
-  },
+  "Geocode": null,
   "AddressLine1": "69 Front Street",
   "AddressLine2": "Tynemouth",
   "AddressLine3": "Tyne And Wear",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-01",
+  "RatingDate": "2026-08-10",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

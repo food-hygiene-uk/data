@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.265253",
+    "Longitude": "-1.345428"
+  },
   "AddressLine1": "16/17 Fan Road",
   "AddressLine4": "Chesterfield",
   "SchemeType": "FHRS",

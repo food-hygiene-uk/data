@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.760217",
-    "Longitude": "-1.54356"
-  },
+  "Geocode": null,
   "AddressLine1": "LYMINGTON BAPTIST CHURCH",
   "AddressLine2": "NEW STREET",
   "AddressLine3": "LYMINGTON",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-13",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

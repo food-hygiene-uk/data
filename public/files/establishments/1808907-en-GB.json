@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8555297851563",
-    "Longitude": "-2.17813801765442"
-  },
+  "Geocode": null,
   "AddressLine1": "82 Albert Road",
   "AddressLine2": "Colne",
   "AddressLine3": "Lancashire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-05-01",
-  "Scores": null
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

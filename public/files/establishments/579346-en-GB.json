@@ -1,6 +1,6 @@
 {
   "FHRSID": 579346,
-  "BusinessName": "LE BLAIREAU BAR AND BISTRO",
+  "BusinessName": "KASI",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "27",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.820789",
-    "Longitude": "-1.571505"
-  },
+  "Geocode": null,
   "AddressLine1": "LYNDHURST ROAD",
   "AddressLine2": "BROCKENHURST",
   "PostCode": "SO42 7RH",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-01-23",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

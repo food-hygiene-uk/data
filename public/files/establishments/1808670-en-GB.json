@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.rother.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rother.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9682145",
-    "Longitude": "0.4782804"
-  },
+  "Geocode": null,
   "AddressLine1": "Route 1066 Cafe Johns Cross Road",
   "AddressLine3": "Johns Cross",
   "AddressLine4": "East Sussex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-03",
-  "Scores": null
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

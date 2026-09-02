@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8868907",
-    "Longitude": "0.9035846"
-  },
+  "Geocode": null,
   "AddressLine1": "30 St Botolphs Street",
   "AddressLine2": "Colchester",
   "AddressLine3": "Essex",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-12",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

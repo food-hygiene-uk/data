@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": {
-    "Latitude": "54.1015566",
-    "Longitude": "-6.198757"
-  },
+  "Geocode": null,
   "AddressLine1": "20 The Square",
   "AddressLine2": "Rosstrevor",
   "AddressLine3": "Rostrevor",
   "AddressLine4": "Down",
   "PostCode": "BT34 3AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

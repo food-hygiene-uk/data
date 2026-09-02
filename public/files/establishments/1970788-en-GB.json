@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6122573",
-    "Longitude": "0.520793"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Ladygate Centre",
   "AddressLine2": "High Street",
   "AddressLine3": "Wickford",
   "AddressLine4": "Essex",
   "PostCode": "SS12 9AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5373439",
-    "Longitude": "-0.9043246"
-  },
+  "Geocode": null,
   "AddressLine1": "1-3 Duke Street",
   "AddressLine2": "Henley-On-Thames",
   "AddressLine3": "Oxon",
   "PostCode": "RG9 1UR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-05-26",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

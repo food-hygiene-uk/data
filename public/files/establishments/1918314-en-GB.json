@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6134666",
-    "Longitude": "0.520181"
-  },
+  "Geocode": null,
   "AddressLine1": "2A Willowdale Centre",
   "AddressLine2": "High Street",
   "AddressLine3": "Wickford",
   "AddressLine4": "Essex",
   "PostCode": "SS12 0RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2023445",
-    "Longitude": "-3.5784429"
-  },
+  "Geocode": null,
   "AddressLine1": "Burrowhayes Caravan Park West Luccombe Road",
   "AddressLine2": "Luccombe",
   "AddressLine3": "Minehead",
   "AddressLine4": "Somerset",
   "PostCode": "TA24 8HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-09-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

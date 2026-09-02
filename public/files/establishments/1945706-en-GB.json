@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5652079",
-    "Longitude": "-2.0192102"
-  },
+  "Geocode": null,
   "AddressLine1": "Saddleworth Business Centre",
   "AddressLine2": "Huddersfield Road",
   "AddressLine3": "Delph",
   "AddressLine4": "Oldham",
   "PostCode": "OL3 5DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

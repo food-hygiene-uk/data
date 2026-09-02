@@ -9,20 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5645755",
-    "Longitude": "-0.0696627"
-  },
+  "Geocode": null,
+  "AddressLine1": "T/A café delight",
   "AddressLine2": "123-125 Pasture Street",
   "AddressLine4": "Grimsby",
   "PostCode": "DN32 9EE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2025-11-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

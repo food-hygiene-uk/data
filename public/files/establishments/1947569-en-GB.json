@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bedford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehadmin@bedford.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1776134",
-    "Longitude": "-0.3157213"
-  },
+  "Geocode": null,
   "AddressLine1": "THE ROYAL OAK 33 HIGH STREET",
   "AddressLine3": "ROXTON",
-  "AddressLine4": "BEDFORD",
   "PostCode": "MK44 3EA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

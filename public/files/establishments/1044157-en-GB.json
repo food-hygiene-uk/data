@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.032600402832",
-    "Longitude": "-6.93488502502441"
-  },
+  "Geocode": null,
   "AddressLine1": "19 Ballyquin Road",
   "AddressLine2": "Deer Park",
   "AddressLine3": "Limavady",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 341969,
-  "BusinessName": "Pizza Hut",
+  "BusinessName": "Pizza Hut Delivery",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "103126",
   "BusinessTypeID": 7844,
@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.739994",
-    "Longitude": "-1.879088"
-  },
+  "Geocode": null,
   "AddressLine2": "307 Wimborne Road",
   "AddressLine3": "Bournemouth",
   "PostCode": "BH9 2AB",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

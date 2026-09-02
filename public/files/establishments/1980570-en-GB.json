@@ -1,6 +1,6 @@
 {
   "FHRSID": 1980570,
-  "BusinessName": "Golocal stores",
+  "BusinessName": "Go local stores",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "F6BEZW-WK45PS-K1KE4M",
   "BusinessTypeID": 4613,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5566083",
-    "Longitude": "-0.0489946"
-  },
+  "Geocode": null,
   "AddressLine2": "176-178 CLEE ROAD",
   "AddressLine4": "Grimsby",
   "PostCode": "DN32 8NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

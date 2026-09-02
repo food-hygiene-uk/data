@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.908257",
-    "Longitude": "0.9011399"
-  },
+  "Geocode": null,
   "AddressLine1": "Turner Village",
   "AddressLine2": "Turner Road",
   "AddressLine3": "Colchester",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-07-06",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

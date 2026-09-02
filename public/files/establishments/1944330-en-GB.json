@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hastings.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@hastings.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8684737",
-    "Longitude": "0.5564609"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop And Premises 27 Sedlescombe Road North",
   "AddressLine3": "St Leonards-on-sea",
   "AddressLine4": "East Sussex",
   "PostCode": "TN37 7DA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

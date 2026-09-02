@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.180909",
-    "Longitude": "-3.331076"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Anchor Street",
   "AddressLine2": "Watchet",
   "AddressLine3": "Somerset",
   "PostCode": "TA23 0AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2011-08-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2014-08-23",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

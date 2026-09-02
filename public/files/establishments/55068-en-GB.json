@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cheltenham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@cheltenham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.889377",
-    "Longitude": "-2.056562"
-  },
+  "Geocode": null,
   "AddressLine1": "The Langton Horse",
   "AddressLine2": "189 - 191 London Road",
   "AddressLine3": "Charlton Kings",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-07",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

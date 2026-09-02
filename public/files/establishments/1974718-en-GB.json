@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2713662",
-    "Longitude": "-2.4647465"
-  },
+  "Geocode": null,
   "AddressLine1": "Acorn Meadow Care Home 419 Manchester Road",
   "AddressLine2": "Lostock Gralam",
   "AddressLine3": "Northwich",
   "AddressLine4": "Cheshire",
   "PostCode": "CW9 7QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

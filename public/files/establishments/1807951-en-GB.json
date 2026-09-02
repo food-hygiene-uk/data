@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.20581",
-    "Longitude": "-3.4762792"
-  },
+  "Geocode": null,
   "AddressLine1": "Iceland Foods",
   "AddressLine2": "8 The Avenue",
   "AddressLine3": "Minehead",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2009-07-14",
+  "RatingDate": "2026-03-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }
