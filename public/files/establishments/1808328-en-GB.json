@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.183664",
+    "Longitude": "-3.447352"
+  },
   "AddressLine1": "13 St Georges Street",
   "AddressLine2": "Dunster",
   "AddressLine3": "Minehead",

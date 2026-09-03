@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "072",
   "LocalAuthorityName": "East Devon",
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
   "Geocode": {
     "Latitude": "50.716935",
@@ -17,12 +17,12 @@
   "AddressLine2": "Lyme Regis",
   "PostCode": "DT7 3RQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

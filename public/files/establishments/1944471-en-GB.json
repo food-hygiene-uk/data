@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4185835",
-    "Longitude": "-3.0415322"
-  },
+  "Geocode": null,
   "AddressLine1": "208 Liscard Road",
-  "AddressLine2": "Liscard",
-  "AddressLine3": "Wallasey",
+  "AddressLine3": "Liscard",
   "AddressLine4": "Wirral",
   "PostCode": "CH44 5TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

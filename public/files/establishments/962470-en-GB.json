@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.557702",
-    "Longitude": "0.698961"
-  },
+  "Geocode": null,
   "AddressLine1": "87 - 89 Prince Avenue",
   "AddressLine2": "Southend-On-Sea",
   "AddressLine3": "Essex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-03",
-  "Scores": null
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

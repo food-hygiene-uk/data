@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.58389585",
-    "Longitude": "-0.9752616"
-  },
+  "Geocode": null,
   "AddressLine2": "Milton Street",
   "AddressLine3": "Saltburn By The Sea",
   "PostCode": "TS12 1DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

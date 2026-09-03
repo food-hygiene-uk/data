@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3736317",
-    "Longitude": "-3.1797845"
-  },
+  "Geocode": null,
   "AddressLine1": "The White Lion 51 Grange Road",
   "AddressLine3": "West Kirby",
   "AddressLine4": "Wirral",
   "PostCode": "CH48 4EE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-06-11",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 0
   }
 }

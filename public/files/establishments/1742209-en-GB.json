@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.620017",
+    "Longitude": "-1.3236857"
+  },
   "AddressLine1": "6 Deanes Close Steventon",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

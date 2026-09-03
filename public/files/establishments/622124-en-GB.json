@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.147594",
+    "Longitude": "-2.106946"
+  },
   "AddressLine2": "13 Rosemount Viaduct",
   "AddressLine3": "Aberdeen",
   "PostCode": "AB25 1NE",

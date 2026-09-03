@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.647619",
+    "Longitude": "-1.122291"
+  },
   "AddressLine1": "2 Dorset Street",
   "AddressLine2": "Leicester",
   "PostCode": "LE4 6BE",

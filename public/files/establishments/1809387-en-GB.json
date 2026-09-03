@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "111",
   "LocalAuthorityName": "Brentwood",
   "LocalAuthorityWebSite": "http://www.brentwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@brentwood.gov.uk",
   "Geocode": {
     "Latitude": "51.6208155",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-03-15",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

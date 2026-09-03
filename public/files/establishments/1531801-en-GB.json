@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5387181",
-    "Longitude": "-2.7056305"
-  },
+  "Geocode": null,
   "AddressLine1": "57b Moor Road",
   "AddressLine2": "Orrell",
   "AddressLine3": "Wigan",
   "PostCode": "WN5 8RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

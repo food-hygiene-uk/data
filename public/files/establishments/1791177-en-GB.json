@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.095404",
+    "Longitude": "-2.0976415"
+  },
   "AddressLine2": "30 Charleston Avenue Cove",
   "PostCode": "AB12 3QE",
   "SchemeType": "FHIS",

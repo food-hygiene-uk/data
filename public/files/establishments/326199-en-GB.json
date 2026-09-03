@@ -1,6 +1,6 @@
 {
   "FHRSID": 326199,
-  "BusinessName": "AB Sea Take Away",
+  "BusinessName": "AB Sea Chinese Takeaway",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "27112",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.808837",
-    "Longitude": "-1.730205"
-  },
+  "Geocode": null,
   "AddressLine2": "507 Otley Road",
   "AddressLine3": "Bradford",
   "PostCode": "BD2 4QL",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-03-06",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

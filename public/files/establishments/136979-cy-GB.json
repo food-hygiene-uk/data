@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "569",
   "LocalAuthorityName": "Torfaen",
   "LocalAuthorityWebSite": "http://www.torfaen.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealthprotection@torfaen.gov.uk",
   "Geocode": {
     "Latitude": "51.642922",
@@ -19,12 +19,12 @@
   "AddressLine4": "Cwmbrân",
   "PostCode": "NP44 7JB",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_cy-gb",
-  "RatingDate": "2025-02-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,15 +7,22 @@
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "309a Tottington Road",
+  "Geocode": {
+    "Latitude": "53.6018247",
+    "Longitude": "-2.3196602"
+  },
+  "AddressLine2": "309 Tottington Road",
   "AddressLine3": "Bury",
   "PostCode": "BL8 1SZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 0
+  }
 }

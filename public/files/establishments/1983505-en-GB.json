@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.635438",
+    "Longitude": "-1.129569"
+  },
   "AddressLine1": "48 Charles Street",
   "AddressLine2": "Leicester",
   "PostCode": "LE1 1FB",

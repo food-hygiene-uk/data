@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5630493164063",
-    "Longitude": "-2.63043689727783"
-  },
+  "Geocode": null,
   "AddressLine1": "Wigan Lane",
   "AddressLine2": "Wigan",
   "PostCode": "WN1 2NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-08",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

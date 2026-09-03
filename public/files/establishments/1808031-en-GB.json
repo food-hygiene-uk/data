@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.198067",
+    "Longitude": "-3.472063"
+  },
   "AddressLine1": "Hopcott Road",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

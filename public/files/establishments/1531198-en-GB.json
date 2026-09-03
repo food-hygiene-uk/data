@@ -1,6 +1,6 @@
 {
   "FHRSID": 1531198,
-  "BusinessName": "Buns and Grills",
+  "BusinessName": "Buns & Grills",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000214719",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.439667",
-    "Longitude": "-2.0055119"
-  },
+  "Geocode": null,
   "AddressLine1": "4 THE SQUARE",
   "AddressLine3": "CALNE",
   "PostCode": "SN11 0BY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-08",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

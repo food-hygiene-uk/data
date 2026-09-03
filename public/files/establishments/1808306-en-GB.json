@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.205814",
+    "Longitude": "-3.473156"
+  },
   "AddressLine1": "83 Summerland Avenue",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

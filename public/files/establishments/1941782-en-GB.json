@@ -1,24 +1,25 @@
 {
   "FHRSID": 1941782,
   "BusinessName": "MERKUR Slots",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "300952",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4965638",
-    "Longitude": "-2.5182481"
-  },
+  "Geocode": null,
   "AddressLine1": "11-13 Bradshawgate",
   "AddressLine2": "Leigh",
   "PostCode": "WN7 4NB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

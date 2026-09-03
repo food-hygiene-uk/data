@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.140811",
+    "Longitude": "-2.135562"
+  },
   "AddressLine2": "49-53 Queens Road",
   "AddressLine3": "Aberdeen",
   "PostCode": "AB15 4YP",

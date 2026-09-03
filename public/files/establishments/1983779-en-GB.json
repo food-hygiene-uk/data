@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7638911",
+    "Longitude": "0.0747988"
+  },
   "AddressLine1": "D5",
   "AddressLine2": "Harlow Business Centre",
   "AddressLine3": "Lovet Road",

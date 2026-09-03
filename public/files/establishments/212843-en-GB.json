@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
-  "Geocode": {
-    "Latitude": "53.857006072998",
-    "Longitude": "-2.16815590858459"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Market Street",
   "AddressLine2": "Colne",
   "AddressLine3": "Lancashire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-18",
+  "RatingDate": "2026-09-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

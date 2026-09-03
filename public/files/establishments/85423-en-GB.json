@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": {
-    "Latitude": "51.996733",
-    "Longitude": "-0.733584"
-  },
+  "Geocode": null,
   "AddressLine1": "Burger King",
   "AddressLine2": "Albert Street",
   "AddressLine3": "Bletchley",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-17",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

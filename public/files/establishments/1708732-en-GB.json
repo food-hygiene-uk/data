@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.062503",
-    "Longitude": "-1.3171026"
-  },
+  "Geocode": null,
   "AddressLine1": "Wykeham House",
   "AddressLine2": "11A Southgate Street",
   "AddressLine3": "Winchester",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-13",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

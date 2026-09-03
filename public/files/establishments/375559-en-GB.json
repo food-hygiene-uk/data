@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": {
-    "Latitude": "52.038313",
-    "Longitude": "-0.7766"
-  },
+  "Geocode": null,
   "AddressLine2": "Elder Gate",
   "AddressLine3": "Central Milton Keynes",
   "AddressLine4": "Milton Keynes",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-30",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

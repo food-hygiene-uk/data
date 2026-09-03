@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.491055",
-    "Longitude": "0.159671"
-  },
+  "Geocode": null,
   "AddressLine1": "Belvedere Junior And Infant School",
   "AddressLine2": "Mitchell Close",
   "AddressLine3": "Belvedere",
   "AddressLine4": "Kent",
   "PostCode": "DA17 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

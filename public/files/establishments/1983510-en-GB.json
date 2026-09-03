@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6124879",
+    "Longitude": "-1.123651"
+  },
   "AddressLine1": "328-330 Welford Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE2 6EH",

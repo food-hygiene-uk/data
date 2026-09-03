@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": {
-    "Latitude": "54.534915",
-    "Longitude": "-1.054279"
-  },
+  "Geocode": null,
   "AddressLine2": "49 Westgate",
   "AddressLine3": "Guisborough",
   "PostCode": "TS14 6AF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-09",
+  "RatingDate": "2026-08-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7626429",
+    "Longitude": "0.1300137"
+  },
   "AddressLine1": "7 Potter Street",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5116767883301",
-    "Longitude": "-0.412214010953903"
-  },
+  "Geocode": null,
   "AddressLine1": "Sainsburys Local",
   "AddressLine2": "132 Coldharbour Lane",
   "AddressLine4": "Hayes",
   "PostCode": "UB3 3HG",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-07-24",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

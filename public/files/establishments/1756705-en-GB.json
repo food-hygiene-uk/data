@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1462188",
+    "Longitude": "-2.720092"
+  },
   "AddressLine1": "29 Benedict Street",
   "AddressLine2": "Glastonbury",
   "AddressLine3": "Somerset",

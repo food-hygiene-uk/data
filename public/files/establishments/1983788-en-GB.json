@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.746805",
+    "Longitude": "0.087738"
+  },
   "AddressLine1": "Drinker Moth Public House",
   "AddressLine2": "Sherards Hatch",
   "AddressLine3": "Harlow",

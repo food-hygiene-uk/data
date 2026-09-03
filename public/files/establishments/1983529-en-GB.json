@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.637258",
+    "Longitude": "-1.133817"
+  },
   "AddressLine1": "29 Church Gate",
   "AddressLine2": "Leicester",
   "PostCode": "LE1 3AL",

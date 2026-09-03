@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2056898",
+    "Longitude": "-3.4772488"
+  },
   "AddressLine1": "Boots The Chemist",
   "AddressLine2": "14-16 The Parade",
   "AddressLine3": "Minehead",

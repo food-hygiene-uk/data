@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1261498",
+    "Longitude": "-2.7414006"
+  },
   "AddressLine1": "106 High Street",
   "AddressLine2": "Street",
   "AddressLine3": "Somerset",

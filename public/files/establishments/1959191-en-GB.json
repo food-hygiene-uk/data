@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5038381",
-    "Longitude": "0.2856818"
-  },
+  "Geocode": null,
   "AddressLine1": "Woodlands Edge",
   "AddressLine2": "Broxburn Drive",
   "AddressLine3": "South Ockendon",
   "AddressLine4": "Essex",
   "PostCode": "RM15 5RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

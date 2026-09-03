@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1237182",
+    "Longitude": "-2.7447921"
+  },
   "AddressLine1": "168-170 High Street",
   "AddressLine2": "Street",
   "AddressLine3": "Somerset",

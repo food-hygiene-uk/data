@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7722970806651",
+    "Longitude": "0.134333211743681"
+  },
   "AddressLine1": "Newhall Primary Academy",
   "AddressLine2": "Round House Way",
   "AddressLine3": "Newhall",

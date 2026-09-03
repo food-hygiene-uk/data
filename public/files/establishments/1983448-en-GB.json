@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.1035334",
+    "Longitude": "-2.085745"
+  },
   "AddressLine2": "Unit 1 Cove Shopping Centre",
   "PostCode": "AB12 3HE",
   "SchemeType": "FHIS",

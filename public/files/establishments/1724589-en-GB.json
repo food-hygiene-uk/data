@@ -7,23 +7,20 @@
   "LocalAuthorityCode": "559",
   "LocalAuthorityName": "Denbighshire",
   "LocalAuthorityWebSite": "http://www.denbighshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@denbighshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.320904",
-    "Longitude": "-3.493125"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Queen Street",
   "AddressLine3": "Rhyl",
   "AddressLine4": "Denbighshire",
   "PostCode": "LL18 1SB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2024-05-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

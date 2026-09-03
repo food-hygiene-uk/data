@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4133494",
-    "Longitude": "-1.1344723"
-  },
+  "Geocode": null,
   "AddressLine1": "Field Barn Farm Beenham Hill",
   "AddressLine2": "Beenham",
   "AddressLine3": "Reading",
   "AddressLine4": "West Berkshire",
   "PostCode": "RG7 5LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.carmarthenshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.685735",
-    "Longitude": "-4.275914"
-  },
+  "Geocode": null,
   "AddressLine1": "Caravan Danybanc Farm",
   "AddressLine2": "Heol Y Lloetrach",
   "AddressLine3": "Pembrey",
   "AddressLine4": "Burry Port",
   "PostCode": "SA16 0TT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

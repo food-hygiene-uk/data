@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.carmarthenshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.68770228",
-    "Longitude": "-4.20944698"
-  },
+  "Geocode": null,
   "AddressLine2": "10 Pwll Road",
   "AddressLine3": "Pwll",
   "AddressLine4": "Llanelli",
   "PostCode": "SA15 4AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

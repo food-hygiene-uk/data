@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5459207",
-    "Longitude": "0.6783131"
-  },
+  "Geocode": null,
   "AddressLine1": "775 London Road",
   "AddressLine2": "Westcliff-on-sea",
   "AddressLine3": "Essex",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

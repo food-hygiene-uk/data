@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "102",
   "LocalAuthorityName": "Eastbourne",
   "LocalAuthorityWebSite": "https://www.lewes-eastbourne.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer_first@lewes-eastbourne.gov.uk",
   "Geocode": {
     "Latitude": "50.7679511",
@@ -18,12 +18,12 @@
   "AddressLine4": "East Sussex",
   "PostCode": "BN21 3PL",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-02",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.634061",
+    "Longitude": "-1.073653"
+  },
   "AddressLine1": "Davenport Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE5 6SD",

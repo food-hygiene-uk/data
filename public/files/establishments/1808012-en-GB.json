@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.130362",
+    "Longitude": "-3.642171"
+  },
   "AddressLine1": "Exford",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

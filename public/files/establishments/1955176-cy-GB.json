@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.carmarthenshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8598866",
-    "Longitude": "-4.3083567"
-  },
+  "Geocode": null,
   "AddressLine2": "23 Waterloo Terrace",
   "AddressLine3": "Carmarthen",
   "AddressLine4": "Carmarthenshire",
   "PostCode": "SA31 1DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

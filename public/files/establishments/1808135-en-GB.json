@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.169227",
+    "Longitude": "-3.4933337"
+  },
   "AddressLine1": "The Great House",
   "AddressLine2": "Great House Street",
   "AddressLine3": "Timberscombe",

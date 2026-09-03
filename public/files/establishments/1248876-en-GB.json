@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.692440032959",
-    "Longitude": "-1.84974694252014"
-  },
+  "Geocode": null,
   "AddressLine1": "Stafford Road",
   "AddressLine2": "Lichfield",
   "AddressLine3": "Staffordshire",
   "PostCode": "WS13 8JB",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-05-13",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

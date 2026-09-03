@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2081562",
+    "Longitude": "-3.5961646"
+  },
   "AddressLine1": "Reines House Parsons Street",
   "AddressLine2": "Porlock",
   "AddressLine3": "Minehead",

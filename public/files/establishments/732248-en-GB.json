@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.036848",
+    "Longitude": "-2.834126"
+  },
   "AddressLine1": "Great Bow Wharf",
   "AddressLine2": "Bow Street",
   "AddressLine3": "Langport",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2071069",
+    "Longitude": "-3.4718398"
+  },
   "AddressLine1": "55 The Avenue",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

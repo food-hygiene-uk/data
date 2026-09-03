@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.15056055",
+    "Longitude": "-2.09060615"
+  },
   "AddressLine2": "Park Street Aberdeen",
   "PostCode": "AB24 5LH",
   "SchemeType": "FHIS",

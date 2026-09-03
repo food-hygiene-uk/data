@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.776216",
+    "Longitude": "0.114101"
+  },
   "AddressLine1": "Unit 42 Service Industry Bays",
   "AddressLine2": "The Stow",
   "AddressLine3": "Harlow",

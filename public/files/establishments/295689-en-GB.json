@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "222",
   "LocalAuthorityName": "North Kesteven",
   "LocalAuthorityWebSite": "http://www.n-kesteven.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTeam@n-kesteven.gov.uk",
   "Geocode": null,
   "AddressLine1": "The Barge And Bottle",
@@ -15,12 +15,12 @@
   "AddressLine4": "Sleaford",
   "PostCode": "NG34 7TW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-17",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

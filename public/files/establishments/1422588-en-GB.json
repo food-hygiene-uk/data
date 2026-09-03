@@ -1,28 +1,25 @@
 {
   "FHRSID": 1422588,
-  "BusinessName": "Rema Tandoori Balti",
+  "BusinessName": "Rema Tandoori Ltd",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "385858",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5138684",
-    "Longitude": "-2.4702631"
-  },
+  "Geocode": null,
   "AddressLine1": "104 Elliott Street",
   "AddressLine2": "Tyldesley",
   "PostCode": "M29 8FJ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-03",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-28",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

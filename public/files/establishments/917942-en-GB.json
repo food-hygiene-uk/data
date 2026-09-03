@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": {
-    "Latitude": "52.093994",
-    "Longitude": "-0.832417"
-  },
+  "Geocode": null,
   "AddressLine2": "Thrupp Close",
   "AddressLine3": "Castlethorpe",
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK19 7PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

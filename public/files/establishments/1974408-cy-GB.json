@@ -1,13 +1,13 @@
 {
   "FHRSID": 1974408,
-  "BusinessName": "Samis Kebab House",
+  "BusinessName": "ISA BELLA PIZZA",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "802051",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tudful",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": {
     "Latitude": "51.748075",
@@ -17,8 +17,12 @@
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF47 8UG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.907732",
+    "Longitude": "-2.890485"
+  },
   "AddressLine2": "Main Street",
   "AddressLine3": "Dowlish Wake",
   "AddressLine4": "Ilminster Somerset",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.151059",
+    "Longitude": "-2.680056"
+  },
   "AddressLine1": "Wick Farm",
   "AddressLine2": "Wick Lane",
   "AddressLine3": "Wick",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.755865",
+    "Longitude": "0.12609"
+  },
   "AddressLine1": "Southern Way",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0616702",
-    "Longitude": "-1.3100368"
-  },
+  "Geocode": null,
   "AddressLine1": "Ground Floor",
   "AddressLine2": "165 High Street",
   "AddressLine3": "Winchester",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }
