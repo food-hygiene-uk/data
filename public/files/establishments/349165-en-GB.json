@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.902022",
+    "Longitude": "-0.168734"
+  },
   "AddressLine1": "Fry Road",
   "AddressLine2": "Stevenage",
   "AddressLine3": "Herts",

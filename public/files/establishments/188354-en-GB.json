@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.130509",
+    "Longitude": "-3.012225"
+  },
   "AddressLine2": "Victoria Park Drive",
   "AddressLine3": "Bridgwater",
   "PostCode": "TA6 7AS",

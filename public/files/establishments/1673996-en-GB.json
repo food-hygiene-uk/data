@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "298",
   "LocalAuthorityName": "West Suffolk",
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.084026",
@@ -18,12 +18,12 @@
   "AddressLine3": "Suffolk",
   "PostCode": "CB9 9EF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-20",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

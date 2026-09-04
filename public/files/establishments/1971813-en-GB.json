@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5622752",
-    "Longitude": "-0.3560134"
-  },
+  "Geocode": null,
   "AddressLine1": "331 Northolt Road",
   "AddressLine2": "Harrow Harrow",
   "PostCode": "HA2 8JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

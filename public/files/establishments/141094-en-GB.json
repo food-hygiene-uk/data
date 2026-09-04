@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.127074",
+    "Longitude": "-2.980497"
+  },
   "AddressLine2": "Saxon Green",
   "AddressLine3": "Bridgwater",
   "PostCode": "TA6 4JA",

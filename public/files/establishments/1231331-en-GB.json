@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5108814",
-    "Longitude": "0.0127297"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 9",
   "AddressLine2": "Thanet Tower",
   "AddressLine3": "Hoy Street",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-02",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
-  "Geocode": {
-    "Latitude": "51.968585",
-    "Longitude": "0.450132"
-  },
+  "Geocode": null,
   "AddressLine1": "The Green",
   "AddressLine2": "Finchingfield",
   "AddressLine3": "Braintree",
   "AddressLine4": "Essex",
   "PostCode": "CM7 4JX",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-30",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

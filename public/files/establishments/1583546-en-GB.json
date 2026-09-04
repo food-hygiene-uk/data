@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2761983",
+    "Longitude": "-2.7753978"
+  },
   "AddressLine1": "Mendip House",
   "AddressLine2": "Union Street",
   "AddressLine3": "Cheddar",

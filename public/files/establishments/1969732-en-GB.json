@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3391914367676",
-    "Longitude": "-1.08706200122833"
-  },
+  "Geocode": null,
   "AddressLine1": "6C Ash Park Business Centre",
   "AddressLine2": "Ash Lane",
   "AddressLine3": "Little London",
   "AddressLine4": "Tadley",
   "PostCode": "RG26 5FL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

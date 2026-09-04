@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.502055",
-    "Longitude": "-0.188299"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Kensington High Street",
   "AddressLine2": "LONDON",
   "PostCode": "W8 5NP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-05",
+  "RatingDate": "2026-08-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

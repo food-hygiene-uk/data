@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.n-kesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTeam@n-kesteven.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9976922",
-    "Longitude": "-0.4019793"
-  },
+  "Geocode": null,
   "AddressLine1": "Kiosk In The Park",
   "AddressLine2": "Boston Road",
   "AddressLine4": "Sleaford",
   "PostCode": "NG34 7ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

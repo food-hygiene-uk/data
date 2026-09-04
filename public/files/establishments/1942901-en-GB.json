@@ -1,6 +1,6 @@
 {
   "FHRSID": 1942901,
-  "BusinessName": "Il Tiramisu Limited",
+  "BusinessName": "Il Tiramisuu Limited",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "CP/002707",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

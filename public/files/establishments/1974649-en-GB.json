@@ -1,13 +1,13 @@
 {
   "FHRSID": 1974649,
-  "BusinessName": "Tonyâ??s Chippy",
+  "BusinessName": "Tony's Chippy",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "403189",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "560",
   "LocalAuthorityName": "Flintshire",
   "LocalAuthorityWebSite": "http://www.flintshire.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@flintshire.gov.uk",
   "Geocode": null,
   "AddressLine1": "Tony's Chippy",
@@ -16,8 +16,12 @@
   "AddressLine4": "Flintshire",
   "PostCode": "CH6 6BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

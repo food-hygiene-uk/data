@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
-  "Geocode": {
-    "Latitude": "51.504075",
-    "Longitude": "-0.227483"
-  },
+  "Geocode": null,
   "AddressLine1": "47 Lime Grove",
   "AddressLine2": "London",
   "PostCode": "W12 8EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

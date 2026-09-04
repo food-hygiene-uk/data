@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
-  "Geocode": {
-    "Latitude": "51.272548",
-    "Longitude": "0.189868"
-  },
+  "Geocode": null,
   "AddressLine1": "73 London Road",
   "AddressLine2": "Sevenoaks",
   "AddressLine3": "Kent",
   "PostCode": "TN13 1AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

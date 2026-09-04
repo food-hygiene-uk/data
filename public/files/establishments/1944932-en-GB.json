@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
-  "Geocode": {
-    "Latitude": "53.019189",
-    "Longitude": "-0.9682232"
-  },
+  "Geocode": null,
   "AddressLine1": "Nottinghamshire Scouts Adventure",
   "AddressLine2": "Hoveringham Activity Centre",
   "AddressLine3": "Thurgarton Lane",
   "AddressLine4": "Thurgarton",
   "PostCode": "NG14 7HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

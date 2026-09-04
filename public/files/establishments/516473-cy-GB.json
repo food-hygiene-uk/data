@@ -1,13 +1,13 @@
 {
   "FHRSID": 516473,
-  "BusinessName": "Woodlake Park Golf Club",
+  "BusinessName": "Woodlake Park Golf Club - Bar Only",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "E164CMGLAS/1",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Sir Fynwy",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
   "Geocode": {
     "Latitude": "51.70104",
@@ -18,12 +18,12 @@
   "AddressLine4": "Monmouthshire",
   "PostCode": "NP4 0TE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-07-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

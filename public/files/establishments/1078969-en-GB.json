@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2375091",
-    "Longitude": "0.7185124"
-  },
+  "Geocode": null,
   "AddressLine1": "Corner House",
   "AddressLine2": "The Square",
   "AddressLine3": "Lenham",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-02",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

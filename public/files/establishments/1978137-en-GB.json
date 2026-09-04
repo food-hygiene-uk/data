@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
-  "Geocode": {
-    "Latitude": "53.1189292",
-    "Longitude": "-1.1071213"
-  },
+  "Geocode": null,
   "AddressLine1": "Mei's Chinese Takeaway",
   "AddressLine2": "5 Sherwood Parade",
   "AddressLine3": "Kirklington Road",
   "AddressLine4": "Rainworth",
   "PostCode": "NG21 0JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

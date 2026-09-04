@@ -1,13 +1,13 @@
 {
   "FHRSID": 194613,
   "BusinessName": "The Lion Hotel",
-  "BusinessType": "Hotel/bed & breakfast/guest house",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "PI/000036995",
-  "BusinessTypeID": 7842,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "566",
   "LocalAuthorityName": "Powys",
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": {
     "Latitude": "52.5993576049805",
@@ -18,8 +18,12 @@
   "AddressLine3": "Powys",
   "PostCode": "SY21 8PQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-07-29",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

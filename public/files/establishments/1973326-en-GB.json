@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bassetlaw.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bassetlaw.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3235965",
-    "Longitude": "-0.9438778"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Bridgegate Centre",
   "AddressLine2": "Bridgegate",
   "AddressLine3": "Retford",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "DN22 6AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

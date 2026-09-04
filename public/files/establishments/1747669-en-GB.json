@@ -1,6 +1,6 @@
 {
   "FHRSID": 1747669,
-  "BusinessName": "Wraxall School",
+  "BusinessName": "Aspens @ Wraxall C of E Primary School",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "U02JWXBRIS/1",
   "BusinessTypeID": 7841,
@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.443486",
-    "Longitude": "-2.734997"
-  },
+  "Geocode": null,
   "AddressLine1": "Wraxall School",
   "AddressLine2": "Bristol Road",
   "AddressLine3": "Wraxall",
   "AddressLine4": "Bristol North Somerset",
   "PostCode": "BS48 1LB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

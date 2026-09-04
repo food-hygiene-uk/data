@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.271395",
-    "Longitude": "0.518149"
-  },
+  "Geocode": null,
   "AddressLine1": "Bridges",
   "AddressLine2": "The Broadway",
   "AddressLine3": "Maidstone",
   "AddressLine4": "Kent",
   "PostCode": "ME16 8PB",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-02-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

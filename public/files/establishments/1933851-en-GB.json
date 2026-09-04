@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.broxtowe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@broxtowe.gov.uk",
-  "Geocode": {
-    "Latitude": "52.989911",
-    "Longitude": "-1.28295"
-  },
+  "Geocode": null,
   "AddressLine1": "Village Hall",
   "AddressLine2": "The Lane",
   "AddressLine3": "Awsworth",
   "AddressLine4": "Nottinghamshire",
   "PostCode": "NG16 2QQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

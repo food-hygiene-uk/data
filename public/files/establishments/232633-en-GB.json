@@ -1,28 +1,25 @@
 {
   "FHRSID": 232633,
   "BusinessName": "Costa Coffee",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "08/00066/MIXED",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "874",
   "LocalAuthorityName": "Darlington",
   "LocalAuthorityWebSite": "http://www.darlington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@darlington.gov.uk",
-  "Geocode": {
-    "Latitude": "54.526045",
-    "Longitude": "-1.55451"
-  },
+  "Geocode": null,
   "AddressLine1": "8 Northgate",
   "AddressLine2": "DARLINGTON",
   "PostCode": "DL1 1NR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-07",
+  "RatingDate": "2026-08-27",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

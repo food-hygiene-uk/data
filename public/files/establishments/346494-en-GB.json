@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
-  "Geocode": {
-    "Latitude": "51.492597",
-    "Longitude": "-0.207141"
-  },
+  "Geocode": null,
   "AddressLine1": "Ground Floor",
   "AddressLine2": "3 North End Crescent",
   "AddressLine3": "London",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-07-13",
+  "RatingDate": "2026-08-11",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

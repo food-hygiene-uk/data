@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.blackpool.gov.uk/Services/A-F/FoodHygiene/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodcontrol@blackpool.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.809575",
+    "Longitude": "-3.0526226"
+  },
   "AddressLine1": "40 Bairstow Street",
   "PostCode": "FY1 5BN",
   "SchemeType": "FHRS",

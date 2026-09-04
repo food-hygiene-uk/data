@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.044355",
+    "Longitude": "-0.801119"
+  },
   "AddressLine1": "Trading Location Garamonde Drive Wymbush Milton Keynes",
   "SchemeType": "FHRS",
   "RatingValue": "4",

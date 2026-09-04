@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.130767",
+    "Longitude": "-2.983048"
+  },
   "AddressLine2": "Parkway",
   "AddressLine3": "Bridgwater",
   "PostCode": "TA6 4QZ",

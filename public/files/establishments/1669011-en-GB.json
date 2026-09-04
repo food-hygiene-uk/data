@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9168262",
+    "Longitude": "-0.2118198"
+  },
   "AddressLine1": "23 Hitchin Road",
   "AddressLine2": "Stevenage",
   "AddressLine3": "Herts",

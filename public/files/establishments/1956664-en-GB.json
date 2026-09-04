@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.469499",
-    "Longitude": "-2.593766"
-  },
+  "Geocode": null,
   "AddressLine2": "221-223 Cheltenham Road",
   "AddressLine3": "Montpelier",
   "AddressLine4": "Bristol",
@@ -22,8 +19,8 @@
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

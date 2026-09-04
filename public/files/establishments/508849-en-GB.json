@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southampton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southampton.gov.uk",
-  "Geocode": {
-    "Latitude": "50.893923",
-    "Longitude": "-1.368832"
-  },
+  "Geocode": null,
   "AddressLine1": "76 St Annes Road",
   "AddressLine2": "Southampton",
   "AddressLine3": "Hampshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-28",
+  "RatingDate": "2026-09-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

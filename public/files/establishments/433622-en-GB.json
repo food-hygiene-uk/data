@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
-  "Geocode": {
-    "Latitude": "51.493299",
-    "Longitude": "-0.225524"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Beadon Road",
   "AddressLine2": "London",
   "PostCode": "W6 0EA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-17",
-  "Scores": null
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

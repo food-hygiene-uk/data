@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
-  "Geocode": {
-    "Latitude": "51.505169",
-    "Longitude": "-0.225524"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Uxbridge Road",
   "AddressLine2": "London",
   "PostCode": "W12 8LJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-05",
-  "Scores": null
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

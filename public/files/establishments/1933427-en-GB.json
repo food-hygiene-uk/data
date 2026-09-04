@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.southampton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southampton.gov.uk",
-  "Geocode": {
-    "Latitude": "50.938194",
-    "Longitude": "-1.392784"
-  },
+  "Geocode": null,
   "AddressLine1": "184 Burgess Road",
   "AddressLine2": "Southampton",
   "PostCode": "SO16 3HH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
