@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6138534545898",
-    "Longitude": "1.72731101512909"
-  },
+  "Geocode": null,
   "AddressLine2": "204 Northgate Street",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
   "PostCode": "NR30 1DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

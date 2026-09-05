@@ -9,16 +9,18 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5957487",
-    "Longitude": "1.721229"
-  },
-  "AddressLine2": "Yarmouth Business Park Suffolk Road",
-  "AddressLine4": "Great Yarmouth Norfolk",
-  "PostCode": "NR31 0FH",
+  "Geocode": null,
+  "AddressLine2": "Thamesfield Way",
+  "AddressLine3": "Great Yarmouth",
+  "AddressLine4": "Norfolk",
+  "PostCode": "NR31 0DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

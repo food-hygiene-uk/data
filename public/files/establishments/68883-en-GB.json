@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.658364",
+    "Longitude": "-2.857134"
+  },
   "AddressLine1": "Lunanhead Village Hall 10 Old Brechin Road Lunanhead Forfar",
   "PostCode": "DD8 3NQ",
   "SchemeType": "FHIS",

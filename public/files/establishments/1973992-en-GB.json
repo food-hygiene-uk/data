@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1337452",
-    "Longitude": "-0.0147541"
-  },
+  "Geocode": null,
   "AddressLine1": "Jubilee Community Centre",
   "AddressLine2": "Charlwoods Road",
   "AddressLine3": "East Grinstead",
   "AddressLine4": "West Sussex",
   "PostCode": "RH19 2HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

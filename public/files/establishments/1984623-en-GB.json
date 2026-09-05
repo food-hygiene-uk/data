@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1116224",
+    "Longitude": "-3.3458769"
+  },
   "AddressLine1": "58 Stenhouse Street Cowdenbeath Fife",
   "PostCode": "KY4 9DD",
   "SchemeType": "FHIS",

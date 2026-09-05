@@ -1,9 +1,9 @@
 {
   "FHRSID": 1911820,
   "BusinessName": "Popartistry Sip n Paint Events",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "9214621",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "032",
   "LocalAuthorityName": "South Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

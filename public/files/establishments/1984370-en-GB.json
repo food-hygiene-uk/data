@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5009925",
+    "Longitude": "-2.7175309"
+  },
   "AddressLine1": "Carnoustie Church Dundee Street Carnoustie",
   "PostCode": "DD7 7PF",
   "SchemeType": "FHIS",

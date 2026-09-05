@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.0413568",
+    "Longitude": "-3.342652"
+  },
   "AddressLine1": "1 Moray Way North Dalgety Bay Dunfermline Fife",
   "PostCode": "KY11 9NH",
   "SchemeType": "FHIS",

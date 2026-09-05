@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.35904",
+    "Longitude": "-2.891916"
+  },
   "AddressLine1": "2 Cupar Road Guardbridge St Andrews Fife",
   "PostCode": "KY16 0UA",
   "SchemeType": "FHIS",

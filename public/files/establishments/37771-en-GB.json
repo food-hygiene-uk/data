@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.82879",
-    "Longitude": "-1.221376"
-  },
+  "Geocode": null,
   "AddressLine1": "The Cuckoo Pint",
   "AddressLine2": "120 Cuckoo Lane",
   "AddressLine3": "Fareham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

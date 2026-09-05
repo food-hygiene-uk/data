@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.071791",
+    "Longitude": "-3.461631"
+  },
   "AddressLine1": "Dunfermline Bus Station Queen Anne Street Dunfermline Fife",
   "PostCode": "KY12 7BA",
   "SchemeType": "FHIS",

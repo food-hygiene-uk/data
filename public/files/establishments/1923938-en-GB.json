@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": {
-    "Latitude": "51.5784487",
-    "Longitude": "-3.2087468"
-  },
+  "Geocode": null,
   "AddressLine1": "Shop Unit",
   "AddressLine2": "42 Buxton Court",
   "AddressLine3": "Lansbury Park",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 1RG",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_cy-gb",
-  "RatingDate": "2026-04-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-08-26",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

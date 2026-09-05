@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3116053",
-    "Longitude": "0.0584495"
-  },
+  "Geocode": null,
   "AddressLine1": "Willingham Primary School Thodays Close",
   "AddressLine3": "Willingham",
   "AddressLine4": "Cambridgeshire",
@@ -23,7 +20,7 @@
   "RatingDate": "2026-07-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

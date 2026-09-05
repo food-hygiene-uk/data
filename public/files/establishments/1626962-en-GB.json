@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2354736328125",
-    "Longitude": "-1.64027094841003"
-  },
+  "Geocode": null,
   "AddressLine1": "Post Office",
   "AddressLine2": "Bun Alley",
   "AddressLine3": "Pilsley",
   "AddressLine4": "Derbyshire",
   "PostCode": "DE45 1UH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2018-12-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

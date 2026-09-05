@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7406494",
-    "Longitude": "1.2457271"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 3 Cobble Acre Park",
   "AddressLine2": "Brick Kiln Road",
   "AddressLine3": "Hevingham",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-29",
+  "RatingDate": "2026-09-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

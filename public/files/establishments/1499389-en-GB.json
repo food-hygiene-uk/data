@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7365564",
-    "Longitude": "-2.9624585"
-  },
+  "Geocode": null,
   "AddressLine1": "4 Bath Road",
   "AddressLine3": "Lytham St Annes",
   "AddressLine4": "Lancashire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-03",
+  "RatingDate": "2026-09-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

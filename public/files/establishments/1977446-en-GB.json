@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4543727",
-    "Longitude": "-1.9848244"
-  },
+  "Geocode": null,
   "AddressLine1": "Brookfield",
   "AddressLine2": "Dinting",
   "AddressLine3": "Glossop",
   "PostCode": "SK13 6JF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

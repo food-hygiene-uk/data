@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8010483",
-    "Longitude": "-1.1422612"
-  },
+  "Geocode": null,
   "AddressLine1": "Gosport Spiritualist Church",
   "AddressLine2": "183 Forton Road",
   "AddressLine3": "Gosport",
   "PostCode": "PO12 3HB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

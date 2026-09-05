@@ -1,13 +1,13 @@
 {
   "FHRSID": 1962431,
-  "BusinessName": "Barking Fish Monger",
+  "BusinessName": "Continental Seafood MK",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "84606",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "501",
   "LocalAuthorityName": "Barking and Dagenham",
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
   "Geocode": {
     "Latitude": "51.538158",
@@ -17,8 +17,12 @@
   "AddressLine4": "Barking",
   "PostCode": "IG11 8DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

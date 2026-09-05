@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gosport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "GosportEHSupport@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.788192",
-    "Longitude": "-1.119538"
-  },
+  "Geocode": null,
   "AddressLine1": "Building 7",
   "AddressLine2": "Fort Blockhouse",
   "AddressLine3": "Haslar Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-21",
+  "RatingDate": "2026-09-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

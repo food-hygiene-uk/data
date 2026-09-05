@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.081502",
+    "Longitude": "-3.409292"
+  },
   "AddressLine1": "Harvester Unit 8 Halbeath Retail Park Dunfermline Fife",
   "PostCode": "KY11 4LP",
   "SchemeType": "FHIS",

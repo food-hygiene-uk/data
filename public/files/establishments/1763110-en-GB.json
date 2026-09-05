@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.574551",
-    "Longitude": "0.18604"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Victoria Road",
   "AddressLine2": "Romford",
   "PostCode": "RM1 2JH",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-05-15",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 25,
-    "ConfidenceInManagement": 30
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

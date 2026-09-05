@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3647412",
-    "Longitude": "-0.1032692"
-  },
+  "Geocode": null,
   "AddressLine1": "Bramley Hill Centre",
   "AddressLine2": "27 Bramley Hill",
   "AddressLine3": "South Croydon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-10",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

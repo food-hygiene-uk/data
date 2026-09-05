@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.0517997741699",
-    "Longitude": "-1.75835800170898"
-  },
+  "Geocode": null,
   "AddressLine1": "Station House",
   "AddressLine2": "Narlow Lane",
   "AddressLine3": "Thorpe",
   "AddressLine4": "Derbyshire",
   "PostCode": "DE6 2AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2017-10-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

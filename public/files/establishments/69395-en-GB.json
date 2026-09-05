@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5618107",
+    "Longitude": "-2.5865634"
+  },
   "AddressLine1": "Supermarket Hume Street Arbroath",
   "PostCode": "DD11 1UH",
   "SchemeType": "FHIS",

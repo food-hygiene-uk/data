@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3188035",
+    "Longitude": "-0.5898072"
+  },
   "AddressLine1": "Unit 5Goldsworth Park CentreWokingSurrey",
   "PostCode": "GU21 3LG",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.131398",
+    "Longitude": "-3.509009"
+  },
   "AddressLine1": "Knockhill Saline Dunfermline Fife",
   "PostCode": "KY12 9TF",
   "SchemeType": "FHIS",

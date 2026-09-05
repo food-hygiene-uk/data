@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3150744",
+    "Longitude": "-0.5593495"
+  },
   "AddressLine1": "Sandringham Court NurseryGuildford RoadWokingSurrey",
   "PostCode": "GU22 7QL",
   "SchemeType": "FHRS",

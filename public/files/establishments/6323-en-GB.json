@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5899524",
-    "Longitude": "-2.9799328"
-  },
+  "Geocode": null,
   "AddressLine1": "126 Chepstow Road",
   "AddressLine2": "Newport",
   "AddressLine3": "South Wales",
   "PostCode": "NP19 8EF",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2026-02-11",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

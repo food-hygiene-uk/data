@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3052168",
+    "Longitude": "-0.578746"
+  },
   "AddressLine1": "Greys Residential Home For The ElderlyHook Heath RoadWokingSurrey",
   "PostCode": "GU22 0JQ",
   "SchemeType": "FHRS",

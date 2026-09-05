@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.swale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.42166",
-    "Longitude": "0.8120088"
-  },
+  "Geocode": null,
   "AddressLine1": "Highlander",
   "AddressLine2": "13 High Street",
   "AddressLine3": "Minster-on-sea",
   "AddressLine4": "Kent",
   "PostCode": "ME12 3QD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

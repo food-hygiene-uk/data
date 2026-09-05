@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.07138573",
+    "Longitude": "-3.4606313"
+  },
   "AddressLine1": "111 - 113 High Street Dunfermline Fife",
   "PostCode": "KY12 7DR",
   "SchemeType": "FHIS",

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1280326843262",
-    "Longitude": "-1.3377890586853"
-  },
+  "Geocode": null,
   "AddressLine1": "George And Dragon",
   "AddressLine2": "Cragg Lane",
   "AddressLine3": "Newton",
   "AddressLine4": "Alfreton",
   "PostCode": "DE55 5TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

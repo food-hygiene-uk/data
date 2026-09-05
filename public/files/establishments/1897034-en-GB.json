@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3965244",
-    "Longitude": "-0.0862857"
-  },
+  "Geocode": null,
   "AddressLine1": "The Clifton Arms",
   "AddressLine2": "21 Clifton Road",
   "AddressLine3": "South Norwood",
   "AddressLine4": "London",
   "PostCode": "SE25 6NJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

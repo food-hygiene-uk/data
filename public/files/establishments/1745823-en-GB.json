@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1121767",
+    "Longitude": "-3.1587214"
+  },
   "AddressLine1": "29B Kirk Wynd Kirkcaldy Fife",
   "PostCode": "KY1 1EH",
   "SchemeType": "FHIS",

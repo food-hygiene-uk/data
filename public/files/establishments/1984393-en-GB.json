@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.551325",
+    "Longitude": "0.04684"
+  },
   "AddressLine1": "31 Station Road",
   "AddressLine2": "Manor Park",
   "AddressLine3": "London",

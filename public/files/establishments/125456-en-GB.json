@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.115136",
+    "Longitude": "-3.155754"
+  },
   "AddressLine1": "25 Mitchell Street Kirkcaldy Fife",
   "PostCode": "KY1 1BD",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.043478",
+    "Longitude": "-3.426254"
+  },
   "AddressLine1": "170 Queensferry Road Rosyth Dunfermline Fife",
   "PostCode": "KY11 2JF",
   "SchemeType": "FHIS",

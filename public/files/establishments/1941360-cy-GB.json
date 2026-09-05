@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@newport.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5351613",
-    "Longitude": "-3.0865006"
-  },
+  "Geocode": null,
   "AddressLine1": "St Mellons Country Hotel And Country Club",
   "AddressLine2": "Newport Road",
   "AddressLine3": "Cardiff",
   "AddressLine4": "South Wales",
   "PostCode": "CF3 2XR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

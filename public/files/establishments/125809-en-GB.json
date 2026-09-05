@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.067211",
+    "Longitude": "-3.460671"
+  },
   "AddressLine1": "Moodie Street Dunfermline Fife",
   "PostCode": "KY12 7PL",
   "SchemeType": "FHIS",

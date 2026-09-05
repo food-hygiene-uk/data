@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.99316",
-    "Longitude": "-2.215682"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Cambridge Court",
   "AddressLine2": "Cambridge Drive",
   "AddressLine3": "Clayton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-14",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

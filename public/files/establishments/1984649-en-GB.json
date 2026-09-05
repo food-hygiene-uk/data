@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.4998897",
+    "Longitude": "-2.0103796"
+  },
   "AddressLine1": " 1 Tat Bank Road Oldbury B69 4N",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

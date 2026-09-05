@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.highpeak.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@highpeak.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2546795",
-    "Longitude": "-1.9156769"
-  },
+  "Geocode": null,
   "AddressLine1": "14 High Street",
   "AddressLine2": "Buxton",
   "AddressLine3": "Derbyshire",
   "PostCode": "SK17 6EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

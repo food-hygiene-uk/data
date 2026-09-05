@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.132422",
+    "Longitude": "-3.38961"
+  },
   "AddressLine1": "3 Blackhall Square Kelty Fife",
   "PostCode": "KY4 0EP",
   "SchemeType": "FHIS",

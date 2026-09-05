@@ -7,12 +7,9 @@
   "LocalAuthorityCode": "142",
   "LocalAuthorityName": "Test Valley",
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.206285",
-    "Longitude": "-1.480063"
-  },
+  "Geocode": null,
   "AddressLine1": "31 - 33 Bridge Street",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingDate": "2026-08-21",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

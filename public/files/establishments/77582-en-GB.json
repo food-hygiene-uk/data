@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5598175",
+    "Longitude": "-2.5843849"
+  },
   "AddressLine1": "Coast 4 Gravesend Arbroath",
   "PostCode": "DD11 1HT",
   "SchemeType": "FHIS",

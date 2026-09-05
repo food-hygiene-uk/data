@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7790267",
-    "Longitude": "-2.8932757"
-  },
+  "Geocode": null,
   "AddressLine1": "Ribby Hall Leisure Village Ribby Road",
   "AddressLine3": "Ribby With Wrea",
   "AddressLine4": "Lancashire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-11",
+  "RatingDate": "2026-09-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

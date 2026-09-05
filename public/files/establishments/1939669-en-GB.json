@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "50.988213",
-    "Longitude": "-1.499855"
-  },
+  "Geocode": null,
   "AddressLine1": "15 Bell Street",
   "AddressLine2": "Romsey",
   "AddressLine3": "Hampshire",
   "PostCode": "SO51 8GY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-05-19",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

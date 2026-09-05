@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5169029",
+    "Longitude": "-2.8165581"
+  },
   "AddressLine1": "Pitairlie Garage 2 Pitairlie Road Newbigging Monifieth Dundee",
   "PostCode": "DD5 3RH",
   "SchemeType": "FHIS",

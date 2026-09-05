@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fsa_enforcement@tandridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2174752",
-    "Longitude": "-0.1426913"
-  },
-  "AddressLine1": "Hangar 9 Redhill Aerodrome                                                                          Kings Mill Lane",
+  "Geocode": null,
+  "AddressLine1": "Hangar 9 Redhill Aerodrome Kings Mill Lane",
   "AddressLine2": "South Nutfield",
   "AddressLine4": "Redhill",
   "PostCode": "RH1 5JY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-17",
-  "Scores": null
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

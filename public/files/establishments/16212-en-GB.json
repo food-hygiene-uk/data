@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.335888",
+    "Longitude": "-0.5247381"
+  },
   "AddressLine1": "Bishop David Brown School247 Albert DriveSheerwaterWokingSurrey",
   "PostCode": "GU21 5RF",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.192758",
+    "Longitude": "-3.185273"
+  },
   "AddressLine1": "Bilsland Road Glenrothes Fife",
   "PostCode": "KY6 2DZ",
   "SchemeType": "FHIS",

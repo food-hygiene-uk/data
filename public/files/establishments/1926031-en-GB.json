@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6868795",
-    "Longitude": "-2.6695632"
-  },
+  "Geocode": null,
   "AddressLine1": "Flat 1",
   "AddressLine2": "The Bobbin Mill",
   "AddressLine3": "2 Eaton Avenue",
   "AddressLine4": "Buckshaw Village",
   "PostCode": "PR7 7NA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

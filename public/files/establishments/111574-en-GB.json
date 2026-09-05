@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.679815",
+    "Longitude": "-1.121498"
+  },
   "AddressLine1": "1 Hannah Parade",
   "AddressLine2": "Stonehill Avenue",
   "AddressLine4": "Birstall",

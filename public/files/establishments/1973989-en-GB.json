@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9630539",
-    "Longitude": "-0.165743"
-  },
+  "Geocode": null,
   "AddressLine1": "Blackbird Brewing Ltd",
   "AddressLine2": "Unit 44",
   "AddressLine3": "Gatehouse Hub",
   "AddressLine4": "Neaves Park",
   "PostCode": "BN6 9ZN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

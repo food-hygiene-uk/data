@@ -1,6 +1,6 @@
 {
   "FHRSID": 1742456,
-  "BusinessName": "Street Eats",
+  "BusinessName": "Joe's Amercian Grill",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "65755",
   "BusinessTypeID": 7844,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.617971",
-    "Longitude": "1.717714"
-  },
+  "Geocode": null,
   "AddressLine2": "Acle New Road",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-21",
+  "RatingDate": "2026-09-01",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

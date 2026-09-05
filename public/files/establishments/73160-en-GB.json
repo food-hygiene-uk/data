@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7147168",
+    "Longitude": "-2.4674325"
+  },
   "AddressLine1": "Well Pharmacy 73 - 75 Murray Street Montrose",
   "PostCode": "DD10 8JZ",
   "SchemeType": "FHIS",

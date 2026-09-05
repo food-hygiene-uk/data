@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.071733",
+    "Longitude": "-3.466529"
+  },
   "AddressLine1": "19 Chalmers Street Dunfermline Fife",
   "PostCode": "KY12 8AT",
   "SchemeType": "FHIS",

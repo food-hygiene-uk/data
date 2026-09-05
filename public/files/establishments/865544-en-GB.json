@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gravesham.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.ratingscheme@gravesham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.435155",
-    "Longitude": "0.390397"
-  },
+  "Geocode": null,
   "AddressLine1": "125 Rochester Road",
   "AddressLine2": "Gravesend",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-31",
+  "RatingDate": "2026-08-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

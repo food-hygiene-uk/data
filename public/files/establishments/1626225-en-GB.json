@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.derbyshiredales.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@derbyshiredales.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1402033",
-    "Longitude": "-1.8045752"
-  },
+  "Geocode": null,
   "AddressLine1": "Yha Hartington Hall",
   "AddressLine2": "Hall Bank",
   "AddressLine3": "Hartington",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-12-14",
+  "RatingDate": "2026-08-20",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }
