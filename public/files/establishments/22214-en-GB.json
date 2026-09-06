@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.989607",
+    "Longitude": "-1.497703"
+  },
   "AddressLine1": "11 Latimer Street",
   "AddressLine2": "Romsey",
   "AddressLine3": "Hampshire",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.48960695",
+    "Longitude": "-3.1894249"
+  },
   "AddressLine1": "Highlander Park  Victoria Street  Craigellachie  Moray",
   "PostCode": "ie Moray",
   "SchemeType": "FHIS",

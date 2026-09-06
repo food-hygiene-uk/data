@@ -1,13 +1,13 @@
 {
   "FHRSID": 1964753,
-  "BusinessName": "The Hubb",
+  "BusinessName": "The Hubb @ Amirah Lounge",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00091/COM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "158",
   "LocalAuthorityName": "Hertsmere",
   "LocalAuthorityWebSite": "http://www.hertsmere.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@hertsmere.gov.uk",
   "Geocode": {
     "Latitude": "51.6392658",
@@ -19,8 +19,12 @@
   "AddressLine4": "Borehamwood",
   "PostCode": "WD6 3RE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9351477",
+    "Longitude": "-1.471076"
+  },
   "AddressLine1": "Unit B7",
   "AddressLine2": "Adanac Trade Park",
   "AddressLine3": "Adanac Drive",

@@ -7,22 +7,18 @@
   "LocalAuthorityCode": "898",
   "LocalAuthorityName": "Blackpool",
   "LocalAuthorityWebSite": "http://www.blackpool.gov.uk/Services/A-F/FoodHygiene/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodcontrol@blackpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.811918",
-    "Longitude": "-3.050271"
-  },
-  "AddressLine1": "51 Chapel Street",
-  "AddressLine2": "Blackpool",
+  "Geocode": null,
+  "AddressLine1": "Fern Villa Guest House 51 Chapel Street",
   "PostCode": "FY1 5HF",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-08-02",
+  "RatingDate": "2026-08-07",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

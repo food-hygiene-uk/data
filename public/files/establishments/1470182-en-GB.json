@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6370829",
+    "Longitude": "-3.2944335"
+  },
   "AddressLine1": "2 Southfield Drive  Elgin  Moray",
   "PostCode": "IV30 6GR",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.700368",
+    "Longitude": "-1.085954"
+  },
   "AddressLine2": "250 Fosse Way",
   "AddressLine4": "Syston",
   "PostCode": "LE7 1NH",

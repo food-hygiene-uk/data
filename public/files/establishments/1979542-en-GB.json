@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4685595",
+    "Longitude": "-3.5332376"
+  },
   "AddressLine1": "8 Tor Hill House Union Street Torquay",
   "PostCode": "TQ2 5QW",
   "SchemeType": "FHRS",

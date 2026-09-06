@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.630043",
+    "Longitude": "-1.082898"
+  },
   "AddressLine1": "Leicester General Hospital",
   "AddressLine2": "Gwendolen Road",
   "AddressLine3": "Leicester",

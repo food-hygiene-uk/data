@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.206285",
+    "Longitude": "-1.480063"
+  },
   "AddressLine1": "31 - 33 Bridge Street",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",

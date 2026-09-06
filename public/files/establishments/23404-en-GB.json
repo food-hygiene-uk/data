@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.20354",
+    "Longitude": "-1.493806"
+  },
   "AddressLine1": "Anton Arms",
   "AddressLine2": "Salisbury Road",
   "AddressLine3": "Andover",

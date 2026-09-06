@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7054786682129",
+    "Longitude": "-1.09122002124786"
+  },
   "AddressLine1": "Building 18 Syston Mill",
   "AddressLine2": "Mill Lane",
   "AddressLine4": "Syston",

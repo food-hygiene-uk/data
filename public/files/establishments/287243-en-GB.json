@@ -1,13 +1,13 @@
 {
   "FHRSID": 287243,
-  "BusinessName": "Tastys Food Limited",
+  "BusinessName": "Tasty's",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "5050",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "707",
   "LocalAuthorityName": "Northumberland",
   "LocalAuthorityWebSite": "http://www.northumberland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@northumberland.gov.uk",
   "Geocode": {
     "Latitude": "54.961142",
@@ -18,12 +18,12 @@
   "AddressLine3": "Northumberland",
   "PostCode": "NE42 5DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-27",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-31",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.686937",
+    "Longitude": "-1.094223"
+  },
   "AddressLine2": "928a Melton Road",
   "AddressLine4": "Thurmaston",
   "PostCode": "LE4 8JY",

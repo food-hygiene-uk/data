@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.718493",
+    "Longitude": "-3.283456"
+  },
   "AddressLine1": "23 Clifton Road  Lossiemouth  Moray",
   "PostCode": "IV31 6DJ",
   "SchemeType": "FHIS",

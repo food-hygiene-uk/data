@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.781738",
+    "Longitude": "-1.213149"
+  },
   "AddressLine1": "Unit 5",
   "AddressLine2": "Jubilee Drive",
   "AddressLine4": "Loughborough",

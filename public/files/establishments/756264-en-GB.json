@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.607297",
+    "Longitude": "-1.101625"
+  },
   "AddressLine1": "24 South Knighton Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE2 3LP",

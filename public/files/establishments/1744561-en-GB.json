@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.215237",
+    "Longitude": "-1.4739536"
+  },
   "AddressLine1": "Unit 2  Churchill Retail Park",
   "AddressLine2": "New Street",
   "AddressLine3": "Andover",

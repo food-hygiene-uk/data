@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.63109",
+    "Longitude": "-1.119091"
+  },
   "AddressLine1": "St Peters Health Centre",
   "AddressLine2": "Sparkenhoe Street",
   "AddressLine3": "Leicester",

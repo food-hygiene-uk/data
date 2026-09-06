@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2032419",
+    "Longitude": "-1.4961317"
+  },
   "AddressLine1": "82A Salisbury Road",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",

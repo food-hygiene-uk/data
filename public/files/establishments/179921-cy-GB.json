@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.661199",
+    "Longitude": "-3.13769"
+  },
   "AddressLine1": "Greenfields",
   "AddressLine2": "Foundry Lane",
   "AddressLine3": "Welshpool",

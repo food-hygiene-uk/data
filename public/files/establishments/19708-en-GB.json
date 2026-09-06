@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5424455",
+    "Longitude": "-2.9494383"
+  },
   "AddressLine1": "187 Mid Street  Keith  Moray",
   "PostCode": "AB55 5BL",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.600451",
+    "Longitude": "-3.332582"
+  },
   "AddressLine1": "New Mills",
   "AddressLine2": "Newtown",
   "AddressLine3": "Powys",
