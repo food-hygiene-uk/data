@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.7266",
-    "Longitude": "-2.529878"
-  },
+  "Geocode": null,
   "AddressLine1": "Swan Hotel",
   "AddressLine2": "Newerne Street",
   "AddressLine3": "Lydney",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-22",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

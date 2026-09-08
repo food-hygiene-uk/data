@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": {
-    "Latitude": "55.0197779",
-    "Longitude": "-1.6458488"
-  },
+  "Geocode": null,
   "AddressLine1": "45 Belsay Gardens",
   "AddressLine2": "Gosforth",
   "AddressLine3": "Newcastle Upon Tyne",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-09-08",
+  "RatingDate": "2026-08-12",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

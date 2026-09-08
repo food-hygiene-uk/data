@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4319192",
-    "Longitude": "-2.7212565"
-  },
+  "Geocode": null,
   "AddressLine1": "Watercress Farm Barns",
   "AddressLine2": "Bristol Road",
   "AddressLine3": "Wraxall",
   "AddressLine4": "Bristol",
   "PostCode": "BS48 1NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

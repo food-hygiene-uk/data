@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7218364",
-    "Longitude": "-0.7719351"
-  },
+  "Geocode": null,
   "AddressLine1": "The Cottage Hampden Bottom Farm",
   "AddressLine2": "Rignall Road",
   "AddressLine3": "Little Hampden",
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP16 9PT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.588603",
-    "Longitude": "-0.247891"
-  },
+  "Geocode": null,
   "AddressLine2": "385 Lincoln Road",
   "AddressLine3": "Peterborough",
   "PostCode": "PE1 2PF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
+  "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

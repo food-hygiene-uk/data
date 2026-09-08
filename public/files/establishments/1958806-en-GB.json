@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.derrystrabane.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@derrystrabane.com",
-  "Geocode": {
-    "Latitude": "54.99661",
-    "Longitude": "-7.3219375"
-  },
+  "Geocode": null,
   "AddressLine1": "10 Magazine Street",
   "AddressLine3": "Londonderry",
   "PostCode": "BT48 6HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

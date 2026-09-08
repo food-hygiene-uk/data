@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9534645080566",
-    "Longitude": "-1.84819495677948"
-  },
+  "Geocode": null,
   "AddressLine1": "JCB (Excavators) Ltd Lakeside Works",
   "AddressLine2": "Station Road",
   "AddressLine3": "Rocester",
   "AddressLine4": "Uttoxeter",
   "PostCode": "ST14 5JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

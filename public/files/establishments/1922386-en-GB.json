@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5105868",
-    "Longitude": "-0.0966557"
-  },
+  "Geocode": null,
   "AddressLine1": "Riverside Retail Unit",
   "AddressLine2": "Sir John Lyon House",
   "AddressLine3": "8 High Timber Street",
   "AddressLine4": "London",
   "PostCode": "EC4V 3PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

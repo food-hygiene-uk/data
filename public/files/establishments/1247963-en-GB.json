@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8017044067383",
-    "Longitude": "-1.63016295433044"
-  },
+  "Geocode": null,
   "AddressLine1": "7- 8 Market Place",
   "AddressLine2": "Burton upon Trent",
   "PostCode": "DE14 1HA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-06-25",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

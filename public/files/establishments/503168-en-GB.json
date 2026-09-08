@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.193364",
-    "Longitude": "-1.708422"
-  },
+  "Geocode": null,
   "AddressLine1": "29 Meer Street",
   "AddressLine2": "Stratford-upon-Avon",
   "PostCode": "CV37 6QB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-16",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 838682,
-  "BusinessName": "Eastfield Fish and Chips",
+  "BusinessName": "Eastfield Fish & Chips",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "63771",
   "BusinessTypeID": 7844,
@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": {
-    "Latitude": "52.588611",
-    "Longitude": "-0.217717"
-  },
+  "Geocode": null,
   "AddressLine2": "2 Hill Close",
   "AddressLine3": "Eastfield",
   "AddressLine4": "Peterborough",
   "PostCode": "PE1 5LZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

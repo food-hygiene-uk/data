@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.8965682983398",
-    "Longitude": "-1.87055695056915"
-  },
+  "Geocode": null,
   "AddressLine1": "Picknalls County First School",
   "AddressLine2": "Oldfields Road",
   "AddressLine3": "Uttoxeter",
   "PostCode": "ST14 7QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

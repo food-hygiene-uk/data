@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2370396",
-    "Longitude": "-1.6842011"
-  },
+  "Geocode": null,
   "AddressLine1": "Principal Dentistry",
   "AddressLine2": "The Surgery",
   "AddressLine3": "Church Road",
   "AddressLine4": "Snitterfield",
   "PostCode": "CV37 0LF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

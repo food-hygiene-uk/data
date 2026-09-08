@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": {
-    "Latitude": "53.436962",
-    "Longitude": "-2.915001"
-  },
+  "Geocode": null,
   "AddressLine1": "26 Hornspit Lane",
   "AddressLine3": "Liverpool",
   "PostCode": "L12 5LT",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-03-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 25,
-    "ConfidenceInManagement": 30
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

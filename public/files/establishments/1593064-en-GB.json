@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8021006",
-    "Longitude": "-1.8920359"
-  },
+  "Geocode": null,
   "AddressLine1": "Ferndown Day Centre Library Road",
   "AddressLine3": "Ferndown",
   "AddressLine4": "Dorset",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-02",
+  "RatingDate": "2026-08-21",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

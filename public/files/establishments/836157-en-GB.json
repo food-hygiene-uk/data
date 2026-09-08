@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "55.231927",
-    "Longitude": "-6.513254"
-  },
+  "Geocode": null,
   "AddressLine1": "48 Causeway Road",
   "AddressLine2": "Ardihannon",
   "AddressLine3": "Bushmills",
   "AddressLine4": "Antrim",
   "PostCode": "BT57 8SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-07-22",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

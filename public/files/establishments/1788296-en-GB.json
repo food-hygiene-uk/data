@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.ceredigion.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "CLIC@ceredigion.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4150238037109",
-    "Longitude": "-4.08690881729126"
-  },
+  "Geocode": null,
   "AddressLine1": "22 Pier Street",
   "AddressLine3": "Aberystwyth",
   "AddressLine4": "Ceredigion",
   "PostCode": "SY23 2LN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2025-02-05",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-28",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

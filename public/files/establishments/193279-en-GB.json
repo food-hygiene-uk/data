@@ -1,6 +1,6 @@
 {
   "FHRSID": 193279,
-  "BusinessName": "Sticky Fingers",
+  "BusinessName": "Bossmans",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "32282",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.757755279541",
-    "Longitude": "-0.276565998792648"
-  },
+  "Geocode": null,
   "AddressLine2": "187b Preston Road",
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU9 5UY",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-05-19",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stratford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@stratford-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.334358",
-    "Longitude": "-1.820339"
-  },
+  "Geocode": null,
   "AddressLine1": "The Leasowes",
   "AddressLine2": "Tanworth-in-Arden",
   "AddressLine3": "Solihull",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-08-07",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

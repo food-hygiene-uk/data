@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@stalbans.gov.uk",
-  "Geocode": {
-    "Latitude": "51.804121",
-    "Longitude": "-0.356417"
-  },
+  "Geocode": null,
   "AddressLine1": "Public House",
   "AddressLine2": "Hatching Green",
   "AddressLine3": "Harpenden",
   "AddressLine4": "Hertfordshire",
   "PostCode": "AL5 2JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-07-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

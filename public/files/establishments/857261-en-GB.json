@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.015756",
-    "Longitude": "-4.762476"
-  },
+  "Geocode": null,
   "AddressLine1": "Wenallt",
   "AddressLine2": "Felindre Farchog",
   "AddressLine3": "Crymych",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2018-08-17",
+  "RatingDate": "2026-08-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.726569",
-    "Longitude": "-2.526678"
-  },
+  "Geocode": null,
   "AddressLine1": "13 Hams Road",
   "AddressLine2": "Lydney",
   "AddressLine3": "Gloucestershire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-17",
-  "Scores": null
+  "RatingDate": "2026-08-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
