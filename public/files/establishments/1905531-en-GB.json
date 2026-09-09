@@ -7,12 +7,23 @@
   "LocalAuthorityCode": "149",
   "LocalAuthorityName": "Redditch",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.303351",
+    "Longitude": "-1.8951061"
+  },
+  "AddressLine1": "7 Winyates Centre",
+  "AddressLine2": "Redditch",
+  "AddressLine3": "Worcestershire",
+  "PostCode": "B98 0NR",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

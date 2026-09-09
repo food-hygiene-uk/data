@@ -10,11 +10,15 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": null,
-  "AddressLine1": "250 Babbacombe Road Wellswood Torquay Torbay Torquay",
+  "AddressLine1": "250 Babbacombe Road Wellswood  Torquay",
   "PostCode": "TQ1 3TA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

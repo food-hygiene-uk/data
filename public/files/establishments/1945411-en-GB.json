@@ -1,6 +1,6 @@
 {
   "FHRSID": 1945411,
-  "BusinessName": "LUCKY NOODLE",
+  "BusinessName": "Lucky Noodle & Pamir Xin Jiang cuisine",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "18178",
   "BusinessTypeID": 1,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4503324",
-    "Longitude": "0.0573413"
-  },
+  "Geocode": null,
   "AddressLine1": "5 St Marys Place",
   "AddressLine3": "Eltham",
   "AddressLine4": "Greenwich",
   "PostCode": "SE9 1BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

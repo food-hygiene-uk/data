@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.oadby-wigston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@oadby-wigston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.581879",
-    "Longitude": "-1.121583"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Station Road",
   "AddressLine2": "Wigston",
   "AddressLine3": "Leicestershire",
   "PostCode": "LE18 2DH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

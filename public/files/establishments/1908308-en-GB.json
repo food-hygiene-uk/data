@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6688466",
+    "Longitude": "-1.0229168"
+  },
   "AddressLine1": "Unit 1 Beeby Fields",
   "AddressLine2": "Barkby Road",
   "AddressLine4": "Beeby",

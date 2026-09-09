@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.077508",
-    "Longitude": "0.581331"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Well Lane",
   "AddressLine2": "Clare",
   "AddressLine3": "Suffolk",
   "PostCode": "CO10 8NH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

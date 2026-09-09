@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.757673",
+    "Longitude": "0.112641"
+  },
   "AddressLine1": "9 North House",
   "AddressLine2": "Bush Fair",
   "AddressLine3": "Harlow",

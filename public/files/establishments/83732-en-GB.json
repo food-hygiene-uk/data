@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.735879",
-    "Longitude": "0.506322"
-  },
+  "Geocode": null,
   "AddressLine1": "Asda",
   "AddressLine2": "1 - 11 Village Square",
   "AddressLine3": "Springfield",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingDate": "2026-08-28",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

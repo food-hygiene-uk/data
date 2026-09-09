@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3394165039063",
-    "Longitude": "-2.73807811737061"
-  },
+  "Geocode": null,
   "AddressLine1": "Lowlands Road",
   "AddressLine2": "Runcorn",
   "AddressLine3": "Halton",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-17",
+  "RatingDate": "2026-08-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

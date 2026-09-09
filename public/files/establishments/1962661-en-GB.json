@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.982888",
-    "Longitude": "-0.0201936"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2 Boston Shopping Park",
   "AddressLine2": "Horncastle Road",
   "AddressLine4": "Boston",
   "PostCode": "PE21 9BD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

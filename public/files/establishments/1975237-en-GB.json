@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5294841",
-    "Longitude": "-0.2614361"
-  },
+  "Geocode": null,
   "AddressLine1": "B3 Bakery Towers Unit A 22",
   "AddressLine2": "Alpha Beta Business Centre",
   "AddressLine3": "7 - 11 Minerva Road",
   "AddressLine4": "Park Royal",
   "PostCode": "NW10 6HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

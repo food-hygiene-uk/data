@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.717728",
+    "Longitude": "-1.10614"
+  },
   "AddressLine2": "Main Street",
   "AddressLine4": "Cossington",
   "PostCode": "LE7 4UU",

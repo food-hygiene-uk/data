@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.768037",
+    "Longitude": "0.094239"
+  },
   "AddressLine1": "Unit 16",
   "AddressLine2": "The Water Gardens",
   "AddressLine3": "College Square",

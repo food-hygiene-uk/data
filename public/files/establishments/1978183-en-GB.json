@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nuneatonandbedworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@nuneatonandbedworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4630338",
-    "Longitude": "-1.5363906"
-  },
+  "Geocode": null,
   "AddressLine1": "Youth Community And Schools Former Keresley College",
   "AddressLine2": "Bennetts Road North",
   "AddressLine4": "Keresley End",
   "PostCode": "CV7 8LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

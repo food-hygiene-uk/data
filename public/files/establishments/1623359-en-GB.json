@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7922965",
+    "Longitude": "0.125212"
+  },
   "AddressLine1": "Unit 13",
   "AddressLine2": "Ozdil House",
   "AddressLine3": "River Way",

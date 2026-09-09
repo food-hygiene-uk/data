@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.746687",
-    "Longitude": "0.757997"
-  },
+  "Geocode": null,
   "AddressLine1": "Church Street",
   "AddressLine2": "Goldhanger",
   "AddressLine3": "Maldon",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-27",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

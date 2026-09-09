@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.maldon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentservices.request@maldon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7309157",
-    "Longitude": "0.6804624"
-  },
+  "Geocode": null,
   "AddressLine1": "Salt",
   "AddressLine2": "102B - 102D High Street",
   "AddressLine3": "Maldon",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-08-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

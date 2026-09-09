@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.759501",
+    "Longitude": "-1.206867"
+  },
   "AddressLine2": "201 Park Road",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 2HE",

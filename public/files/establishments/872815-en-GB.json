@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.764229",
+    "Longitude": "0.061919"
+  },
   "AddressLine1": "22 Horsecroft Place",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

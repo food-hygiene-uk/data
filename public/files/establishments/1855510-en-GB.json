@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7596264",
+    "Longitude": "0.1042662"
+  },
   "AddressLine1": "48 Rushes Mead",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.726223",
+    "Longitude": "-2.533667"
+  },
   "AddressLine1": "Lydney",
   "AddressLine2": "Gloucestershire",
   "PostCode": "GL15 5HW",

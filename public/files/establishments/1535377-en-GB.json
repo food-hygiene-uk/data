@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8858162",
-    "Longitude": "-2.5789752"
-  },
-  "AddressLine2": "17 Wolfs Fell Close",
-  "AddressLine3": "Chipping",
-  "AddressLine4": "Preston",
-  "PostCode": "PR3 2DR",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-04-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

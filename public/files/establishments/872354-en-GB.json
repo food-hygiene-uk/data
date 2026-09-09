@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.753187",
+    "Longitude": "0.091959"
+  },
   "AddressLine1": "7-8 Staple Tye",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

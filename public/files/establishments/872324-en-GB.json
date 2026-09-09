@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harlow.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@harlow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.758007",
+    "Longitude": "0.13345"
+  },
   "AddressLine1": "12 Prentice Place",
   "AddressLine2": "Harlow",
   "AddressLine3": "Essex",

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.575708",
-    "Longitude": "0.06661"
-  },
+  "Geocode": null,
   "AddressLine2": "380-386 Cranbrook Road",
   "AddressLine4": "Ilford",
   "PostCode": "IG2 6HW",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 5
   }
 }

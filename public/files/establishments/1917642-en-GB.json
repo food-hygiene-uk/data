@@ -1,9 +1,9 @@
 {
   "FHRSID": 1917642,
   "BusinessName": "Lilly's Bakehouse",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/202600026",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

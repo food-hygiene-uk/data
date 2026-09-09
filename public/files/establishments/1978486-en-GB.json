@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9374185",
-    "Longitude": "1.2800202"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 18",
   "AddressLine2": "32 - 34 Kingsway",
   "AddressLine3": "Dovercourt",
   "AddressLine4": "Harwich",
   "PostCode": "CO12 3AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

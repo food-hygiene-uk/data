@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.halton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FSA_Enforcement@halton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3900052",
-    "Longitude": "-2.7455531"
-  },
-  "AddressLine1": "95 Cronton Lane",
+  "Geocode": null,
+  "AddressLine1": "75 Cronton Lane",
   "AddressLine2": "Widnes",
   "AddressLine3": "Halton",
-  "PostCode": "WA8 5AP",
+  "PostCode": "WA8 9AR",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-01-15",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-07-27",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 25,
-    "ConfidenceInManagement": 30
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

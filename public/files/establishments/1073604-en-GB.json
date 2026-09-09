@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "201",
   "LocalAuthorityName": "Pendle",
   "LocalAuthorityWebSite": "http://www.pendle.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.food@pendle.gov.uk",
   "Geocode": {
     "Latitude": "53.857120513916",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "BB8 9BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-19",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.809015",
-    "Longitude": "-1.717736"
-  },
+  "Geocode": null,
   "AddressLine2": "Fagley Road",
   "AddressLine3": "Bradford",
   "PostCode": "BD2 3JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-03-19",
+  "RatingDate": "2026-09-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

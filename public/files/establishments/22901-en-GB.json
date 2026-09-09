@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "50.992074",
-    "Longitude": "-1.482003"
-  },
+  "Geocode": null,
   "AddressLine1": "Romsey Hospital",
   "AddressLine2": "Winchester Hill",
   "AddressLine3": "Romsey",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-19",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

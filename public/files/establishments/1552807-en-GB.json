@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.825642",
-    "Longitude": "-1.733302"
-  },
+  "Geocode": null,
   "AddressLine2": "275 Bradford Road",
   "AddressLine3": "Idle",
   "AddressLine4": "Bradford",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-31",
+  "RatingDate": "2026-08-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

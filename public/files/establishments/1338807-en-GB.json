@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.9037827",
-    "Longitude": "-2.1481542"
-  },
+  "Geocode": null,
   "AddressLine2": "7a Radford Street",
   "AddressLine3": "Stone",
   "AddressLine4": "Staffordshire",
   "PostCode": "ST15 8DA",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2026-06-30",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

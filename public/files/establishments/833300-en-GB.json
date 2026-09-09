@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.679395",
+    "Longitude": "-1.0979846"
+  },
   "AddressLine2": "22A Garden Street",
   "AddressLine4": "Thurmaston",
   "PostCode": "LE4 8DS",

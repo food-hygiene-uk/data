@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.458525",
-    "Longitude": "-2.5619854"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 8 Russell Town Industrial Centre",
   "AddressLine2": "Russell Town Avenue",
   "AddressLine3": "Redfield",
   "AddressLine4": "Bristol",
   "PostCode": "BS5 9LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

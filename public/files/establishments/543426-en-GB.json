@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.401728",
+    "Longitude": "-0.655217"
+  },
   "AddressLine1": "High Street",
   "AddressLine2": "Sunninghill",
   "AddressLine3": "Ascot",

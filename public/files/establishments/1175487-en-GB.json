@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.692901",
+    "Longitude": "-1.2738243"
+  },
   "AddressLine1": "Home Farm",
   "AddressLine2": "Priory Lane",
   "AddressLine4": "Ulverscroft",

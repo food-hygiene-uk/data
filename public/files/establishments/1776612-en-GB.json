@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.glasgow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@glasgow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.87059235",
+    "Longitude": "-4.29956881"
+  },
   "AddressLine2": "2 Byres Road",
   "AddressLine3": "Glasgow",
   "SchemeType": "FHIS",
