@@ -1,13 +1,13 @@
 {
   "FHRSID": 1742387,
   "BusinessName": "CPCT Holiday Activities Programme",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "24/00392/MIXED",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
   "Geocode": {
     "Latitude": "51.4117039",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "SE20 8BD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-08",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1841679,
-  "BusinessName": "Metropolitan Catering Westend LTD",
+  "BusinessName": "XIAN DAGE NOODLE BAR",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "206187",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "506",
   "LocalAuthorityName": "Camden",
   "LocalAuthorityWebSite": "http://www.camden.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@camden.gov.uk",
   "Geocode": {
     "Latitude": "51.5218058",
@@ -17,8 +17,12 @@
   "AddressLine4": "London",
   "PostCode": "WC1E 7LY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

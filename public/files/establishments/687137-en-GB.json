@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.458147",
-    "Longitude": "0.138741"
-  },
+  "Geocode": null,
   "AddressLine1": "Trinity Place",
   "AddressLine2": "Bexleyheath",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-06-06",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

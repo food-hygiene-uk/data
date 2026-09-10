@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.071996",
+    "Longitude": "-3.462555"
+  },
   "AddressLine1": "Carnegie Drive Dunfermline Fife",
   "PostCode": "KY12 7BB",
   "SchemeType": "FHIS",

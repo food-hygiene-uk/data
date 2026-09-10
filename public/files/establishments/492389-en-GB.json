@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8821464",
-    "Longitude": "-0.5158224"
-  },
+  "Geocode": null,
   "AddressLine1": "The Anchorage",
   "AddressLine2": "160 High Street South",
   "AddressLine3": "Dunstable",
   "AddressLine4": "Beds",
   "PostCode": "LU6 3HS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

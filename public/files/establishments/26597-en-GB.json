@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.221562",
+    "Longitude": "-1.498378"
+  },
   "AddressLine1": "St Thomas Church And Community Hall",
   "AddressLine2": "Enham Lane",
   "AddressLine3": "Charlton",

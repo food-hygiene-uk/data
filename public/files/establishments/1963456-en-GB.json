@@ -1,13 +1,13 @@
 {
   "FHRSID": 1963456,
-  "BusinessName": "Moonlight Chaat House Ltd",
+  "BusinessName": "Moon Light Chaat House",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "160843",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "518",
   "LocalAuthorityName": "Hounslow",
   "LocalAuthorityWebSite": "http://www.hounslow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@hounslow.gov.uk",
   "Geocode": {
     "Latitude": "51.4757272",
@@ -17,8 +17,12 @@
   "AddressLine3": "Isleworth",
   "PostCode": "TW7 5AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4604703",
+    "Longitude": "-3.5221491"
+  },
   "AddressLine1": "14-16 Parkhill Road  Torquay",
   "PostCode": "TQ1 2AL",
   "SchemeType": "FHRS",

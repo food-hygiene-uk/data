@@ -1,6 +1,6 @@
 {
   "FHRSID": 1542243,
-  "BusinessName": "Hole in One Bistro",
+  "BusinessName": "The Bar & Grill",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/010024825",
   "BusinessTypeID": 1,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4074372",
-    "Longitude": "-3.1205658"
-  },
+  "Geocode": null,
   "AddressLine1": "Moreton Hills Golf Centre Tarran Way South",
   "AddressLine3": "Moreton",
   "AddressLine4": "Wirral",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-13",
+  "RatingDate": "2026-08-24",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5083084106445",
-    "Longitude": "-0.0592540018260479"
-  },
+  "Geocode": null,
   "AddressLine1": "The Dock",
   "AddressLine2": "Wapping Lane",
   "AddressLine3": "London",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-29",
+  "RatingDate": "2026-09-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

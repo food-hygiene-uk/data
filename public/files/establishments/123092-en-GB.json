@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.340179",
+    "Longitude": "-2.794546"
+  },
   "AddressLine1": "70 Market Street St Andrews Fife",
   "PostCode": "KY16 9NU",
   "SchemeType": "FHIS",

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hartlepool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "jane.kett@hartlepool.gov.uk",
-  "Geocode": {
-    "Latitude": "54.7011591",
-    "Longitude": "-1.1919518"
-  },
+  "Geocode": null,
   "AddressLine2": "136-140 Northgate",
   "AddressLine3": "Hartlepool",
   "PostCode": "TS24 0EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-03-05",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 10,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }

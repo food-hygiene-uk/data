@@ -1,13 +1,13 @@
 {
   "FHRSID": 125371,
-  "BusinessName": "Ready for Eat",
+  "BusinessName": "Ready to Eat",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "5387",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
   "Geocode": {
     "Latitude": "53.485704",
@@ -17,12 +17,12 @@
   "AddressLine3": "Salford",
   "PostCode": "M3 7AG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

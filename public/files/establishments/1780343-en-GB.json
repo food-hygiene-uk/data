@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1636462",
-    "Longitude": "-0.3018427"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Church Street",
   "AddressLine2": "Tempsford",
   "AddressLine3": "Sandy",
   "AddressLine4": "Beds",
   "PostCode": "SG19 2AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

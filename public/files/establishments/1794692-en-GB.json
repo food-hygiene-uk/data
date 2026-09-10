@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9793322",
+    "Longitude": "-0.0242731"
+  },
   "AddressLine1": "Unit 12 Waterfall Plaza",
   "AddressLine2": "Church Close",
   "AddressLine4": "Boston",

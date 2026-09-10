@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5332981",
-    "Longitude": "-0.0585796"
-  },
+  "Geocode": null,
   "AddressLine2": "7-8 The Oval",
   "AddressLine3": "London",
   "PostCode": "E2 9DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

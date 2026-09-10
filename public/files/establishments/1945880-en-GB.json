@@ -1,6 +1,6 @@
 {
   "FHRSID": 1945880,
-  "BusinessName": "Clubs Complete At Pavilion Ashby",
+  "BusinessName": "ClubsComplete @ Pavilion Ashby",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00085/MIXED",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Leicestershire",
   "PostCode": "LE65 1DT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

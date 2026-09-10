@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.998432",
+    "Longitude": "-1.399423"
+  },
   "AddressLine1": "77 Flexford Close",
   "AddressLine2": "Chandlers Ford",
   "AddressLine3": "Eastleigh",

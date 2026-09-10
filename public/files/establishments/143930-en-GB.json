@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.787704",
-    "Longitude": "-0.450879"
-  },
+  "Geocode": null,
   "AddressLine1": "Beverley Road",
   "AddressLine2": "Skidby",
   "AddressLine3": "Cottingham",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-05",
-  "Scores": null
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

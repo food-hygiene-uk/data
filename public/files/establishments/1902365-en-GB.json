@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4626961",
+    "Longitude": "-3.5182226"
+  },
   "AddressLine1": "527 Babbacombe Road  Torquay",
   "PostCode": "TQ1 1HG",
   "SchemeType": "FHRS",

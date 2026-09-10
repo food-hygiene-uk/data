@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.47328",
-    "Longitude": "-0.487831"
-  },
+  "Geocode": null,
   "AddressLine1": "Commercial Unit Agl21 Terminal 5 A-Gate Level",
   "AddressLine2": "Wellington Road",
   "AddressLine4": "London Heathrow Airport",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-11",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

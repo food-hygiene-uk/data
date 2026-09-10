@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "703",
   "LocalAuthorityName": "Cheshire East",
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
   "Geocode": {
     "Latitude": "53.1924558",
@@ -18,8 +18,12 @@
   "AddressLine4": "Cheshire East",
   "PostCode": "CW10 9AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

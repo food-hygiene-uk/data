@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.lancaster.gov.uk/foodratings",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@lancaster.gov.uk",
-  "Geocode": {
-    "Latitude": "54.048754",
-    "Longitude": "-2.803488"
-  },
+  "Geocode": null,
   "AddressLine1": "The Robert Gillow",
   "AddressLine2": "64 Market Street",
   "AddressLine3": "Lancaster",
   "AddressLine4": "Lancashire",
   "PostCode": "LA1 1HP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-08",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 5
   }
 }

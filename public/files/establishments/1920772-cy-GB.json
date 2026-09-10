@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7751606",
-    "Longitude": "-3.2462534"
-  },
+  "Geocode": null,
   "AddressLine2": "44 Commercial Street",
   "AddressLine3": "Tredegar",
   "AddressLine4": "Blaenau Gwent",
   "PostCode": "NP22 3DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2026-03-26",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-08-14",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

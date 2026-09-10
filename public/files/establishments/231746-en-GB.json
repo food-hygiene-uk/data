@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.978966",
+    "Longitude": "-0.023739"
+  },
   "AddressLine1": "Curtis",
   "AddressLine2": "4 Strait Bargate",
   "AddressLine4": "Boston",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.978138",
+    "Longitude": "-0.020976"
+  },
   "AddressLine1": "Boston Conservative Club",
   "AddressLine2": "16b Main Ridge West",
   "AddressLine4": "Boston",

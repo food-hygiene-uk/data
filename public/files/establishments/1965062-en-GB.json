@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.57923",
-    "Longitude": "-1.3139928"
-  },
+  "Geocode": null,
   "AddressLine1": "The Dog And Gun",
   "AddressLine2": "72 Keats Lane",
   "AddressLine3": "Earl Shilton",
   "AddressLine4": "Leicester",
   "PostCode": "LE9 7DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

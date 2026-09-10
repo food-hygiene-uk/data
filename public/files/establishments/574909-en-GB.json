@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8289908",
-    "Longitude": "-0.364975"
-  },
+  "Geocode": null,
   "AddressLine1": "86 Penfold Road",
   "AddressLine3": "Worthing",
   "AddressLine4": "West Sussex",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-02-18",
-  "Scores": null
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

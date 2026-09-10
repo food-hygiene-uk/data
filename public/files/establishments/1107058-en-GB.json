@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4573783874512",
-    "Longitude": "0.140518993139267"
-  },
+  "Geocode": null,
   "AddressLine1": "Roberts Hall",
   "AddressLine2": "Christchurch",
   "AddressLine3": "Broadway",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-20",
+  "RatingDate": "2026-09-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

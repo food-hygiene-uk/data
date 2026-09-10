@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3296676",
-    "Longitude": "-2.3977071"
-  },
+  "Geocode": null,
   "AddressLine1": "PARKSIDE COTTAGE MERESIDE ROAD",
   "AddressLine4": "KNUTSFORD",
   "PostCode": "WA16 6QQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

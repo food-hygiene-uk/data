@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5069496",
-    "Longitude": "-0.1260027"
-  },
+  "Geocode": null,
   "AddressLine1": "8 NORTHUMBERLAND AVENUE",
   "AddressLine3": "LONDON",
   "PostCode": "WC2N 5BY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-01-06",
-  "Scores": null
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

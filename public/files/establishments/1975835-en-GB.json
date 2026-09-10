@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5026181",
-    "Longitude": "-0.0104759"
-  },
+  "Geocode": null,
   "AddressLine2": "15 Harbord Square",
   "AddressLine3": "London",
   "PostCode": "E14 9QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

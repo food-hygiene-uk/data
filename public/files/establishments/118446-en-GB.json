@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.342056",
+    "Longitude": "-2.804502"
+  },
   "AddressLine1": "2 Links Crescent St Andrews Fife",
   "PostCode": "KY16 9HP",
   "SchemeType": "FHIS",

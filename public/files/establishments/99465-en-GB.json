@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.205519",
+    "Longitude": "-2.764355"
+  },
   "AddressLine1": "32 East Street St Monans Anstruther Fife",
   "PostCode": "KY10 2AT",
   "SchemeType": "FHIS",

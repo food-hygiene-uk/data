@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5255314",
-    "Longitude": "-0.2037928"
-  },
+  "Geocode": null,
   "AddressLine1": "536-538 HARROW ROAD",
   "AddressLine3": "LONDON",
   "PostCode": "W9 3QF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-11",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

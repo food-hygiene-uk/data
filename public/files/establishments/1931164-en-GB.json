@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7569847106934",
-    "Longitude": "-1.3687059879303"
-  },
+  "Geocode": null,
   "AddressLine1": "Thringstone County Primary School",
   "AddressLine2": "Hensons Lane",
   "AddressLine3": "Thringstone",
   "AddressLine4": "Coalville",
   "PostCode": "LE67 8LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

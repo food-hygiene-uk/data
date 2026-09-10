@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1116654",
-    "Longitude": "-2.3796487"
-  },
+  "Geocode": null,
   "AddressLine1": "Maple Leaf House 385 Crewe Road",
   "AddressLine2": "Winterley",
   "AddressLine4": "Cheshire East",
   "PostCode": "CW11 4RS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

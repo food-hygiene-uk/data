@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.21406",
+    "Longitude": "-1.493577"
+  },
   "AddressLine1": "Xpresso",
   "AddressLine2": "61A Charlton Road",
   "AddressLine3": "Andover",

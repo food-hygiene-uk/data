@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.682444",
-    "Longitude": "-0.0216552"
-  },
+  "Geocode": null,
   "AddressLine1": "Truckcare Unit 3",
   "AddressLine2": "Prossers Yard",
   "AddressLine3": "New Ford Road",
   "AddressLine4": "Waltham Cross",
   "PostCode": "EN8 7PG",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.havering.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5772323608398",
-    "Longitude": "0.183152005076408"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Lockwood Walk",
   "AddressLine2": "Romford",
   "PostCode": "RM1 3RH",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-04-10",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

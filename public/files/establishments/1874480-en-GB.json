@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.691287",
-    "Longitude": "-0.033795"
-  },
+  "Geocode": null,
   "AddressLine1": "280 High Street",
   "AddressLine2": "Waltham Cross",
   "AddressLine3": "Hertfordshire",
   "PostCode": "EN8 7EA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-01-22",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

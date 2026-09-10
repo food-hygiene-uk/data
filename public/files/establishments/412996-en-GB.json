@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5227146",
-    "Longitude": "-0.1658765"
-  },
+  "Geocode": null,
   "AddressLine1": "BASEMENT AND GROUND FLOOR 49-51 LISSON GROVE",
   "AddressLine3": "LONDON",
   "PostCode": "NW1 6UH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-28",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

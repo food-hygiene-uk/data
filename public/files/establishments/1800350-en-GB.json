@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9091339",
-    "Longitude": "-0.1702808"
-  },
+  "Geocode": null,
   "AddressLine1": "Maddys Bakery",
   "AddressLine2": "15 The Glebe",
   "AddressLine3": "Chells Way",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-21",
-  "Scores": null
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

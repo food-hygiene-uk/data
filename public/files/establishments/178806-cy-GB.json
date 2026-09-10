@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2214660644531",
-    "Longitude": "-3.18510293960571"
-  },
+  "Geocode": null,
   "AddressLine1": "Llanfihangel Nant Melan",
   "AddressLine2": "New Radnor",
   "AddressLine3": "Presteigne",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-09-13",
+  "RatingDate": "2026-09-04",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

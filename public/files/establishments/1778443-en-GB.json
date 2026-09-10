@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3735184",
-    "Longitude": "-0.4554416"
-  },
+  "Geocode": null,
   "AddressLine1": "PizzaExpress",
   "AddressLine2": "1 Monument Hill",
   "AddressLine3": "Weybridge",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-23",
-  "Scores": null
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.899914",
-    "Longitude": "-0.208268"
-  },
+  "Geocode": null,
   "AddressLine1": "3A Stevenage Leisure Park",
   "AddressLine2": "Kings Way",
   "AddressLine3": "Stevenage",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-05-21",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

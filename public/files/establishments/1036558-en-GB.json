@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1095308",
+    "Longitude": "-3.1598301"
+  },
   "AddressLine1": "107-109 High Street Kirkcaldy Fife",
   "PostCode": "KY1 1LW",
   "SchemeType": "FHIS",

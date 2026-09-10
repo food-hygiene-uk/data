@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2402622",
+    "Longitude": "-1.5448366"
+  },
   "AddressLine1": "Clanville Farm",
   "AddressLine2": "Penton Park Lane",
   "AddressLine3": "Clanville",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4778533",
+    "Longitude": "-3.5262241"
+  },
   "AddressLine1": "155-157 St Marychurch Road  Torquay",
   "PostCode": "TQ1 3HW",
   "SchemeType": "FHRS",

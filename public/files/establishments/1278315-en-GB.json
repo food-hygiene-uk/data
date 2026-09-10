@@ -7,22 +7,19 @@
   "LocalAuthorityCode": "530",
   "LocalAuthorityName": "Tower Hamlets",
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5166372",
-    "Longitude": "-0.0750715"
-  },
+  "Geocode": null,
   "AddressLine2": "40a Goulston Street",
   "AddressLine3": "London",
   "PostCode": "E1 7TP",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-08-04",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 20
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

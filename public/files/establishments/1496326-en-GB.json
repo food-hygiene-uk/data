@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.3789368",
+    "Longitude": "-2.8787954"
+  },
   "AddressLine1": "Integrated Welfare Facility Hudson Place Leuchars St Andrews Fife",
   "PostCode": "KY16 0JN",
   "SchemeType": "FHIS",

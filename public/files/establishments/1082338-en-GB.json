@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5592",
+    "Longitude": "0.07436"
+  },
   "AddressLine2": "300-310 High Road",
   "AddressLine4": "Ilford",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.980285",
+    "Longitude": "-0.019225"
+  },
   "AddressLine1": "Rice & Spice",
   "AddressLine2": "55 Wide Bargate",
   "AddressLine4": "Boston",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.11107",
+    "Longitude": "-3.1579311"
+  },
   "AddressLine1": "165 - 171 High Street Kirkcaldy Fife",
   "PostCode": "KY1 1JA",
   "SchemeType": "FHIS",

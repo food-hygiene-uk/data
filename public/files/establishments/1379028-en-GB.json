@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.6845592",
-    "Longitude": "-2.3301047"
-  },
+  "Geocode": null,
   "AddressLine1": "Old Barn",
   "AddressLine2": "Tor View Farm",
   "AddressLine3": "Helmshore Road",
   "AddressLine4": "Helmshore",
   "PostCode": "BB4 4AB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

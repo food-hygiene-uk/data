@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.158466",
+    "Longitude": "-3.069565"
+  },
   "AddressLine1": "Off Main Road East Wemyss Kirkcaldy Fife",
   "PostCode": "KY1 4RE",
   "SchemeType": "FHIS",

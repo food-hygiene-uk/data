@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.520951",
-    "Longitude": "-0.044557"
-  },
+  "Geocode": null,
   "AddressLine2": "104 White Horse Lane",
   "AddressLine3": "London",
   "PostCode": "E1 4LR",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-08-06",
   "Scores": {
     "Hygiene": 10,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.740152",
-    "Longitude": "-0.198742"
-  },
+  "Geocode": null,
   "AddressLine1": "2 St Augustines Gate",
   "AddressLine2": "Hedon",
   "AddressLine3": "Hull",
   "PostCode": "HU12 8EX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

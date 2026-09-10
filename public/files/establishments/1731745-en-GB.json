@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.569524",
-    "Longitude": "-1.346288"
-  },
+  "Geocode": null,
   "AddressLine1": "Townend Road",
   "AddressLine2": "Barwell",
   "AddressLine3": "Leicester",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-30",
+  "RatingDate": "2026-08-28",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

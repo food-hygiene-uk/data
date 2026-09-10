@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.006159",
-    "Longitude": "-0.428546"
-  },
+  "Geocode": null,
   "AddressLine1": "Silsoe Community Sports Centre",
   "AddressLine2": "Chestnut Avenue",
   "AddressLine3": "Silsoe",
   "AddressLine4": "Bedford",
   "PostCode": "MK45 4GP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

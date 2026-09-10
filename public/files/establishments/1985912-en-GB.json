@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0161477",
+    "Longitude": "-1.504461"
+  },
   "AddressLine1": "Unit 11",
   "AddressLine2": "Manor Nursery",
   "AddressLine3": "Stockbridge Road",

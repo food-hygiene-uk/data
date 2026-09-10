@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0074055",
+    "Longitude": "-1.3989427"
+  },
   "AddressLine1": "Hawstead Farm",
   "AddressLine2": "Hursley Road",
   "AddressLine3": "Chandlers Ford",

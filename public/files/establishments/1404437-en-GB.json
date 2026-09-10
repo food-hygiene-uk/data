@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.320873",
-    "Longitude": "1.149125"
-  },
+  "Geocode": null,
   "AddressLine1": "17 Church Street",
   "AddressLine2": "EYE",
   "AddressLine3": "Suffolk",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-31",
+  "RatingDate": "2026-08-25",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5451232",
-    "Longitude": "-0.4773373"
-  },
+  "Geocode": null,
   "AddressLine1": "Royal House",
   "AddressLine2": "1-4 High Street",
   "AddressLine4": "Uxbridge",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-11",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

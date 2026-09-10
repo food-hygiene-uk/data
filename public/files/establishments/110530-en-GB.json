@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.259974",
+    "Longitude": "-2.6271"
+  },
   "AddressLine1": "28 High Street South Crail Anstruther Fife",
   "PostCode": "KY10 3TE",
   "SchemeType": "FHIS",

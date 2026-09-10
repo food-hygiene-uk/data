@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.0817451",
+    "Longitude": "-3.4361952"
+  },
   "AddressLine1": "6 Alderston Drive Dunfermline Fife",
   "PostCode": "KY12 0XU",
   "SchemeType": "FHIS",

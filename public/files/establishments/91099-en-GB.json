@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.19638",
+    "Longitude": "-2.997855"
+  },
   "AddressLine1": "12-14 Commercial Road Leven Fife",
   "PostCode": "KY8 4LD",
   "SchemeType": "FHIS",

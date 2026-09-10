@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.197501",
+    "Longitude": "-3.002542"
+  },
   "AddressLine1": "Station Road Leven Fife",
   "PostCode": "KY8 4QU",
   "SchemeType": "FHIS",

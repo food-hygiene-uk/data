@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4783901",
+    "Longitude": "-3.5156352"
+  },
   "AddressLine1": "118 Reddenhill Road St Marychurch Torquay Torbay",
   "PostCode": "TQ1 3NT",
   "SchemeType": "FHRS",

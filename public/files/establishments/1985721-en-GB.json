@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9778099",
+    "Longitude": "-0.0296296"
+  },
   "AddressLine2": "23 Station Street",
   "AddressLine4": "Boston",
   "PostCode": "PE21 8RL",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "299",
   "LocalAuthorityName": "Ipswich",
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
   "Geocode": {
     "Latitude": "52.047885",
@@ -18,12 +18,12 @@
   "AddressLine3": "Suffolk",
   "PostCode": "IP2 8JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 0,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

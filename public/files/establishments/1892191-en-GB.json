@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9018341",
-    "Longitude": "-0.2022881"
-  },
+  "Geocode": null,
   "AddressLine1": "21 Town Square",
   "AddressLine2": "Town Centre",
   "AddressLine3": "Stevenage",
   "AddressLine4": "Herts",
   "PostCode": "SG1 1BP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

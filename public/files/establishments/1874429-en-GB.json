@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.747578",
-    "Longitude": "-0.018705"
-  },
+  "Geocode": null,
   "AddressLine1": "5-6 The Precinct",
   "AddressLine2": "High Road",
   "AddressLine3": "Broxbourne",
   "AddressLine4": "Hertfordshire",
   "PostCode": "EN10 7HY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2023-08-18",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5454036",
-    "Longitude": "-0.4783398"
-  },
+  "Geocode": null,
   "AddressLine2": "18 High Street",
   "AddressLine4": "Uxbridge",
   "PostCode": "UB8 1JN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

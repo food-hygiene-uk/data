@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
-  "Geocode": {
-    "Latitude": "53.9240112304688",
-    "Longitude": "-0.800242006778717"
-  },
+  "Geocode": null,
   "AddressLine1": "Blenheim Road",
   "AddressLine2": "Barmby Moor",
   "AddressLine3": "York",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-19",
-  "Scores": null
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

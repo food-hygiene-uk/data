@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.482457",
-    "Longitude": "0.146504"
-  },
+  "Geocode": null,
   "AddressLine1": "37 Nuxley Road",
   "AddressLine2": "Belvedere",
   "AddressLine3": "Kent",
   "PostCode": "DA17 5JQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0639793",
-    "Longitude": "1.1353424"
-  },
-  "AddressLine1": "168 Bramford Road",
-  "AddressLine2": "Ipswich",
-  "AddressLine3": "Suffolk",
-  "PostCode": "IP1 4AB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

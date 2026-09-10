@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.303376",
+    "Longitude": "-3.056868"
+  },
   "AddressLine1": "Elmwood Golf Course Stratheden Cupar Fife",
   "PostCode": "KY15 5RS",
   "SchemeType": "FHIS",

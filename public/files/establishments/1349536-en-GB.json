@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.tendringdc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhsadmin@tendringdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9228857765501",
+    "Longitude": "1.23061418222711"
+  },
   "AddressLine1": "Harwich Quay",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

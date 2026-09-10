@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.170089",
+    "Longitude": "-3.035165"
+  },
   "AddressLine1": "44 Randolph Street Buckhaven Leven Fife",
   "PostCode": "KY8 1AT",
   "SchemeType": "FHIS",

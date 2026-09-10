@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.2079745",
+    "Longitude": "-3.1689427"
+  },
   "AddressLine1": "5 Cadham Centre Glenrothes Fife",
   "PostCode": "KY7 6RU",
   "SchemeType": "FHIS",

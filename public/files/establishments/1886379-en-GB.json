@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5087878",
-    "Longitude": "-0.1256678"
-  },
+  "Geocode": null,
   "AddressLine1": "449 STRAND",
   "AddressLine3": "LONDON",
   "PostCode": "WC2R 0QU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-08",
+  "RatingDate": "2026-09-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

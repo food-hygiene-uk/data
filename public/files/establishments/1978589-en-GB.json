@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
   "AddressLine1": "Londis Denton",
@@ -16,8 +16,12 @@
   "AddressLine4": "Tameside",
   "PostCode": "M34 3JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

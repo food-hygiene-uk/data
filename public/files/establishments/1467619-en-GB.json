@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.685518",
-    "Longitude": "-0.019014"
-  },
+  "Geocode": null,
   "AddressLine1": "192 Eleanor Cross Road",
   "AddressLine2": "Waltham Cross",
   "AddressLine3": "Hertfordshire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-07-21",
-  "Scores": null
+  "RatingDate": "2026-05-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

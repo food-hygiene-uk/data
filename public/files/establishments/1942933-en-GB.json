@@ -1,13 +1,13 @@
 {
   "FHRSID": 1942933,
-  "BusinessName": "FIREBIRD",
+  "BusinessName": "Firebird – Grill Chicken House",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "Cx13923",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": {
     "Latitude": "52.4792364",
@@ -17,8 +17,12 @@
   "AddressLine4": "Smethwick",
   "PostCode": "B66 4EY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

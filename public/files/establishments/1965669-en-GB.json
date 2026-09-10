@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.braintree.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@braintree.gov.uk",
-  "Geocode": {
-    "Latitude": "51.9736138",
-    "Longitude": "0.7075506"
-  },
+  "Geocode": null,
   "AddressLine1": "Le Mote Farm",
   "AddressLine2": "Cross End",
   "AddressLine3": "Pebmarsh",
   "AddressLine4": "Essex",
   "PostCode": "CO9 2NU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

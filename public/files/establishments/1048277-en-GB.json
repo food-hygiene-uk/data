@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.692288",
-    "Longitude": "-2.252711"
-  },
+  "Geocode": null,
   "AddressLine1": "727 Bacup Road",
   "AddressLine2": "Rawtenstall",
   "AddressLine3": "Rossendale",
   "AddressLine4": "Lancashire",
   "PostCode": "BB4 7EU",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-31",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 25,
     "ConfidenceInManagement": 20
   }
 }

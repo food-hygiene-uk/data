@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.190618",
+    "Longitude": "-3.024535"
+  },
   "AddressLine1": "Methil Brae Methil Leven Fife",
   "PostCode": "KY8 2AL",
   "SchemeType": "FHIS",

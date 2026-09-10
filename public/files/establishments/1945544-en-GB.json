@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.173106",
+    "Longitude": "-3.039692"
+  },
   "AddressLine1": "Toll Park Station Road Buckhaven Leven Fife",
   "PostCode": "KY8 1JH",
   "SchemeType": "FHIS",

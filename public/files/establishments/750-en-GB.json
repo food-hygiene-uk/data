@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.ambervalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ambervalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.085486",
+    "Longitude": "-1.478471"
+  },
   "AddressLine1": "6 Bowns Hill Crich Matlock Derbyshire",
   "PostCode": "DE4 5DG",
   "SchemeType": "FHRS",

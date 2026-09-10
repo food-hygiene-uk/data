@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": {
-    "Latitude": "51.500568",
-    "Longitude": "-0.012651"
-  },
+  "Geocode": null,
   "AddressLine2": "123 Meridian Place",
   "AddressLine3": "London",
   "PostCode": "E14 9FE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

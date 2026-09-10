@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.broxbourne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@broxbourne.gov.uk",
-  "Geocode": {
-    "Latitude": "51.709427",
-    "Longitude": "-0.036627"
-  },
+  "Geocode": null,
   "AddressLine1": "33 High Street",
   "AddressLine2": "Cheshunt",
   "AddressLine3": "Hertfordshire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-07-21",
-  "Scores": null
+  "RatingDate": "2026-04-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

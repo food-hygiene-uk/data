@@ -7,17 +7,21 @@
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.591798",
-    "Longitude": "-0.2066793"
+    "Latitude": "51.592034",
+    "Longitude": "-0.205928"
   },
-  "AddressLine1": "Chalgrove Primary School Chalgrove Gardens",
+  "AddressLine1": "Chalgrove Primary School  Chalgrove Gardens London",
   "PostCode": "N3 3PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

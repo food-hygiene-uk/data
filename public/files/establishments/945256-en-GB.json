@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2164938",
+    "Longitude": "-1.5118361"
+  },
   "AddressLine1": "Howard Tenens Andover",
   "AddressLine2": "Unit B1/B2",
   "AddressLine3": "Macadam Way",
