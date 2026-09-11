@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.295489",
-    "Longitude": "-0.349673"
-  },
+  "Geocode": null,
   "AddressLine2": "17b Cannon Grove",
   "AddressLine4": "Fetcham",
   "PostCode": "KT22 9LG",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

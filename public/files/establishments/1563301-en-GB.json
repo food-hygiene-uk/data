@@ -10,9 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
   "Geocode": null,
+  "AddressLine2": "79 High Street",
+  "AddressLine4": "Egham",
+  "PostCode": "TW20 9HE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

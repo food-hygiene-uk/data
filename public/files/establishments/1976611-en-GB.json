@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976611,
-  "BusinessName": "Great Bookham School",
+  "BusinessName": "Edwards & Ward @ Great Bookham School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "3461",
   "BusinessTypeID": 7845,
@@ -14,8 +14,12 @@
   "AddressLine4": "Great Bookham",
   "PostCode": "KT23 4JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

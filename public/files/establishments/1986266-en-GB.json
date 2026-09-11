@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8574641",
+    "Longitude": "-0.4805105"
+  },
   "AddressLine1": "125 Watling Street",
   "AddressLine2": "Caddington",
   "AddressLine3": "Dunstable",

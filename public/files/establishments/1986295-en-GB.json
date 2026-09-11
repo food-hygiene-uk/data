@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.899472",
+    "Longitude": "-0.208279"
+  },
   "AddressLine1": "Unit 1AB Pizza Express",
   "AddressLine2": "Stevenage Leisure Park",
   "AddressLine3": "Kings Way",

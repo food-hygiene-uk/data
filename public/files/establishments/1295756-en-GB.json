@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9103914",
+    "Longitude": "-0.6382108"
+  },
   "AddressLine1": "24 Liddell Way",
   "AddressLine2": "Leighton Buzzard",
   "AddressLine3": "Beds",

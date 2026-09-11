@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.55839304",
-    "Longitude": "1.12497162"
-  },
+  "Geocode": null,
   "AddressLine1": "Swallow Drive",
   "AddressLine2": "Wymondham",
   "AddressLine3": "Norfolk",
   "PostCode": "NR18 9GE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

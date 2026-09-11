@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.282281",
-    "Longitude": "-1.590967"
-  },
+  "Geocode": null,
   "AddressLine2": "26b Market Place",
   "AddressLine4": "Warwick",
   "PostCode": "CV34 4SL",
@@ -21,8 +18,8 @@
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

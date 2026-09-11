@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8806128",
+    "Longitude": "-0.5282554"
+  },
   "AddressLine1": "32 Buttercup Close",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Beds",

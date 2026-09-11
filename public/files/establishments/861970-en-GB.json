@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.899914",
+    "Longitude": "-0.208268"
+  },
   "AddressLine1": "3A Stevenage Leisure Park",
   "AddressLine2": "Kings Way",
   "AddressLine3": "Stevenage",

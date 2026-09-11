@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5144152",
-    "Longitude": "-0.2153023"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Silchester Road",
   "AddressLine2": "LONDON",
   "PostCode": "W10 6EX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-16",
+  "RatingDate": "2026-09-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

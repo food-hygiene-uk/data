@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "161",
   "LocalAuthorityName": "Stevenage",
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
   "Geocode": null,
   "AddressLine1": "Pitch EI01 - Event Island",
@@ -16,12 +16,8 @@
   "AddressLine4": "Stevenage",
   "PostCode": "SG1 1BP",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-03-23",
-  "Scores": {
-    "Hygiene": 20,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": null
 }

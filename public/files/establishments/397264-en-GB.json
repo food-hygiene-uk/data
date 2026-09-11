@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.559123",
-    "Longitude": "-1.47857"
-  },
+  "Geocode": null,
   "AddressLine1": "Honeywell Inn",
   "AddressLine2": "46 Honeywell Street",
   "AddressLine4": "Barnsley",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-17",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "567",
   "LocalAuthorityName": "Rhondda Cynon Taf",
   "LocalAuthorityWebSite": "http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@rctcbc.gov.uk",
   "Geocode": {
     "Latitude": "51.7442255",
@@ -19,8 +19,12 @@
   "AddressLine4": "Aberdare",
   "PostCode": "CF44 9UP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

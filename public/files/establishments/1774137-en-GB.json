@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.1472621",
@@ -17,12 +17,12 @@
   "AddressLine3": "Ashford",
   "PostCode": "TN23 1PF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-08",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

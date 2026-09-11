@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.240653",
+    "Longitude": "-3.384122"
+  },
   "AddressLine1": "Ffordd Ithon",
   "AddressLine2": "Llandrindod",
   "AddressLine3": "Powys",

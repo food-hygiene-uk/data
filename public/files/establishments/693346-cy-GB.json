@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.447602",
+    "Longitude": "-3.538527"
+  },
   "AddressLine1": "Mount Lane Car Park",
   "AddressLine2": "Mount Lane",
   "AddressLine3": "Llanidloes",

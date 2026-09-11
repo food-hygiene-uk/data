@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0304998",
+    "Longitude": "-0.4715343"
+  },
   "AddressLine1": "4 Brightmans Drive",
   "AddressLine2": "Maulden",
   "AddressLine3": "Bedford",

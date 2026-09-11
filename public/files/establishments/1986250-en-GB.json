@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.361283",
+    "Longitude": "-0.3469721"
+  },
   "AddressLine1": "16 The Parade",
   "AddressLine2": "Claygate",
   "AddressLine3": "Esher",

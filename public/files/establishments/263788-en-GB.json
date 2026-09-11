@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6034967",
-    "Longitude": "-1.6387491"
-  },
+  "Geocode": null,
   "AddressLine1": "Building 13 Alexander Hall Defence Academy Of The Uk",
   "AddressLine2": "Shrivenham",
   "AddressLine3": "Swindon",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-16",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

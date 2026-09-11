@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.237447",
-    "Longitude": "0.909651"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2",
   "AddressLine2": "Huis Building",
   "AddressLine3": "School Road",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-23",
-  "Scores": null
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

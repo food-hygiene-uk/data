@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.940347",
-    "Longitude": "-1.545567"
-  },
+  "Geocode": null,
   "AddressLine1": "Kings Arms Hotel",
   "AddressLine2": "18 West Street",
   "AddressLine3": "Chipping Norton",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX7 5AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

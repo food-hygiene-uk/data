@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.975392",
+    "Longitude": "-0.033225"
+  },
   "AddressLine1": "Boston West Business Centre",
   "AddressLine2": "Sleaford Road",
   "AddressLine4": "Boston",

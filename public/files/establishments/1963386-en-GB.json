@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5242732",
-    "Longitude": "-0.6150103"
-  },
+  "Geocode": null,
   "AddressLine1": "260 FARNHAM ROAD",
   "AddressLine3": "SLOUGH",
   "PostCode": "SL1 4XL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

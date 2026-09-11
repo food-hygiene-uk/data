@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.eppingforestdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eppingforestdc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7149243",
-    "Longitude": "0.2455825"
-  },
+  "Geocode": null,
   "AddressLine1": "The Only Way is Fish",
   "AddressLine2": "26 Fyfield Road",
   "AddressLine3": "Ongar",
   "AddressLine4": "Essex",
   "PostCode": "CM5 0AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-05-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

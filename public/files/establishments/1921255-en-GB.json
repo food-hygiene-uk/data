@@ -9,22 +9,19 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.1281159",
-    "Longitude": "-1.4233133"
-  },
+  "Geocode": null,
   "AddressLine1": "Leckford Courtyard",
   "AddressLine2": "Leckford Hut",
   "AddressLine3": "London Road",
   "AddressLine4": "Leckford",
   "PostCode": "SO20 6DE",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-09",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

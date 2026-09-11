@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.979073",
+    "Longitude": "-0.025819"
+  },
   "AddressLine1": "Parish Office",
   "AddressLine2": "1 Wormgate",
   "AddressLine4": "Boston",

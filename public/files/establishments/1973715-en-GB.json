@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.897103",
-    "Longitude": "0.875541"
-  },
+  "Geocode": null,
   "AddressLine1": "2 Wells Road",
   "AddressLine2": "Walsingham",
   "AddressLine3": "Norfolk",
   "PostCode": "NR22 6DJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

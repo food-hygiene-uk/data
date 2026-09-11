@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@publicagroup.uk",
-  "Geocode": {
-    "Latitude": "51.757879",
-    "Longitude": "-1.593298"
-  },
+  "Geocode": null,
   "AddressLine1": "3 Black Bourton Road",
   "AddressLine2": "Carterton",
   "AddressLine3": "Oxfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-28",
+  "RatingDate": "2026-09-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

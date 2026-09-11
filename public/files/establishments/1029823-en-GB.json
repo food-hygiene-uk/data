@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "203",
   "LocalAuthorityName": "Ribble Valley",
   "LocalAuthorityWebSite": "http://www.ribblevalley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@ribblevalley.gov.uk",
   "Geocode": {
     "Latitude": "53.8678932189941",
@@ -18,8 +18,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "BB7 1AW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

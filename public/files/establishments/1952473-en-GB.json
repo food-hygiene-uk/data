@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lambeth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@lambeth.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5070548",
-    "Longitude": "-0.1162858"
-  },
+  "Geocode": null,
   "AddressLine1": "Jimmy's Pop Up",
   "AddressLine2": "The Queen's Walk",
   "AddressLine3": "London",
   "PostCode": "SE1 8XX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

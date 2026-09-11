@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.691629",
-    "Longitude": "-1.319137"
-  },
+  "Geocode": null,
   "AddressLine1": "Halfpenny Lane",
   "AddressLine2": "Pontefract",
   "PostCode": "WF8 4DA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-07",
+  "RatingDate": "2026-09-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1972503,
-  "BusinessName": "Lbm64 Ltd",
+  "BusinessName": "The Burrow",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "3416",
   "BusinessTypeID": 7845,
@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": null,
+  "AddressLine1": "North Lodge",
   "AddressLine2": "Park Drive",
   "AddressLine4": "Ashtead",
   "PostCode": "KT21 1LE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

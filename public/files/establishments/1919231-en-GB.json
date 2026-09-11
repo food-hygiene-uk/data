@@ -1,6 +1,6 @@
 {
   "FHRSID": 1919231,
-  "BusinessName": "Sip \\& Conquer",
+  "BusinessName": "Sip & Conquer",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00034/COM",
   "BusinessTypeID": 1,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5226458",
-    "Longitude": "-0.7236118"
-  },
+  "Geocode": null,
   "AddressLine1": "120 High Street",
   "AddressLine2": "Maidenhead",
   "PostCode": "SL6 1PT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

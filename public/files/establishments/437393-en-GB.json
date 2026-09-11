@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.443309",
-    "Longitude": "-1.469073"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Church Street",
   "AddressLine3": "Ecclesfield",
   "AddressLine4": "Sheffield",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-27",
-  "Scores": null
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9012069",
+    "Longitude": "-0.2009551"
+  },
   "AddressLine1": "Lenny's Fresh Fish",
   "AddressLine2": "1A Market Place",
   "AddressLine3": "Town Centre",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9245856",
+    "Longitude": "-0.646912"
+  },
   "AddressLine1": "Community Hall",
   "AddressLine2": "Hornbeam Close",
   "AddressLine3": "Leighton Buzzard",

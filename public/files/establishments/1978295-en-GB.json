@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.929767",
+    "Longitude": "-0.170848"
+  },
   "AddressLine1": "Round Diamond Primary School Whitehorse Lane",
   "AddressLine2": "Great Ashby",
   "AddressLine3": "Stevenage",

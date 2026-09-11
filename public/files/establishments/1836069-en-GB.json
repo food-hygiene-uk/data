@@ -9,16 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
-  "Geocode": {
-    "Latitude": "51.477859",
-    "Longitude": "-0.6099806"
-  },
-  "AddressLine1": "33 Devereux Road",
-  "AddressLine2": "Windsor",
-  "PostCode": "SL4 1JJ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

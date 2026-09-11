@@ -1,13 +1,13 @@
 {
   "FHRSID": 1932598,
-  "BusinessName": "The Cave Brahma",
+  "BusinessName": "The Cave of Brahma",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "75436",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
     "Latitude": "50.8709879",
@@ -18,8 +18,12 @@
   "AddressLine4": "Somerset",
   "PostCode": "TA20 2AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

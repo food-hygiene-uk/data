@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8911972045898",
+    "Longitude": "-0.5018630027771"
+  },
   "AddressLine1": "Ridgeway Lodge",
   "AddressLine2": "Brandreth Avenue",
   "AddressLine3": "Dunstable",

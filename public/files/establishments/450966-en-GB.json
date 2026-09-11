@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.094665",
+    "Longitude": "-0.29979"
+  },
   "AddressLine1": "G & M Growers",
   "AddressLine2": "79 Hitchin Road",
   "AddressLine3": "Upper Caldecote",

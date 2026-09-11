@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.955329",
+    "Longitude": "-0.284793"
+  },
   "AddressLine1": "42 Bedford Road",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

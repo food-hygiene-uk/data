@@ -1,23 +1,27 @@
 {
   "FHRSID": 1939907,
-  "BusinessName": "L’U (??.)",
+  "BusinessName": "L'U",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00272/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.5745101",
     "Longitude": "-0.2016128"
   },
-  "AddressLine1": "150 Golders Green Road",
+  "AddressLine1": "150 Golders Green Road London",
   "PostCode": "NW11 8HE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

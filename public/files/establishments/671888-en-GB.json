@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": {
-    "Latitude": "52.308992",
-    "Longitude": "-1.925195"
-  },
+  "Geocode": null,
   "AddressLine1": "79 Arrow Road North",
   "AddressLine2": "Lakeside",
   "AddressLine3": "Redditch",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-30",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

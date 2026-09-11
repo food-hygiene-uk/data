@@ -1,28 +1,28 @@
 {
   "FHRSID": 1341021,
-  "BusinessName": "Good Food Delivered",
+  "BusinessName": "Rakuk Limited",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "101834",
   "BusinessTypeID": 7839,
   "LocalAuthorityCode": "885",
   "LocalAuthorityName": "Slough",
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
   "Geocode": {
     "Latitude": "51.5042012",
     "Longitude": "-0.5392961"
   },
-  "AddressLine1": "UNIT B REAR OF 37 NEW ROAD",
-  "AddressLine3": "SLOUGH",
+  "AddressLine1": "Unit A and B 37 New Road",
+  "AddressLine3": "Slough",
   "PostCode": "SL3 8JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-19",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-08-05",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

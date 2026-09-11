@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9035559",
+    "Longitude": "-0.6653447"
+  },
   "AddressLine1": "Unit F2 Grovebury Retail Park",
   "AddressLine2": "Grovebury Road",
   "AddressLine3": "Leighton Buzzard",

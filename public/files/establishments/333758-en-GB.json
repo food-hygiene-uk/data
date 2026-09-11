@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.490979",
-    "Longitude": "-0.182687"
-  },
+  "Geocode": null,
   "AddressLine1": "156 Old Brompton Road",
   "AddressLine2": "LONDON",
   "PostCode": "SW5 0BE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-02",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

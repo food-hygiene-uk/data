@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.warwickdc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@warwickdc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.282427",
-    "Longitude": "-1.58887"
-  },
+  "Geocode": null,
   "AddressLine2": "20 Castle Street",
   "AddressLine4": "Warwick",
   "PostCode": "CV34 4SP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

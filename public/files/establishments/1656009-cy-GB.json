@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.948071",
+    "Longitude": "-3.390967"
+  },
   "AddressLine1": "Lion Street",
   "AddressLine2": "Brecon",
   "AddressLine3": "Powys",

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.674141",
-    "Longitude": "-1.350497"
-  },
+  "Geocode": null,
   "AddressLine1": "191 Pontefract Road",
   "AddressLine2": "Featherstone",
   "AddressLine3": "Pontefract",
   "PostCode": "WF7 5AA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-04-10",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 5
   }
 }

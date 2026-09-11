@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.569903",
-    "Longitude": "-0.128118"
-  },
+  "Geocode": null,
   "AddressLine2": "2 Wingate Parade",
   "AddressLine4": "Grimsby",
   "PostCode": "DN37 9DR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-12",
-  "Scores": null
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
