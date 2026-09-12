@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7650671",
-    "Longitude": "-0.4892594"
-  },
+  "Geocode": null,
   "AddressLine2": "4-5 Rossgate",
   "AddressLine3": "Hemel Hempstead",
   "AddressLine4": "Hertfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-24",
+  "RatingDate": "2026-09-07",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

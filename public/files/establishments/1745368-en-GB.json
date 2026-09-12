@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "184",
   "LocalAuthorityName": "Gravesham",
   "LocalAuthorityWebSite": "http://www.gravesham.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.ratingscheme@gravesham.gov.uk",
   "Geocode": {
     "Latitude": "51.441627",
@@ -18,12 +18,12 @@
   "AddressLine3": "Kent",
   "PostCode": "DA12 2RG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

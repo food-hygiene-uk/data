@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.701811",
+    "Longitude": "-1.297055"
+  },
   "AddressLine1": "Ferrybridge Road",
   "AddressLine2": "Pontefract",
   "PostCode": "WF8 2PB",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.491125",
+    "Longitude": "-2.8325899"
+  },
   "AddressLine1": "Costa Coffee Ethiebeaton Park Ethiebeaton Monifieth Dundee",
   "PostCode": "DD5 4HB",
   "SchemeType": "FHIS",

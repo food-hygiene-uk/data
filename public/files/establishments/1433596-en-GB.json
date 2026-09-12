@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1125722",
-    "Longitude": "0.2154209"
-  },
+  "Geocode": null,
   "AddressLine1": "Strawberry Lodge 52A North Road",
   "AddressLine3": "Great Abington",
   "AddressLine4": "Cambridgeshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-21",
+  "RatingDate": "2026-09-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

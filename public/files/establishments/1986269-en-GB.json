@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0645386",
+    "Longitude": "-0.5564369"
+  },
   "AddressLine1": "11 Caves Gardens",
   "AddressLine2": "Marston Moreteyne",
   "AddressLine3": "Bedford",

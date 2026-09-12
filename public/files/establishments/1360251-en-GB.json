@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5887025",
+    "Longitude": "-1.4257555"
+  },
   "AddressLine1": "48-49 Market Place",
   "AddressLine2": "Wantage",
   "AddressLine3": "Oxon",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.926834",
-    "Longitude": "-0.334267"
-  },
+  "Geocode": null,
   "AddressLine1": "Offley Place Kings Walden Road",
   "AddressLine3": "Offley",
   "AddressLine4": "Hertfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-23",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

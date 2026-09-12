@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8589324",
-    "Longitude": "-1.2475333"
-  },
+  "Geocode": null,
   "AddressLine1": "Eaton Aerospace",
   "AddressLine2": "Abbey Park",
   "AddressLine3": "Southampton Road",
   "AddressLine4": "Titchfield",
   "PostCode": "PO14 4QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

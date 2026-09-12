@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3192097",
+    "Longitude": "-0.6170752"
+  },
   "AddressLine1": "46 Highclere RoadKnaphillWokingSurrey",
   "PostCode": "GU21 2PJ",
   "SchemeType": "FHRS",

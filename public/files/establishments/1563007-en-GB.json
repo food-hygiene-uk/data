@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": {
-    "Latitude": "52.96744",
-    "Longitude": "-0.086884"
-  },
+  "Geocode": null,
   "AddressLine1": "Four Cross Roads Inn",
   "AddressLine2": "Swineshead Road",
   "AddressLine4": "Frampton Holme",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-24",
-  "Scores": null
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

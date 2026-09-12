@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
-  "Geocode": {
-    "Latitude": "54.5209042",
-    "Longitude": "-7.7183979"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Mantlin Road",
   "AddressLine2": "Rosscolban",
   "AddressLine3": "Kesh",
   "AddressLine4": "Fermanagh",
   "PostCode": "BT93 1AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

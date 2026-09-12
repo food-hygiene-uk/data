@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.bathnes.gov.uk/services/environment/food-safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public_protection@bathnes.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3794051",
-    "Longitude": "-2.3968738"
-  },
+  "Geocode": null,
   "AddressLine1": "6 Dominion Road",
   "AddressLine2": "Twerton",
   "AddressLine3": "Bath",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-02-18",
-  "Scores": null
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

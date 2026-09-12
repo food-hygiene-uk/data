@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.674179",
+    "Longitude": "-1.518582"
+  },
   "AddressLine1": "186 Horbury Road",
   "AddressLine2": "Wakefield",
   "PostCode": "WF2 8BQ",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.gloucester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "community.wellbeing@gloucester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.8477164",
-    "Longitude": "-2.2295634"
-  },
+  "Geocode": null,
   "AddressLine1": "Finlay And Tredworth Childrens Centre",
   "AddressLine2": "Tredworth Road",
   "AddressLine3": "Gloucester",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-26",
+  "RatingDate": "2026-09-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

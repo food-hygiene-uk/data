@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3345746",
+    "Longitude": "-0.5105109"
+  },
   "AddressLine1": "Marist RC Primary School58 Old Woking RoadWest ByfleetSurrey",
   "PostCode": "KT14 6HS",
   "SchemeType": "FHRS",

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.maidstone.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@midkent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.2701764",
-    "Longitude": "0.5107558"
-  },
+  "Geocode": null,
   "AddressLine1": "46 - 48 Tonbridge Road",
   "AddressLine2": "Maidstone",
   "AddressLine3": "Kent",
   "PostCode": "ME16 8SE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
   "RatingDate": "2026-07-27",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 15,
+    "Structural": 20,
     "ConfidenceInManagement": 20
   }
 }

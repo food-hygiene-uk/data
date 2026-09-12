@@ -1,6 +1,6 @@
 {
   "FHRSID": 1649922,
-  "BusinessName": "Starbucks Coffee Company",
+  "BusinessName": "Starbucks",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "69932",
   "BusinessTypeID": 1,
@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5578314",
-    "Longitude": "-2.1372996"
-  },
+  "Geocode": null,
   "AddressLine1": "Elk Mill",
   "AddressLine2": "Broadway",
   "AddressLine3": "Royton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-03",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

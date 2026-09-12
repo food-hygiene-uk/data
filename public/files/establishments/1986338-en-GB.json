@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5836542",
+    "Longitude": "-1.311486"
+  },
   "AddressLine1": "Harwell Innovation Centre Curie Avenue",
   "AddressLine2": "Harwell Oxford",
   "AddressLine3": "Didcot",

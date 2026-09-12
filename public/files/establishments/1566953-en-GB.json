@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "325",
   "LocalAuthorityName": "Chichester",
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
   "Geocode": {
     "Latitude": "50.7424171",
@@ -19,12 +19,12 @@
   "AddressLine4": "Chichester",
   "PostCode": "PO20 0FR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-16",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-06",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

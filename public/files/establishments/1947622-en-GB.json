@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9241177",
+    "Longitude": "-0.6539356"
+  },
   "AddressLine1": "92 Clarence Road",
   "AddressLine2": "Leighton Buzzard",
   "AddressLine3": "Beds",

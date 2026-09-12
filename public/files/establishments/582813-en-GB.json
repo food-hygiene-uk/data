@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3174093",
+    "Longitude": "-0.567521"
+  },
   "AddressLine1": "127 - 129 Goldsworth RoadWokingSurrey",
   "PostCode": "GU21 6LR",
   "SchemeType": "FHRS",

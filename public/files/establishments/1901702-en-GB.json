@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.683388",
+    "Longitude": "-1.493601"
+  },
   "AddressLine1": "40 Lower Warrengate",
   "AddressLine2": "Wakefield",
   "PostCode": "WF1 1SA",

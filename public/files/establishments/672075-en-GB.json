@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3234453",
+    "Longitude": "-0.5728444"
+  },
   "AddressLine1": "102C High StreetHorsellWokingSurrey",
   "PostCode": "GU21 4ST",
   "SchemeType": "FHRS",

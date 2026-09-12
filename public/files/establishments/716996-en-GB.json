@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.845919",
-    "Longitude": "-1.201177"
-  },
+  "Geocode": null,
   "AddressLine1": "5 Randal View",
   "AddressLine2": "Bishopsfield Road",
   "AddressLine3": "Fareham",
   "PostCode": "PO14 1FG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-01-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

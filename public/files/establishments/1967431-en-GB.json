@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.surreyheath.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3317638",
-    "Longitude": "-0.7675517"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 20",
   "AddressLine2": "Craven Court",
   "AddressLine3": "Stanhope Road",
   "AddressLine4": "Camberley",
   "PostCode": "GU15 3BS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

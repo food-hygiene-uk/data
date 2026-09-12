@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3260414",
+    "Longitude": "-0.5448612"
+  },
   "AddressLine1": "Unit 13Boundary Business CentreBoundary WayWokingSurrey",
   "PostCode": "GU21 5DH",
   "SchemeType": "FHRS",

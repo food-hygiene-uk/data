@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8855223",
+    "Longitude": "-0.5206994"
+  },
   "AddressLine1": "22 Ashton Square",
   "AddressLine2": "Dunstable",
   "AddressLine3": "Beds",

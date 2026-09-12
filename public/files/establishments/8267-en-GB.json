@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3042088",
+    "Longitude": "-0.5515047"
+  },
   "AddressLine1": "Kingfield Arms PhKingfield RoadKingfieldWokingSurrey",
   "PostCode": "GU22 9EQ",
   "SchemeType": "FHRS",

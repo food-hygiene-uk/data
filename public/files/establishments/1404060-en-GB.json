@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
-  "Geocode": {
-    "Latitude": "53.0557250976563",
-    "Longitude": "-0.804687976837158"
-  },
+  "Geocode": null,
   "AddressLine1": "Flaxley Lane",
   "AddressLine2": "Middlebeck",
   "AddressLine3": "Newark On Trent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-03-11",
+  "RatingDate": "2026-09-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

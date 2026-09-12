@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.908749",
+    "Longitude": "-0.169987"
+  },
   "AddressLine1": "Cooper's Chemist",
   "AddressLine2": "12 Chells Way",
   "AddressLine3": "The Glebe",

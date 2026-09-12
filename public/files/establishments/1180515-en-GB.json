@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastcambs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastcambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.353077",
-    "Longitude": "0.175916"
-  },
+  "Geocode": null,
   "AddressLine1": "Carpond Lane",
   "AddressLine2": "Wilburton",
   "AddressLine3": "Ely",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-10",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

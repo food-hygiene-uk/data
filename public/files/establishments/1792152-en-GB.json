@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.6483856",
+    "Longitude": "-2.8907474"
+  },
   "AddressLine1": "6 Lochside Road Forfar",
   "PostCode": "DD8 3JD",
   "SchemeType": "FHIS",

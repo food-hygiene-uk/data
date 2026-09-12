@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9976279",
-    "Longitude": "-0.1040106"
-  },
+  "Geocode": null,
   "AddressLine1": "KFC",
   "AddressLine2": "121 - 123 South Road",
   "AddressLine3": "Haywards Heath",
   "AddressLine4": "West Sussex",
   "PostCode": "RH16 4LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

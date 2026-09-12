@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.6733719",
+    "Longitude": "-3.0032526"
+  },
   "AddressLine1": "13 Bank Street Kirriemuir",
   "PostCode": "DD8 4BE",
   "SchemeType": "FHIS",

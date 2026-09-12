@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7138921",
+    "Longitude": "-2.4621295"
+  },
   "AddressLine1": "Hope Paton Bowling Club Wellington Street Montrose",
   "PostCode": "DD10 8QB",
   "SchemeType": "FHIS",

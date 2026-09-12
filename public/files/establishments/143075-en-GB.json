@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7406677",
+    "Longitude": "-2.4777919"
+  },
   "AddressLine1": "Hillside Store Main Road Hillside Montrose",
   "PostCode": "DD10 9HQ",
   "SchemeType": "FHIS",

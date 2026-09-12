@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midandeastantrim.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ballymena.envhealth@midandeastantrim.gov.uk",
-  "Geocode": {
-    "Latitude": "54.893582",
-    "Longitude": "-6.203412"
-  },
+  "Geocode": null,
   "AddressLine1": "69 Main Street",
   "AddressLine2": "Broughshane Upper",
   "AddressLine3": "Broughshane",
   "AddressLine4": "Antrim",
   "PostCode": "BT42 4JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

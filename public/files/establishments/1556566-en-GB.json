@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6523983",
+    "Longitude": "-1.5832743"
+  },
   "AddressLine1": "3 Pioneer Road Faringdon",
   "AddressLine2": "Oxon",
   "PostCode": "SN7 7BU",

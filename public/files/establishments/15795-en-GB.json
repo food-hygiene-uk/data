@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.341236",
+    "Longitude": "-0.4990962"
+  },
   "AddressLine1": "Stoop CourtLeisure LaneWest ByfleetSurrey",
   "PostCode": "KT14 6HF",
   "SchemeType": "FHRS",

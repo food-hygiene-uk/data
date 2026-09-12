@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.midulstercouncil.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@midulstercouncil.org",
-  "Geocode": {
-    "Latitude": "54.6470494",
-    "Longitude": "-6.6587146"
-  },
+  "Geocode": null,
   "AddressLine1": "42 Littlebridge Road",
   "AddressLine2": "Drummullan",
   "AddressLine3": "Coagh",
   "AddressLine4": "Co. Londonderry",
   "PostCode": "BT45 7XX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-17",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

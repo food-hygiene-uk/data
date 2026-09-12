@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7532454",
-    "Longitude": "-0.4726407"
-  },
+  "Geocode": null,
   "AddressLine2": "136 Marlowes",
   "AddressLine3": "Hemel Hempstead",
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP1 1EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-15",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

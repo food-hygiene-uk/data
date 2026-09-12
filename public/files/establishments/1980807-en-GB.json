@@ -10,12 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Chalk Lane Narborough",
-  "AddressLine3": "King's Lynn",
+  "AddressLine1": "Community Centre Marham Road",
+  "AddressLine3": "Narborough",
+  "AddressLine4": "Norfolk",
   "PostCode": "PE32 1SR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

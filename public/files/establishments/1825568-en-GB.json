@@ -1,9 +1,9 @@
 {
   "FHRSID": 1825568,
   "BusinessName": "Cheese Queens",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "143383675643494",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

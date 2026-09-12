@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3431711",
+    "Longitude": "-0.4803963"
+  },
   "AddressLine1": "41 Dawson RoadByfleetWest ByfleetSurrey",
   "PostCode": "KT14 7JE",
   "SchemeType": "FHRS",

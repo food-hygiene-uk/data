@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5426624",
-    "Longitude": "-2.1262196"
-  },
+  "Geocode": null,
   "AddressLine2": "154 Middleton Road",
   "AddressLine3": "Oldham",
   "PostCode": "OL9 6BG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-28",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

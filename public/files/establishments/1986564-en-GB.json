@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.213277",
+    "Longitude": "-0.328703"
+  },
   "AddressLine1": "The Cabin",
   "AddressLine2": "Spook Hill",
   "AddressLine4": "North Holmwood",

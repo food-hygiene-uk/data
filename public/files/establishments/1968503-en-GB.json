@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newark-sherwooddc.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nsdc.info",
-  "Geocode": {
-    "Latitude": "53.1022078",
-    "Longitude": "-0.9361638"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1",
   "AddressLine2": "The Grange",
   "AddressLine3": "Kirklington Road",
   "AddressLine4": "Hockerton",
   "PostCode": "NG25 0PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

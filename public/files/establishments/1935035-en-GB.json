@@ -1,13 +1,13 @@
 {
   "FHRSID": 1935035,
-  "BusinessName": "BIRYANIBOX",
+  "BusinessName": "BIRYANI BOX",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00035/FH",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "111",
   "LocalAuthorityName": "Brentwood",
   "LocalAuthorityWebSite": "http://www.brentwood.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@brentwood.gov.uk",
   "Geocode": {
     "Latitude": "51.615051",
@@ -18,8 +18,12 @@
   "AddressLine3": "Essex",
   "PostCode": "CM14 4EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

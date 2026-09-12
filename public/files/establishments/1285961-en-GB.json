@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5903069",
+    "Longitude": "-1.4258569"
+  },
   "AddressLine1": "Unit 3B Limborough Walk",
   "AddressLine2": "Wantage",
   "PostCode": "OX12 9AJ",

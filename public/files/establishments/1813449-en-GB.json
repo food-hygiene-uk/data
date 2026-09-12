@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.315131",
+    "Longitude": "-0.5562841"
+  },
   "AddressLine1": "York House Medical Centre7 Heathside RoadWokingSurrey",
   "PostCode": "GU22 7XL",
   "SchemeType": "FHRS",

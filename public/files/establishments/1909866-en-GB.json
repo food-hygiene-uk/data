@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
-  "Geocode": {
-    "Latitude": "54.3161848",
-    "Longitude": "-7.403617"
-  },
+  "Geocode": null,
   "AddressLine1": "77 Main Street",
   "AddressLine2": "Aghalun",
   "AddressLine3": "Brookeborough",
   "AddressLine4": "Fermanagh",
   "PostCode": "BT94 4EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

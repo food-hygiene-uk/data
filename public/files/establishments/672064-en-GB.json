@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3190863",
+    "Longitude": "-0.557624"
+  },
   "AddressLine1": "7 Church PathWokingSurrey",
   "PostCode": "GU21 6EJ",
   "SchemeType": "FHRS",

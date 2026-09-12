@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.ne-derbyshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ne-derbyshire.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1690452",
-    "Longitude": "-1.4096046"
-  },
+  "Geocode": null,
   "AddressLine1": "Yo To Go",
   "AddressLine2": "Tesco Extra",
   "AddressLine3": "Bridge Street",
   "AddressLine4": "Clay Cross",
   "PostCode": "S45 9NG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

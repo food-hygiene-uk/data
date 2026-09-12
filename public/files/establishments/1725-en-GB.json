@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3623580932617",
-    "Longitude": "-0.0844729989767075"
-  },
+  "Geocode": null,
   "AddressLine1": "16 Campden Road",
   "AddressLine2": "South Croydon",
   "PostCode": "CR2 7EN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-01-25",
+  "RatingDate": "2026-08-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3129162",
+    "Longitude": "-0.6118692"
+  },
   "AddressLine1": "Mixpixie LtdGround Floor SU2BLansbury Estate102 Lower Guildford RoadKnaphillWokingSurrey",
   "PostCode": "GU21 2EP",
   "SchemeType": "FHRS",

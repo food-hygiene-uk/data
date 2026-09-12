@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8935125",
+    "Longitude": "-0.517231"
+  },
   "AddressLine1": "Unit 2",
   "AddressLine2": "Prologis Park",
   "AddressLine3": "Arenson Way",

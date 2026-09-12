@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3180649",
+    "Longitude": "-0.6175975"
+  },
   "AddressLine1": "5 Albion Parade25 High StreetKnaphillWokingSurrey",
   "PostCode": "GU21 2PS",
   "SchemeType": "FHRS",

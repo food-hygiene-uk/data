@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3191662",
+    "Longitude": "-0.5597312"
+  },
   "AddressLine1": "15 Wolsey WalkWolsey PlaceWokingSurrey",
   "PostCode": "GU21 6XU",
   "SchemeType": "FHRS",

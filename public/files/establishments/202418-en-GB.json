@@ -9,10 +9,8 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": {
-    "Latitude": "51.747717",
-    "Longitude": "-0.473354"
-  },
+  "Geocode": null,
+  "AddressLine1": "Unit 7",
   "AddressLine2": "26 Riverside",
   "AddressLine3": "Hemel Hempstead",
   "AddressLine4": "Hertfordshire",
@@ -20,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-02",
+  "RatingDate": "2026-08-22",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

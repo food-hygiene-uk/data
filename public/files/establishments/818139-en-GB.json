@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0862579345703",
+    "Longitude": "-0.264495998620987"
+  },
   "AddressLine1": "9 Market Square",
   "AddressLine2": "Biggleswade",
   "AddressLine3": "Bedfordshire",

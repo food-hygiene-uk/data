@@ -1,13 +1,13 @@
 {
   "FHRSID": 1890157,
-  "BusinessName": "Yorkshire Mini Market",
+  "BusinessName": "Kurdish Mini Market",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9566",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "419",
   "LocalAuthorityName": "Rochdale",
   "LocalAuthorityWebSite": "http://www.rochdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health2@rochdale.gov.uk",
   "Geocode": {
     "Latitude": "53.621463",
@@ -18,8 +18,12 @@
   "AddressLine4": "Lancashire",
   "PostCode": "OL12 0DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

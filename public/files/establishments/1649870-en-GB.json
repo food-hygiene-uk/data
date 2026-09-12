@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4760911",
-    "Longitude": "-2.709576"
-  },
+  "Geocode": null,
   "AddressLine1": "Gordano Service Area",
   "AddressLine2": "Gordano Motorway Services",
   "AddressLine3": "Bristol",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-31",
+  "RatingDate": "2026-09-03",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

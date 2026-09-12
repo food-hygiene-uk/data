@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2086039",
+    "Longitude": "-1.4786675"
+  },
   "AddressLine1": "62 High Street",
   "AddressLine2": "Andover",
   "AddressLine3": "Hampshire",

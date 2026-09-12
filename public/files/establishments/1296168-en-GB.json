@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.midsussex.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@midsussex.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9971814",
-    "Longitude": "-0.1025467"
-  },
+  "Geocode": null,
   "AddressLine1": "Subway",
   "AddressLine2": "80 South Road",
   "AddressLine3": "Haywards Heath",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-18",
+  "RatingDate": "2026-09-06",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

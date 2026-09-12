@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9840351",
+    "Longitude": "-1.4697205"
+  },
   "AddressLine1": "Mountbatten School",
   "AddressLine2": "Whitenap Lane",
   "AddressLine3": "Romsey",

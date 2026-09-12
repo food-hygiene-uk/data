@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.505688",
+    "Longitude": "-0.225979"
+  },
   "AddressLine1": "11 Poplar Mews",
   "AddressLine2": "London",
   "PostCode": "W12 7JS",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1901033,
-  "BusinessName": "RODO",
+  "BusinessName": "Sababa Edgware",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "25/00648/COMM",
   "BusinessTypeID": 1,
@@ -9,15 +9,16 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6160506",
-    "Longitude": "-0.2745781"
-  },
-  "AddressLine1": "295 Hale Lane",
+  "Geocode": null,
+  "AddressLine1": "295 Hale Lane Edgware",
   "PostCode": "HA8 7AX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.newcastle-staffs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@newcastle-staffs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.070288",
-    "Longitude": "-2.2632062"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 28 Freeport Shopping Mall",
   "AddressLine2": "Pit Lane",
   "AddressLine3": "Talke Pits",
   "AddressLine4": "Stoke on Trent",
   "PostCode": "ST7 1XD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

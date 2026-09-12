@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.624114",
+    "Longitude": "-1.404516"
+  },
   "AddressLine1": "89 Cow Lane",
   "AddressLine2": "Havercroft",
   "AddressLine3": "Wakefield",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "113",
   "LocalAuthorityName": "Chelmsford",
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
   "Geocode": {
     "Latitude": "51.79514724",
@@ -18,12 +18,12 @@
   "AddressLine3": "Chelmsford",
   "PostCode": "CM3 1ET",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-08-13",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-10",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

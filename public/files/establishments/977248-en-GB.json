@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.fareham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatory@fareham.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8540000915527",
-    "Longitude": "-1.17731404304504"
-  },
+  "Geocode": null,
   "AddressLine1": "Fareham Library",
   "AddressLine2": "County Library Building",
   "AddressLine3": "Osborn Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-30",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@northlincs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5523968",
-    "Longitude": "-0.6582471"
-  },
+  "Geocode": null,
   "AddressLine1": "Dolphin Inn",
   "AddressLine2": "Messingham Road",
   "AddressLine3": "Bottesford",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-15",
+  "RatingDate": "2026-08-26",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5591726",
+    "Longitude": "-2.5820647"
+  },
   "AddressLine1": "Well Pharmacy 112 High Street Arbroath",
   "PostCode": "DD11 1HN",
   "SchemeType": "FHIS",

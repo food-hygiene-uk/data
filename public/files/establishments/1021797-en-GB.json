@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5346450805664",
-    "Longitude": "-2.10044407844543"
-  },
+  "Geocode": null,
   "AddressLine2": "91-95 Queens Road",
   "AddressLine3": "Oldham",
   "PostCode": "OL8 2BA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-03-12",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

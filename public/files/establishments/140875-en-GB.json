@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8057249",
+    "Longitude": "-2.6545474"
+  },
   "AddressLine1": "Edzell Golf Course High Street Edzell Brechin",
   "PostCode": "DD9 7TF",
   "SchemeType": "FHIS",

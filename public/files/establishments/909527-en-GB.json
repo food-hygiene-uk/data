@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.304349",
+    "Longitude": "-0.303304"
+  },
   "AddressLine1": "Ashtead Hospital",
   "AddressLine2": "The Warren",
   "AddressLine4": "Ashtead",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
-  "Geocode": {
-    "Latitude": "52.610197",
-    "Longitude": "-2.130399"
-  },
+  "Geocode": null,
   "AddressLine1": "The Gatehouse Public House",
   "AddressLine2": "Donington Grove",
   "AddressLine3": "Wolverhampton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-25",
+  "RatingDate": "2026-09-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

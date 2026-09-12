@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4691047668457",
-    "Longitude": "-2.18522310256958"
-  },
+  "Geocode": null,
   "AddressLine1": "Prestwood Drive",
   "AddressLine2": "Stourton",
   "AddressLine3": "South Staffordshire",
   "PostCode": "DY7 5QT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-03-20",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }

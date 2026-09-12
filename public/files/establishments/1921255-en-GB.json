@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.testvalley.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@testvalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1281159",
+    "Longitude": "-1.4233133"
+  },
   "AddressLine1": "Leckford Courtyard",
   "AddressLine2": "Leckford Hut",
   "AddressLine3": "London Road",

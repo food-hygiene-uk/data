@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.centralbedfordshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0360637",
+    "Longitude": "-0.3350853"
+  },
   "AddressLine1": "12C Old Bridge Way",
   "AddressLine2": "Shefford",
   "AddressLine3": "Beds",
