@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.586538",
+    "Longitude": "-3.460335"
+  },
   "AddressLine1": "Dawlish & District Indoor Bowls Association Ltd Sandy Lane Dawlish Devon",
   "PostCode": "EX7 0AF",
   "SchemeType": "FHRS",

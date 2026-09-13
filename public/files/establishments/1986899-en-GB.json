@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5576722",
+    "Longitude": "-0.2160524"
+  },
   "AddressLine1": "194 Cricklewood Broadway",
   "PostCode": "NW2 3BN",
   "SchemeType": "FHRS",

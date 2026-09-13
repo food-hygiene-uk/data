@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.644679",
+    "Longitude": "-0.158568"
+  },
   "AddressLine1": "91 Cat Hill Barnet",
   "PostCode": "EN4 8HP",
   "SchemeType": "FHRS",

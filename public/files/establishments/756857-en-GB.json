@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.595304",
+    "Longitude": "-0.18934"
+  },
   "AddressLine1": "80 East End Road London",
   "PostCode": "N3 2SY",
   "SchemeType": "FHRS",

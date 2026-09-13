@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4818933",
+    "Longitude": "-3.5470918"
+  },
   "AddressLine1": "Unit 10 Woodland Close Torquay Torbay",
   "PostCode": "TQ2 7BB",
   "SchemeType": "FHRS",

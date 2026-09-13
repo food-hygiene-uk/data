@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.612885",
+    "Longitude": "-0.27598"
+  },
   "AddressLine1": "Broadwalk Shopping Centre  Station Road Edgware",
   "PostCode": "HA8 7BQ",
   "SchemeType": "FHRS",

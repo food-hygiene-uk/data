@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.964147",
+    "Longitude": "-0.277848"
+  },
   "AddressLine1": "Our Lady Catholic Primary School Old Hale Way",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

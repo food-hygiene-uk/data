@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.583215",
+    "Longitude": "-0.227984"
+  },
   "AddressLine1": "17 Watford Way London",
   "PostCode": "NW4 3JL",
   "SchemeType": "FHRS",

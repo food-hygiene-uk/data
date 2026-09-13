@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.629715",
+    "Longitude": "-0.15796"
+  },
   "AddressLine1": "67 Russell Lane London",
   "PostCode": "N20 0BB",
   "SchemeType": "FHRS",

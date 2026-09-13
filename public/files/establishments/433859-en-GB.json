@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.530969",
+    "Longitude": "-3.60824"
+  },
   "AddressLine1": "7 Queen Street Newton Abbot Devon",
   "PostCode": "TQ12 2AQ",
   "SchemeType": "FHRS",

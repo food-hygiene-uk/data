@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "113",
   "LocalAuthorityName": "Chelmsford",
   "LocalAuthorityWebSite": "http://www.chelmsford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "safe.support@chelmsford.gov.uk",
   "Geocode": null,
   "AddressLine1": "West Hanningfield Road",
@@ -15,12 +15,12 @@
   "AddressLine3": "Chelmsford",
   "PostCode": "CM2 7SY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-23",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

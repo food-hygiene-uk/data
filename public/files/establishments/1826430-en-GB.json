@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.435601",
+    "Longitude": "-3.5636116"
+  },
   "AddressLine1": "19 Torbay Road Roundham With Hyde Paignton Torbay",
   "PostCode": "TQ4 6AA",
   "SchemeType": "FHRS",

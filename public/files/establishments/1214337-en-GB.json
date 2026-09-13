@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.648396",
+    "Longitude": "-1.12399"
+  },
   "AddressLine1": "118 Belgrave Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE4 5AT",

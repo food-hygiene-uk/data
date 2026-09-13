@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6942099",
+    "Longitude": "-1.093603"
+  },
   "AddressLine1": "Unit 1 Wanlip Road Industrial Estate",
   "AddressLine2": "111-117 Wanlip Road",
   "AddressLine4": "Syston",

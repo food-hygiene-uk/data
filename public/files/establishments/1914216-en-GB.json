@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.616258",
+    "Longitude": "-0.218277"
+  },
   "AddressLine1": "Adam And Eve  The Ridgeway London",
   "PostCode": "NW7 1RL",
   "SchemeType": "FHRS",

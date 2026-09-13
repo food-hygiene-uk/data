@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.561464",
+    "Longitude": "-0.197408"
+  },
   "AddressLine1": "675 Finchley Road London",
   "PostCode": "NW2 2JP",
   "SchemeType": "FHRS",

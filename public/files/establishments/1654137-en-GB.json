@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587434",
+    "Longitude": "-0.229899"
+  },
   "AddressLine1": "59 The Burroughs London",
   "PostCode": "NW4 4AX",
   "SchemeType": "FHRS",

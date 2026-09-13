@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5250813",
+    "Longitude": "-3.7524483"
+  },
   "AddressLine1": "Cuddyford Broad Park Ashburton",
   "PostCode": "TQ13 7EN",
   "SchemeType": "FHRS",

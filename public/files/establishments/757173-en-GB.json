@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.646473",
+    "Longitude": "-0.178485"
+  },
   "AddressLine1": "The Cedars Nursing Home 12 Richmond Road Barnet",
   "PostCode": "EN5 1SB",
   "SchemeType": "FHRS",

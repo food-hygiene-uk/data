@@ -1,13 +1,13 @@
 {
   "FHRSID": 1763092,
   "BusinessName": "The Jannah Indian Cuisine",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9213172",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "032",
   "LocalAuthorityName": "South Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
   "Geocode": {
     "Latitude": "52.1557913",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-01-09",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

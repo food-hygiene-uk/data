@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7721238",
+    "Longitude": "-1.238962"
+  },
   "AddressLine1": "Charnwood College",
   "AddressLine2": "Thorpe Hill",
   "AddressLine4": "Loughborough",

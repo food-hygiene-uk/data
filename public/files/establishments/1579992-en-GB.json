@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.710449",
+    "Longitude": "-1.095867"
+  },
   "AddressLine1": "Goscote Nurseries",
   "AddressLine2": "Syston Road",
   "AddressLine4": "Cossington",

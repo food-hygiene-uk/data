@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.605864",
+    "Longitude": "-0.17445"
+  },
   "AddressLine1": "3 Leisure Way London",
   "PostCode": "N12 0QZ",
   "SchemeType": "FHRS",

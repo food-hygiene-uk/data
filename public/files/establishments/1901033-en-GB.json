@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.615988",
+    "Longitude": "-0.274851"
+  },
   "AddressLine1": "295 Hale Lane Edgware",
   "PostCode": "HA8 7AX",
   "SchemeType": "FHRS",

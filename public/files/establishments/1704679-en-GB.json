@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5452926",
+    "Longitude": "-3.4977226"
+  },
   "AddressLine1": "10 Northumberland Place Teignmouth",
   "PostCode": "TQ14 8DD",
   "SchemeType": "FHRS",

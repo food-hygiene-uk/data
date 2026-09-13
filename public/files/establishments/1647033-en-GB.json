@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.722712",
+    "Longitude": "-3.288189"
+  },
   "AddressLine1": "59 Queen Street  Lossiemouth  Moray",
   "PostCode": "IV31 6PY",
   "SchemeType": "FHIS",

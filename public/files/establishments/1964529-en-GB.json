@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.626489",
+    "Longitude": "-0.269801"
+  },
   "AddressLine1": "Broadfields Parade  Glengall Road Edgware",
   "PostCode": "HA8 8TD",
   "SchemeType": "FHRS",

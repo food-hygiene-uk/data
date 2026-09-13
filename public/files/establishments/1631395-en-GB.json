@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5947406",
+    "Longitude": "-0.2501789"
+  },
   "AddressLine1": "132 Colindale Avenue London",
   "PostCode": "NW9 4AX",
   "SchemeType": "FHRS",

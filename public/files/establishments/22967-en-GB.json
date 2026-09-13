@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5455360412598",
+    "Longitude": "-3.49445223808289"
+  },
   "AddressLine1": "The Den Teignmouth Devon",
   "PostCode": "TQ14 8BD",
   "SchemeType": "FHRS",

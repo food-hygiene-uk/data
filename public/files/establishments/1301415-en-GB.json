@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.582268",
+    "Longitude": "-0.226621"
+  },
   "AddressLine1": "258 Hendon Way London",
   "PostCode": "NW4 3NL",
   "SchemeType": "FHRS",

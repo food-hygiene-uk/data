@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6345399",
+    "Longitude": "-1.1333773"
+  },
   "AddressLine1": "Corn Exchange",
   "AddressLine2": "1 Market Place",
   "AddressLine3": "Leicester",

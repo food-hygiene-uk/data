@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5994482",
+    "Longitude": "-3.4590279"
+  },
   "AddressLine1": "Unit 7 Black Swan Business Park Black Swan Road Dawlish Devon",
   "PostCode": "EX7 0FQ",
   "SchemeType": "FHRS",

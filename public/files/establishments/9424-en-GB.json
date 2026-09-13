@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.546337",
+    "Longitude": "-3.496454"
+  },
   "AddressLine1": "17 Bank Street Teignmouth Devon",
   "PostCode": "TQ14 8AW",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.058529",
+    "Longitude": "-0.021632"
+  },
   "AddressLine1": "Roysia Surgery Burns Road",
   "AddressLine3": "Royston",
   "AddressLine4": "Hertfordshire",

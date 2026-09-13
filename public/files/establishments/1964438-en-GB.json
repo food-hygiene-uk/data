@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.79657",
+    "Longitude": "-1.254705"
+  },
   "AddressLine2": "12 Cross Street",
   "AddressLine4": "Hathern",
   "PostCode": "LE12 5LB",

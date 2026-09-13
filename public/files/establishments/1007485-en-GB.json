@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.543514251709",
+    "Longitude": "-3.497633934021"
+  },
   "AddressLine1": "Lower Point Car Park Strand Teignmouth Devon",
   "PostCode": "TQ14 8BW",
   "SchemeType": "FHRS",

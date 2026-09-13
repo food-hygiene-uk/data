@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.midlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@midlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8576289",
+    "Longitude": "-3.1653646"
+  },
   "AddressLine1": "Roslin Post Office 35 Main Street Roslin EH25 9LA",
   "PostCode": "EH25 9LA",
   "SchemeType": "FHIS",

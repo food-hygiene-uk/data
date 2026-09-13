@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6123381",
+    "Longitude": "-0.2755194"
+  },
   "AddressLine1": "Broadwalk Shopping Centre Station Road",
   "PostCode": "HA8 7BD",
   "SchemeType": "FHRS",

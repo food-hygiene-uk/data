@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5856257",
+    "Longitude": "-0.213988"
+  },
   "AddressLine1": "46 Green Lane",
   "PostCode": "NW4 2AH",
   "SchemeType": "FHRS",

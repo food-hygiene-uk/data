@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7745888",
+    "Longitude": "-1.2096978"
+  },
   "AddressLine2": "31 Bridge Street",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 1NH",

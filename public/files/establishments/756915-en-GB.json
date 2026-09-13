@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.600039",
+    "Longitude": "-0.196675"
+  },
   "AddressLine1": "12 Hendon Lane London",
   "PostCode": "N3 1TR",
   "SchemeType": "FHRS",

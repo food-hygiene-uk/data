@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587995",
+    "Longitude": "-0.16395"
+  },
   "AddressLine1": "24 High Road London",
   "PostCode": "N2 9PJ",
   "SchemeType": "FHRS",

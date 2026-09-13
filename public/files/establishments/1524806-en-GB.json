@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6379555",
+    "Longitude": "-1.1054536"
+  },
   "AddressLine1": "90 Asfordby Street",
   "AddressLine2": "Leicester",
   "PostCode": "LE5 3QH",

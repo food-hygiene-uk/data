@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.628224",
+    "Longitude": "-1.12064"
+  },
   "AddressLine1": "110 London Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE2 0QS",

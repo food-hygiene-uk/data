@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.976058",
+    "Longitude": "-0.029457"
+  },
   "AddressLine2": "65-69 West Street",
   "AddressLine4": "Boston",
   "PostCode": "PE21 8QZ",

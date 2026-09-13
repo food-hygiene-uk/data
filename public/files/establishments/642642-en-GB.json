@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6476177",
+    "Longitude": "-3.3164559"
+  },
   "AddressLine1": "25 Batchen Street  Elgin  Moray",
   "PostCode": "IV30 1BH",
   "SchemeType": "FHIS",

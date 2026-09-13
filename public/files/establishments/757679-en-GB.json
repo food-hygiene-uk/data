@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.60902",
+    "Longitude": "-0.251199"
+  },
   "AddressLine1": "Trinity Church and Eversfield Centre 11 Eversfield Gardens London",
   "PostCode": "NW7 2AE",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6093897",
+    "Longitude": "-3.6143307"
+  },
   "AddressLine1": "118 High Street  Forres  Moray",
   "PostCode": "IV36 1NP",
   "SchemeType": "FHIS",

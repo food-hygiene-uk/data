@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.458281",
+    "Longitude": "-2.218743"
+  },
   "AddressLine2": "11 Anson Road",
   "AddressLine3": "Manchester",
   "PostCode": "M14 5BY",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.6661341",
+    "Longitude": "-3.6613547"
+  },
   "AddressLine1": "The Old Quarry Bridford",
   "PostCode": "EX6 7LQ",
   "SchemeType": "FHRS",

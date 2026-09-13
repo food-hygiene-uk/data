@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.68416",
+    "Longitude": "-1.0895216"
+  },
   "AddressLine1": "Unit 1 Thurmaston Shopping Centre",
   "AddressLine2": "Barkby Thorpe Lane",
   "AddressLine4": "Thurmaston",

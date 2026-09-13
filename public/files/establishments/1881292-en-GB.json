@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4677701",
+    "Longitude": "-3.531994"
+  },
   "AddressLine1": "Offices 27/28 136 Union Street  Torquay",
   "PostCode": "TQ2 5QB",
   "SchemeType": "FHRS",

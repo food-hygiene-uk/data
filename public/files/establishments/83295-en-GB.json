@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.733745",
+    "Longitude": "-1.147354"
+  },
   "AddressLine1": "Stonehurst Farm",
   "AddressLine2": "141 Loughborough Road",
   "AddressLine4": "Mountsorrel",

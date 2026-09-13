@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6016672",
+    "Longitude": "-0.2025241"
+  },
   "AddressLine1": "Poolside Manor  Lyndhurst Gardens London",
   "PostCode": "N3 1TD",
   "SchemeType": "FHRS",

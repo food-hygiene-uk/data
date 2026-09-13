@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.651111",
+    "Longitude": "-0.175437"
+  },
   "AddressLine1": "10 Lytton Road Barnet",
   "PostCode": "EN5 5BY",
   "SchemeType": "FHRS",

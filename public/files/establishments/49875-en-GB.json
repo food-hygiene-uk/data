@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.750601",
+    "Longitude": "-1.219132"
+  },
   "AddressLine2": "Grasmere Road",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 2ST",

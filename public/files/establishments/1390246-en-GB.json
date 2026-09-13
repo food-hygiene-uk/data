@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6159025",
+    "Longitude": "-0.2411161"
+  },
   "AddressLine1": "43 Daws Lane London",
   "PostCode": "NW7 4SD",
   "SchemeType": "FHRS",

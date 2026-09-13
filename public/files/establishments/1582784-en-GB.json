@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.57844773",
+    "Longitude": "-0.24050768"
+  },
   "AddressLine1": "254 West Hendon Broadway London",
   "PostCode": "NW9 6AG",
   "SchemeType": "FHRS",

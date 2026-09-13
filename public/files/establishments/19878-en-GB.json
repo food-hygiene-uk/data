@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.moray.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@moray.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5261263",
+    "Longitude": "-3.2078241"
+  },
   "AddressLine1": "26 High Street  Rothes  Aberlour  Moray",
   "PostCode": "AB38 7AU",
   "SchemeType": "FHIS",

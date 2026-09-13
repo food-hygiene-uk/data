@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6529677",
+    "Longitude": "-0.1992081"
+  },
   "AddressLine1": "52 High Street Barnet",
   "PostCode": "EN5 5SJ",
   "SchemeType": "FHRS",

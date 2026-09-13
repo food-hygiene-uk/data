@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.554236",
+    "Longitude": "-3.593137"
+  },
   "AddressLine1": "Rydon Road Kingsteignton Newton Abbot Devon",
   "PostCode": "TQ12 3QG",
   "SchemeType": "FHRS",

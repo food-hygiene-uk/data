@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5921112",
+    "Longitude": "-0.2570151"
+  },
   "AddressLine1": "3 Sunnyside Terrace The Hyde",
   "PostCode": "NW9 5DL",
   "SchemeType": "FHRS",

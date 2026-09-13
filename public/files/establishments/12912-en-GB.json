@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.687182",
+    "Longitude": "-3.551499"
+  },
   "AddressLine1": "The Barton Shillingford Abbot Exeter",
   "PostCode": "EX2 9QQ",
   "SchemeType": "FHRS",

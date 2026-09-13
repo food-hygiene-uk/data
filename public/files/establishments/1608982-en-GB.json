@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.615982",
+    "Longitude": "-0.275632"
+  },
   "AddressLine1": "The Promenade  Edgwarebury Lane Edgware",
   "PostCode": "HA8 7JZ",
   "SchemeType": "FHRS",

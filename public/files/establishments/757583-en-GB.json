@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.650999",
+    "Longitude": "-0.215556"
+  },
   "AddressLine1": "Barnet General Hospital  Wellhouse Lane Barnet",
   "PostCode": "EN5 3DJ",
   "SchemeType": "FHRS",

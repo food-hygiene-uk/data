@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6826381",
+    "Longitude": "-1.2275599"
+  },
   "AddressLine1": "Conservatory Tea Rooms",
   "AddressLine2": "501 Bradgate Road",
   "AddressLine4": "Newtown Linford",

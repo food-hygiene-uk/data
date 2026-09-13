@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.charnwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.768845",
+    "Longitude": "-1.207408"
+  },
   "AddressLine2": "13 Bedford Square",
   "AddressLine4": "Loughborough",
   "PostCode": "LE11 2TP",

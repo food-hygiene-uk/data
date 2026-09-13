@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587118",
+    "Longitude": "-0.221086"
+  },
   "AddressLine1": "103 Brent Street",
   "PostCode": "NW4 2DX",
   "SchemeType": "FHRS",

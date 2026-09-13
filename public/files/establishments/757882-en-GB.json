@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.621307",
+    "Longitude": "-0.176344"
+  },
   "AddressLine1": "942 High Road London",
   "PostCode": "N12 9RT",
   "SchemeType": "FHRS",

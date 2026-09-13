@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4678487",
+    "Longitude": "-3.5383096"
+  },
   "AddressLine1": "9-11 Lucius Street Torquay Devon",
   "PostCode": "TQ2 5UW",
   "SchemeType": "FHRS",

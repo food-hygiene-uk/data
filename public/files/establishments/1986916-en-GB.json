@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.632337",
+    "Longitude": "-0.266371"
+  },
   "AddressLine1": "London Gateway Service Area  M1 London Gateway Services Junction 3 From Junction 2 Off Slip London",
   "PostCode": "NW7 3HU",
   "SchemeType": "FHRS",

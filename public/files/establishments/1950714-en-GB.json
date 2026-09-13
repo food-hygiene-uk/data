@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5931195",
+    "Longitude": "-0.1679681"
+  },
   "AddressLine1": "Langley House  Park Road London",
   "PostCode": "N2 8EY",
   "SchemeType": "FHRS",

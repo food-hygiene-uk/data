@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.leicester.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@leicester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.633614",
+    "Longitude": "-1.1045"
+  },
   "AddressLine1": "276 East Park Road",
   "AddressLine2": "Leicester",
   "PostCode": "LE5 5FD",

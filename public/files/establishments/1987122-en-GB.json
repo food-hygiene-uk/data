@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.teignbridge.gov.uk/fhrs",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fhrs@teignbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.5407945",
+    "Longitude": "-3.5062031"
+  },
   "AddressLine1": "50 Fore Street Shaldon",
   "PostCode": "TQ14 0EA",
   "SchemeType": "FHRS",

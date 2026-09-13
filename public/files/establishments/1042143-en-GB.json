@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.602264",
+    "Longitude": "-0.244354"
+  },
   "AddressLine1": "2 The Concourse London",
   "PostCode": "NW9 5XB",
   "SchemeType": "FHRS",

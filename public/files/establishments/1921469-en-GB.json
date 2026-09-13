@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.568281",
+    "Longitude": "-0.202131"
+  },
   "AddressLine1": "Golders Green Synagogue 41 Dunstan Road London",
   "PostCode": "NW11 8AE",
   "SchemeType": "FHRS",

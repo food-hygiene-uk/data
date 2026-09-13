@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5798724",
+    "Longitude": "-0.3370004"
+  },
   "AddressLine1": "79 College Road",
   "PostCode": "HA1 1BD",
   "SchemeType": "FHRS",

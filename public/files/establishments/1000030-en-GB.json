@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.591187",
+    "Longitude": "-0.227097"
+  },
   "AddressLine1": "Meritage Club  Church End London",
   "PostCode": "NW4 4JT",
   "SchemeType": "FHRS",

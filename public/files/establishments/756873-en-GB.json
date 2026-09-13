@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.607549",
+    "Longitude": "-0.183307"
+  },
   "AddressLine1": "Dellfield Court 1 Etchingham Park Road London",
   "PostCode": "N3 2DY",
   "SchemeType": "FHRS",

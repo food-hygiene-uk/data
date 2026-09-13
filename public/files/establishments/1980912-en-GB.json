@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.610313",
+    "Longitude": "-0.278403"
+  },
   "AddressLine1": "72 High Street Edgware",
   "PostCode": "HA8 7EJ",
   "SchemeType": "FHRS",
