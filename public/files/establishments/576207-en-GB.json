@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "138",
   "LocalAuthorityName": "New Forest",
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
   "Geocode": null,
   "AddressLine1": "PETROL STATION",
@@ -15,12 +15,12 @@
   "AddressLine3": "LYMINGTON",
   "PostCode": "SO41 8JY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-01",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-08",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }
