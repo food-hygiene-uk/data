@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.512356",
-    "Longitude": "-0.084413"
-  },
+  "Geocode": null,
   "AddressLine1": "77 Gracechurch Street",
   "AddressLine2": "London",
   "PostCode": "EC3V 0AS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

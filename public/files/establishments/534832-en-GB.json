@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southend.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@southend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.555923",
-    "Longitude": "0.741921"
-  },
+  "Geocode": null,
   "AddressLine1": "Garon Park Golf Club House",
   "AddressLine2": "Garon Park",
   "AddressLine3": "Southend-On-Sea",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

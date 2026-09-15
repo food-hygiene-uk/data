@@ -9,15 +9,16 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": {
-    "Latitude": "50.9641036987305",
-    "Longitude": "-1.37981498241425"
-  },
-  "AddressLine1": "THE AVIARY CHILDRENS CENTRE BLACKBIRD ROAD EASTLEIGH SO50 9JW",
+  "Geocode": null,
+  "AddressLine1": "NIGHTINGALE PRIMARY SCHOOL BLACKBIRD ROAD EASTLEIGH SO50 9JW",
   "PostCode": "SO50 9JW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

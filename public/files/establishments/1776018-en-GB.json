@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cheshirewestandchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@cheshirewestandchester.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2831155",
-    "Longitude": "-3.064463"
-  },
+  "Geocode": null,
   "AddressLine1": "51 West Vale",
   "AddressLine3": "Neston",
   "AddressLine4": "Cheshire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-02",
-  "Scores": null
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

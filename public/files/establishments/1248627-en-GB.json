@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6547317504883",
-    "Longitude": "1.18852603435516"
-  },
+  "Geocode": null,
   "AddressLine1": "Leisure Centre",
   "AddressLine2": "Ernest Gage Avenue",
   "AddressLine3": "Costessey",
   "AddressLine4": "Norfolk",
   "PostCode": "NR5 0JU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-03-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
-  "Geocode": {
-    "Latitude": "51.7881622314453",
-    "Longitude": "-2.97934412956238"
-  },
+  "Geocode": null,
   "AddressLine2": "Y Bryn",
   "AddressLine3": "Y Fenni",
   "AddressLine4": "Sir Fynwy",
   "PostCode": "NP7 9AE",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_cy-gb",
-  "RatingDate": "2026-07-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-08-24",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

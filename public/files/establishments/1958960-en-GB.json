@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
-  "Geocode": {
-    "Latitude": "51.340505",
-    "Longitude": "-0.272896"
-  },
+  "Geocode": null,
   "AddressLine1": "17 Manor Green Road",
   "AddressLine2": "Epsom",
   "AddressLine3": "Surrey",
   "PostCode": "KT19 8RA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

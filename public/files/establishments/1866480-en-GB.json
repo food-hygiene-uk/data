@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.455126",
-    "Longitude": "-0.008824"
-  },
+  "Geocode": null,
   "AddressLine1": "7 Ryecroft Road",
   "AddressLine2": "Hither Green",
   "AddressLine3": "London",
   "PostCode": "SE13 6EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

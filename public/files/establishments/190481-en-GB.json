@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.114399",
-    "Longitude": "-0.189042"
-  },
+  "Geocode": null,
   "AddressLine1": "St Johns Hall",
   "AddressLine2": "High Street",
   "AddressLine3": "Northgate",
   "AddressLine4": "Crawley",
   "PostCode": "RH10 1HE",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-31",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1909257,
-  "BusinessName": "Wates",
+  "BusinessName": "The Sir Ronald Wates",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "13633",
   "BusinessTypeID": 7843,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.guildford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.242581",
-    "Longitude": "-0.587957"
-  },
+  "Geocode": null,
   "AddressLine1": "Wates House",
   "AddressLine3": "Guildford",
   "AddressLine4": "Surrey",
   "PostCode": "GU2 7XH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southkesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthy@southkesteven.gov.uk",
-  "Geocode": {
-    "Latitude": "52.67059",
-    "Longitude": "-0.292221"
-  },
+  "Geocode": null,
   "AddressLine1": "Deepings Methodist Church",
   "AddressLine2": "Church Street",
   "AddressLine3": "Deeping St James",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-07",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

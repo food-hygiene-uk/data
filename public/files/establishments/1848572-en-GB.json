@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4480794",
-    "Longitude": "0.0135892"
-  },
+  "Geocode": null,
   "AddressLine1": "Favourable Chicken",
   "AddressLine2": "41 Burnt Ash Hill",
   "AddressLine3": "London",
   "PostCode": "SE12 0AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

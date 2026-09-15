@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.538169",
-    "Longitude": "1.190607"
-  },
+  "Geocode": null,
   "AddressLine1": "Village Hall",
   "AddressLine2": "Mill Lane",
   "AddressLine3": "Wreningham",
   "AddressLine4": "Norfolk",
   "PostCode": "NR16 1AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

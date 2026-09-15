@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.427437",
-    "Longitude": "0.013823"
-  },
+  "Geocode": null,
   "AddressLine1": "410 Downham Way",
   "AddressLine2": "Bromley",
   "PostCode": "BR1 5HR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

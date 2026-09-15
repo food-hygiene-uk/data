@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.stockport.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
-  "Geocode": {
-    "Latitude": "53.4297524",
-    "Longitude": "-2.1200186"
-  },
+  "Geocode": null,
   "AddressLine1": "Ashton Road",
   "AddressLine2": "Bredbury Park Industrial Estate",
   "AddressLine3": "Ashton Road",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
+  "RatingDate": "2026-06-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

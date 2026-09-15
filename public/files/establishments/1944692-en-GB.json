@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944692,
-  "BusinessName": "VAPETASTIC",
+  "BusinessName": "Vapex",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "80348",
   "BusinessTypeID": 4613,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5411849",
-    "Longitude": "-0.2977485"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 2",
   "AddressLine2": "183A Ealing Road",
   "AddressLine3": "Wembley",
   "PostCode": "HA0 4LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

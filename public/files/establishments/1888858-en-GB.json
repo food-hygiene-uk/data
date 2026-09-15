@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7434276",
-    "Longitude": "-0.3375419"
-  },
+  "Geocode": null,
   "AddressLine2": "35 Whitefriargate",
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU1 2HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

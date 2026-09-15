@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
-  "Geocode": {
-    "Latitude": "55.061861",
-    "Longitude": "-1.58035"
-  },
+  "Geocode": null,
   "AddressLine1": "1 Barras Avenue",
   "AddressLine2": "Annitsford",
   "AddressLine3": "Cramlington",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2020-03-06",
+  "RatingDate": "2026-09-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

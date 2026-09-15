@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
-  "Geocode": {
-    "Latitude": "51.347133",
-    "Longitude": "-0.265064"
-  },
+  "Geocode": null,
   "AddressLine1": "Sefton Road",
   "AddressLine2": "Epsom",
   "AddressLine3": "Surrey",
   "PostCode": "KT19 9HG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-03-06",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

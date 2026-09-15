@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3626755",
-    "Longitude": "-0.2769811"
-  },
+  "Geocode": null,
   "AddressLine1": "166 - 170 Ruxley Lane",
   "AddressLine2": "West Ewell",
   "AddressLine3": "Surrey",
   "PostCode": "KT19 9HA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-07-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-01-28",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

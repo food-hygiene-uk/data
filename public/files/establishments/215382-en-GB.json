@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.2581562",
-    "Longitude": "-1.36068935"
-  },
+  "Geocode": null,
   "AddressLine1": "Middlecroft Road",
   "AddressLine2": "Staveley",
   "AddressLine4": "Chesterfield",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-14",
+  "RatingDate": "2026-09-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4803221",
-    "Longitude": "-2.5557059"
-  },
+  "Geocode": null,
   "AddressLine1": "Collegiate School",
   "AddressLine2": "Bell Hill",
   "AddressLine3": "Stapleton",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-09",
+  "RatingDate": "2026-09-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

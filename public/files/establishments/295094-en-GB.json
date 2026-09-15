@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.519116",
-    "Longitude": "-0.101974"
-  },
+  "Geocode": null,
   "AddressLine1": "2 East Poultry Avenue",
   "AddressLine2": "London",
   "PostCode": "EC1A 9PT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-02-03",
-  "Scores": null
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

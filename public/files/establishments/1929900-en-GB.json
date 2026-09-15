@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.800708770752",
-    "Longitude": "-1.04844999313354"
-  },
+  "Geocode": null,
   "AddressLine1": "Moorings Way Infant School",
   "AddressLine2": "Moorings Way",
   "AddressLine3": "Southsea",
   "PostCode": "PO4 8YJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

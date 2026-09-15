@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8162803649902",
-    "Longitude": "-0.758762001991272"
-  },
+  "Geocode": null,
   "AddressLine1": "North Mundham Primary School",
   "AddressLine2": "School Lane",
   "AddressLine3": "North Mundham",
   "AddressLine4": "Chichester",
   "PostCode": "PO20 1LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

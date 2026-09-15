@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7799415588379",
-    "Longitude": "-0.898787975311279"
-  },
+  "Geocode": null,
   "AddressLine1": "West Wittering Parochial CE School",
   "AddressLine2": "Pound Road",
   "AddressLine3": "West Wittering",
   "AddressLine4": "Chichester",
   "PostCode": "PO20 8AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

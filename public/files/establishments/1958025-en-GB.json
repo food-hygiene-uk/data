@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6876255",
-    "Longitude": "1.2156388"
-  },
-  "AddressLine1": "12 Ashgrove",
-  "AddressLine2": "Drayton",
-  "AddressLine3": "Norfolk",
-  "PostCode": "NR8 6AY",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

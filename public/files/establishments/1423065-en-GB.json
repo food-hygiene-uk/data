@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7839688",
-    "Longitude": "-0.3105617"
-  },
+  "Geocode": null,
   "AddressLine1": "Holly Bank",
   "AddressLine2": "36 Wawne Road",
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU7 4YE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

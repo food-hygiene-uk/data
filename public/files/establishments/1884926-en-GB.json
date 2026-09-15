@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
-  "Geocode": {
-    "Latitude": "51.425457",
-    "Longitude": "-0.045026"
-  },
+  "Geocode": null,
   "AddressLine1": "144 Sydenham Road",
   "AddressLine2": "London",
   "PostCode": "SE26 5JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

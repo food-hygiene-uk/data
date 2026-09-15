@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": {
-    "Latitude": "52.730623",
-    "Longitude": "1.3427305"
-  },
+  "Geocode": null,
   "AddressLine1": "Two Jays Farm",
   "AddressLine2": "Buxton Road",
   "AddressLine3": "Horstead With Stanninghall",
   "AddressLine4": "Norfolk",
   "PostCode": "NR12 7EX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

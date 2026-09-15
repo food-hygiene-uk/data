@@ -1,9 +1,9 @@
 {
   "FHRSID": 1962946,
   "BusinessName": "Pop Method",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/000011832",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "523",
   "LocalAuthorityName": "Lewisham",
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

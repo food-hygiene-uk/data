@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": {
-    "Latitude": "54.775944",
-    "Longitude": "-6.327975"
-  },
+  "Geocode": null,
   "AddressLine1": "41 Caddy Road",
   "AddressLine2": "Caddy",
   "AddressLine3": "Randalstown",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-28",
+  "RatingDate": "2026-09-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

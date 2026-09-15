@@ -1,6 +1,6 @@
 {
   "FHRSID": 533494,
-  "BusinessName": "Tanky's Burgers & Shakes",
+  "BusinessName": "Pizza Space",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "6807",
   "BusinessTypeID": 7844,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.brent.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ens.foodsafety@brent.gov.uk",
-  "Geocode": {
-    "Latitude": "51.555033",
-    "Longitude": "-0.213703"
-  },
+  "Geocode": null,
   "AddressLine1": "133 Cricklewood Broadway",
   "AddressLine2": "London",
   "PostCode": "NW2 3JG",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-10-09",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -1,24 +1,25 @@
 {
   "FHRSID": 1961789,
-  "BusinessName": "SOL",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "SOL & LIFE LAB",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9103432",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "505",
   "LocalAuthorityName": "Bromley",
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4188458",
-    "Longitude": "0.0849506"
-  },
+  "Geocode": null,
   "AddressLine1": "Glebe Football Club Foxbury Avenue",
   "AddressLine3": "Chislehurst",
   "PostCode": "BR7 6SD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

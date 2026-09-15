@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4716162",
-    "Longitude": "-2.5929191"
-  },
+  "Geocode": null,
   "AddressLine2": "24 Gloucester Road",
   "AddressLine3": "Bishopston",
   "AddressLine4": "Bristol",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-30",
-  "Scores": null
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0371768",
-    "Longitude": "-0.6653066"
-  },
+  "Geocode": null,
   "AddressLine1": "The Granary",
   "AddressLine2": "Orchard Park Farm",
   "AddressLine3": "Dial Green Lane",
   "AddressLine4": "Lurgashall",
   "PostCode": "GU28 9EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

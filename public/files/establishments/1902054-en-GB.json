@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.786889",
-    "Longitude": "-1.089232"
-  },
+  "Geocode": null,
   "AddressLine1": "St Judes Church",
   "AddressLine2": "Kent Road",
   "AddressLine3": "Southsea",
   "PostCode": "PO5 3EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
