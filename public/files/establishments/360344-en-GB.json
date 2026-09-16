@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.567053",
+    "Longitude": "-4.43839"
+  },
   "AddressLine2": "12a High Street",
   "AddressLine3": "Conon Bridge",
   "PostCode": "IV7 8HA",

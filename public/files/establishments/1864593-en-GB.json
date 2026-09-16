@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.892339",
-    "Longitude": "-1.1652851"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit E4 Bicester Shopping Park Kelso Road",
   "AddressLine3": "Bicester",
   "AddressLine4": "Oxfordshire",
   "PostCode": "OX26 1ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

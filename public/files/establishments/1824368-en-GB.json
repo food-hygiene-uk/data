@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5490174",
-    "Longitude": "-2.8047926"
-  },
+  "Geocode": null,
   "AddressLine1": "142 Sandy Lane Centre",
   "AddressLine2": "Sandy Lane",
   "AddressLine3": "Skelmersdale",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-22",
+  "RatingDate": "2026-08-28",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

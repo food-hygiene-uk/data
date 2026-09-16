@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.479183",
+    "Longitude": "-4.224975"
+  },
   "AddressLine2": "5 Academy Street",
   "AddressLine3": "Inverness",
   "PostCode": "IV1 1PG",

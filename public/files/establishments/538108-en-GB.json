@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.550558",
+    "Longitude": "-4.259612"
+  },
   "AddressLine2": "High street",
   "AddressLine3": "Munlochy",
   "PostCode": "IV8 8ND",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.612817",
+    "Longitude": "-4.457898"
+  },
   "AddressLine2": "Glenwyvis",
   "AddressLine3": "Upper Docharty",
   "AddressLine4": "Dingwall",

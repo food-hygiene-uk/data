@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9661548",
+    "Longitude": "-1.3535705"
+  },
   "AddressLine1": "90 HIGH STREET EASTLEIGH SO50 5LR",
   "PostCode": "SO50 5LR",
   "SchemeType": "FHRS",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 804206,
-  "BusinessName": "The Allerford Inn",
+  "BusinessName": "The Allerford",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "17119",
   "BusinessTypeID": 7843,
@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": {
-    "Latitude": "51.018341",
-    "Longitude": "-3.170555"
-  },
+  "Geocode": null,
   "AddressLine2": "Allerford Road",
   "AddressLine3": "Norton Fitzwarren",
   "AddressLine4": "Taunton",
   "PostCode": "TA4 1AL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-15",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

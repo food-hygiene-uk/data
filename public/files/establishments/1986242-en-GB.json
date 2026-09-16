@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.706939",
-    "Longitude": "-2.326696"
-  },
+  "Geocode": null,
   "AddressLine1": "16 Regent Street",
   "AddressLine2": "Haslingden",
   "AddressLine3": "Rossendale",
   "AddressLine4": "Lancashire",
   "PostCode": "BB4 5HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

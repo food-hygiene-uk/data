@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5370974",
-    "Longitude": "0.0804889"
-  },
+  "Geocode": null,
   "AddressLine2": "20-24 Ripple Road",
   "AddressLine4": "Barking",
   "PostCode": "IG11 7PG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

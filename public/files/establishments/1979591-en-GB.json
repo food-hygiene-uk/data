@@ -1,6 +1,6 @@
 {
   "FHRSID": 1979591,
-  "BusinessName": "Homemade Cake",
+  "BusinessName": "Cake & Me",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00391/COM",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@sutton.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.142785",
+    "Longitude": "-4.685016"
+  },
   "AddressLine2": "Fort William Road",
   "AddressLine3": "Fort Augustus",
   "PostCode": "PH32 4BH",

@@ -1,28 +1,21 @@
 {
   "FHRSID": 485147,
-  "BusinessName": "Gaskells Munch Box Ltd",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Gaskells Munch Box",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "314181",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.540603",
-    "Longitude": "-2.676068"
-  },
+  "Geocode": null,
   "AddressLine1": "81 Norley Hall Avenue",
   "AddressLine2": "Wigan",
   "PostCode": "WN5 9LS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-09",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

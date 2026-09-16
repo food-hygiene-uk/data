@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.8403167724609",
+    "Longitude": "-5.58544397354126"
+  },
   "AddressLine2": "7",
   "AddressLine3": "Aultbea",
   "AddressLine4": "Achnasheen",

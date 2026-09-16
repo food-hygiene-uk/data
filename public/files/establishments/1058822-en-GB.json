@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5227553",
+    "Longitude": "-4.4679282"
+  },
   "AddressLine2": "5 Ord Road",
   "AddressLine3": "Muir Of Ord",
   "AddressLine4": "Highland",

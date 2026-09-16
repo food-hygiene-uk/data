@@ -1,6 +1,6 @@
 {
   "FHRSID": 1401492,
-  "BusinessName": "Smashed & Pulled / Moti Manj",
+  "BusinessName": "Smashed & Pulled",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "48679",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3617832",
-    "Longitude": "-1.4787167"
-  },
+  "Geocode": null,
   "AddressLine2": "282 Abbeydale Road",
   "AddressLine3": "Sheffield",
   "PostCode": "S7 1FL",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-04-15",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

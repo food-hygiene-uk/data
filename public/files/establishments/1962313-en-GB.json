@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.561915",
-    "Longitude": "-2.416281"
-  },
+  "Geocode": null,
   "AddressLine2": "216 Crescent Road",
   "AddressLine3": "Bolton",
   "PostCode": "BL3 2JU",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-06-12",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-04",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 5,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

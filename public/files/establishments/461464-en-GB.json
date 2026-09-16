@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": {
-    "Latitude": "53.403671",
-    "Longitude": "-1.376371"
-  },
+  "Geocode": null,
   "AddressLine2": "379 Brinsworth Road",
   "AddressLine3": "Brinsworth",
   "AddressLine4": "Rotherham",
   "PostCode": "S60 5EF",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-08-13",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2025-06-09",
   "Scores": {
     "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 30
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

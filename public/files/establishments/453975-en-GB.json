@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.481303",
+    "Longitude": "-4.177143"
+  },
   "AddressLine1": "Unit 9",
   "AddressLine2": "Eastfield Way",
   "AddressLine3": "Inverness",

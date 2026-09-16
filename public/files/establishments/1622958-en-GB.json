@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5957014",
+    "Longitude": "-4.4253753"
+  },
   "AddressLine1": "Church Of Scotland",
   "AddressLine2": "3 Castle Street",
   "AddressLine3": "Dingwall",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.632497",
-    "Longitude": "1.297409"
-  },
+  "Geocode": null,
   "AddressLine1": "16 Wensum Street",
   "AddressLine2": "Norwich",
   "PostCode": "NR3 1HY",
@@ -21,8 +18,8 @@
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-08-17",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

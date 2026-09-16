@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.595324",
+    "Longitude": "-4.428535"
+  },
   "AddressLine2": "21 High Street",
   "AddressLine3": "Dingwall",
   "AddressLine4": "Ross-Shire",

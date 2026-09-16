@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9459005",
+    "Longitude": "-1.3632726"
+  },
   "AddressLine1": "INTERNATIONAL HOUSE GEORGE CURL WAY EASTLEIGH SO18 2RZ",
   "PostCode": "SO18 2RZ",
   "SchemeType": "FHRS",

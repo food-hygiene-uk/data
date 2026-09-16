@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.205876",
+    "Longitude": "-4.500952"
+  },
   "AddressLine1": "Steading / Deer Larder",
   "AddressLine3": "Aberarder",
   "AddressLine4": "Inverness-shire",

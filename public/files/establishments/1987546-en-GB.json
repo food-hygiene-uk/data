@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.241907",
+    "Longitude": "-5.912409"
+  },
   "AddressLine2": "Ford Road",
   "AddressLine3": "Broadford",
   "AddressLine4": "Isle of Skye",

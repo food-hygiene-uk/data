@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.588308",
+    "Longitude": "-4.538551"
+  },
   "AddressLine2": "The Square",
   "AddressLine3": "Strathpeffer",
   "AddressLine4": "Highland",

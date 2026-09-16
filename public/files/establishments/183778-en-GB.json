@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.westlancs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvHealth.Admin@westlancs.gov.uk",
-  "Geocode": {
-    "Latitude": "53.679207",
-    "Longitude": "-2.831225"
-  },
+  "Geocode": null,
   "AddressLine1": "94 Church Road",
   "AddressLine2": "Tarleton",
   "AddressLine3": "Lancashire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-30",
+  "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.973554",
+    "Longitude": "-1.3346777"
+  },
   "AddressLine1": "GUIDE HUT WEST DRIVE BISHOPSTOKE EASTLEIGH SO50 6FL",
   "PostCode": "SO50 6FL",
   "SchemeType": "FHRS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4772022",
+    "Longitude": "-4.2255813"
+  },
   "AddressLine2": "2a Castle Wynd",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

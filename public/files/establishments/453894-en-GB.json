@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.582635",
+    "Longitude": "-4.051746"
+  },
   "AddressLine2": "Fort George",
   "AddressLine3": "Ardersier",
   "AddressLine4": "Inverness",

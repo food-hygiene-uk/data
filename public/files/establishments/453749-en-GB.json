@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.486245",
+    "Longitude": "-4.228024"
+  },
   "AddressLine2": "Portacabin Shore Street",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

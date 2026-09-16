@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.19136",
+    "Longitude": "-3.828698"
+  },
   "AddressLine1": "Shop",
   "AddressLine2": "4 Grampian Road",
   "AddressLine3": "Aviemore",

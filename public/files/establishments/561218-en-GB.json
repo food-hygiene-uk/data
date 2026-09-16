@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.548581",
+    "Longitude": "-3.607417"
+  },
   "AddressLine2": "Lieurary",
   "AddressLine3": "Westfield",
   "AddressLine4": "Thurso",

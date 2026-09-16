@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5467834472656",
+    "Longitude": "-5.51301383972168"
+  },
   "AddressLine1": "Torridon Mains",
   "AddressLine3": "Torridon",
   "AddressLine4": "Achnasheen",

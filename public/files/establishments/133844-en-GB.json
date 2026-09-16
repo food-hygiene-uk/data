@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.977251",
+    "Longitude": "-1.358859"
+  },
   "AddressLine1": "THE ARROW SHAKESPEARE ROAD EASTLEIGH SO50 4QP",
   "PostCode": "SO50 4QP",
   "SchemeType": "FHRS",

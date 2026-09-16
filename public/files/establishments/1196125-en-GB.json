@@ -1,6 +1,6 @@
 {
   "FHRSID": 1196125,
-  "BusinessName": "Blessed Mother Teresa R.C.",
+  "BusinessName": "Blessed Mother Teresa's Catholic Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "95",
   "BusinessTypeID": 7845,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.staffordbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehtechsupport@staffordbc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7912940979004",
-    "Longitude": "-2.12966299057007"
-  },
+  "Geocode": null,
   "AddressLine2": "Somerset Road",
   "AddressLine3": "Highfields",
   "AddressLine4": "Stafford Staffordshire",
   "PostCode": "ST17 9UZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

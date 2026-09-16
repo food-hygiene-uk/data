@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5204047",
-    "Longitude": "0.096449"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit 1 Algor Wharf",
   "AddressLine2": "42 River Road",
   "AddressLine4": "Barking",
   "PostCode": "IG11 0DW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

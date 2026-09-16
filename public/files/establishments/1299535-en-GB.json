@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4709281",
+    "Longitude": "-4.2593237"
+  },
   "AddressLine2": "36 Kinmylies Way",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

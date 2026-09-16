@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.5934091",
+    "Longitude": "-3.5301922"
+  },
   "AddressLine2": "5 Sweyn Road",
   "AddressLine3": "Thurso",
   "AddressLine4": "Highland",

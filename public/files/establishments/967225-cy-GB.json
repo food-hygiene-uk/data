@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5815315246582",
-    "Longitude": "-3.6327691078186"
-  },
+  "Geocode": null,
   "AddressLine1": "Ysgol Gyfun Gymraeg Llangynwyd Bridgend Road",
   "AddressLine2": "Llangynwyd",
   "AddressLine3": "Maesteg",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-05-02",
+  "RatingDate": "2026-09-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

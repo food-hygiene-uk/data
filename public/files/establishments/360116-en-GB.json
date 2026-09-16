@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.825032",
+    "Longitude": "-5.095019"
+  },
   "AddressLine2": "Montrose Avenue",
   "AddressLine3": "Inverlochy",
   "AddressLine4": "Fort William",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.821298",
+    "Longitude": "-5.104939"
+  },
   "AddressLine2": "An Aird",
   "AddressLine3": "Fort William",
   "AddressLine4": "Inverness-Shire",

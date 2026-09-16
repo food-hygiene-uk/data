@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.brighton-hove.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehl.food@brighton-hove.gov.uk",
-  "Geocode": {
-    "Latitude": "50.843017",
-    "Longitude": "-0.151559"
-  },
+  "Geocode": null,
   "AddressLine1": "197 Preston Road",
   "AddressLine2": "Brighton",
   "PostCode": "BN1 6SA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "259",
   "LocalAuthorityName": "Ashfield",
   "LocalAuthorityWebSite": "http://www.ashfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@ashfield.gov.uk",
   "Geocode": {
     "Latitude": "53.0492973",
@@ -16,12 +16,12 @@
   "AddressLine2": "69 Plainspot Road",
   "PostCode": "NG16 5BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-19",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-10",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

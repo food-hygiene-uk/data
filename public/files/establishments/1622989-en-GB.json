@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.460351",
+    "Longitude": "-4.2041015"
+  },
   "AddressLine2": "Unit 3 Balloan Park",
   "AddressLine3": "Balloan Road",
   "AddressLine4": "Inverness",

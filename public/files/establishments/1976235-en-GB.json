@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
-    "Latitude": "51.6869647",
-    "Longitude": "-3.1620727"
+    "Latitude": "51.6886964",
+    "Longitude": "-3.1606269"
   },
-  "AddressLine1": "Unit 18",
+  "AddressLine1": "Unit 31 (Inside Fitness Factory)",
   "AddressLine2": "Fern Close",
   "AddressLine3": "Pen-Y-Fan Industrial Estate",
   "AddressLine4": "Pen-Y-Fan",
   "PostCode": "NP11 3EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

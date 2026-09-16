@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.norwich.gov.uk/site/custom_scripts/eh/foodratings.html",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@norwich.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6270356",
-    "Longitude": "1.3112377"
-  },
+  "Geocode": null,
   "AddressLine1": "106 - 110 Rosary Road",
   "AddressLine2": "Norwich",
   "PostCode": "NR1 4DA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2022-02-15",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2006-10-02",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

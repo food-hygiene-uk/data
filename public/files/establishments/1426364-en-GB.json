@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.584321",
+    "Longitude": "-3.870859"
+  },
   "AddressLine2": "11a Leopold Street",
   "AddressLine3": "Nairn",
   "AddressLine4": "Highland",

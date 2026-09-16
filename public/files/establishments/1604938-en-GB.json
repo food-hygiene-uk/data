@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.19282914",
+    "Longitude": "-3.82871962"
+  },
   "AddressLine2": "115 Grampian Road",
   "AddressLine3": "Aviemore",
   "PostCode": "PH22 1RT",

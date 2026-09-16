@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8317336",
+    "Longitude": "-5.0771261"
+  },
   "AddressLine1": "Tigh Breagha Lochy Bridge",
   "AddressLine2": "North Road",
   "AddressLine3": "Fort William",

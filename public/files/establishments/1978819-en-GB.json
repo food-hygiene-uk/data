@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.9002744",
+    "Longitude": "-5.1561178"
+  },
   "AddressLine2": "11 Broom Park",
   "AddressLine3": "Ullapool",
   "PostCode": "IV26 2XJ",

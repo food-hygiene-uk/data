@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9649124",
+    "Longitude": "-1.2994628"
+  },
   "AddressLine1": "37 SUMMERLANDS ROAD FAIR OAK EASTLEIGH SO50 7AU",
   "PostCode": "SO50 7AU",
   "SchemeType": "FHRS",

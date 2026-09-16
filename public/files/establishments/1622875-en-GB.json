@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.7292311",
+    "Longitude": "-5.694926"
+  },
   "AddressLine1": "Strathbay House",
   "AddressLine3": "Gairloch",
   "AddressLine4": "Highland",

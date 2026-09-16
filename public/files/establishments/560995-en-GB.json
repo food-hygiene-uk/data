@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.695225",
+    "Longitude": "-4.249302"
+  },
   "AddressLine1": "Perrins Centre",
   "AddressLine3": "Alness",
   "AddressLine4": "Highland",

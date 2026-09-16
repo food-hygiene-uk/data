@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5869369506836",
+    "Longitude": "-3.8882908821106"
+  },
   "AddressLine1": "Napier",
   "AddressLine2": "60 Seabank Road",
   "AddressLine3": "Nairn",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.878808",
+    "Longitude": "-4.025802"
+  },
   "AddressLine2": "Golf Road",
   "AddressLine3": "Dornoch",
   "AddressLine4": "Highland",

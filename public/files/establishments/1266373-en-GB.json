@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.8487014770508",
+    "Longitude": "-5.04756593704224"
+  },
   "AddressLine2": "Torlundy",
   "AddressLine3": "Fort William",
   "PostCode": "PH33 6SW",

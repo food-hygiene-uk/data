@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.9400756",
+    "Longitude": "-4.2393524"
+  },
   "AddressLine1": "Dalwhinnie Distillery",
   "AddressLine3": "Dalwhinnie",
   "AddressLine4": "Highland",

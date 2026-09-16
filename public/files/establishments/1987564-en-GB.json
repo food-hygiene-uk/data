@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.5953048",
+    "Longitude": "-4.4304791"
+  },
   "AddressLine2": "First Floor 35-36 High Street",
   "AddressLine3": "Dingwall",
   "PostCode": "IV15 9SN",

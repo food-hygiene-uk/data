@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9674857",
+    "Longitude": "-1.3527056"
+  },
   "AddressLine1": "UNIT 2 6A WELLS PLACE EASTLEIGH SO50 5PP",
   "PostCode": "SO50 5PP",
   "SchemeType": "FHRS",

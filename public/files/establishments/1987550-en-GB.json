@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6659637",
+    "Longitude": "-4.3389338"
+  },
   "AddressLine2": "Coulags",
   "AddressLine3": "Camden Street",
   "AddressLine4": "Evanton",

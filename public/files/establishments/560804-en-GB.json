@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.223453",
+    "Longitude": "-5.451205"
+  },
   "AddressLine1": "Residential Accomodation Ratagan Youth Hostel",
   "AddressLine3": "Glenshiel",
   "AddressLine4": "Kyle",

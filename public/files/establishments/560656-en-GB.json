@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.442901",
+    "Longitude": "-3.091972"
+  },
   "AddressLine2": "58-64 High Street",
   "AddressLine3": "Wick",
   "AddressLine4": "Highland",

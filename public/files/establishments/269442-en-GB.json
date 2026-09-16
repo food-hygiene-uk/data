@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": {
-    "Latitude": "51.761211",
-    "Longitude": "-1.267506"
-  },
+  "Geocode": null,
   "AddressLine1": "90 Walton Street",
   "AddressLine2": "Oxford",
   "AddressLine3": "Oxfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-02-07",
+  "RatingDate": "2026-09-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

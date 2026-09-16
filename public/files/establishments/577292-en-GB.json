@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5050205",
-    "Longitude": "-0.0987059"
-  },
+  "Geocode": null,
   "AddressLine1": "Crane Building",
   "AddressLine2": "22",
   "AddressLine3": "Lavington Street",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingDate": "2026-08-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.475923",
+    "Longitude": "-4.217754"
+  },
   "AddressLine2": "2 Southside Road",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

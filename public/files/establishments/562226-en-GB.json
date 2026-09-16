@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.6885838",
+    "Longitude": "-4.1630375"
+  },
   "AddressLine1": "Invergordon Service Station",
   "AddressLine2": "130 High Street",
   "AddressLine3": "Invergordon",

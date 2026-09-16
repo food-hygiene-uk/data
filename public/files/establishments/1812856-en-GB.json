@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": {
-    "Latitude": "53.702767",
-    "Longitude": "-2.20141"
-  },
+  "Geocode": null,
   "AddressLine1": "25 Market Street",
   "AddressLine2": "Bacup",
   "AddressLine3": "Lancashire",
   "PostCode": "OL13 8EX",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-06-30",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

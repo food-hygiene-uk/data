@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.4803962",
+    "Longitude": "-4.2268226"
+  },
   "AddressLine2": "92 Academy Street",
   "AddressLine3": "Inverness",
   "AddressLine4": "Highland",

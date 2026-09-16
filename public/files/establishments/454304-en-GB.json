@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.152961",
+    "Longitude": "-5.240486"
+  },
   "AddressLine2": "Main Street",
   "AddressLine3": "Lochinver",
   "AddressLine4": "By Lairg",

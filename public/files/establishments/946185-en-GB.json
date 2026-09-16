@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5236068",
-    "Longitude": "-2.5596932"
-  },
+  "Geocode": null,
   "AddressLine1": "14 - 16 Kingsway",
   "AddressLine2": "Little Stoke",
   "AddressLine3": "South Gloucestershire",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-07",
-  "Scores": null
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

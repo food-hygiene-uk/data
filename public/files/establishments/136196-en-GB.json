@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.eastleigh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@eastleigh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.9276397",
+    "Longitude": "-1.3342295"
+  },
   "AddressLine1": "77 HIGH STREET WEST END SOUTHAMPTON SO30 3DS",
   "PostCode": "SO30 3DS",
   "SchemeType": "FHRS",

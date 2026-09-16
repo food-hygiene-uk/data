@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.447343",
+    "Longitude": "-3.090344"
+  },
   "AddressLine1": "Noss Primary School",
   "AddressLine2": "Ackergill Street",
   "AddressLine3": "Wick",

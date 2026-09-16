@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.49278",
+    "Longitude": "-6.375318"
+  },
   "AddressLine2": "2 Suledale",
   "AddressLine3": "Clachamish",
   "AddressLine4": "By PortreeIsle of Skye",

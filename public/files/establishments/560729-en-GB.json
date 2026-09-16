@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.896181",
+    "Longitude": "-5.157787"
+  },
   "AddressLine2": "3 Shore Street",
   "AddressLine3": "Ullapool",
   "AddressLine4": "Highland",

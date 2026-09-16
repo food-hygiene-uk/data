@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.939892",
+    "Longitude": "-5.853754"
+  },
   "AddressLine2": "Traigh",
   "AddressLine3": "Arisaig",
   "PostCode": "PH39 4NT",

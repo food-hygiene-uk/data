@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.2834914",
+    "Longitude": "-3.3676688"
+  },
   "AddressLine1": "The Old Church",
   "AddressLine3": "Latheron",
   "AddressLine4": "Highland",

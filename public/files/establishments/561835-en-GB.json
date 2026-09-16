@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "58.5897519",
+    "Longitude": "-3.5204672"
+  },
   "AddressLine1": "Thurso Swimming Pool",
   "AddressLine2": "Millbank Road",
   "AddressLine3": "Thurso",

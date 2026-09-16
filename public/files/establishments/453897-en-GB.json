@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.571241",
+    "Longitude": "-4.038529"
+  },
   "AddressLine2": "10 High Street",
   "AddressLine3": "Ardersier",
   "AddressLine4": "Inverness",

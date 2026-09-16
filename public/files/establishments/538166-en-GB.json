@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.highland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@highland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.792162",
+    "Longitude": "-4.601625"
+  },
   "AddressLine2": "Corrour Estate",
   "AddressLine3": "by Fort William",
   "PostCode": "PH30 4AA",

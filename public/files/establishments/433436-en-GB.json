@@ -1,6 +1,6 @@
 {
   "FHRSID": 433436,
-  "BusinessName": "Westleigh Lodge Care Home - HC-One",
+  "BusinessName": "Westleigh Lodge",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "313672",
   "BusinessTypeID": 5,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
-  "Geocode": {
-    "Latitude": "53.511092",
-    "Longitude": "-2.532255"
-  },
+  "Geocode": null,
   "AddressLine1": "Nel Pan Lane",
   "AddressLine2": "Leigh",
   "PostCode": "WN7 5JT",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2026-05-18",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
