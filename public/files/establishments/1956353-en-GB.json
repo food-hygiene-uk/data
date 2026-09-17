@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0797146",
-    "Longitude": "1.1810929"
-  },
+  "Geocode": null,
   "AddressLine1": "GROUND FLOOR BUSINESS PREMISES 2 CHURCH STREET",
   "AddressLine3": "FOLKESTONE",
   "PostCode": "CT20 1SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

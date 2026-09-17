@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5288557",
+    "Longitude": "-0.8951745"
+  },
   "AddressLine1": "The Henley Building",
   "AddressLine2": "Newtown Road",
   "PostCode": "RG9 1HG",

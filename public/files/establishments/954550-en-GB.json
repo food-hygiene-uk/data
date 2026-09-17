@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.499144",
-    "Longitude": "-1.802655"
-  },
+  "Geocode": null,
   "AddressLine1": "220 Coleshill Road",
   "AddressLine2": "Hodge Hill",
   "AddressLine3": "Birmingham",
@@ -20,6 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-05",
-  "Scores": null
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

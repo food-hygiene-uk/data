@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.358827",
-    "Longitude": "1.441039"
-  },
+  "Geocode": null,
   "AddressLine1": "2 High Street",
   "AddressLine2": "Broadstairs",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-07",
+  "RatingDate": "2026-09-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

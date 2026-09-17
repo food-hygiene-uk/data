@@ -1,13 +1,13 @@
 {
   "FHRSID": 1302233,
-  "BusinessName": "Celia's Kitchen Ltd",
+  "BusinessName": "Celia's Kitchen Limited",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "32267",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "405",
   "LocalAuthorityName": "Bury",
   "LocalAuthorityWebSite": "http://www.bury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial@bury.gov.uk",
   "Geocode": {
     "Latitude": "53.5191605",
@@ -18,12 +18,12 @@
   "AddressLine4": "Manchester",
   "PostCode": "M25 0LE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-09",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-08-25",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 30
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "315",
   "LocalAuthorityName": "Woking",
   "LocalAuthorityWebSite": "http://www.woking.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "emma.bourne@woking.gov.uk",
   "Geocode": {
     "Latitude": "51.338864",
@@ -16,12 +16,12 @@
   "AddressLine1": "74 - 76 High RoadByfleetWest ByfleetSurrey",
   "PostCode": "KT14 7QW",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2025-02-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 20,
+    "Hygiene": 0,
     "Structural": 10,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 5
   }
 }

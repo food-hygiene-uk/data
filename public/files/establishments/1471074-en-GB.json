@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5826054",
+    "Longitude": "-1.3075962"
+  },
   "AddressLine1": "Dish Second Street",
   "AddressLine2": "Harwell Oxford",
   "AddressLine3": "Didcot",

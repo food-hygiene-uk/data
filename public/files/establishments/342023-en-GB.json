@@ -1,6 +1,6 @@
 {
   "FHRSID": 342023,
-  "BusinessName": "Lyo Cafe AKA Greek Gyros and Monster Burger",
+  "BusinessName": "Lyo Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "111446",
   "BusinessTypeID": 1,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bcpcouncil.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
-  "Geocode": {
-    "Latitude": "50.7218627929688",
-    "Longitude": "-1.87596201896667"
-  },
+  "Geocode": null,
   "AddressLine2": "6 Richmond Gardens Shopping Centre",
   "AddressLine3": "Bournemouth",
   "PostCode": "BH1 1EN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

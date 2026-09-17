@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.336968",
-    "Longitude": "1.415562"
-  },
+  "Geocode": null,
   "AddressLine1": "38-40 Chatham Street",
   "AddressLine2": "Ramsgate",
   "AddressLine3": "Kent",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-18",
+  "RatingDate": "2026-09-09",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

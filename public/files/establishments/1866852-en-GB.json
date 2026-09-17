@@ -9,20 +9,10 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5183479",
-    "Longitude": "-1.9370538"
-  },
-  "AddressLine1": "15 Woodcroft Avenue",
-  "AddressLine2": "Birmingham",
-  "PostCode": "B20 1AS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-20",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

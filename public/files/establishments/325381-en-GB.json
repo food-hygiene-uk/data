@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.775183",
-    "Longitude": "-1.725185"
-  },
+  "Geocode": null,
   "AddressLine2": "Harry Street",
   "AddressLine3": "Bradford",
   "PostCode": "BD4 9PH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-11-29",
+  "RatingDate": "2026-09-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

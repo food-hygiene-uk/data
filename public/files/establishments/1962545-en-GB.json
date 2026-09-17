@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7282956",
+    "Longitude": "-2.4686959"
+  },
   "AddressLine1": "37 Provost Mitchell Road Montrose",
   "PostCode": "DD10 9DH",
   "SchemeType": "FHIS",

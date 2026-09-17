@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": {
-    "Latitude": "50.960525",
-    "Longitude": "-1.775302"
-  },
+  "Geocode": null,
   "AddressLine1": "SALISBURY ROAD",
   "AddressLine2": "BREAMORE",
   "AddressLine3": "FORDINGBRIDGE",
   "PostCode": "SP6 2EA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

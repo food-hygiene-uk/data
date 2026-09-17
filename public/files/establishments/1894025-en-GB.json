@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5335071",
-    "Longitude": "-1.829915"
-  },
+  "Geocode": null,
   "AddressLine1": "716 Chester Road",
   "AddressLine2": "Erdington",
   "AddressLine3": "Birmingham",
   "PostCode": "B23 5TE",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-07-06",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

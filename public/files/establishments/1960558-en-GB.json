@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.brentwood.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@brentwood.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6154328",
-    "Longitude": "0.291284"
-  },
+  "Geocode": null,
   "AddressLine1": "Unit C",
   "AddressLine2": "Hubert Road",
   "AddressLine3": "Brentwood",
   "AddressLine4": "Essex",
   "PostCode": "CM14 4JE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

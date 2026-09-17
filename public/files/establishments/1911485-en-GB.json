@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0239961",
-    "Longitude": "0.9938725"
-  },
+  "Geocode": null,
   "AddressLine1": "2-8 MILL ROAD",
   "AddressLine3": "DYMCHURCH",
   "PostCode": "TN29 0NY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

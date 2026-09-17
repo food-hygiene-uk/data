@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "53.912268",
@@ -18,8 +18,12 @@
   "AddressLine3": "Driffield",
   "PostCode": "YO25 8RG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-22",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

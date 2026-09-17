@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.157372",
+    "Longitude": "-3.3639329"
+  },
   "AddressLine1": "Cleeve Abbey",
   "AddressLine2": "Abbey Road",
   "AddressLine3": "Old Cleeve",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1865129,
-  "BusinessName": "Hajvery",
+  "BusinessName": "Burger District",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "84205",
   "BusinessTypeID": 1,
@@ -9,20 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.8087975",
-    "Longitude": "-1.7741139"
-  },
+  "Geocode": null,
   "AddressLine2": "1 Athol Road",
   "AddressLine3": "Bradford",
   "PostCode": "BD9 4QT",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-01-08",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 10,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

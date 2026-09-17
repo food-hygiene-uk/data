@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.472194",
-    "Longitude": "-1.932737"
-  },
+  "Geocode": null,
   "AddressLine1": "209 Hagley Road",
   "AddressLine2": "Edgbaston",
   "AddressLine3": "Birmingham",
   "PostCode": "B16 9RE",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-07-07",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0935662",
-    "Longitude": "1.1495118"
-  },
+  "Geocode": null,
   "AddressLine1": "4 THE REGENT CENTRE PENT ROAD",
   "AddressLine2": "SHEARWAY BUSINESS PARK",
   "AddressLine3": "FOLKESTONE",
   "PostCode": "CT19 4FL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

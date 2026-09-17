@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.477395",
-    "Longitude": "-1.902487"
-  },
+  "Geocode": null,
   "AddressLine1": "Orion Building",
   "AddressLine2": "90 Navigation Street",
   "AddressLine3": "Birmingham",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-08-10",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.521229",
+    "Longitude": "0.020725"
+  },
   "AddressLine1": "376 Barking Road",
   "AddressLine2": "Plaistow",
   "AddressLine3": "London",

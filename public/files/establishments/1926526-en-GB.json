@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.975421",
+    "Longitude": "-3.146885"
+  },
   "AddressLine1": "Taunton Deane Service Area",
   "AddressLine2": "Taunton Deane Motorway Service",
   "AddressLine3": "M5 Trull Taunton",

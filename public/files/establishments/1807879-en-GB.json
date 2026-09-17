@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.201894",
+    "Longitude": "-3.47595"
+  },
   "AddressLine1": "Townsend Road",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastherts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@eastherts.gov.uk",
-  "Geocode": {
-    "Latitude": "51.796354",
-    "Longitude": "-0.07842"
-  },
+  "Geocode": null,
   "AddressLine1": "19-21 Maidenhead Street",
   "AddressLine2": "Hertford",
   "AddressLine3": "Hertfordshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-02",
+  "RatingDate": "2026-09-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

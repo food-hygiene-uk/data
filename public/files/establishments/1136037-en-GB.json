@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.535152",
-    "Longitude": "-1.827954"
-  },
+  "Geocode": null,
   "AddressLine1": "418 Birmingham Road",
   "AddressLine2": "Sutton New Hall",
   "AddressLine3": "Birmingham",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-16",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

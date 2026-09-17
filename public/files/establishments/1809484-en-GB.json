@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.209404",
+    "Longitude": "-3.597021"
+  },
   "AddressLine1": "High Street",
   "AddressLine2": "Porlock",
   "AddressLine3": "Minehead",

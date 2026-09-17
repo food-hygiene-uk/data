@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": {
-    "Latitude": "53.1442275",
-    "Longitude": "-2.3640733"
-  },
+  "Geocode": null,
   "AddressLine1": "11-13 Hightown",
   "AddressLine2": "Sandbach",
   "AddressLine4": "Cheshire East",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-31",
+  "RatingDate": "2026-09-03",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

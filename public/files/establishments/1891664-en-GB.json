@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5432945",
+    "Longitude": "-1.0390125"
+  },
   "AddressLine1": "15 Emmens Close",
   "AddressLine2": "Checkendon",
   "AddressLine3": "Reading",

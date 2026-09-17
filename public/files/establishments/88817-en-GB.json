@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.956545",
+    "Longitude": "-3.124721"
+  },
   "AddressLine2": "Blagdon Hill",
   "AddressLine3": "Taunton",
   "AddressLine4": "Somerset",

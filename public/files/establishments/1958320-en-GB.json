@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.6478303",
-    "Longitude": "1.728094"
+    "Latitude": "52.647597",
+    "Longitude": "1.728674"
   },
   "AddressLine2": "10 Beach Road",
-  "AddressLine3": "Caister",
-  "AddressLine4": "Great Yarmouth Norfolk",
+  "AddressLine3": "Caister-On-Sea",
+  "AddressLine4": "Norfolk",
   "PostCode": "NR30 5ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

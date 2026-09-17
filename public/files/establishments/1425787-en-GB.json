@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "306",
   "LocalAuthorityName": "Epsom and Ewell",
   "LocalAuthorityWebSite": "http://www.epsom-ewell.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehpublichealth@epsom-ewell.gov.uk",
   "Geocode": {
     "Latitude": "51.3490996",
@@ -19,12 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "KT17 1RW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-07-13",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

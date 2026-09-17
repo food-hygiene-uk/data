@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.759488",
+    "Longitude": "-2.700968"
+  },
   "AddressLine2": "5 Friargate",
   "AddressLine3": "Preston",
   "PostCode": "PR1 2AU",

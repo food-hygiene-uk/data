@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.332092",
-    "Longitude": "1.675066"
-  },
+  "Geocode": null,
   "AddressLine1": "Stella Peskett Millenium Hall",
   "AddressLine2": "Mights Road",
   "AddressLine3": "Southwold",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-02-13",
+  "RatingDate": "2026-09-10",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

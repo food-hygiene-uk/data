@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5221001",
-    "Longitude": "-1.8460325"
-  },
+  "Geocode": null,
   "AddressLine1": "Chris Bryant Centre",
   "AddressLine2": "300 Reservoir Road",
   "AddressLine3": "Stockland Green",
   "AddressLine4": "Birmingham",
   "PostCode": "B23 6FJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

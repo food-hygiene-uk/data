@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.204202",
+    "Longitude": "-3.468337"
+  },
   "AddressLine1": "Mart Road",
   "AddressLine2": "Minehead",
   "AddressLine3": "Somerset",

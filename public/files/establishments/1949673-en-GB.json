@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.786819",
+    "Longitude": "-1.1764884"
+  },
   "AddressLine1": "Hillview Horton Road",
   "AddressLine2": "Stanton St John",
   "AddressLine3": "Oxford",

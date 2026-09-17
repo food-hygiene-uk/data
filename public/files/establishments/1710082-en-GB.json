@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.766949",
+    "Longitude": "-1.263558"
+  },
   "AddressLine1": "St Hughs College",
   "AddressLine2": "St Margaret's Road",
   "AddressLine3": "Oxford",

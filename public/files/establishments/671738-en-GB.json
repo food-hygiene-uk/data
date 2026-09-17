@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.112767",
+    "Longitude": "-2.452596"
+  },
   "AddressLine2": "5 Grove Alley",
   "AddressLine3": "Bruton",
   "AddressLine4": "Somerset",

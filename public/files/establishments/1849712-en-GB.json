@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.181304",
+    "Longitude": "-3.329499"
+  },
   "AddressLine1": "Harbour Road",
   "AddressLine2": "Watchet",
   "AddressLine3": "Somerset",

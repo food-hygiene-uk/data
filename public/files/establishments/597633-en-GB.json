@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.399153",
-    "Longitude": "-1.959538"
-  },
+  "Geocode": null,
   "AddressLine1": "22 Sylvia Avenue",
   "AddressLine2": "Birmingham",
   "PostCode": "B31 3LE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-16",
+  "RatingDate": "2026-09-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

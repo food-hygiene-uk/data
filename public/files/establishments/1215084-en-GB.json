@@ -1,6 +1,6 @@
 {
   "FHRSID": 1215084,
-  "BusinessName": "Burger Doner",
+  "BusinessName": "Burger Donner",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "101218",
   "BusinessTypeID": 7844,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": {
-    "Latitude": "53.794834",
-    "Longitude": "-1.7571519"
-  },
+  "Geocode": null,
   "AddressLine2": "2-4 Sackville Street",
   "AddressLine3": "Bradford",
   "PostCode": "BD1 2AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

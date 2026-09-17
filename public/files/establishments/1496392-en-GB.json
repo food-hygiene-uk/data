@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.474379",
-    "Longitude": "-1.95383"
-  },
+  "Geocode": null,
   "AddressLine1": "Prince Hotel",
   "AddressLine2": "4 Stanmore Road",
   "AddressLine3": "Harborne",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-10-26",
+  "RatingDate": "2026-09-02",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

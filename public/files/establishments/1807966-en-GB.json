@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.180909",
+    "Longitude": "-3.331076"
+  },
   "AddressLine1": "4 Anchor Street",
   "AddressLine2": "Watchet",
   "AddressLine3": "Somerset",

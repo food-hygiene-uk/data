@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "291",
   "LocalAuthorityName": "South Staffordshire",
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
   "Geocode": {
     "Latitude": "52.6579475402832",
@@ -19,12 +19,12 @@
   "AddressLine4": "South Staffordshire",
   "PostCode": "WS6 6DY",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2025-02-04",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

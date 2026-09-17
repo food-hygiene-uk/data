@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5949020385742",
-    "Longitude": "-1.84434401988983"
-  },
+  "Geocode": null,
   "AddressLine1": "Hill West Junior And Infant School",
   "AddressLine2": "Clarence Road",
   "AddressLine3": "Sutton Four Oaks",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingDate": "2026-09-11",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": {
-    "Latitude": "51.485191",
-    "Longitude": "0.336073"
-  },
+  "Geocode": null,
   "AddressLine1": "Royal Air Forces Association",
   "AddressLine2": "61 Southend Road",
   "AddressLine3": "Grays",
   "AddressLine4": "Essex",
   "PostCode": "RM17 5NL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

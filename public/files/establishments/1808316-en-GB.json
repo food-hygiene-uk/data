@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.219151",
+    "Longitude": "-3.575836"
+  },
   "AddressLine1": "West Lynch Farm",
   "AddressLine2": "Bossington Road",
   "AddressLine3": "Selworthy",

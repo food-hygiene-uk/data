@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.7127903",
+    "Longitude": "-2.4685031"
+  },
   "AddressLine1": "44 High Street Montrose",
   "PostCode": "DD10 8JF",
   "SchemeType": "FHIS",

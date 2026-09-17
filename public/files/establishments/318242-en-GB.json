@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6898967",
+    "Longitude": "-1.2852063"
+  },
   "AddressLine1": "Tilsley Park Dunmore Road",
   "AddressLine2": "Abingdon",
   "AddressLine3": "Oxon",

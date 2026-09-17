@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4688047",
-    "Longitude": "-1.9234049"
-  },
+  "Geocode": null,
   "AddressLine1": "The Edgbaston",
   "AddressLine2": "18 Highfield Road",
   "AddressLine3": "Edgbaston",
   "AddressLine4": "Birmingham",
   "PostCode": "B15 3DU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

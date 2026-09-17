@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Abertawe",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
     "Latitude": "51.620937",
@@ -17,8 +17,12 @@
   "AddressLine4": "City Centre",
   "PostCode": "SA1 5HG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-08-11",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

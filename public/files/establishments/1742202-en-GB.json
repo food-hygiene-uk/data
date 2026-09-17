@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5345746",
+    "Longitude": "-1.0705687"
+  },
   "AddressLine1": "Unit A Church Farm Reading Road",
   "AddressLine2": "Woodcote",
   "AddressLine3": "Reading",

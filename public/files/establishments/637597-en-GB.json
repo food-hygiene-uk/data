@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.329829",
-    "Longitude": "1.412087"
-  },
+  "Geocode": null,
   "AddressLine1": "Old Priory School",
   "AddressLine2": "Priory Road",
   "AddressLine3": "Ramsgate",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-13",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

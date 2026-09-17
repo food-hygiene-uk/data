@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.478832244873",
-    "Longitude": "-1.90059995651245"
-  },
+  "Geocode": null,
   "AddressLine1": "Mk 8",
   "AddressLine2": "Grand Central",
   "AddressLine3": "Stephenson Place",
   "AddressLine4": "Birmingham",
   "PostCode": "B2 4BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

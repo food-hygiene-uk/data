@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.401211",
-    "Longitude": "-3.11321"
-  },
+  "Geocode": null,
   "AddressLine1": "220 Hoylake Road",
   "AddressLine2": "Moreton",
   "AddressLine3": "Wirral",
@@ -21,10 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-06-19",
+  "RatingDate": "2026-07-08",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

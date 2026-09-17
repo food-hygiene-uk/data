@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": {
-    "Latitude": "53.82847",
-    "Longitude": "-1.578423"
-  },
+  "Geocode": null,
   "AddressLine1": "Castle Grove Masonic Hall",
   "AddressLine2": "Castle Grove Drive",
   "AddressLine3": "Headingley",
   "AddressLine4": "Leeds",
   "PostCode": "LS6 4BP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

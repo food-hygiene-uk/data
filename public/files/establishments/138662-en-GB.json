@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.5590765",
+    "Longitude": "-2.6058981"
+  },
   "AddressLine1": "Unit 07 Timmergreens Shopping Centre Arbirlot Road Arbroath",
   "PostCode": "DD11 2EW",
   "SchemeType": "FHIS",
