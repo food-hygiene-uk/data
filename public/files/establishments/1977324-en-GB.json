@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "143",
   "LocalAuthorityName": "Winchester City",
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
   "Geocode": {
     "Latitude": "50.943181",
     "Longitude": "-1.181435"
   },
-  "AddressLine1": "Butchers Shop",
-  "AddressLine2": "New Road",
-  "AddressLine3": "Swanmore",
-  "AddressLine4": "Southampton",
+  "AddressLine1": "New Road",
+  "AddressLine2": "Swanmore",
+  "AddressLine3": "Southampton",
+  "AddressLine4": "Hampshire",
   "PostCode": "SO32 2PE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

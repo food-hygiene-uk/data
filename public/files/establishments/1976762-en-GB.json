@@ -13,12 +13,15 @@
     "Latitude": "51.4528438",
     "Longitude": "-0.9679604"
   },
-  "AddressLine1": "35-39 London Street Reading",
-  "AddressLine2": "Reading",
+  "AddressLine1": "35-39 LONDON STREET READING",
   "PostCode": "RG1 4PS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

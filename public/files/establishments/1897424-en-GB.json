@@ -1,9 +1,9 @@
 {
   "FHRSID": 1897424,
   "BusinessName": "Fairy Good Cakes",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000152111",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kings Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4541615",
+    "Longitude": "-0.9533088"
+  },
+  "AddressLine1": "THAMES VALLEY UNIVERSITY KINGS ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 4HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -1,9 +1,9 @@
 {
   "FHRSID": 1744993,
-  "BusinessName": "Dessi Bite/Biryani Max",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessName": "Dessi Bites",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "145219",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
@@ -13,16 +13,12 @@
     "Latitude": "51.453402",
     "Longitude": "-0.9478144"
   },
-  "AddressLine1": "227 London Road",
-  "AddressLine2": "Reading",
+  "AddressLine1": "227 LONDON ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 3NY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-20",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

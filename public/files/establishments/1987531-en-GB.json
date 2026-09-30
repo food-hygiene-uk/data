@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
   "Geocode": {
-    "Latitude": "52.9980133",
-    "Longitude": "-1.197406"
+    "Latitude": "52.9982986450195",
+    "Longitude": "-1.19741797447205"
   },
+  "AddressLine1": "Ground Floor",
   "AddressLine2": "1-5 Main Street",
   "AddressLine4": "Nottingham",
   "PostCode": "NG6 8QH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

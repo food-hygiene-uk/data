@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Paddock Road",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4651062",
+    "Longitude": "-0.955477"
+  },
+  "AddressLine1": "UNIT 3 PADDOCK ROAD INDUSTRIAL ESTATE PADDOCK ROAD",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 5BY",
   "SchemeType": "FHRS",
   "RatingValue": "4",

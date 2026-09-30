@@ -9,18 +9,16 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Riverside Pavilion",
-  "AddressLine2": "Oracle Shopping Centre",
-  "AddressLine3": "Unit R50 Bridge Street",
+  "Geocode": {
+    "Latitude": "51.4533018",
+    "Longitude": "-0.9699362"
+  },
+  "AddressLine1": "R50 THE RIVERSIDE THE ORACLE BRIDGE STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 2LR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2025-11-20",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "Scores": null
 }

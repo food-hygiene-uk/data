@@ -1,6 +1,6 @@
 {
   "FHRSID": 1981141,
-  "BusinessName": "Wazali Pizza And Kebab",
+  "BusinessName": "Wazali Food Ltd",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00165/MIXED",
   "BusinessTypeID": 7844,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.329365",
-    "Longitude": "0.442297"
-  },
+  "Geocode": null,
   "AddressLine1": "43 Malling Road",
   "AddressLine2": "Snodland",
   "AddressLine3": "Kent",
   "PostCode": "ME6 5AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

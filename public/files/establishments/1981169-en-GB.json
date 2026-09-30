@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5485462",
-    "Longitude": "-2.5517148"
-  },
-  "AddressLine1": "Unit 9 Apex Court",
+  "Geocode": null,
+  "AddressLine1": "Aztec Shipping Container",
   "AddressLine2": "Woodlands",
   "AddressLine3": "Bradley Stoke",
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS32 4JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

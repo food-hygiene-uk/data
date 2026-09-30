@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4238062",
+    "Longitude": "-0.9799475"
+  },
+  "AddressLine1": "UNIT 8 READING GATE RETAIL PARK",
+  "AddressLine3": "READING",
   "PostCode": "RG2 0QG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

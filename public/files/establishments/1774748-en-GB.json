@@ -9,8 +9,14 @@
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "B'spoked Enterprises",
+  "Geocode": {
+    "Latitude": "51.6576319",
+    "Longitude": "-3.833461"
+  },
+  "AddressLine1": "Vocational Skills Centre",
+  "AddressLine2": "Neath Abbey Business Park Road",
+  "AddressLine3": "Neath Abbey",
+  "AddressLine4": "Neath",
   "PostCode": "SA10 7DR",
   "SchemeType": "FHRS",
   "RatingValue": "5",

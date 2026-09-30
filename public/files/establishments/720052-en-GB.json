@@ -1,6 +1,6 @@
 {
   "FHRSID": 720052,
-  "BusinessName": "Tesco at Crown Collonade",
+  "BusinessName": "Tesco Express",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "129236",
   "BusinessTypeID": 7840,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "London Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4525821",
+    "Longitude": "-0.9496465"
+  },
+  "AddressLine1": "1A CROWN COLONNADE LONDON ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 5BA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,13 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.8952847",
+    "Longitude": "-5.0203068"
+  },
   "AddressLine1": "Commerce Road",
-  "AddressLine3": "Stranraer",
+  "AddressLine2": "Stranraer",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG9 7DD",
   "SchemeType": "FHIS",
   "RatingValue": "Exempt",
   "RatingKey": "fhis_exempt_en-GB",
-  "RatingDate": "2024-09-27",
+  "RatingDate": "2026-08-19",
   "Scores": null
 }

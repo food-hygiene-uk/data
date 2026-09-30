@@ -13,13 +13,18 @@
     "Latitude": "52.2420428",
     "Longitude": "0.5864104"
   },
-  "AddressLine1": "40 Bury Road",
-  "AddressLine2": "Barrow",
-  "AddressLine3": "Suffolk",
+  "AddressLine1": "Budgens Barrow",
+  "AddressLine2": "40 Bury Road",
+  "AddressLine3": "Barrow",
+  "AddressLine4": "Suffolk",
   "PostCode": "IP29 5AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

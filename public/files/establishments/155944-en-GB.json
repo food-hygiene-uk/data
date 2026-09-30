@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.144992",
-    "Longitude": "0.332172"
-  },
+  "Geocode": null,
   "AddressLine1": "Skegness And District Hospital",
   "AddressLine2": "Dorothy Avenue",
   "AddressLine3": "Skegness",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-12",
+  "RatingDate": "2026-09-24",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

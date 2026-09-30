@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5731475195499",
+    "Longitude": "-0.969990123259565"
+  },
   "AddressLine2": "Saltburn Lane",
   "AddressLine3": "Saltburn By The Sea",
   "PostCode": "TS12 1HD",
@@ -20,6 +23,6 @@
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

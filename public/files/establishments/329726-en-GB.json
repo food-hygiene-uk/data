@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.lincoln.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.230564",
+    "Longitude": "-0.529072"
+  },
   "AddressLine2": "121 Monks Road",
   "AddressLine3": "Lincoln",
   "PostCode": "LN2 5HT",

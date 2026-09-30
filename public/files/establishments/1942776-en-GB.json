@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.lbbd.gov.uk/Pages/Home.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@lbbd.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5389925",
+    "Longitude": "0.0919385"
+  },
+  "AddressLine2": "118 Salisbury Avenue",
+  "AddressLine4": "Barking",
+  "PostCode": "IG11 9XU",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

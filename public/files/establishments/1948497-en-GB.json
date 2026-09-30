@@ -10,19 +10,14 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
   "Geocode": {
-    "Latitude": "51.4552017",
-    "Longitude": "-0.9794643"
+    "Latitude": "51.461708",
+    "Longitude": "-1.011535"
   },
-  "AddressLine1": "80 Oxford Road",
-  "AddressLine2": "Reading",
-  "PostCode": "RG1 7LJ",
+  "AddressLine1": "80 OXFORD ROAD",
+  "AddressLine3": "READING",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-04-17",
-  "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

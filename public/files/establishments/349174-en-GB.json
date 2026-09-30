@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.885096",
+    "Longitude": "-0.170903"
+  },
   "AddressLine1": "126 Oaks Cross",
   "AddressLine2": "Stevenage",
   "AddressLine3": "HERTS",

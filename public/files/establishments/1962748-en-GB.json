@@ -1,6 +1,6 @@
 {
   "FHRSID": 1962748,
-  "BusinessName": "The Norwich School Of Beauty",
+  "BusinessName": "The Norwich School Of Hair & Beauty",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "088287/CP",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR7 8SQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

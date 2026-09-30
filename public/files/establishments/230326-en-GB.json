@@ -7,19 +7,22 @@
   "LocalAuthorityCode": "069",
   "LocalAuthorityName": "South Derbyshire",
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
   "Geocode": {
-    "Latitude": "52.867008",
-    "Longitude": "-1.516255"
+    "Latitude": "52.8672921",
+    "Longitude": "-1.5176301"
   },
-  "AddressLine1": "Stenson Road",
-  "AddressLine2": "Stenson",
-  "AddressLine3": "Derby Derbyshire",
+  "AddressLine1": "BUBBLE INN STENSON ROAD",
+  "AddressLine3": "STENSON",
   "PostCode": "DE73 7HL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

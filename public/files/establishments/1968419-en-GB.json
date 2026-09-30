@@ -1,13 +1,13 @@
 {
   "FHRSID": 1968419,
   "BusinessName": "Gram spice",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "HX4TAC-3SLSR3-XZEGQC",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "179",
   "LocalAuthorityName": "Ashford",
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
   "Geocode": {
     "Latitude": "51.1232334",
@@ -17,8 +17,12 @@
   "AddressLine3": "Biddenden",
   "PostCode": "TN27 8JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

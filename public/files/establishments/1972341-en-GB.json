@@ -1,23 +1,27 @@
 {
   "FHRSID": 1972341,
-  "BusinessName": "BABIO",
+  "BusinessName": "Babio",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00481/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6416751",
-    "Longitude": "-0.1625326"
+    "Latitude": "51.641748",
+    "Longitude": "-0.162646"
   },
-  "AddressLine1": "35 Church Hill Road",
+  "AddressLine1": "35 Church Hill Road Barnet",
   "PostCode": "EN4 8SY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

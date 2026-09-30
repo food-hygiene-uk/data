@@ -1,13 +1,13 @@
 {
   "FHRSID": 1154004,
-  "BusinessName": "Western Convenience Store",
+  "BusinessName": "Sharkey's Convenience Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/010010856",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
     "Latitude": "53.3872595",
@@ -20,10 +20,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingDate": "2026-08-17",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

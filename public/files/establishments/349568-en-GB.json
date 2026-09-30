@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.918304",
+    "Longitude": "-0.179574"
+  },
   "AddressLine1": "Oval Pharmacy",
   "AddressLine2": "8 The Oval",
   "AddressLine3": "Stevenage",

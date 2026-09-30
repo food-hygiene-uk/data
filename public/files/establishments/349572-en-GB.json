@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.909251",
+    "Longitude": "-0.195305"
+  },
   "AddressLine1": "Primark Stores Ltd",
   "AddressLine2": "6-8 Town Square",
   "AddressLine3": "Town Centre",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Gosbrook Road",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4656984",
+    "Longitude": "-0.9613944"
+  },
+  "AddressLine1": "ST JOHN THE BAPTISTS CHURCH ST JOHNS ROAD",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 5AN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

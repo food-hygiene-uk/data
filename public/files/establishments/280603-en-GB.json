@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hardwick Road",
-  "AddressLine2": "Tilehurst",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4547386",
+    "Longitude": "-1.0243652"
+  },
+  "AddressLine1": "7-9 HARVASTON PARADE HARDWICK ROAD",
+  "AddressLine2": "TILEHURST",
+  "AddressLine3": "READING",
   "PostCode": "RG30 4LP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

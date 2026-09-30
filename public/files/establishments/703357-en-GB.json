@@ -1,6 +1,6 @@
 {
   "FHRSID": 703357,
-  "BusinessName": "Esso - Amahar Ltd",
+  "BusinessName": "Rontec Westbury",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000219693",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine3": "WESTBURY",
   "PostCode": "BA13 3PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

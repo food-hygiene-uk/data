@@ -1,6 +1,6 @@
 {
   "FHRSID": 1975353,
-  "BusinessName": "OBLEE CUISINE",
+  "BusinessName": "Cabasa Fresh",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00462/C",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.safety@stockport.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

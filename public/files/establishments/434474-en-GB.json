@@ -1,6 +1,6 @@
 {
   "FHRSID": 434474,
-  "BusinessName": "Boots UK Ltd",
+  "BusinessName": "Boots",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "34302",
   "BusinessTypeID": 4613,
@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "45 Church Street",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4674127",
+    "Longitude": "-0.9742832"
+  },
+  "AddressLine1": "45 CHURCH STREET",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 8BA",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

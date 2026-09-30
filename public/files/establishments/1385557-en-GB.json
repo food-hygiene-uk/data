@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4079071",
-    "Longitude": "-0.3074341"
-  },
+  "Geocode": null,
   "AddressLine1": "Ground And First Floor Rear",
   "AddressLine2": "19 - 23 High Street",
   "AddressLine3": "Kingston Upon Thames",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-22",
+  "RatingDate": "2026-09-17",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

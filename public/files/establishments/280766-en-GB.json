@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Micklands Road",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4744285",
+    "Longitude": "-0.9521686"
+  },
+  "AddressLine1": "MICKLANDS PRIMARY SCHOOL MICKLANDS ROAD",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 6LU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

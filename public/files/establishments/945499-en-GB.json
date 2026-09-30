@@ -1,13 +1,13 @@
 {
   "FHRSID": 945499,
-  "BusinessName": "Discount Store And Off Licence",
+  "BusinessName": "Discount Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "23480/1080/3/010",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "417",
   "LocalAuthorityName": "North Tyneside",
   "LocalAuthorityWebSite": "http://www.northtyneside.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@northtyneside.gov.uk",
   "Geocode": {
     "Latitude": "55.002976",
@@ -18,12 +18,12 @@
   "AddressLine3": "Tyne And Wear",
   "PostCode": "NE29 6ST",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-01-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-13",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
   }
 }

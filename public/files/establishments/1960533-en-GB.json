@@ -1,6 +1,6 @@
 {
   "FHRSID": 1960533,
-  "BusinessName": "DNVL21 Ltd",
+  "BusinessName": "DNV21 Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "FR/000002637",
   "BusinessTypeID": 4613,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "env.health@charnwood.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1804409,
-  "BusinessName": "Dreams of Galloway",
+  "BusinessName": "Ice Dreamz",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "108583",
   "BusinessTypeID": 7844,
@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.881338",
+    "Longitude": "-4.1860192"
+  },
+  "AddressLine1": "Unit 1 Rutherford Hall",
+  "AddressLine2": "High Street",
+  "AddressLine3": "Castle Douglas",
+  "AddressLine4": "Gatehouse Of Fleet",
+  "PostCode": "DG7 2HS",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2025-03-03",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-08-11",
   "Scores": null
 }

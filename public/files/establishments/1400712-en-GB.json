@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit R17B Riverside Level",
-  "AddressLine2": "The Oracle",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4536465",
+    "Longitude": "-0.9712956"
+  },
+  "AddressLine1": "R17B THE RIVERSIDE THE ORACLE BRIDGE STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 2AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

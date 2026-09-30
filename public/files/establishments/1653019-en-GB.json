@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0845795",
+    "Longitude": "1.1184958"
+  },
   "AddressLine1": "Dunelm",
   "AddressLine2": "6 Anglia Parkway South",
   "AddressLine3": "Ipswich",
   "AddressLine4": "Suffolk",
+  "PostCode": "IP1 5QP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

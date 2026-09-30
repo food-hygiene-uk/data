@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "149 Wensley Road",
-  "AddressLine2": "Reading",
-  "AddressLine3": "Berkshire",
+  "Geocode": {
+    "Latitude": "51.4431631",
+    "Longitude": "-0.9879485"
+  },
+  "AddressLine1": "ST MARY AND ALL SAINTS CE PRIMARY SCHOOL WENSLEY ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 6DU",
   "SchemeType": "FHRS",
   "RatingValue": "4",

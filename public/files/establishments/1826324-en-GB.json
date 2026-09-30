@@ -7,9 +7,9 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "RightToReply": "&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n",
+  "RightToReply": "&lt;div&gt;\n\tWe acknowledge the structural issues listed in the EHO report. We have arranged for a contractor to come and fix the flooring which is lifting in parts and to redecorate the kitchen ceiling.&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;\n\tWe have arranged for a gas safety report and a cleaning canopy report to be sent to the EHO.&lt;/div&gt;\n&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;\n\tWe have purchased a new stainless-steel table.&lt;/div&gt;\n&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;\n\tWe have reviewed the way we manage the information on allergens on our menu.&lt;/div&gt;\n&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n&lt;div&gt;\n\tWe always work with the EHO and are looking forward to showing her our progress when she comes back in October.&lt;/div&gt;\n&lt;p&gt;\n\t&amp;nbsp;&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "50.44793",
     "Longitude": "-3.5577075"
@@ -17,8 +17,12 @@
   "AddressLine1": "361 Torquay Road Paignton Devon",
   "PostCode": "TQ3 2BT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

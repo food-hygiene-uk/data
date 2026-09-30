@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "41-45 Queens Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4538675",
+    "Longitude": "-0.963735"
+  },
+  "AddressLine1": "KENNET WHARF 41-45 QUEENS ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 4BQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

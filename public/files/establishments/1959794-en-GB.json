@@ -9,13 +9,21 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3637802",
+    "Longitude": "-2.6940944"
+  },
   "AddressLine1": "Unit 2 Avenbury Lane",
   "AddressLine3": "Ludlow",
+  "AddressLine4": "Shropshire",
   "PostCode": "SY8 4HA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

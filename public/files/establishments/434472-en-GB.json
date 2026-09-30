@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Albert Road",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading Berkshire",
+  "Geocode": {
+    "Latitude": "51.4766883",
+    "Longitude": "-0.9872508"
+  },
+  "AddressLine1": "CAVERSHAM BOWLING CLUB ALBERT ROAD",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 7AN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

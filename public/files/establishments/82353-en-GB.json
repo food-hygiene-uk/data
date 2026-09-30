@@ -1,9 +1,9 @@
 {
   "FHRSID": 82353,
-  "BusinessName": "The Fox",
-  "BusinessType": "Pub/bar/nightclub",
+  "BusinessName": "Joyful Beginnings",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "2003",
-  "BusinessTypeID": 7843,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "424",
   "LocalAuthorityName": "Sefton",
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
@@ -18,12 +18,8 @@
   "AddressLine4": "Merseyside",
   "PostCode": "L31 3EW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-06-29",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

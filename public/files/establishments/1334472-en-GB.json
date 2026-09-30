@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3772983",
+    "Longitude": "-1.2963202"
+  },
+  "AddressLine1": " 5 Lodge Farm Close",
+  "AddressLine2": "Long Lawford",
+  "AddressLine4": "Rugby",
+  "PostCode": "CV23 9GJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

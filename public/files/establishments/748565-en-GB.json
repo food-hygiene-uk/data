@@ -1,25 +1,26 @@
 {
   "FHRSID": 748565,
-  "BusinessName": "The Village Club RAOB",
+  "BusinessName": "The Farcet Village Club",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "259",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "030",
   "LocalAuthorityName": "Huntingdonshire",
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5360073",
-    "Longitude": "-0.2226781"
-  },
+  "Geocode": null,
   "AddressLine1": "Farcet R A O B Working Mens Club 1 Cross Street",
   "AddressLine3": "Farcet",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE7 3DE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

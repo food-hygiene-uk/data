@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5591735839844",
+    "Longitude": "-0.0309640001505613"
+  },
   "AddressLine1": "Heron Frozen Foods",
-  "AddressLine2": "St Peters Avenue",
+  "AddressLine2": "57-59 St Peters Avenue",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 8HF",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2022-03-16",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

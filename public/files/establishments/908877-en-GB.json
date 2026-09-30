@@ -1,6 +1,6 @@
 {
   "FHRSID": 908877,
-  "BusinessName": "Glentrool Camping & Caravan Site (Shop)",
+  "BusinessName": "Glentrool Camping",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "94669",
   "BusinessTypeID": 4613,
@@ -9,13 +9,16 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bargrennan",
-  "AddressLine3": "Newton Stewart",
+  "Geocode": {
+    "Latitude": "55.059242",
+    "Longitude": "-4.583772"
+  },
+  "AddressLine3": "Bargrennan",
+  "AddressLine4": "Newton Stewart",
   "PostCode": "DG8 6RN",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2016-06-29",
+  "RatingDate": "2025-11-20",
   "Scores": null
 }

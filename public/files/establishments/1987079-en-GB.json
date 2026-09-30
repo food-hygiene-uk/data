@@ -1,6 +1,6 @@
 {
   "FHRSID": 1987079,
-  "BusinessName": "Impact Food Group T/s Dolce@ Kinver High School",
+  "BusinessName": "Impact Food Group T/a Dolce@ Kinver High School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "KI-42/2",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Kinver",
   "PostCode": "DY7 6AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

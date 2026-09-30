@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4425501",
+    "Longitude": "-0.992998"
+  },
+  "AddressLine1": "193 Wensley Road",
+  "AddressLine3": "Reading",
+  "PostCode": "RG1 6EA",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

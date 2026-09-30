@@ -9,13 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.0687539",
+    "Longitude": "-3.5527442"
+  },
   "AddressLine1": "Annan Road",
-  "AddressLine3": "Dumfries",
+  "AddressLine2": "Dumfries",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG1 3SE",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2023-11-01",
+  "RatingValue": "Improvement Required",
+  "RatingKey": "fhis_improvement_required_en-GB",
+  "RatingDate": "2026-04-07",
   "Scores": null
 }

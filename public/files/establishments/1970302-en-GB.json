@@ -7,17 +7,15 @@
   "LocalAuthorityCode": "409",
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
-  "NewRatingPending": true,
-  "Geocode": {
-    "Latitude": "52.5132793",
-    "Longitude": "-2.0991188"
-  },
-  "AddressLine1": "80 Himley Road",
-  "AddressLine2": "Dudley",
-  "PostCode": "DY1 2QG",
+  "NewRatingPending": false,
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

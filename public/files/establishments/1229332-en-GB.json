@@ -1,6 +1,6 @@
 {
   "FHRSID": 1229332,
-  "BusinessName": "OCS Food Co at Thames Water",
+  "BusinessName": "Angel Hill at Thames Water",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "137003",
   "BusinessTypeID": 1,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Vastern Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4604141",
+    "Longitude": "-0.9688695"
+  },
+  "AddressLine1": "CLEARWATER COURT VASTERN ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 8DB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

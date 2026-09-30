@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Kiosk 13 The Esplanade",
-  "AddressLine3": "Marine Parade",
-  "AddressLine4": "Great Yarmouth Norfolk",
-  "PostCode": "NR30 2EJ",
+  "Geocode": {
+    "Latitude": "52.604316",
+    "Longitude": "1.737166"
+  },
+  "AddressLine2": "Marine Parade",
+  "AddressLine3": "Great Yarmouth",
+  "AddressLine4": "Norfolk",
+  "PostCode": "NR30 2ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

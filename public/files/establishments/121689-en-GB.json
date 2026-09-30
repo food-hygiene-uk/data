@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3140571",
+    "Longitude": "-2.7991367"
+  },
   "AddressLine1": "Orwell House",
   "AddressLine2": "The Square",
   "AddressLine3": "Shipham",

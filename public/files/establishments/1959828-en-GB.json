@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.lisburncastlereagh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.Health@lisburncastlereagh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5537154",
+    "Longitude": "-6.0572139"
+  },
+  "AddressLine1": "33 Barnfield Road",
+  "AddressLine2": "Derriaghy",
+  "AddressLine3": "Lisburn",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

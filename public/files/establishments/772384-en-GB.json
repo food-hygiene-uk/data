@@ -1,6 +1,6 @@
 {
   "FHRSID": 772384,
-  "BusinessName": "Haugh of Urr Nursery",
+  "BusinessName": "Haugh Of Urr Nursery",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "95136",
   "BusinessTypeID": 5,
@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hardgate Primary School School Brae",
-  "AddressLine2": "Castle Douglas",
-  "AddressLine3": "Haugh Of Urr",
+  "Geocode": {
+    "Latitude": "54.9806713",
+    "Longitude": "-3.8593463"
+  },
+  "AddressLine1": "School Brae",
+  "AddressLine2": "Haugh Of Urr",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG7 3LD",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2020-01-31",
+  "RatingDate": "2026-01-29",
   "Scores": null
 }

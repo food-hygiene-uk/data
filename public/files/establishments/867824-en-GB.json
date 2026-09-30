@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "350 Basingstoke Road",
-  "AddressLine2": "Reading",
-  "PostCode": "RG2 0HB",
+  "Geocode": {
+    "Latitude": "51.4329591",
+    "Longitude": "-0.9694824"
+  },
+  "AddressLine1": "THE VICTORIA CROSS PH BASINGSTOKE ROAD",
+  "AddressLine3": "READING",
+  "PostCode": "RG2 0NT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

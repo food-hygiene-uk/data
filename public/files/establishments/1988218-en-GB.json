@@ -9,13 +9,20 @@
   "LocalAuthorityWebSite": "http://www.redcar-cleveland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food_team@redcar-cleveland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.57925",
+    "Longitude": "-0.981264"
+  },
   "AddressLine2": "Marske Mill Lane",
   "AddressLine3": "Saltburn By The Sea",
   "PostCode": "TS12 1HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

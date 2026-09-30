@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.910091",
+    "Longitude": "-0.184631"
+  },
   "AddressLine1": "Archer Pharmacy",
   "AddressLine2": "289 Archer Road",
   "AddressLine3": "Stevenage",

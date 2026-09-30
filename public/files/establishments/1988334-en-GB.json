@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.87471",
+    "Longitude": "-0.16557"
+  },
   "AddressLine1": "Bragbury End Coffee Shop",
   "AddressLine2": "3 Kenilworth Close",
   "AddressLine3": "Stevenage",

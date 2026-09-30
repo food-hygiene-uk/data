@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.bristol.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bristol.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Street Record",
-  "AddressLine2": "Canons Road",
-  "AddressLine3": "City Centre",
+  "Geocode": {
+    "Latitude": "51.4431341",
+    "Longitude": "-2.5910489"
+  },
+  "AddressLine2": "8a Willway Street",
+  "AddressLine3": "Bedminster",
   "AddressLine4": "Bristol",
+  "PostCode": "BS3 4BG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-04",
+  "RatingDate": "2026-09-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

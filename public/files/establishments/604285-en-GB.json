@@ -1,30 +1,25 @@
 {
   "FHRSID": 604285,
-  "BusinessName": "Hodge Hill Grange Care Home HC-One",
+  "BusinessName": "150 Coleshill Road",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000508659",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.496477",
-    "Longitude": "-1.80959"
-  },
-  "AddressLine1": "Hodge Hill Grange",
-  "AddressLine2": "150 Coleshill Road",
-  "AddressLine3": "Hodge Hill",
-  "AddressLine4": "Birmingham",
+  "Geocode": null,
+  "AddressLine1": "Hodge Hill",
+  "AddressLine2": "Birmingham",
   "PostCode": "B36 8AD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-04",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-08-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

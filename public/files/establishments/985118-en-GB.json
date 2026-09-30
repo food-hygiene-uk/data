@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "https://new.fylde.gov.uk/business/food-safety/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@fylde.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "South Promenade",
-  "AddressLine3": "Lytham St Annes",
+  "Geocode": {
+    "Latitude": "53.7792061",
+    "Longitude": "-2.7959063"
+  },
+  "AddressLine1": "Wards house farm Lea Lane",
+  "AddressLine3": "Preston",
   "AddressLine4": "Lancashire",
-  "PostCode": "FY8 1LW",
+  "PostCode": "PR4 ORN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

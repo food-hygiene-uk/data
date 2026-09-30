@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Armadale Court",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4494232",
+    "Longitude": "-0.9986178"
+  },
+  "AddressLine1": "CHILMINGTON HOUSE ARMADALE COURT",
+  "AddressLine3": "READING",
   "PostCode": "RG30 2ES",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Mill Lane",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4515413",
+    "Longitude": "-0.9709526"
+  },
+  "AddressLine1": "EVANS CYCLES MILL LANE",
+  "AddressLine3": "READING",
   "PostCode": "RG1 2HN",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

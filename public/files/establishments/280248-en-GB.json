@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "7 School Road",
-  "AddressLine2": "Tilehurst",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4607631",
+    "Longitude": "-1.0363137"
+  },
+  "AddressLine1": "TILEHURST PHARMACY 7 SCHOOL ROAD",
+  "AddressLine2": "TILEHURST",
+  "AddressLine3": "READING",
   "PostCode": "RG31 5AR",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

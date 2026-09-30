@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Milestone Way",
-  "AddressLine2": "Caversham",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4831075",
+    "Longitude": "-0.9624537"
+  },
+  "AddressLine1": "6 MILESTONE WAY PRECINCT MILESTONE WAY",
+  "AddressLine2": "CAVERSHAM",
+  "AddressLine3": "READING",
   "PostCode": "RG4 8XW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

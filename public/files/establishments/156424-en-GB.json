@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.370561",
-    "Longitude": "-0.009145"
-  },
+  "Geocode": null,
   "AddressLine1": "Louth County Hospital",
   "AddressLine2": "High Holme Road",
   "AddressLine3": "Louth Lincolnshire",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-22",
+  "RatingDate": "2026-08-18",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

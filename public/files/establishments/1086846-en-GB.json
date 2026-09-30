@@ -1,6 +1,6 @@
 {
   "FHRSID": 1086846,
-  "BusinessName": "Dumfries Mobile Fish & Chips",
+  "BusinessName": "Dumfries Mobile Fish And Chips",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "105332",
   "BusinessTypeID": 7846,
@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.0822598",
+    "Longitude": "-3.6271071"
+  },
+  "AddressLine1": "116 Lincluden Road",
+  "AddressLine2": "Dumfries",
+  "AddressLine4": "Dumfries And Galloway",
+  "PostCode": "DG2 0PT",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2020-01-20",
+  "RatingDate": "2025-07-23",
   "Scores": null
 }

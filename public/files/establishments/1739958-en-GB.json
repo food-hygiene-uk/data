@@ -1,9 +1,9 @@
 {
   "FHRSID": 1739958,
   "BusinessName": "Harput Kebab",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "145075",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
@@ -13,16 +13,11 @@
     "Latitude": "51.454829",
     "Longitude": "-0.9821065"
   },
-  "AddressLine1": "139 Oxford Road",
-  "AddressLine2": "Reading",
-  "PostCode": "RG1 7UU",
+  "AddressLine1": "139 OXFORD ROAD",
+  "AddressLine3": "READING",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-08-06",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "Scores": null
 }

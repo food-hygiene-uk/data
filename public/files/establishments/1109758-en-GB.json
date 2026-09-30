@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Proctor End North",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4176313",
+    "Longitude": "-0.9740738"
+  },
+  "AddressLine1": "UNIT 4 PROCTOR END NORTH",
+  "AddressLine3": "READING",
   "PostCode": "RG2 0GG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

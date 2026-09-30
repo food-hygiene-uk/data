@@ -10,11 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Hafan",
+  "AddressLine2": "Pantydwr",
+  "AddressLine3": "Rhayader",
   "AddressLine4": "Powys",
-  "PostCode": "LD6",
+  "PostCode": "LD6 5LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

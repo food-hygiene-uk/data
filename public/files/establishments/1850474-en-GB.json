@@ -9,13 +9,20 @@
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.9522577",
+    "Longitude": "-1.0847304"
+  },
   "AddressLine2": "119 Nunnery Lane",
   "AddressLine3": "York",
   "PostCode": "YO23 1AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

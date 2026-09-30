@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.hull.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth&safety@hullcc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.80369",
+    "Longitude": "-0.3462417"
+  },
+  "AddressLine2": "144 Richmond Lane",
+  "AddressLine3": "Kingston Upon Hull",
+  "PostCode": "HU7 3NH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

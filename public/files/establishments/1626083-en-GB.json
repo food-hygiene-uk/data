@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\tI agree with the inspection results but have since carried out the following improvements:&lt;/p&gt;\n&lt;p&gt;\n\tThe establishment has been thoroughly cleaned and procedures are in place to ensure that cleanliness is maintained&lt;/p&gt;\n&lt;p&gt;\n\tThe staff have been trained/re-trained/given instruction/are under revised supervisory arrangements&lt;/p&gt;\n&lt;p&gt;\n\tThe inspection findings have been carefully reviewed with our management team, and corrective and preventative actions have been implemented to address all the issues identified. We take food safety and hygiene extremely seriously and we are disappointed to receive a food hygiene rating of 2. We are fully committed to maintaining high standards of food hygiene and continuously improving our food safety management system. We recognise that maintaining high standards of food hygiene requires ongoing management, monitoring, verification and continuous improvement. Our management team has therefore increased oversight of our food safety and hygiene systems and will continue to verify that the required standards are being consistently achieved.&lt;/p&gt;\n&lt;p&gt;\n\tThe conditions found at the time of the inspection were not typical of the normal conditions maintained at the establishment. Some of the issues identified during the inspection were related to work being undertaken by external building contractors at the premises. We have since introduced additional controls to ensure that contractor activities are appropriately managed and do not compromise our food hygiene standards moving forward.&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "51.52654038",
     "Longitude": "-0.27232604"
@@ -17,8 +18,12 @@
   "AddressLine2": "Park Royal",
   "PostCode": "NW10 7QP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-08-23",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

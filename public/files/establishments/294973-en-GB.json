@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.cityoflondon.gov.uk/Corporation/homepage.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@cityoflondon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.513728",
+    "Longitude": "-0.073777"
+  },
   "AddressLine1": "Duke Of Somerset Public House",
   "AddressLine2": "15 Little Somerset Street",
   "AddressLine3": "London",
@@ -17,7 +20,7 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-03-08",
+  "RatingDate": "2026-08-21",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,

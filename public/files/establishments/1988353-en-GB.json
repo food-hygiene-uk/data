@@ -7,9 +7,12 @@
   "LocalAuthorityCode": "883",
   "LocalAuthorityName": "West Berkshire",
   "LocalAuthorityWebSite": "http://www.westberks.gov.uk",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "EHAdvice@westberks.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4356596",
+    "Longitude": "-1.0836841"
+  },
   "AddressLine1": "The Volunteer Church Street",
   "AddressLine2": "Theale",
   "AddressLine3": "Reading",

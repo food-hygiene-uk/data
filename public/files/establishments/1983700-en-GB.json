@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.nottinghamcity.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.enforcement@nottinghamcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9573349",
+    "Longitude": "-1.163207"
+  },
+  "AddressLine1": "Flat 41 Portland Square",
+  "AddressLine2": "Portland Road",
+  "AddressLine4": "Nottingham",
+  "PostCode": "NG7 4HS",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

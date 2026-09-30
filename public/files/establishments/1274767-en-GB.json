@@ -1,9 +1,9 @@
 {
   "FHRSID": 1274767,
   "BusinessName": "Afghan Flavours",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "137811",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "884",
   "LocalAuthorityName": "Reading",
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
@@ -13,16 +13,16 @@
     "Latitude": "51.4554169",
     "Longitude": "-0.9773294"
   },
-  "AddressLine1": "40 Oxford Road",
-  "AddressLine2": "Reading",
+  "AddressLine1": "40 OXFORD ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 7LA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-06-15",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-17",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

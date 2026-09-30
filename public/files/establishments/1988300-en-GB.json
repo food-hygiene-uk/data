@@ -1,22 +1,29 @@
 {
   "FHRSID": 1988300,
-  "BusinessName": "Shahjahan Takeaway",
+  "BusinessName": "Shahjahan",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00790/COMM",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "413",
   "LocalAuthorityName": "Leeds",
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.8120132",
+    "Longitude": "-1.5219143"
+  },
   "AddressLine1": "Shahjahan Take Away",
   "AddressLine2": "164 Roundhay Road",
   "AddressLine3": "Leeds",
   "PostCode": "LS8 5PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.61017",
-    "Longitude": "-0.110123"
+    "Latitude": "51.6100193",
+    "Longitude": "-0.1101061"
   },
-  "AddressLine1": "59 Green Lanes",
-  "AddressLine2": "LONDON",
+  "AddressLine1": "Chicken Valley/Palmers Green Chicken ltd",
+  "AddressLine2": "59 Green Lanes",
+  "AddressLine3": "LONDON",
   "PostCode": "N13 4TD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

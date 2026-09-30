@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Willow Street",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4514519",
+    "Longitude": "-0.9763673"
+  },
+  "AddressLine1": "THE SALVATION ARMY HOSTEL WILLOW STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 6AB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

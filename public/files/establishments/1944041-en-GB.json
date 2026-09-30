@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944041,
-  "BusinessName": "Barnwell Coffee company",
+  "BusinessName": "Barnwell Coffee Company",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "N3TDL0-BFCHX2-701Z8T",
   "BusinessTypeID": 7844,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

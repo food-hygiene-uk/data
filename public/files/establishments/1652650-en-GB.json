@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.05887639",
+    "Longitude": "1.15384982"
+  },
   "AddressLine1": "Hot Sausage Company Site 8",
   "AddressLine2": "Tavern Street",
   "AddressLine3": "Ipswich",
   "AddressLine4": "Suffolk",
+  "PostCode": "IP1 3BD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

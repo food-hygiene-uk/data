@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.2308839",
+    "Longitude": "-2.0927331"
+  },
   "AddressLine2": "The Stead Inn",
   "AddressLine3": "Manse Road",
   "AddressLine4": "Potterton",
@@ -17,6 +20,6 @@
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2025-08-28",
+  "RatingDate": "2025-11-11",
   "Scores": null
 }

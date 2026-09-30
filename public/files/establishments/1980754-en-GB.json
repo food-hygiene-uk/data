@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.280517578125",
+    "Longitude": "-2.78997802734375"
+  },
   "AddressLine1": "Petruth Paddocks",
   "AddressLine2": "Labourham Drove",
   "AddressLine3": "Cheddar",

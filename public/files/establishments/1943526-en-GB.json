@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.ipswich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@ipswich.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.0356828",
+    "Longitude": "1.1469196"
+  },
   "AddressLine1": "Park Grounds",
   "AddressLine2": "Bourne Park",
   "AddressLine3": "Ipswich",
   "AddressLine4": "Suffolk",
+  "PostCode": "IP2 8LU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

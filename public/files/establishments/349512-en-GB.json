@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9149205",
+    "Longitude": "-0.2135992"
+  },
   "AddressLine1": "Hurrens Stevenage Ltd",
   "AddressLine2": "8 - 9 Stevenage Enterprise Centre",
   "AddressLine3": "Orchard Road",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "129",
   "LocalAuthorityName": "Tewkesbury",
   "LocalAuthorityWebSite": "http://www.tewkesbury.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehenquiries@tewkesbury.gov.uk",
   "Geocode": {
     "Latitude": "51.9474056",
@@ -19,12 +19,12 @@
   "AddressLine4": "Cheltenham",
   "PostCode": "GL52 8LP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-01-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-12",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

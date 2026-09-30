@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.hart.gov.uk/environment/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@hart.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3315402",
-    "Longitude": "-0.7772271"
-  },
+  "Geocode": null,
   "AddressLine1": "1 White Hart House",
   "AddressLine2": "London Road",
   "AddressLine3": "Blackwater",
   "AddressLine4": "Camberley",
   "PostCode": "GU17 9AD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

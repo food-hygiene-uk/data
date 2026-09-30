@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hosier Street",
-  "AddressLine2": "Reading",
-  "AddressLine3": "Berkshire",
+  "Geocode": {
+    "Latitude": "51.4542722",
+    "Longitude": "-0.97495715"
+  },
+  "AddressLine1": "HOSIER STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 7QL",
   "SchemeType": "FHRS",
   "RatingValue": "3",

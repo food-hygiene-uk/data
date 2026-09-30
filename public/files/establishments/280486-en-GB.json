@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Grove Road",
-  "AddressLine2": "Emmer Green",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4832382",
+    "Longitude": "-0.9691041"
+  },
+  "AddressLine1": "EMMER GREEN PRIMARY SCHOOL GROVE ROAD",
+  "AddressLine2": "EMMER GREEN",
+  "AddressLine3": "READING",
   "PostCode": "RG4 8LN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

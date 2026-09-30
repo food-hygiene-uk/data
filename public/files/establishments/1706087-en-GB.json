@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "205 Oxford Road",
-  "AddressLine2": "Reading",
-  "PostCode": "RG1 7BX",
+  "Geocode": {
+    "Latitude": "51.4552324",
+    "Longitude": "-0.9861131"
+  },
+  "AddressLine1": "205 OXFORD ROAD",
+  "AddressLine3": "READING",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

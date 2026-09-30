@@ -1,6 +1,6 @@
 {
   "FHRSID": 1835066,
-  "BusinessName": "K W Catering",
+  "BusinessName": "For Goodness Taste Limited",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "797730",
   "BusinessTypeID": 7841,
@@ -18,8 +18,12 @@
   "AddressLine4": "Vale Of Glamorgan",
   "PostCode": "CF64 3AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

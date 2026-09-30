@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
+  "RightToReply": "&lt;p class=&quot;xxmsonormal&quot; style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:9.0pt;\nmargin-left:72.0pt;text-indent:-18.0pt&quot;&gt;\n\t&lt;span style=&quot;font-size:10.0pt;\nfont-family:Symbol;color:black&quot;&gt;&amp;middot;&lt;/span&gt;&lt;span style=&quot;font-size:7.0pt;\nfont-family:&amp;quot;Times New Roman&amp;quot;,serif;color:black&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;Temperature Control:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;&amp;nbsp;The hot-holding equipment was adjusted immediately. All hot-hold items (including beans) are strictly monitored and maintained well above the mandatory 63&amp;deg;C, with daily logs updated accordingly.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;\n&lt;p class=&quot;xxmsonormal&quot; style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:9.0pt;\nmargin-left:72.0pt;text-indent:-18.0pt&quot;&gt;\n\t&lt;span style=&quot;font-size:10.0pt;\nfont-family:Symbol;color:black&quot;&gt;&amp;middot;&lt;/span&gt;&lt;span style=&quot;font-size:7.0pt;\nfont-family:&amp;quot;Times New Roman&amp;quot;,serif;color:black&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;Allergen Management:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;&amp;nbsp;Our allergen matrix has been thoroughly updated to explicitly detail the specific types of gluten-containing cereals and nut varieties present in our ingredients.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;\n&lt;p class=&quot;xxmsonormal&quot; style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:9.0pt;\nmargin-left:72.0pt;text-indent:-18.0pt&quot;&gt;\n\t&lt;span style=&quot;font-size:10.0pt;\nfont-family:Symbol;color:black&quot;&gt;&amp;middot;&lt;/span&gt;&lt;span style=&quot;font-size:7.0pt;\nfont-family:&amp;quot;Times New Roman&amp;quot;,serif;color:black&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;Hygiene Facilities:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:&amp;quot;Arial&amp;quot;,sans-serif;color:black&quot;&gt;&amp;nbsp;Staff have been strictly retrained to ensure the dedicated hand-wash basin is utilized exclusively for personal hygiene.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "51.3607637",
     "Longitude": "-2.927017"
@@ -18,8 +19,12 @@
   "AddressLine3": "Weston-Super-Mare",
   "PostCode": "BS22 6JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

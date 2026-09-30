@@ -1,13 +1,13 @@
 {
   "FHRSID": 739934,
-  "BusinessName": "Marmaris Pizza Ltd",
+  "BusinessName": "Marmaris Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000074027",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "064",
   "LocalAuthorityName": "Chesterfield",
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
   "Geocode": {
     "Latitude": "53.2292319",
@@ -17,12 +17,12 @@
   "AddressLine4": "Chesterfield",
   "PostCode": "S40 2PR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-13",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-20",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

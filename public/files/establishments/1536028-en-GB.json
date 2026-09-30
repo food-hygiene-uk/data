@@ -9,21 +9,14 @@
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "51.229409",
-    "Longitude": "-3.838625"
-  },
-  "AddressLine1": "35 Lee Road",
-  "AddressLine2": "Lynton",
-  "AddressLine3": "Devon",
-  "PostCode": "EX35 6BS",
+  "Geocode": null,
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-24",
+  "RatingDate": "2026-09-03",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

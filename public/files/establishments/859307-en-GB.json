@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "15 West Street",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4558766",
+    "Longitude": "-0.975405"
+  },
+  "AddressLine1": "15 WEST STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 1TT",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

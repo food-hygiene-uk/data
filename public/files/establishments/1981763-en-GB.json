@@ -1,6 +1,6 @@
 {
   "FHRSID": 1981763,
-  "BusinessName": "Second Steps Days Nurrsery - Hatfield Peverel",
+  "BusinessName": "Second Steps Days Nursery - Hatfield Peverel",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "26/00237/MIXED",
   "BusinessTypeID": 5,
@@ -19,8 +19,12 @@
   "AddressLine4": "Essex",
   "PostCode": "CM3 2DN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

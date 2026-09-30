@@ -1,6 +1,6 @@
 {
   "FHRSID": 1594615,
-  "BusinessName": "Bournemouth Sushi Ltd",
+  "BusinessName": "Yo! to go!",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "PI/000328198",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "SALISBURY",
   "PostCode": "SP1 1TT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

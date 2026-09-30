@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portman Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4615144",
+    "Longitude": "-1.0003688"
+  },
+  "AddressLine1": "SELCO TRADE WAREHOUSE PORTMAN ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG30 1EA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-10",
+  "RatingDate": "2026-04-18",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,

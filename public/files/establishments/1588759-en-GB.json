@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.merton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4110514",
+    "Longitude": "-0.1618403"
+  },
   "AddressLine1": "160 London Road",
   "AddressLine3": "Mitcham",
   "AddressLine4": "Merton",
+  "PostCode": "CR4 3LD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

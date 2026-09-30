@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "One Station Hill Garrard Street",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.45898",
+    "Longitude": "-0.9755372"
+  },
+  "AddressLine1": "One Station Hill",
+  "AddressLine3": "Reading",
   "PostCode": "RG1 1NR",
   "SchemeType": "FHRS",
   "RatingValue": "5",

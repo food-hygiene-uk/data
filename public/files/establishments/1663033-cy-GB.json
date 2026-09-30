@@ -9,8 +9,14 @@
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Cwmafan Multi-Gym",
+  "Geocode": {
+    "Latitude": "51.6156607",
+    "Longitude": "-3.7554594"
+  },
+  "AddressLine1": "Cwmavon Sports And Recreation Club",
+  "AddressLine2": "Railmill Lane",
+  "AddressLine3": "Cwmavon",
+  "AddressLine4": "Neath Port Talbot",
   "PostCode": "SA12 9DF",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,13 +9,9 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4505631",
-    "Longitude": "-0.9571614"
-  },
-  "AddressLine1": "3-5 Craven Road",
-  "AddressLine2": "Reading",
-  "PostCode": "RG1 5LF",
+  "Geocode": null,
+  "AddressLine1": "DINGLEY CENTRE 3-5 CRAVEN ROAD",
+  "AddressLine3": "READING",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
@@ -23,6 +19,6 @@
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

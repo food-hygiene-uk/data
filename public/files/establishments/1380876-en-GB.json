@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Forbury",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4558542",
+    "Longitude": "-0.9675731"
+  },
+  "AddressLine1": "DAVIDSON HOUSE FORBURY SQUARE THE FORBURY",
+  "AddressLine3": "READING",
   "PostCode": "RG1 3EU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

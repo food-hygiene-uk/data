@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4565969",
-    "Longitude": "-2.4801097"
-  },
+  "Geocode": null,
   "AddressLine1": "Digitech Studio School Bristol",
   "AddressLine2": "Tower Road North",
   "AddressLine3": "Warmley",
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS30 8XQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1913808,
-  "BusinessName": "Fox \\& Co Deli And Coffee",
+  "BusinessName": "Fox & Co Deli And Coffee",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00023/COM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "886",
   "LocalAuthorityName": "Windsor and Maidenhead",
   "LocalAuthorityWebSite": "http://www.rbwm.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customer.service@rbwm.gov.uk",
   "Geocode": {
     "Latitude": "51.405267",
@@ -18,8 +18,12 @@
   "AddressLine3": "Ascot",
   "PostCode": "SL5 9ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

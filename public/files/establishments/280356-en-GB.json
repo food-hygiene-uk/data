@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Shooters Way",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4224615",
+    "Longitude": "-0.9834031"
+  },
+  "AddressLine1": "SELECT CAR LEASING STADIUM SHOOTERS WAY",
+  "AddressLine3": "READING",
   "PostCode": "RG2 0FL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Brockley Close",
-  "AddressLine2": "Tilehurst",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4596483",
+    "Longitude": "-1.0178984"
+  },
+  "AddressLine1": "NORCOT MISSION BROCKLEY CLOSE",
+  "AddressLine2": "TILEHURST",
+  "AddressLine3": "READING",
   "PostCode": "RG30 4YP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

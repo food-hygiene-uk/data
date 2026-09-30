@@ -1,13 +1,13 @@
 {
   "FHRSID": 52409,
-  "BusinessName": "Red Lion Hotel",
+  "BusinessName": "Red Lion Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "118321",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "434",
   "LocalAuthorityName": "Wigan",
   "LocalAuthorityWebSite": "http://www.wigan.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Regulation@wigan.gov.uk",
   "Geocode": {
     "Latitude": "53.486507",
@@ -18,12 +18,12 @@
   "AddressLine3": "Wigan",
   "PostCode": "WN4 9AG",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-02-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-18",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1886062,
-  "BusinessName": "GingerJolley LTD Eton Wick",
+  "BusinessName": "GingerJolley -  Eton Wick",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "25/00248/COM",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Windsor",
   "PostCode": "SL4 6LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

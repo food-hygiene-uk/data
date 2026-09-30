@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Wensley Road",
-  "AddressLine2": "Reading",
-  "AddressLine3": "Berkshire",
+  "Geocode": {
+    "Latitude": "51.4445508",
+    "Longitude": "-0.988292"
+  },
+  "AddressLine1": "BERKSHIRE INDEPENDENT HOSPITAL WENSLEY ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 6UZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

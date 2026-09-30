@@ -13,12 +13,16 @@
     "Latitude": "51.4565029",
     "Longitude": "-0.9740237"
   },
-  "AddressLine1": "125 Friar Street",
-  "AddressLine2": "Reading",
+  "AddressLine1": "SUPER DELIGHT 125 FRIAR STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 1EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-12-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

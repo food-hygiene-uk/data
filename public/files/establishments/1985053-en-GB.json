@@ -1,9 +1,9 @@
 {
   "FHRSID": 1985053,
-  "BusinessName": "Jodies Sweet Treats",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "Jodie's Sweet Treats",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "129236",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "879",
   "LocalAuthorityName": "Rutland",
   "LocalAuthorityWebSite": "http://www.rutland.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

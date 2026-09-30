@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.stevenage.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@stevenage.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8819351196289",
+    "Longitude": "-0.178617000579834"
+  },
   "AddressLine1": "259 Broadwater Crescent",
   "AddressLine2": "Stevenage",
   "AddressLine3": "Herts",

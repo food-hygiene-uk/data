@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
-  "Geocode": null,
-  "AddressLine1": "Seskanore",
-  "AddressLine3": "Omagh",
+  "Geocode": {
+    "Latitude": "54.51797",
+    "Longitude": "-7.252855"
+  },
+  "AddressLine1": "12 Main Street",
+  "AddressLine2": "Seskinore",
+  "AddressLine3": "Seskinore",
+  "AddressLine4": "Tyrone",
   "PostCode": "BT78 1UG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

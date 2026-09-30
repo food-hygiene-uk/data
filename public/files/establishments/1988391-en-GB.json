@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.456283",
+    "Longitude": "-1.8647971"
+  },
   "AddressLine1": "79 Warwick Road",
   "AddressLine2": "Springfield",
   "AddressLine3": "Birmingham",

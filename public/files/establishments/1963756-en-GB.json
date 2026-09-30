@@ -1,18 +1,22 @@
 {
   "FHRSID": 1963756,
   "BusinessName": "Favour Foods",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "87134",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "861",
   "LocalAuthorityName": "Middlesbrough",
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

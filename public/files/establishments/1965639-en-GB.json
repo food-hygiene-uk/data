@@ -7,15 +7,24 @@
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Commercial.Envh@islington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5324978",
+    "Longitude": "-0.1198058"
+  },
   "AddressLine1": "Kings Stop",
   "AddressLine2": "66 Caledonian Road",
   "AddressLine3": "London",
+  "AddressLine4": "N1 9DP",
+  "PostCode": "N1 9DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

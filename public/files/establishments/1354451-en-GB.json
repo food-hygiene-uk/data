@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "056",
   "LocalAuthorityName": "Westmorland and Furness",
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
   "Geocode": {
     "Latitude": "54.6654434204102",
@@ -21,6 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-05-08",
-  "Scores": null
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

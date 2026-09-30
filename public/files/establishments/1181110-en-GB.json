@@ -1,21 +1,25 @@
 {
   "FHRSID": 1181110,
   "BusinessName": "Kirkpatrick Durham Church",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "95264",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "770",
   "LocalAuthorityName": "Dumfries and Galloway",
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kirkpatrick Durham",
-  "AddressLine3": "Castle Douglas",
+  "Geocode": {
+    "Latitude": "55.0088584",
+    "Longitude": "-3.8994717"
+  },
+  "AddressLine1": "C12s From B794 At Old Bridge Of Urr To Church Road Kirkpatrick Durham",
+  "AddressLine2": "Old Bridge Of Urr",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG7 3HB",
   "SchemeType": "FHIS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhis_exempt_en-GB",
-  "RatingDate": "2017-03-20",
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-03-06",
   "Scores": null
 }

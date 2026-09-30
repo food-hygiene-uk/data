@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0723915100098",
+    "Longitude": "-4.09239101409912"
+  },
   "AddressLine1": "Bickington Road",
   "AddressLine2": "Bickington",
-  "AddressLine3": "BARNSTAPLE",
+  "AddressLine3": "Barnstaple",
   "AddressLine4": "Devon",
   "PostCode": "EX31 2JG",
   "SchemeType": "FHRS",

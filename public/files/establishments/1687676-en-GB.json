@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8884853",
+    "Longitude": "-0.4318605"
+  },
   "AddressLine2": "138 Leagrave Road",
   "AddressLine4": "Luton",
   "SchemeType": "FHRS",

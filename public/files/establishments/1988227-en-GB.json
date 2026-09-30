@@ -9,15 +9,22 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6476173400879",
+    "Longitude": "-1.37246000766754"
+  },
   "AddressLine1": "Barlestone C Of E Primary School",
   "AddressLine2": "Barton Road",
   "AddressLine3": "Barlestone",
   "AddressLine4": "Nuneaton",
   "PostCode": "CV13 0EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

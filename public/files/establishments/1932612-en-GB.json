@@ -1,13 +1,13 @@
 {
   "FHRSID": 1932612,
-  "BusinessName": "The Chequers",
+  "BusinessName": "Three Pandas Express",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00045/COM",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "122",
   "LocalAuthorityName": "Uttlesford",
   "LocalAuthorityWebSite": "http://www.uttlesford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@uttlesford.gov.uk",
   "Geocode": {
     "Latitude": "51.857352",
@@ -19,8 +19,12 @@
   "AddressLine4": "Dunmow",
   "PostCode": "CM6 3DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

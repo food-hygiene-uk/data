@@ -1,9 +1,9 @@
 {
   "FHRSID": 1981140,
   "BusinessName": "The Modern Milkman",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00164/MIXED",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "191",
   "LocalAuthorityName": "Tonbridge and Malling",
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine3": "Forstal Road",
   "AddressLine4": "Aylesford",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

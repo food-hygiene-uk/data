@@ -9,17 +9,16 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "19-23 Kings Street",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4545779",
+    "Longitude": "-0.9696504"
+  },
+  "AddressLine1": "UNIT 7 KINGS WALK 19-23 KINGS STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG1 2HG",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-07-27",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
-  }
+  "Scores": null
 }

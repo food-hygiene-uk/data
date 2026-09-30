@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westmorlandandfurness.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@westmorlandandfurness.gov.uk",
-  "Geocode": {
-    "Latitude": "54.526496",
-    "Longitude": "-2.319152"
-  },
+  "Geocode": null,
   "AddressLine2": "Main Street",
   "AddressLine3": "Brough",
   "AddressLine4": "Kirkby Stephen",
   "PostCode": "CA17 4BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

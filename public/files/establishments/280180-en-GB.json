@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Honey End Lane",
-  "AddressLine2": "Reading",
-  "PostCode": "RG30 4AA",
+  "Geocode": {
+    "Latitude": "51.449716",
+    "Longitude": "-1.017291"
+  },
+  "AddressLine1": "9 MEADWAY PRECINCT HONEY END LANE",
+  "AddressLine3": "READING",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 462165,
-  "BusinessName": "4 Herringthorpe Close",
+  "BusinessName": "4 Herringthorpe Close (Mencap)",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "6808",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

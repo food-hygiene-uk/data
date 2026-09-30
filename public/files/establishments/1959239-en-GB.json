@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "309",
   "LocalAuthorityName": "Reigate and Banstead",
   "LocalAuthorityWebSite": "http://www.reigate-banstead.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
   "Geocode": {
-    "Latitude": "51.2397562",
-    "Longitude": "-0.1698315"
+    "Latitude": "51.2394501",
+    "Longitude": "-0.169815"
   },
-  "AddressLine1": "Centre Management Suite",
-  "AddressLine2": "The Belfry",
-  "AddressLine3": "Station Road",
-  "AddressLine4": "Redhill",
+  "AddressLine1": "The Belfry",
+  "AddressLine2": "Station Road",
+  "AddressLine3": "Redhill",
+  "AddressLine4": "Surrey",
   "PostCode": "RH1 1ST",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

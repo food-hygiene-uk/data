@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Buckingham Drive",
-  "AddressLine2": "Emmer Green",
-  "AddressLine3": "Reading",
+  "Geocode": {
+    "Latitude": "51.4785541",
+    "Longitude": "-0.9651202"
+  },
+  "AddressLine1": "BUCKINGHAM DRIVE SERVICE STATION BUCKINGHAM DRIVE",
+  "AddressLine2": "EMMER GREEN",
+  "AddressLine3": "READING",
   "PostCode": "RG4 8RZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1986723,
-  "BusinessName": "ISS Mediclean Ltd",
+  "BusinessName": "ISS @ St Giles CofE Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "CP/26/0238",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Haywards Heath",
   "PostCode": "RH17 7AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

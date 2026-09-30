@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "443 Oxford Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4570035",
+    "Longitude": "-0.9975742"
+  },
+  "AddressLine1": "443 OXFORD ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG30 1HD",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

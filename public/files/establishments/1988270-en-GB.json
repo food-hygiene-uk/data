@@ -9,13 +9,16 @@
   "LocalAuthorityWebSite": "https://www.pkc.gov.uk/foodhygieneinfo",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthsafety@pkc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.2080708",
+    "Longitude": "-3.4282319"
+  },
   "AddressLine1": "18 GREEN ROAD",
   "AddressLine4": "KINROSS",
   "PostCode": "KY13 8TU",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": null,
+  "RatingValue": "Pass",
+  "RatingKey": "fhis_pass_en-GB",
+  "RatingDate": "2026-09-22",
   "Scores": null
 }

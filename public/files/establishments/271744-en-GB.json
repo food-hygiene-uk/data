@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5759321",
-    "Longitude": "-0.9918274"
-  },
+  "Geocode": null,
   "AddressLine1": "32 High Street",
   "AddressLine2": "Nettlebed",
   "AddressLine3": "Henley-On-Thames Oxon",
   "PostCode": "RG9 5DD",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2024-08-29",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

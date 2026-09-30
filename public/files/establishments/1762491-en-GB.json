@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Rose Kiln Lane",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.435223",
+    "Longitude": "-0.973436"
+  },
+  "AddressLine1": "UNIT 6A BRUNEL RETAIL PARK ROSE KILN LANE",
+  "AddressLine3": "READING",
   "PostCode": "RG2 0HS",
   "SchemeType": "FHRS",
   "RatingValue": "5",

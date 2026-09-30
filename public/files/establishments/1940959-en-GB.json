@@ -1,6 +1,6 @@
 {
   "FHRSID": 1940959,
-  "BusinessName": "The Royal Oak / The Choptank (Stockers Catering Ltd)",
+  "BusinessName": "The Choptank / Stockers",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "26/00141/FOOD",
   "BusinessTypeID": 7843,
@@ -19,8 +19,12 @@
   "AddressLine4": "Swindon",
   "PostCode": "SN1 4BQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

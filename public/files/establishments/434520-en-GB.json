@@ -1,6 +1,6 @@
 {
   "FHRSID": 434520,
-  "BusinessName": "Majestic Wine",
+  "BusinessName": "Majestic Wine Warehouse",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "755",
   "BusinessTypeID": 4613,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Caversham Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.460648",
+    "Longitude": "-0.9725658"
+  },
+  "AddressLine1": "UNIT 2 VASTERN COURT CAVERSHAM ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG1 8AL",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

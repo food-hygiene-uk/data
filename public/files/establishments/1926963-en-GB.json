@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2583488",
+    "Longitude": "-2.7561933"
+  },
   "AddressLine1": "Draycott Memorial Hall",
   "AddressLine2": "Latches Lane",
   "AddressLine3": "Cheddar",

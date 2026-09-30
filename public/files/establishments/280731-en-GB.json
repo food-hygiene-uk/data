@@ -1,6 +1,6 @@
 {
   "FHRSID": 280731,
-  "BusinessName": "Charles Clore Court at  A2dominion",
+  "BusinessName": "Charles Clore Court at A2dominion",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "52250",
   "BusinessTypeID": 5,
@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Appleford Road",
-  "AddressLine2": "Reading",
+  "Geocode": {
+    "Latitude": "51.4436017",
+    "Longitude": "-1.0226885"
+  },
+  "AddressLine1": "39 APPLEFORD ROAD",
+  "AddressLine3": "READING",
   "PostCode": "RG30 3NT",
   "SchemeType": "FHRS",
   "RatingValue": "5",

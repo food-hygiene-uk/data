@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976739,
-  "BusinessName": "Mini Market",
+  "BusinessName": "Mini Mart",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "06956",
   "BusinessTypeID": 4613,
@@ -13,12 +13,16 @@
     "Latitude": "51.4456458",
     "Longitude": "-0.9654033"
   },
-  "AddressLine1": "29 Whitley Street",
-  "AddressLine2": "Reading",
+  "AddressLine1": "29 WHITLEY STREET",
+  "AddressLine3": "READING",
   "PostCode": "RG2 0EG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

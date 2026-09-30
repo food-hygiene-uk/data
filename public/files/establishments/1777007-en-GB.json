@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.rugby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FS@rugby.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "15a             Lutterworth Road",
+  "Geocode": {
+    "Latitude": "52.4329593",
+    "Longitude": "-1.3045705"
+  },
+  "AddressLine1": "Village Hall                                                                                         Lutterworth Road",
   "AddressLine2": "Pailton",
   "AddressLine4": "Rugby Warwickshire",
   "PostCode": "CV23 0QE",

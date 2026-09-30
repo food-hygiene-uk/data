@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalservicerequests@fenland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.557584",
+    "Longitude": "-0.126951"
+  },
+  "AddressLine1": "4 Lovells Court",
+  "AddressLine2": "High Causeway",
+  "AddressLine3": "Whittlesey",
+  "AddressLine4": "Peterborough",
+  "PostCode": "PE7 1BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
