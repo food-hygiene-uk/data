@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.477545",
+    "Longitude": "-2.245963"
+  },
   "AddressLine2": "58 Peter Street",
   "AddressLine3": "Manchester",
   "PostCode": "M2 3NQ",

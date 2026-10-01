@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.074556",
+    "Longitude": "-3.418004"
+  },
   "AddressLine1": "6 Carron Grove Dunfermline Fife",
   "PostCode": "KY11 4LN",
   "SchemeType": "FHIS",

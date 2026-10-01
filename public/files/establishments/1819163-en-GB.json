@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.365042",
+    "Longitude": "-2.275429"
+  },
   "AddressLine1": "Terminal 3 Landside Manchester Airport",
   "AddressLine2": "Chicago Avenue",
   "AddressLine3": "Manchester",

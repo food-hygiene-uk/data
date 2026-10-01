@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.391342",
+    "Longitude": "-2.2979583"
+  },
   "AddressLine1": "Unit G",
   "AddressLine2": "Ennis Close",
   "AddressLine3": "Manchester",

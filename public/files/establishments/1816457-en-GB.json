@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.445957",
+    "Longitude": "-2.224582"
+  },
   "AddressLine1": "Platt Fields Park",
   "AddressLine2": "Wilmslow Road",
   "AddressLine3": "Manchester",

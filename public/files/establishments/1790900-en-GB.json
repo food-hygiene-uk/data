@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.haringey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "frontline@haringey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6061139",
+    "Longitude": "-0.0846867"
+  },
+  "AddressLine1": "Flat 3 Gorham Court",
+  "AddressLine2": "3 Laburnum Avenue",
+  "AddressLine3": "Tottenham",
+  "AddressLine4": "London",
+  "PostCode": "N17 8LS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

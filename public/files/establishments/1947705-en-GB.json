@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.0739157",
+    "Longitude": "-3.4586682"
+  },
   "AddressLine1": "Unit 1 Carnegie Retail Park Dunfermline Fife",
   "PostCode": "KY12 7AU",
   "SchemeType": "FHIS",

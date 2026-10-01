@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.291761",
+    "Longitude": "-2.967591"
+  },
   "AddressLine1": "Anstruther Road Ceres Cupar Fife",
   "PostCode": "KY15 5NH",
   "SchemeType": "FHIS",

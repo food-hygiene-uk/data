@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.419968",
+    "Longitude": "-2.85823"
+  },
   "AddressLine1": "Scottish Heritage Bldg Fetterdale Tayport Fife",
   "PostCode": "DD6 9PF",
   "SchemeType": "FHIS",

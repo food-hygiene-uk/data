@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.421307",
+    "Longitude": "-2.211285"
+  },
   "AddressLine2": "588 Burnage Lane",
   "AddressLine3": "Manchester",
   "PostCode": "M19 1NA",

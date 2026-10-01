@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6034986",
+    "Longitude": "-1.4455607"
+  },
   "AddressLine1": "T2 Southern Unit Downsview Road",
   "AddressLine2": "Grove Business Park",
   "AddressLine3": "Wantage",

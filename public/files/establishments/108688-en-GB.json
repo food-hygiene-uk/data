@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.127709",
+    "Longitude": "-3.167875"
+  },
   "AddressLine1": "Hayfield Place Kirkcaldy Fife",
   "PostCode": "KY2 5DH",
   "SchemeType": "FHIS",

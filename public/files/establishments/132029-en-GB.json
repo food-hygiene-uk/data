@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.193336",
+    "Longitude": "-3.003142"
+  },
   "AddressLine1": "Riverside Road Leven Fife",
   "PostCode": "KY8 4LQ",
   "SchemeType": "FHIS",

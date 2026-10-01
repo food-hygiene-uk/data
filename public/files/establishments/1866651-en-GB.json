@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7424884",
+    "Longitude": "-1.0062182"
+  },
   "AddressLine1": "Unit 15 Christmas Hill Business Park Rycote Lane",
   "AddressLine2": "Thame",
   "PostCode": "OX9 2FZ",

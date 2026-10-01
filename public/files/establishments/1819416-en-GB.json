@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.478212",
+    "Longitude": "-2.240422"
+  },
   "AddressLine2": "52-54 Faulkner Street",
   "AddressLine3": "Manchester",
   "PostCode": "M1 4FH",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.1384227",
+    "Longitude": "-2.0884962"
+  },
   "AddressLine2": "51 Victoria Road Torry",
   "PostCode": "AB11 9LS",
   "SchemeType": "FHIS",

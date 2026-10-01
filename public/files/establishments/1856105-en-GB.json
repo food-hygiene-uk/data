@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.72993",
-    "Longitude": "-1.468978"
-  },
+  "Geocode": null,
   "AddressLine1": "Packington C Of E School",
   "AddressLine2": "Mill Street",
   "AddressLine3": "Packington",
   "AddressLine4": "Ashby De La Zouch",
   "PostCode": "LE65 1WL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

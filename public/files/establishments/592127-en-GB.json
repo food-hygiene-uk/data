@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.143568",
+    "Longitude": "-2.096921"
+  },
   "AddressLine1": "UNIT 16 First Level Mall",
   "AddressLine2": "Union Square",
   "AddressLine3": "Guild Square",

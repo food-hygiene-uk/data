@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.030557",
+    "Longitude": "-3.3984275"
+  },
   "AddressLine1": "49 - 51 High Street Inverkeithing Fife",
   "PostCode": "KY11 1NL",
   "SchemeType": "FHIS",

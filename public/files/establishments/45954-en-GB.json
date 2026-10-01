@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.31933",
+    "Longitude": "-3.009791"
+  },
   "AddressLine1": "Sheriff Court House County Buildings St Catherine Street Cupar Fife",
   "PostCode": "KY15 4LX",
   "SchemeType": "FHIS",

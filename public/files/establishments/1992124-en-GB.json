@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3838807",
+    "Longitude": "-2.9633267"
+  },
   "AddressLine1": "292 Park Road",
   "AddressLine3": "Liverpool",
   "SchemeType": "FHRS",

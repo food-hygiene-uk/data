@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "109",
   "LocalAuthorityName": "Basildon",
   "LocalAuthorityWebSite": "http://www.basildon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehs@basildon.gov.uk",
   "Geocode": {
-    "Latitude": "51.5860049",
-    "Longitude": "0.4921705"
+    "Latitude": "51.5744953",
+    "Longitude": "0.399643"
   },
-  "AddressLine1": "Unit 4 Capricorn Centre",
-  "AddressLine2": "Cranes Farm Road",
-  "AddressLine3": "Basildon",
-  "AddressLine4": "Essex",
-  "PostCode": "SS14 3JJ",
+  "AddressLine1": "Unit 1 Westmayne Industrial Park (Opposite BP & Toomeys)",
+  "AddressLine2": "Bramston Way",
+  "AddressLine3": "Laindon",
+  "AddressLine4": "Basildon",
+  "PostCode": "SS15 6TP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5381876",
+    "Longitude": "-0.906335"
+  },
   "AddressLine1": "6 Gardiner Place",
   "AddressLine3": "Henley-On-Thames",
   "PostCode": "RG9 2AH",

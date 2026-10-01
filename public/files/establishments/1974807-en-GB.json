@@ -1,21 +1,28 @@
 {
   "FHRSID": 1974807,
-  "BusinessName": "Indulgence by Flamingos LTD",
+  "BusinessName": "Indulgence by Flamingos",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "Cx18644",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "250",
   "LocalAuthorityName": "North Yorkshire",
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Green Dragon Yard Castlegate",
+  "Geocode": {
+    "Latitude": "54.0071408",
+    "Longitude": "-1.4669835"
+  },
+  "AddressLine1": "2 Green Dragon Yard",
   "AddressLine4": "Knaresborough",
   "PostCode": "HG5 8AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

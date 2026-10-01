@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": {
-    "Latitude": "51.4793753",
-    "Longitude": "0.324612"
-  },
+  "Geocode": null,
   "AddressLine1": "Grays Central Library",
   "AddressLine2": "Thameside Complex",
   "AddressLine3": "Orsett Road",
   "AddressLine4": "Grays",
   "PostCode": "RM17 5DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

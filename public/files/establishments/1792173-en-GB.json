@@ -7,20 +7,21 @@
   "LocalAuthorityCode": "430",
   "LocalAuthorityName": "Tameside",
   "LocalAuthorityWebSite": "http://www.tameside.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
-  "Geocode": {
-    "Latitude": "53.472643",
-    "Longitude": "-2.150224"
-  },
-  "AddressLine1": "7 Station View",
+  "Geocode": null,
+  "AddressLine1": "Sorrentos Station View 7",
   "AddressLine2": "Ashton Old Road",
   "AddressLine3": "Droylsden",
   "AddressLine4": "Tameside",
   "PostCode": "M43 6TT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-04-23",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

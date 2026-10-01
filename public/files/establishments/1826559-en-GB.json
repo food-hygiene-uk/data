@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4620888",
+    "Longitude": "-3.5242441"
+  },
   "AddressLine1": "44 The Terrace Torquay Torbay",
   "PostCode": "TQ1 1DE",
   "SchemeType": "FHRS",

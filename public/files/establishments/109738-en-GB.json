@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.351124",
+    "Longitude": "-3.237077"
+  },
   "AddressLine1": "40 High Street Newburgh Cupar Fife",
   "PostCode": "KY14 6AQ",
   "SchemeType": "FHIS",

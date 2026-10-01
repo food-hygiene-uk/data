@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.4633025",
+    "Longitude": "-3.5263403"
+  },
   "AddressLine1": "18 Fleet Street  Torquay",
   "PostCode": "TQ1 1DB",
   "SchemeType": "FHRS",

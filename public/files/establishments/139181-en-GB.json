@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.171399",
+    "Longitude": "-3.037536"
+  },
   "AddressLine1": "Kinnear Street Buckhaven Leven Fife",
   "PostCode": "KY8 1BH",
   "SchemeType": "FHIS",

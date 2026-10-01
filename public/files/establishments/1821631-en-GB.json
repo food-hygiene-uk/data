@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.477978",
+    "Longitude": "-2.196726"
+  },
   "AddressLine2": "80 Grey Mare Lane",
   "AddressLine3": "Manchester",
   "PostCode": "M11 3DS",

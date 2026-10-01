@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.1350029",
+    "Longitude": "-3.2015521"
+  },
   "AddressLine1": "17 Fife Central Retail Park Chapel Park Kirkcaldy Fife",
   "PostCode": "KY2 6QL",
   "SchemeType": "FHIS",

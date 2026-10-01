@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5995552",
+    "Longitude": "-1.1252346"
+  },
   "AddressLine1": "6A St Martins Street",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

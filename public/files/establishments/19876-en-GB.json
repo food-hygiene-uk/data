@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.312753",
+    "Longitude": "-3.008712"
+  },
   "AddressLine1": "Ceres Road Cupar Fife",
   "PostCode": "KY15 5JT",
   "SchemeType": "FHIS",

@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5996394",
+    "Longitude": "-1.1244678"
+  },
   "AddressLine1": "7-8 Market Place",
   "AddressLine2": "Wallingford",
   "AddressLine3": "Oxon",

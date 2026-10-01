@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5634782",
+    "Longitude": "-1.619663"
+  },
   "AddressLine1": "3 High Street",
   "AddressLine2": "Ashbury",
   "AddressLine3": "Swindon",

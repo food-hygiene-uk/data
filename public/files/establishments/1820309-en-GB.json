@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.529618",
+    "Longitude": "-2.231059"
+  },
   "AddressLine2": "Crab Lane",
   "AddressLine3": "Manchester",
   "PostCode": "M9 8NB",

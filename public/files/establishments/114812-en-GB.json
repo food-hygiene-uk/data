@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.059644",
+    "Longitude": "-3.230874"
+  },
   "AddressLine1": "198 High Street Burntisland Fife",
   "PostCode": "KY3 9AH",
   "SchemeType": "FHIS",

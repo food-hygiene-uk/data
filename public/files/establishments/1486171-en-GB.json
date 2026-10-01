@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.whitehorsedc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@whitehorsedc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6702344",
+    "Longitude": "-1.28526749"
+  },
   "AddressLine1": "Stratton Way",
   "AddressLine2": "Abingdon",
   "PostCode": "OX14 5AJ",

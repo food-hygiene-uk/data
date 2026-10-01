@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6039421",
+    "Longitude": "-1.1409277"
+  },
   "AddressLine1": "70 Gatehouse Crescent",
   "AddressLine3": "Wallingford",
   "PostCode": "OX10 0GF",

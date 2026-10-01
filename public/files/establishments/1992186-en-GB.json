@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.3400859",
+    "Longitude": "-2.7994635"
+  },
   "AddressLine1": "2 St Marys Place St Andrews Fife",
   "PostCode": "KY16 9UY",
   "SchemeType": "FHIS",

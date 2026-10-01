@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.fifedirect.org.uk/fife_council/index.cfm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Advice@fife.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.382295",
+    "Longitude": "-2.890192"
+  },
   "AddressLine1": "Leuchars Railway Station Station Road Leuchars St Andrews Fife",
   "PostCode": "KY16 0EU",
   "SchemeType": "FHIS",

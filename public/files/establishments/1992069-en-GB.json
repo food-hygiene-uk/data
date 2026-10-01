@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@southandvale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5364294",
+    "Longitude": "-0.9040745"
+  },
   "AddressLine1": "30 Duke Street",
   "AddressLine3": "Henley-On-Thames",
   "PostCode": "RG9 1UP",

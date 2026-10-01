@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.459272",
+    "Longitude": "-2.197091"
+  },
   "AddressLine2": "2 Albert Grove",
   "AddressLine3": "Manchester",
   "PostCode": "M12 4WF",
