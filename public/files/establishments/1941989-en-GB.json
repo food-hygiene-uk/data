@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "231",
   "LocalAuthorityName": "North Norfolk",
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
   "Geocode": null,
   "AddressLine1": "High Street",
   "AddressLine2": "Mundesley",
   "AddressLine3": "Norfolk",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

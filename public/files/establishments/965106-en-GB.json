@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.978423",
+    "Longitude": "-0.226717"
+  },
   "AddressLine1": "6 - 10 Commerce Way",
   "AddressLine3": "Letchworth Garden City",
   "AddressLine4": "Hertfordshire",

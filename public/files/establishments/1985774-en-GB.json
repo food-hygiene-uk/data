@@ -1,6 +1,6 @@
 {
   "FHRSID": 1985774,
-  "BusinessName": "Sweet and Candy Shop",
+  "BusinessName": "Sweet and Candy Shop Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "250922",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine3": "Ferndale",
   "PostCode": "CF43 4RH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

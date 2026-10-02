@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5623168945313",
-    "Longitude": "-3.06072998046875"
-  },
+  "Geocode": null,
   "AddressLine2": "77-79 Liverpool Road",
   "AddressLine3": "Formby",
   "AddressLine4": "Liverpool",
@@ -20,10 +17,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-18",
+  "RatingDate": "2026-09-29",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

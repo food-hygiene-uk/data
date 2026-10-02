@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "187 Kensington High Street",
-  "AddressLine2": "LONDON",
+  "Geocode": {
+    "Latitude": "51.4998461",
+    "Longitude": "-0.1954382"
+  },
+  "AddressLine1": "Basement And Ground Floor South",
+  "AddressLine2": "187 Kensington High Street",
+  "AddressLine3": "LONDON",
+  "PostCode": "W8 6SH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

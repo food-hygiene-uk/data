@@ -9,14 +9,9 @@
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@northnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.372905",
-    "Longitude": "-0.711867"
-  },
-  "AddressLine1": "Kettering Park Hotel",
-  "AddressLine2": "Kettering Parkway",
-  "AddressLine3": "Kettering",
-  "AddressLine4": "Kettering Northamptonshire",
+  "Geocode": null,
+  "AddressLine1": "Kettering Parkway",
+  "AddressLine2": "Kettering",
   "PostCode": "NN15 6XT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
@@ -24,7 +19,7 @@
   "RatingDate": "2026-06-15",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

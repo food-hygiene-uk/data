@@ -1,6 +1,6 @@
 {
   "FHRSID": 1980755,
-  "BusinessName": "Playing Field Cafe",
+  "BusinessName": "Paula's Playing Field Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "45504",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine3": "Ashcott",
   "PostCode": "TA7 9PW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

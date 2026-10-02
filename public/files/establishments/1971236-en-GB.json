@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.8381843566895",
-    "Longitude": "-0.812319993972778"
-  },
+  "Geocode": null,
   "AddressLine1": "Fishbourne CE Primary School",
   "AddressLine2": "Roman Way",
   "AddressLine3": "Fishbourne",
   "AddressLine4": "Chichester",
   "PostCode": "PO19 3QS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

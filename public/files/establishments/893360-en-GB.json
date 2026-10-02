@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Beattock Primary School Craigielands Park",
-  "AddressLine2": "Moffat",
-  "AddressLine3": "Beattock",
+  "Geocode": {
+    "Latitude": "55.3048064",
+    "Longitude": "-3.4509729"
+  },
+  "AddressLine1": "1 Craigielands Park",
+  "AddressLine2": "Beattock",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG10 9RB",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

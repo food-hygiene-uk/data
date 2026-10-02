@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976340,
-  "BusinessName": "Portesbery School",
+  "BusinessName": "Aspens Service At Portesbery School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00086/CP",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Camberley",
   "PostCode": "GU16 6TA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

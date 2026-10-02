@@ -9,8 +9,10 @@
   "LocalAuthorityWebSite": "http://www.hillingdon.gov.uk/foodsafety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthandsafety@hillingdon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Buddha Lounge",
+  "Geocode": {
+    "Latitude": "51.50289269",
+    "Longitude": "-0.43050518"
+  },
   "AddressLine2": "Dawley Road",
   "AddressLine4": "Hayes",
   "PostCode": "UB3 1EN",

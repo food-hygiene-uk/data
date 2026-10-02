@@ -13,13 +13,16 @@
     "Latitude": "52.4042126",
     "Longitude": "-0.7264941"
   },
-  "AddressLine2": "54 Rockingham Road",
-  "AddressLine3": "Kettering",
-  "AddressLine4": "North Northamptonshire",
+  "AddressLine1": "54 Rockingham Road",
+  "AddressLine2": "Kettering",
   "PostCode": "NN16 8JT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-04-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

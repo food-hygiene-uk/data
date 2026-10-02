@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "http://www.knowsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
-  "Geocode": {
-    "Latitude": "53.42153",
-    "Longitude": "-2.860528"
-  },
+  "Geocode": null,
   "AddressLine1": "128 Liverpool Road",
   "AddressLine2": "Huyton",
   "AddressLine3": "Knowsley",
   "PostCode": "L36 3RG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-12",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-30",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Structural": 5,
+    "ConfidenceInManagement": 5
   }
 }

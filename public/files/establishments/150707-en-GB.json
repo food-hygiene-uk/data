@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "50.811293",
-    "Longitude": "-0.738298"
-  },
+  "Geocode": null,
   "AddressLine1": "Manor Nursery",
   "AddressLine2": "Lagness Road",
   "AddressLine3": "Runcton",
@@ -21,6 +18,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-31",
-  "Scores": null
+  "RatingDate": "2026-09-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

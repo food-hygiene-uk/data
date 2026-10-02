@@ -10,14 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
-    "Latitude": "51.9203232",
-    "Longitude": "-0.4345953"
+    "Latitude": "51.919539",
+    "Longitude": "-0.436909"
   },
+  "AddressLine1": "Sainsburys",
   "AddressLine2": "Quantock Rise",
   "AddressLine4": "Luton",
+  "PostCode": "LU3 4AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

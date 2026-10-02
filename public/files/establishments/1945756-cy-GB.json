@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tudful",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
   "Geocode": null,
   "AddressLine1": "Unit 17 And 18 St Tydfil Market Tydfil House Graham Way",
   "AddressLine3": "Merthyr Tydfil",
   "PostCode": "CF47 8BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

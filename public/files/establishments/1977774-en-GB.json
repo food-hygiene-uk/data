@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
-  "Geocode": {
-    "Latitude": "51.0244255065918",
-    "Longitude": "-0.502424001693726"
-  },
+  "Geocode": null,
   "AddressLine1": "Wisborough Green Primary School",
   "AddressLine2": "Newpound Lane",
   "AddressLine3": "Wisborough Green",
   "AddressLine4": "Billingshurst",
   "PostCode": "RH14 0EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

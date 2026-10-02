@@ -1,9 +1,9 @@
 {
   "FHRSID": 127515,
   "BusinessName": "Central England Co-operative Society",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "569",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "235",
   "LocalAuthorityName": "North Northamptonshire",
   "LocalAuthorityWebSite": "https://www.northnorthants.gov.uk/",
@@ -13,17 +13,12 @@
     "Latitude": "52.4228873",
     "Longitude": "-0.7987513"
   },
-  "AddressLine2": "6 Bell Hill",
-  "AddressLine3": "Rothwell",
-  "AddressLine4": "North Northamptonshire",
+  "AddressLine1": "6 Bell Hill",
+  "AddressLine2": "Rothwell",
   "PostCode": "NN14 6ET",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-07-06",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "Scores": null
 }

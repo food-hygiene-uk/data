@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.952888",
+    "Longitude": "-0.275907"
+  },
   "AddressLine1": "53 Bancroft",
   "AddressLine3": "Hitchin",
   "AddressLine4": "Hertfordshire",

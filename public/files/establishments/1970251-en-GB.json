@@ -1,9 +1,9 @@
 {
   "FHRSID": 1970251,
   "BusinessName": "L’Barista",
-  "BusinessType": "Farmers/growers",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "6521",
-  "BusinessTypeID": 7838,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "813",
   "LocalAuthorityName": "Derry City and Strabane",
   "LocalAuthorityWebSite": "http://www.derrystrabane.com",
@@ -14,8 +14,12 @@
   "AddressLine3": "Londonderry",
   "PostCode": "BT47 3XY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

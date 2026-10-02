@@ -1,28 +1,21 @@
 {
   "FHRSID": 706222,
-  "BusinessName": "Barrel and Vine",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "Olives",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "166484",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "424",
   "LocalAuthorityName": "Sefton",
   "LocalAuthorityWebSite": "http://www.sefton.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ETSContact@sefton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.649797",
-    "Longitude": "-3.0034024"
-  },
+  "Geocode": null,
   "AddressLine2": "459 Lord Street",
   "AddressLine3": "Southport",
   "PostCode": "PR9 0AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-02-26",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

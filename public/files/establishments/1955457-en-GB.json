@@ -1,6 +1,6 @@
 {
   "FHRSID": 1955457,
-  "BusinessName": "Longford Conveniences",
+  "BusinessName": "Krivi General Stores Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx21723",
   "BusinessTypeID": 4613,
@@ -18,8 +18,12 @@
   "AddressLine4": "Coventry",
   "PostCode": "CV6 6EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

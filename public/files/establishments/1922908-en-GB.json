@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "10 Russell Gardens",
-  "AddressLine2": "LONDON",
+  "Geocode": {
+    "Latitude": "51.5001034",
+    "Longitude": "-0.2110607"
+  },
+  "AddressLine1": "Ground Floor",
+  "AddressLine2": "10 Russell Gardens",
+  "AddressLine3": "LONDON",
+  "PostCode": "W14 8EZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

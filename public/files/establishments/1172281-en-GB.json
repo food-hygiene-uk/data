@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.north-herts.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@north-herts.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8984966",
+    "Longitude": "-0.3026201"
+  },
   "AddressLine1": "Keepers Cottage Whitehall Lane",
   "AddressLine3": "Kings Walden",
   "AddressLine4": "Hertfordshire",

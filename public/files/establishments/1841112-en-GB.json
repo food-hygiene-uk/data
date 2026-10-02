@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3881302",
-    "Longitude": "-0.382067"
-  },
-  "AddressLine1": "Baked with love by Gemma",
-  "AddressLine2": "86 Oakbank Avenue",
-  "AddressLine3": "Walton-On-Thames",
-  "AddressLine4": "Surrey",
-  "PostCode": "KT12 3RB",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-06-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

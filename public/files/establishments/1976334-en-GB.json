@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976334,
-  "BusinessName": "Lorraine Infant School",
+  "BusinessName": "Aspens Service At Lorraine Infant School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00079/CP",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU15 4EX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
