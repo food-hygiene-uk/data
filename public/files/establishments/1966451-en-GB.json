@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "300",
   "LocalAuthorityName": "Mid Suffolk",
   "LocalAuthorityWebSite": "http://www.midsuffolk.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
   "Geocode": {
     "Latitude": "52.34257",
@@ -19,8 +19,12 @@
   "AddressLine4": "DISS",
   "PostCode": "IP22 1BS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

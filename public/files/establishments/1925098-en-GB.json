@@ -1,9 +1,9 @@
 {
   "FHRSID": 1925098,
   "BusinessName": "Fun-Kay Services",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "PI/000707271",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B19 2TH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

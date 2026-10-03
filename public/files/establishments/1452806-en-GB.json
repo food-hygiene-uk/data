@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6390066",
+    "Longitude": "-2.161717"
+  },
+  "AddressLine1": "The Old Court House",
+  "AddressLine2": "63 Long Street",
+  "AddressLine3": "Tetbury",
+  "AddressLine4": "Gloucestershire",
+  "PostCode": "GL8 8AA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-04-06",
+  "RatingDate": "2026-09-08",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

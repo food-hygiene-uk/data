@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "080",
   "LocalAuthorityName": "Torridge",
   "LocalAuthorityWebSite": "http://www.torridge.gov.uk/food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@torridge.gov.uk",
   "Geocode": {
     "Latitude": "51.016906",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX39 2DR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-07-05",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-03",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "511",
   "LocalAuthorityName": "Greenwich",
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
   "Geocode": {
     "Latitude": "51.4849191",
@@ -18,8 +18,12 @@
   "AddressLine4": "Greenwich",
   "PostCode": "SE7 8AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

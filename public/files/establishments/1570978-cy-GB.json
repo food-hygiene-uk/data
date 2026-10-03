@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "562",
   "LocalAuthorityName": "Sir Fynwy",
   "LocalAuthorityWebSite": "http://www.monmouthshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@monmouthshire.gov.uk",
   "Geocode": {
     "Latitude": "51.8164896",
@@ -17,12 +17,12 @@
   "AddressLine4": "Abergavenny",
   "PostCode": "NP7 5HY",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-12-18",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_cy-gb",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

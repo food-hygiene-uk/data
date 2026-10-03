@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Balti House",
+  "Geocode": {
+    "Latitude": "54.8761215209961",
+    "Longitude": "-1.48585796356201"
+  },
+  "AddressLine1": "Penshaw Tandoori Balti House",
   "AddressLine2": "13 Birds Terrace",
   "AddressLine3": "Houghton-le-Spring",
   "PostCode": "DH4 7EL",

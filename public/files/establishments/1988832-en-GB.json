@@ -7,12 +7,22 @@
   "LocalAuthorityCode": "151",
   "LocalAuthorityName": "Worcester City",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1928613",
+    "Longitude": "-2.253531"
+  },
+  "AddressLine1": "33 Gresham Road",
+  "AddressLine2": "Worcester",
+  "PostCode": "WR2 5QR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,10 +9,7 @@
   "LocalAuthorityWebSite": "http://www.tamworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@tamworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.599456",
-    "Longitude": "-1.683679"
-  },
+  "Geocode": null,
   "AddressLine1": "65 High Street",
   "AddressLine2": "Dosthill",
   "AddressLine4": "Tamworth",
@@ -22,8 +19,8 @@
   "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-05-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

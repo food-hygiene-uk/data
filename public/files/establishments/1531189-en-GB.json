@@ -1,9 +1,9 @@
 {
   "FHRSID": 1531189,
   "BusinessName": "Devizes and District Foodbank",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000121416",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "DEVIZES",
   "PostCode": "SN10 2EQ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

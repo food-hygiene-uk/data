@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
   "Geocode": {
-    "Latitude": "51.3758292",
-    "Longitude": "0.5193348"
+    "Latitude": "51.3807194",
+    "Longitude": "0.5284706"
   },
-  "AddressLine1": "47 Rochester Street",
-  "AddressLine2": "Chatham",
-  "AddressLine3": "Medway",
-  "PostCode": "ME4 6RT",
+  "AddressLine1": "Pentagon Shopping Centre",
+  "AddressLine2": "High Street",
+  "AddressLine3": "Chatham",
+  "AddressLine4": "Medway",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

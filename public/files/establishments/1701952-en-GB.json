@@ -1,6 +1,6 @@
 {
   "FHRSID": 1701952,
-  "BusinessName": "The Village Tearoom At Lullingstone Castle",
+  "BusinessName": "Lullingstone Castle Tearoom",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "24/00032/MIXED/S",
   "BusinessTypeID": 1,
@@ -19,8 +19,12 @@
   "AddressLine4": "Kent",
   "PostCode": "DA4 0JA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

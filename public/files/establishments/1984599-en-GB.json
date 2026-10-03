@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "http://www.eastdevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@eastdevon.gov.uk",
-  "Geocode": {
-    "Latitude": "50.613087",
-    "Longitude": "-3.408464"
-  },
-  "AddressLine1": "Exmouth Cricket Club",
+  "Geocode": null,
+  "AddressLine1": "Car Park",
   "AddressLine2": "Queens Drive",
   "AddressLine3": "Exmouth",
-  "PostCode": "EX8 2AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
