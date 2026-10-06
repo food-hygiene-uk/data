@@ -1,6 +1,6 @@
 {
   "FHRSID": 1970092,
-  "BusinessName": "Basilivo Ltd",
+  "BusinessName": "Basilivo / Matteo's Cucina Italiana",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "CP06116",
   "BusinessTypeID": 7844,
@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
   "Geocode": {
-    "Latitude": "51.498594",
-    "Longitude": "-0.2723517"
+    "Latitude": "51.49863",
+    "Longitude": "-0.272357"
   },
-  "AddressLine1": "Unit 6A And 7A",
+  "AddressLine1": "Unit 7",
   "AddressLine2": "8 Greenock Road",
   "AddressLine3": "Acton",
   "PostCode": "W3 8DU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

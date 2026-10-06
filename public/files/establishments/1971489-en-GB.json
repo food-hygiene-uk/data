@@ -1,9 +1,9 @@
 {
   "FHRSID": 1971489,
   "BusinessName": "Amazon UK Services Ltd",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "PI/000300911",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
@@ -16,8 +16,12 @@
   "AddressLine4": "Station Road",
   "PostCode": "N19 5UN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

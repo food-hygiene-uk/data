@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "311",
   "LocalAuthorityName": "Spelthorne",
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
   "Geocode": {
     "Latitude": "51.4334477",
@@ -19,8 +19,12 @@
   "AddressLine4": "Staines-upon-Thames",
   "PostCode": "TW18 4BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-04",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

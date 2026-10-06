@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5654842",
+    "Longitude": "1.72612055"
+  },
   "AddressLine2": "Amythyst Close",
   "AddressLine3": "Gorleston",
-  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR31 6EU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

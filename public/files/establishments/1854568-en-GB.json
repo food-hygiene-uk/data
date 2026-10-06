@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6096612",
+    "Longitude": "1.7261922"
+  },
   "AddressLine2": "Stall 8 The New Market Place Great Yarmouth",
-  "AddressLine4": "Norfolk",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

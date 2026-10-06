@@ -1,13 +1,13 @@
 {
   "FHRSID": 1794027,
-  "BusinessName": "Bishampton Village Store \\& Cafe",
+  "BusinessName": "Londis And Bishampton Village Store",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "25/00064/FOOD",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "152",
   "LocalAuthorityName": "Wychavon",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.1603529",
@@ -18,8 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "WR10 2LX",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.npt.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@npt.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Ambulance Hall",
+  "Geocode": {
+    "Latitude": "51.680662",
+    "Longitude": "-3.781575"
+  },
+  "AddressLine1": "Bouchers",
   "AddressLine2": "Penscynor",
   "AddressLine3": "Cilfrew",
   "AddressLine4": "Neath Port Talbot",
@@ -18,6 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-10-10",
-  "Scores": null
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
