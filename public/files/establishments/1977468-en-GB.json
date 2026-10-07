@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7512077",
+    "Longitude": "-0.4735333"
+  },
+  "AddressLine2": "42 Bridge Street",
+  "AddressLine3": "Hemel Hempstead",
+  "AddressLine4": "Hertfordshire",
+  "PostCode": "HP1 1EF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

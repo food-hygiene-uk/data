@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
-    "Latitude": "53.3995574",
-    "Longitude": "-2.588985"
+    "Latitude": "53.3994482",
+    "Longitude": "-2.589078"
   },
-  "AddressLine2": "1 Cowdell Street",
+  "AddressLine2": "1a Cowdell Street",
   "PostCode": "WA2 7PP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

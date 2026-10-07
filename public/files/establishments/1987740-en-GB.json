@@ -1,6 +1,6 @@
 {
   "FHRSID": 1987740,
-  "BusinessName": "Ocs Food Co. @ Olympus Academy",
+  "BusinessName": "Ocs Food Co. @ Lyde Green Community School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "CP/002905",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "South Gloucestershire",
   "PostCode": "BS16 7LS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

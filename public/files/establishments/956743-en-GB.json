@@ -1,28 +1,29 @@
 {
   "FHRSID": 956743,
-  "BusinessName": "Odeon Cinema",
-  "BusinessType": "Retailers - other",
+  "BusinessName": "ODEON Port Solent",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "56189",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "876",
   "LocalAuthorityName": "Portsmouth",
   "LocalAuthorityWebSite": "http://www.portsmouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@portsmouthcc.gov.uk",
   "Geocode": {
-    "Latitude": "50.840461730957",
-    "Longitude": "-1.09655499458313"
+    "Latitude": "50.840462",
+    "Longitude": "-1.096555"
   },
-  "AddressLine1": "Port Way",
-  "AddressLine2": "Portsmouth",
+  "AddressLine1": "Multiplex Cinema",
+  "AddressLine2": "Port Way",
+  "AddressLine3": "Portsmouth",
   "PostCode": "PO6 4TS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-08-28",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-01",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

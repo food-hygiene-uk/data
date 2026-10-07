@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7199567",
+    "Longitude": "-2.6720421"
+  },
+  "AddressLine1": "3 Dollywaggon Way",
+  "AddressLine2": "Bamber Bridge",
+  "AddressLine3": "Preston",
+  "AddressLine4": "Lancashire",
+  "PostCode": "PR5 6EW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

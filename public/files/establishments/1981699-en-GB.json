@@ -7,19 +7,24 @@
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.7602392",
     "Longitude": "-1.874312"
   },
-  "AddressLine1": "Sidhil Business Park",
-  "AddressLine2": "Holmfield Industrial Estate",
-  "AddressLine3": "Holmfield",
-  "AddressLine4": "Halifax",
+  "AddressLine1": "Advanced Processing Limited",
+  "AddressLine2": "Sidhil Business Park",
+  "AddressLine3": "Holmfield Industrial Estate",
+  "AddressLine4": "Holmfield",
+  "PostCode": "HX2 9TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

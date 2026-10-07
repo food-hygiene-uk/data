@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.basingstoke.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1560935974121",
+    "Longitude": "-1.15652704238892"
+  },
+  "AddressLine1": "Chilton Manor Farmhouse",
+  "AddressLine2": "Chilton Candover",
+  "AddressLine3": "Alresford",
+  "AddressLine4": "Hampshire",
+  "PostCode": "SO24 9TX",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
   "RatingDate": null,
   "Scores": null
 }

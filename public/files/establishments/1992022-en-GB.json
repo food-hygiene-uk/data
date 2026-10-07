@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "196 North Road",
+  "Geocode": {
+    "Latitude": "53.7643361",
+    "Longitude": "-2.6985417"
+  },
+  "AddressLine2": "194-200 North Road",
   "AddressLine3": "Preston",
   "PostCode": "PR1 1YP",
   "SchemeType": "FHRS",

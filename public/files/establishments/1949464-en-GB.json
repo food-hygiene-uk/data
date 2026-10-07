@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.8721394",
+    "Longitude": "-1.6808353"
+  },
+  "AddressLine1": "2 BROOK CLOSE",
+  "AddressLine2": "HATTON",
+  "AddressLine3": "DERBY",
+  "PostCode": "DE65 5EW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

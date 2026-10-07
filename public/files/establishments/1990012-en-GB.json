@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5519013",
+    "Longitude": "1.0583391"
+  },
+  "AddressLine1": "54 Chapel Road",
+  "AddressLine2": "Morley St Botolph",
+  "AddressLine3": "Norfolk",
+  "PostCode": "NR18 9TF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

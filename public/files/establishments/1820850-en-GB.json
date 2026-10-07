@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.384595",
+    "Longitude": "-2.28614"
+  },
   "AddressLine2": "145 Greenbrow Road",
   "AddressLine3": "Manchester",
   "PostCode": "M23 2DB",

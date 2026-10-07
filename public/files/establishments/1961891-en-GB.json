@@ -1,6 +1,6 @@
 {
   "FHRSID": 1961891,
-  "BusinessName": "Pepe’s",
+  "BusinessName": "Pepe’s Piri Piri Ilford",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "203712",
   "BusinessTypeID": 1,
@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.redbridge.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "themis.skouros@redbridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.557741",
+    "Longitude": "0.069691"
+  },
+  "AddressLine2": "10 Chapel Road",
+  "AddressLine4": "Ilford",
+  "PostCode": "IG1 2AG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",
