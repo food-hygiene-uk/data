@@ -1,9 +1,9 @@
 {
   "FHRSID": 1972370,
   "BusinessName": "My PCOS Guide",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00518/COMM",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

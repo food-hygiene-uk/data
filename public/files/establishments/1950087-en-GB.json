@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3877857",
+    "Longitude": "-2.5949306"
+  },
+  "AddressLine1": "Two Of Hearts Club",
+  "AddressLine2": "25 Cairo Street",
+  "PostCode": "WA1 1EE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

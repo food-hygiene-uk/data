@@ -9,9 +9,15 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hay on Wye",
-  "AddressLine2": "Hereford",
+  "Geocode": {
+    "Latitude": "52.0745157",
+    "Longitude": "-3.1247539"
+  },
+  "AddressLine1": "Flat Arvona Galleries",
+  "AddressLine2": "St. Johns Place",
+  "AddressLine3": "Lion Street",
+  "AddressLine4": "Hay-on-wye",
+  "PostCode": "HR3 5BN",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

@@ -9,10 +9,20 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.144473",
+    "Longitude": "0.339412"
+  },
+  "AddressLine1": "14 Lumley Avenue",
+  "AddressLine2": "Skegness",
+  "PostCode": "PE25 2AP",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

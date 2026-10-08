@@ -1,18 +1,26 @@
 {
   "FHRSID": 156728,
   "BusinessName": "Rainbow Corner Day Nursery",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "EHFDI/05435/08",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Rainbow Corner Day Nursery",
+  "AddressLine2": "Lancaster Gate",
+  "AddressLine3": "Holton Le Clay Grimsby",
+  "PostCode": "DN36 5YS",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

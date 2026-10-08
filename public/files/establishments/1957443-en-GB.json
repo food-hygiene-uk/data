@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": {
-    "Latitude": "52.5897018",
-    "Longitude": "-1.3586885"
-  },
-  "AddressLine1": "White House",
-  "AddressLine2": "Ashby Road",
-  "AddressLine3": "Stapleton",
-  "AddressLine4": "Leicester",
-  "PostCode": "LE9 8JF",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

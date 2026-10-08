@@ -1,9 +1,9 @@
 {
   "FHRSID": 1774847,
   "BusinessName": "Klubhaus",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "283228",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "404",
   "LocalAuthorityName": "Bradford",
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
@@ -17,12 +17,8 @@
   "AddressLine3": "Shipley",
   "PostCode": "BD18 4SD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-01-22",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

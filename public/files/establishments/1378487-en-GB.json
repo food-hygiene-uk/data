@@ -1,6 +1,6 @@
 {
   "FHRSID": 1378487,
-  "BusinessName": "Gorkha & Khukuri",
+  "BusinessName": "Nepal Mountains",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000104948",
   "BusinessTypeID": 1,
@@ -9,19 +9,18 @@
   "LocalAuthorityWebSite": "http://www.powys.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@powys.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Gorhka & Khukuri",
-  "AddressLine2": "Newton Park",
-  "AddressLine3": "Llanfaes",
-  "AddressLine4": "Brecon",
+  "Geocode": {
+    "Latitude": "51.9480133056641",
+    "Longitude": "-3.40730595588684"
+  },
+  "AddressLine1": "Newton Park",
+  "AddressLine2": "Llanfaes",
+  "AddressLine3": "Brecon",
+  "AddressLine4": "Powys",
   "PostCode": "LD3 8PA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_cy-gb",
-  "RatingDate": "2025-09-18",
-  "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_ratingawaited_cy-gb",
+  "RatingDate": null,
+  "Scores": null
 }

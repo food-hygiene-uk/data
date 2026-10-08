@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "199",
   "LocalAuthorityName": "Hyndburn",
   "LocalAuthorityWebSite": "http://www.hyndburnbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@hyndburnbc.gov.uk",
   "Geocode": {
     "Latitude": "53.753767",
@@ -18,12 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "BB5 0AD",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-09-16",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 25,
+    "ConfidenceInManagement": 20
   }
 }

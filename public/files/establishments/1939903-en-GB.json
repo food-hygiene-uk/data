@@ -1,20 +1,27 @@
 {
   "FHRSID": 1939903,
   "BusinessName": "The Whole Bowl",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00266/COMM",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Glebelands Indoor Bowls Club",
+  "Geocode": {
+    "Latitude": "51.606027",
+    "Longitude": "-0.172783"
+  },
+  "AddressLine1": "Glebelands Indoor Bowls Club  Summers Lane London",
   "PostCode": "N12 0PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

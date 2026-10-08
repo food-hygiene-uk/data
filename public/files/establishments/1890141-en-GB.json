@@ -1,6 +1,6 @@
 {
   "FHRSID": 1890141,
-  "BusinessName": "Forno Passione / Thyme / Crosta Luna / Pizalo / Pizeato",
+  "BusinessName": "FornoPassione/Thyme/CrostaLuna/Pizalo/Pizeato",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "INSPF/25/370550",
   "BusinessTypeID": 7844,
@@ -18,8 +18,12 @@
   "AddressLine3": "LONDON",
   "PostCode": "W10 5NE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

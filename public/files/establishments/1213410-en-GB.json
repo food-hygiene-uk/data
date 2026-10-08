@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "075",
   "LocalAuthorityName": "North Devon",
   "LocalAuthorityWebSite": "http://www.northdevon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
   "Geocode": {
     "Latitude": "51.2082854",
@@ -18,12 +18,12 @@
   "AddressLine3": "Devon",
   "PostCode": "EX34 9EY",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-03-05",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

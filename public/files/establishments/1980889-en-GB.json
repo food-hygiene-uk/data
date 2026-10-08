@@ -1,9 +1,9 @@
 {
   "FHRSID": 1980889,
   "BusinessName": "Playdayz Nursery Ltd",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "26/00533/COMM",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
@@ -13,11 +13,15 @@
     "Latitude": "51.5732657",
     "Longitude": "-0.1960621"
   },
-  "AddressLine1": "923 Finchley Road",
+  "AddressLine1": "923 Finchley Road London",
   "PostCode": "NW11 7PE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

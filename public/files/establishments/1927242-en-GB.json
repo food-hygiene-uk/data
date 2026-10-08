@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5764202",
-    "Longitude": "-0.2237626"
+    "Latitude": "51.576185",
+    "Longitude": "-0.224534"
   },
-  "AddressLine1": "Brent Cross Shopping Centre Prince Charles Drive",
+  "AddressLine1": "Brent Cross Shopping Centre  Prince Charles Drive London",
   "PostCode": "NW4 3FL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

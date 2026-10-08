@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "030",
   "LocalAuthorityName": "Huntingdonshire",
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
   "Geocode": null,
   "AddressLine1": "Spicelands Old Great North Road",
@@ -15,12 +15,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE28 5XP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-03-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-02",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

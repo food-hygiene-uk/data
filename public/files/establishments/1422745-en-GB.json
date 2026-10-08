@@ -1,6 +1,6 @@
 {
   "FHRSID": 1422745,
-  "BusinessName": "Dan's Pie Company Ltd",
+  "BusinessName": "Dan's Pies",
   "BusinessType": "Manufacturers/packers",
   "LocalAuthorityBusinessID": "216335",
   "BusinessTypeID": 7839,
@@ -15,8 +15,12 @@
   "AddressLine3": "East Riding Of Yorkshire",
   "PostCode": "YO42 1NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

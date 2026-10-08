@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7788917",
+    "Longitude": "-1.5840361"
+  },
+  "AddressLine1": "EAST STREET FARM",
+  "AddressLine2": "PITMORE LANE",
+  "AddressLine3": "SWAY",
+  "AddressLine4": "LYMINGTON",
+  "PostCode": "SO41 6BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }
