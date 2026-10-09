@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.argyll-bute.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@argyll-bute.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Dunoon Primary School  Hillfoot Street Dunoon Argyll PA23 7DR",
+  "Geocode": {
+    "Latitude": "55.94749907",
+    "Longitude": "-4.92712421"
+  },
+  "AddressLine1": "Dunoon Primary School 19 Hillfoot Street Dunoon Argyll And Bute PA23 7DR",
   "PostCode": "PA23 7DR",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

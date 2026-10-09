@@ -1,9 +1,9 @@
 {
   "FHRSID": 1966845,
   "BusinessName": "Compass @ Copthorne Prep",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "3420",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "313",
   "LocalAuthorityName": "Tandridge",
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
@@ -15,8 +15,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "RH10 3HR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

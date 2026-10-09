@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "515",
   "LocalAuthorityName": "Harrow",
   "LocalAuthorityWebSite": "http://www.harrow.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@harrow.gov.uk",
   "Geocode": {
     "Latitude": "51.5817141",
@@ -17,12 +17,12 @@
   "AddressLine2": "West Harrow",
   "PostCode": "HA1 4EY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-10-21",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-10",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

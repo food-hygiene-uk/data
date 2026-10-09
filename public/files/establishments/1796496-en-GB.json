@@ -1,6 +1,6 @@
 {
   "FHRSID": 1796496,
-  "BusinessName": "Lakenheath Community Primary School - Breakfast",
+  "BusinessName": "Lakenheath Community Primary School - Breakfast Club",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "FR/000003516",
   "BusinessTypeID": 7845,
@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.westsuffolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food&safety@westsuffolk.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lakenheath Hub",
-  "AddressLine2": "Mill Road",
+  "Geocode": {
+    "Latitude": "52.4264495",
+    "Longitude": "0.5284853"
+  },
+  "AddressLine1": "Lakenheath Community Primary School",
+  "AddressLine2": "Hebden Way",
   "AddressLine3": "Lakenheath",
   "AddressLine4": "Suffolk",
-  "PostCode": "IP27 9DU",
+  "PostCode": "IP27 9FY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

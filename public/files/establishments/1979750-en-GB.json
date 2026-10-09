@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5210276",
+    "Longitude": "-0.6435035"
+  },
+  "AddressLine1": "15 IONA CRESCENT",
+  "AddressLine3": "SLOUGH",
+  "PostCode": "SL1 6JH",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

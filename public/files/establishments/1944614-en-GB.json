@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944614,
-  "BusinessName": "The Genuine Dining Company",
+  "BusinessName": "The Genuine Dining Company @ Calex",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "200563",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine3": "SLOUGH",
   "PostCode": "SL1 4JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

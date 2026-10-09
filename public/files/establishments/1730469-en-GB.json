@@ -9,18 +9,16 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "@homepizza",
-  "AddressLine2": "5 South Dock Walk",
+  "Geocode": {
+    "Latitude": "51.5033863",
+    "Longitude": "-0.0245203"
+  },
+  "AddressLine2": "1 Bank Street",
   "AddressLine3": "London",
-  "PostCode": "E14 4DF",
+  "PostCode": "E14 4SG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-30",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

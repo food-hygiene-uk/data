@@ -1,18 +1,29 @@
 {
   "FHRSID": 157118,
   "BusinessName": "Red Hen Childrens Day Nursery",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "EHFDI/08259/08",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.339427947998",
+    "Longitude": "0.0616559982299805"
+  },
+  "AddressLine1": "Manor House Farm",
+  "AddressLine2": "Reston Road",
+  "AddressLine3": "Legbourne Louth",
+  "PostCode": "LN11 8LS",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

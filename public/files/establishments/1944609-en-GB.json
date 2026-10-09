@@ -9,13 +9,20 @@
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "QUALITY HOTEL LONDON ROAD",
+  "Geocode": {
+    "Latitude": "51.488871",
+    "Longitude": "-0.5361814"
+  },
+  "AddressLine1": "ATLANTIS LOUNGE 556 LONDON ROAD",
   "AddressLine3": "SLOUGH",
   "PostCode": "SL3 8QB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

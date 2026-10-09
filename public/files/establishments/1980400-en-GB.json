@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "063",
   "LocalAuthorityName": "Bolsover",
   "LocalAuthorityWebSite": "http://www.bolsover.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@bolsover.gov.uk",
   "Geocode": {
     "Latitude": "53.18041",
@@ -18,8 +18,12 @@
   "AddressLine3": "Mansfield",
   "PostCode": "NG19 8TA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

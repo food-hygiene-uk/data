@@ -1,18 +1,29 @@
 {
   "FHRSID": 157262,
   "BusinessName": "Limes Play And Learn",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "EHFDI/09204/08",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.365151",
+    "Longitude": "0.003108"
+  },
+  "AddressLine1": "St Michaels Church Of England Primary School",
+  "AddressLine2": "Monks Dyke Road",
+  "AddressLine3": "Louth",
+  "PostCode": "LN11 9AR",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

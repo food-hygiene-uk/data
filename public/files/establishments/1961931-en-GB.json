@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "527",
   "LocalAuthorityName": "Richmond-Upon-Thames",
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
   "Geocode": null,
   "AddressLine1": "75 High Street",
@@ -15,8 +15,12 @@
   "AddressLine4": "Richmond Upon Thames",
   "PostCode": "TW12 1NH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1971350,
-  "BusinessName": "The Indian Food Carriage (TSX 629K)",
+  "BusinessName": "(TSX 629K) The Indian Food Carriage",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "77334",
   "BusinessTypeID": 7846,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

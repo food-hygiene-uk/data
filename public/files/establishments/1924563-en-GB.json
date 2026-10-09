@@ -1,6 +1,6 @@
 {
   "FHRSID": 1924563,
-  "BusinessName": "Impact Food Group@Clare Community Primary",
+  "BusinessName": "Impact Food Group@Clare Community Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "FR/000003887",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "CO10 8PZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

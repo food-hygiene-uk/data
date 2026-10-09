@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "10 King Street",
+  "Geocode": {
+    "Latitude": "53.4457222",
+    "Longitude": "-2.3079884"
+  },
+  "AddressLine2": "1124 Chester Road",
   "AddressLine3": "Stretford",
   "AddressLine4": "Manchester",
-  "PostCode": "M32 8NS",
+  "PostCode": "M32 9BH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
