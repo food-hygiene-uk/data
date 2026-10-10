@@ -1,6 +1,6 @@
 {
   "FHRSID": 1963250,
-  "BusinessName": "Myrtle Foods",
+  "BusinessName": "Myrtle Foods/Bishy Baa",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "44455",
   "BusinessTypeID": 4613,
@@ -18,8 +18,12 @@
   "AddressLine4": "York",
   "PostCode": "YO23 2SD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

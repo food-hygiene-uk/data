@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.39662",
-    "Longitude": "-3.029534"
+    "Latitude": "53.38949616",
+    "Longitude": "-3.0278976"
   },
-  "AddressLine1": "216 Grange Road",
-  "AddressLine2": "Birkenhead",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH41 6EG",
+  "AddressLine1": "212 - 220 Grange Road",
+  "AddressLine3": "Birkenhead",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH41 6EA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

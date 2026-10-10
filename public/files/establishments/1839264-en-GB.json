@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.6002928",
+    "Longitude": "-5.9240699"
+  },
   "AddressLine1": "Laganside Bus Station",
-  "AddressLine3": "8 Marlborough Street",
+  "AddressLine3": "2 Marlborough Street",
+  "PostCode": "BT1 3GA",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

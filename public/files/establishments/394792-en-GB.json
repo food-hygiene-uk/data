@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.419464",
-    "Longitude": "-3.044063"
+    "Latitude": "53.4196172",
+    "Longitude": "-3.0434256"
   },
-  "AddressLine1": "25 Liscard Way",
-  "AddressLine2": "Liscard",
-  "AddressLine3": "Wirral",
-  "AddressLine4": "Merseyside",
-  "PostCode": "CH44 5TL",
+  "AddressLine1": "24 Liscard Way",
+  "AddressLine3": "Liscard",
+  "AddressLine4": "Wirral",
+  "PostCode": "CH44 5TP",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

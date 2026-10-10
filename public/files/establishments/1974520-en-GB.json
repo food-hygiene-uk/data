@@ -1,6 +1,6 @@
 {
   "FHRSID": 1974520,
-  "BusinessName": "New York Crepes and Waffles",
+  "BusinessName": "Sweet Haven",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "001P200001DTt7g",
   "BusinessTypeID": 7846,
@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2673646",
+    "Longitude": "-1.4202626"
+  },
+  "AddressLine1": "60 Gypsy Lane",
+  "AddressLine2": "Old Whittington",
+  "AddressLine4": "Chesterfield",
+  "PostCode": "S41 9JB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

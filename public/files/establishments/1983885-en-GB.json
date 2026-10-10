@@ -1,9 +1,9 @@
 {
   "FHRSID": 1983885,
   "BusinessName": "Topshelf Mixology",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "JHDQXX-6BL99S-CAQQK0",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

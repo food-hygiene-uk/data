@@ -1,13 +1,13 @@
 {
   "FHRSID": 398076,
-  "BusinessName": "The Tap",
+  "BusinessName": "Booze Brothers",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "56185",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "401",
   "LocalAuthorityName": "Barnsley",
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
   "Geocode": {
     "Latitude": "53.550502",
@@ -17,12 +17,12 @@
   "AddressLine4": "Barnsley",
   "PostCode": "S70 6AF",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2010-10-25",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-04",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

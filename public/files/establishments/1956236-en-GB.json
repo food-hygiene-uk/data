@@ -13,12 +13,17 @@
     "Latitude": "53.5572143",
     "Longitude": "-0.026058"
   },
+  "AddressLine1": "Swirl & Spoon",
   "AddressLine2": "35 Seaview Street",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 8EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

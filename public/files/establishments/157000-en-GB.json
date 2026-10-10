@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.36869",
+    "Longitude": "-0.00101"
+  },
+  "AddressLine1": "48 James Street",
+  "AddressLine2": "Louth",
+  "AddressLine3": "Lincolnshire",
+  "PostCode": "LN11 0JW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

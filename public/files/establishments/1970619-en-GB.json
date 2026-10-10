@@ -1,6 +1,6 @@
 {
   "FHRSID": 1970619,
-  "BusinessName": "Mediterranean",
+  "BusinessName": "The Mediterranean BBQ Grill",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "403013",
   "BusinessTypeID": 7844,
@@ -13,14 +13,18 @@
     "Latitude": "53.2073193",
     "Longitude": "-3.0222763"
   },
-  "AddressLine1": "Mediterranean",
+  "AddressLine1": "The Mediterranean BBQ Grill",
   "AddressLine2": "51 Station Road",
   "AddressLine3": "Queensferry",
   "AddressLine4": "Flintshire",
   "PostCode": "CH5 1SU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

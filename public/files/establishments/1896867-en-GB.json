@@ -1,6 +1,6 @@
 {
   "FHRSID": 1896867,
-  "BusinessName": "CJ Canteens Ltd",
+  "BusinessName": "Black Knife Catering Ltd @ Necton Substation",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "40143",
   "BusinessTypeID": 1,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.breckland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@breckland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Necton Substation",
-  "AddressLine2": "Norfolk",
+  "Geocode": {
+    "Latitude": "52.6603452",
+    "Longitude": "0.7929736"
+  },
+  "AddressLine1": "National Grid Necton Substation Norwich Road",
   "AddressLine3": "Necton",
+  "AddressLine4": "Norfolk",
+  "PostCode": "PE37 8EG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
