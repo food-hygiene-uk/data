@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "126",
   "LocalAuthorityName": "Forest of Dean",
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
   "Geocode": {
     "Latitude": "51.7276663",
@@ -19,12 +19,12 @@
   "AddressLine4": "Gloucestershire",
   "PostCode": "GL15 5RA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-11",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-05",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 0
   }
 }

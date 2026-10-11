@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "228",
   "LocalAuthorityName": "Broadland",
   "LocalAuthorityWebSite": "http://www.southnorfolkandbroadland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@southnorfolkandbroadland.gov.uk",
   "Geocode": {
     "Latitude": "52.6634022",
@@ -18,12 +18,12 @@
   "AddressLine3": "Norfolk",
   "PostCode": "NR6 5NZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-25",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }
