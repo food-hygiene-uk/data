@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.305518",
+    "Longitude": "0.28377"
+  },
+  "AddressLine1": "St Clements Church Hall",
+  "AddressLine2": "Church Lane",
+  "AddressLine3": "Sutton On Sea",
+  "PostCode": "LN12 2JB",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2021-06-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

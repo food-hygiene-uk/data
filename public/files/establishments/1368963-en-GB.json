@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
   "Geocode": {
     "Latitude": "53.694798",
@@ -19,6 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-05-19",
-  "Scores": null
+  "RatingDate": "2026-09-14",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

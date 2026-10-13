@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "233",
   "LocalAuthorityName": "South Norfolk",
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
   "Geocode": {
     "Latitude": "52.617533",
@@ -19,8 +19,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR9 3AE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-18",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

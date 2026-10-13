@@ -1,6 +1,6 @@
 {
   "FHRSID": 1777598,
-  "BusinessName": "Food For Thought at St Cecilia's",
+  "BusinessName": "Food For Thought at St Celia's Junior School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "96175",
   "BusinessTypeID": 7845,
@@ -17,8 +17,12 @@
   "AddressLine3": "Liverpool",
   "PostCode": "L13 7EA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

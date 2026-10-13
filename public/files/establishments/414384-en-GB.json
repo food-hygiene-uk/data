@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "10-14 CRANBOURN STREET",
+  "Geocode": {
+    "Latitude": "51.5114671",
+    "Longitude": "-0.1290166"
+  },
+  "AddressLine1": "THE HIPPODROME 10-14 CRANBOURN STREET",
   "AddressLine3": "LONDON",
-  "PostCode": "WC2H 7NG",
+  "PostCode": "WC2H 7JH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

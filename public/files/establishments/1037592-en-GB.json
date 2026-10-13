@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.1487731933594",
+    "Longitude": "0.328758001327515"
+  },
+  "AddressLine1": "Little Learners Pre School",
+  "AddressLine2": "Lincoln Road",
+  "AddressLine3": "Skegness",
+  "PostCode": "PE25 2DN",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

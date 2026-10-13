@@ -1,9 +1,9 @@
 {
   "FHRSID": 1946264,
   "BusinessName": "Kernel",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PSX6CS-FGN74T-DL40FS",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

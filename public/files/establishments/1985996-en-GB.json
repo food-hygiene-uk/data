@@ -1,6 +1,6 @@
 {
   "FHRSID": 1985996,
-  "BusinessName": "Home business",
+  "BusinessName": "Desi Kitchen",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "141997",
   "BusinessTypeID": 1,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@havering.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.cumberland.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Twisted Wheel",
+  "Geocode": {
+    "Latitude": "54.8935",
+    "Longitude": "-2.9382"
+  },
+  "AddressLine1": "Unit 3",
   "AddressLine2": "West Walls",
   "AddressLine3": "Carlisle",
   "PostCode": "CA3 8UB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-25",
+  "RatingDate": "2026-08-14",
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

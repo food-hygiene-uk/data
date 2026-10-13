@@ -1,6 +1,6 @@
 {
   "FHRSID": 491729,
-  "BusinessName": "The Inn (Great Corby) Limited",
+  "BusinessName": "The Queen Inn",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "68637",
   "BusinessTypeID": 7843,
@@ -18,8 +18,12 @@
   "AddressLine3": "Great Corby",
   "PostCode": "CA4 8LR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

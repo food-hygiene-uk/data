@@ -10,9 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": null,
+  "AddressLine1": "22 School Lane",
+  "AddressLine2": "Coningsby",
+  "AddressLine3": "Lincoln",
+  "PostCode": "LN4 4NF",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
