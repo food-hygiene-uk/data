@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "LEAROYD ROAD",
-  "AddressLine3": "HEMSWELL CLIFF",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3982182",
+    "Longitude": "-0.5791458"
+  },
+  "AddressLine1": "Hangar No 1",
+  "AddressLine2": "Learoyd Road",
+  "AddressLine4": "Hemswell Cliff",
+  "PostCode": "DN21 5XT",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

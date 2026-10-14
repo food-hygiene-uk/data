@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "OWMBY ROAD",
-  "AddressLine3": "SPRIDLINGTON",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.3535187",
+    "Longitude": "-0.48613015"
+  },
+  "AddressLine2": "Owmby Road",
+  "AddressLine4": "Spridlington",
+  "PostCode": "LN8 2DD",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

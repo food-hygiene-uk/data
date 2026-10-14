@@ -1,6 +1,6 @@
 {
   "FHRSID": 234626,
-  "BusinessName": "Laziza Lincoln Limited",
+  "BusinessName": "Laziza Indian Bar & Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "36867",
   "BusinessTypeID": 1,
@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "THE LANDINGS",
-  "AddressLine3": "BURTON WATERS",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2494078",
+    "Longitude": "-0.5964596"
+  },
+  "AddressLine2": "10 The Landings",
+  "AddressLine4": "Burton Waters",
+  "PostCode": "LN1 2TU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

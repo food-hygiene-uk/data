@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "VICARAGE LANE",
-  "AddressLine3": "GRASBY",
-  "AddressLine4": "BARNETBY",
+  "Geocode": {
+    "Latitude": "53.5297155387167",
+    "Longitude": "-0.361188980039113"
+  },
+  "AddressLine2": "Vicarage Lane",
+  "AddressLine4": "Grasby",
+  "PostCode": "DN38 6AU",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

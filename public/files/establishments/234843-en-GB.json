@@ -9,17 +9,21 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "BRIGG ROAD",
-  "AddressLine3": "GRASBY",
-  "AddressLine4": "BARNETBY",
+  "Geocode": {
+    "Latitude": "53.5302686",
+    "Longitude": "-0.3579698"
+  },
+  "AddressLine1": "Cross Keys",
+  "AddressLine2": "Brigg Road",
+  "AddressLine4": "Grasby",
+  "PostCode": "DN38 6AQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-06",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

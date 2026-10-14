@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "SCHOOL LANE",
-  "AddressLine3": "ROTHWELL",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.4799118",
+    "Longitude": "-0.2682147"
+  },
+  "AddressLine1": "Rothwell Village Hall",
+  "AddressLine2": "School Lane",
+  "AddressLine4": "Rothwell",
+  "PostCode": "LN7 6BB",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

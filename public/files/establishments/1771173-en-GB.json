@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MOOR LANE",
-  "AddressLine3": "FISKERTON",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.24132",
+    "Longitude": "-0.43539"
+  },
+  "AddressLine1": "Reepham Moor Rifle Range",
+  "AddressLine2": "Moor Lane",
+  "AddressLine4": "Fiskerton",
+  "PostCode": "LN3 5DG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

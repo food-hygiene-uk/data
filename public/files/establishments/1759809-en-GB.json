@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MARKET ARCADE",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3981067",
+    "Longitude": "-0.7753338"
+  },
+  "AddressLine1": "Sure Start Childrens Centre",
+  "AddressLine2": "Market Arcade",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 2DY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

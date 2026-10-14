@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HEAPHAM ROAD",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.398177",
+    "Longitude": "-0.7620969"
+  },
+  "AddressLine1": "Old Filling Station",
+  "AddressLine2": "1 Heapham Road",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 1SJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

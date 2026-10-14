@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HIGH STREET",
-  "AddressLine3": "CHERRY WILLINGHAM",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2396743",
+    "Longitude": "-0.4592455"
+  },
+  "AddressLine2": "20 - 22 High Street",
+  "AddressLine4": "Cherry Willingham",
+  "PostCode": "LN3 4AQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1910210,
-  "BusinessName": "UNREGISTERED VAPE BUSINESS SELLING FOOD",
+  "BusinessName": "STATION STREET STORE",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "7d972c0a-03f2-f011-8129-00155d644202",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "288",
   "LocalAuthorityName": "East Staffordshire",
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
   "Geocode": {
     "Latitude": "52.8062272",
@@ -17,8 +17,12 @@
   "AddressLine2": "Burton upon Trent",
   "PostCode": "DE14 1BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

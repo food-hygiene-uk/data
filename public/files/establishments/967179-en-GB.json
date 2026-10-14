@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "ERMINE STREET",
-  "AddressLine3": "SPITAL IN THE STREET",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.3982559",
+    "Longitude": "-0.5474065"
+  },
+  "AddressLine1": "Home Farm",
+  "AddressLine2": "Ermine Street",
+  "AddressLine4": "Spital In The Street",
+  "PostCode": "LN8 2AU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

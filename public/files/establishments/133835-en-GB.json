@@ -1,6 +1,6 @@
 {
   "FHRSID": 133835,
-  "BusinessName": "Dolce",
+  "BusinessName": "Harris County Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "668",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "Preston",
   "PostCode": "PR2 7EE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

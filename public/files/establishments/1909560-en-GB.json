@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "STATION ROAD",
-  "AddressLine3": "NORTH KELSEY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.5020673",
+    "Longitude": "-0.4239833"
+  },
+  "AddressLine1": "The Paddocks",
+  "AddressLine2": "Station Road",
+  "AddressLine4": "North Kelsey",
+  "PostCode": "LN7 6HL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

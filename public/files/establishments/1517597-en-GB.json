@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "RISEHOLME PARK",
-  "AddressLine3": "RISEHOLME",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2685445",
+    "Longitude": "-0.5293755"
+  },
+  "AddressLine1": "Riseholme Hall",
+  "AddressLine2": "Riseholme Park",
+  "AddressLine4": "Riseholme",
+  "PostCode": "LN2 2LG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

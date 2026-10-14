@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "http://www.southderbyshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southderbyshire.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\tI agree with the inspection results but have since carried out the following improvements&lt;/p&gt;\n&lt;p&gt;\n\t1) The establishment has been thoroughly cleaned and procedures are in place to ensure that cleanliness is maintained.&lt;br /&gt;\n\t2)&amp;nbsp;The staff have been trained/re-trained/given instruction/are under revised supervisory arrangements.&lt;br /&gt;\n\t3)&amp;nbsp;The conditions found at the time of the inspection were not typical of the normal conditions maintained at the establishment&lt;br /&gt;\n\t&lt;br /&gt;\n\tFollowing our recent food hygiene inspection, we acknowledge that some issues relating to paperwork and the condition of our premises needed addressing. AlI matters raised have now been addressed and we are awaiting a paid revisit from Environmental Health to review the improvements amd reassess rating. Food safety hygiene are extremely important to us at Etwall Balti, and we remain committed to maintaining high standards and providing our customers Wth safe, hygienically prepared food&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "52.878578",
     "Longitude": "-1.6012195"
@@ -18,8 +19,12 @@
   "AddressLine3": "DERBY",
   "PostCode": "DE65 6LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

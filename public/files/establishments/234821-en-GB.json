@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "LEGSBY ROAD",
-  "AddressLine3": "LINWOOD",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.38055009",
+    "Longitude": "-0.3181589"
+  },
+  "AddressLine1": "Linwood Warren",
+  "AddressLine2": "Legsby Road",
+  "AddressLine4": "Linwood",
+  "PostCode": "LN8 3DZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

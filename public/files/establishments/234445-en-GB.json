@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "STATION ROAD",
-  "AddressLine3": "BARDNEY",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2073725",
+    "Longitude": "-0.333849"
+  },
+  "AddressLine2": "117 Station Road",
+  "AddressLine4": "Bardney",
+  "PostCode": "LN3 5UF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

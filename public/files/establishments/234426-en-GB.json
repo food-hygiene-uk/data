@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "C233 REASBY TO STAINTON BY LANGWORTH",
-  "AddressLine3": "STAINTON BY LANGWORTH",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2885178",
+    "Longitude": "-0.4067072"
+  },
+  "AddressLine1": "Stainton Manor",
+  "AddressLine2": "Stainton Road",
+  "AddressLine4": "Stainton By Langworth",
+  "PostCode": "LN3 5BL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

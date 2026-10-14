@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dartford.gov.uk/foodsafety/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4292462",
+    "Longitude": "0.1673493"
+  },
+  "AddressLine1": "17 Briar Road",
+  "AddressLine2": "Bexley",
+  "AddressLine3": "Kent",
+  "PostCode": "DA5 2HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

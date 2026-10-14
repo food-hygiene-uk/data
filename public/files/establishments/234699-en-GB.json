@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MIDDLE STREET",
-  "AddressLine3": "NORTH KELSEY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.500265614443",
+    "Longitude": "-0.429320263906061"
+  },
+  "AddressLine2": "Middle Street",
+  "AddressLine4": "North Kelsey",
+  "PostCode": "LN7 6EH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

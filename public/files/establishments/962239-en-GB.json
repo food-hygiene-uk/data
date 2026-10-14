@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CAISTOR ROAD",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.3887635",
+    "Longitude": "-0.3393638"
+  },
+  "AddressLine1": "Festival Hall",
+  "AddressLine2": "Caistor Road",
+  "AddressLine4": "Market Rasen",
+  "PostCode": "LN8 3HT",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

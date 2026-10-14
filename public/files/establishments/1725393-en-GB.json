@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HIGH STREET",
-  "AddressLine3": "SCOTTER",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.497906",
+    "Longitude": "-0.6663451"
+  },
+  "AddressLine2": "85 High Street",
+  "AddressLine4": "Scotter",
+  "PostCode": "DN21 3TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

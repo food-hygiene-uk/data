@@ -1,6 +1,6 @@
 {
   "FHRSID": 1928621,
-  "BusinessName": "Rayz African and Caribbean Grocery Store",
+  "BusinessName": "Afrohub Market Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "150429",
   "BusinessTypeID": 4613,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "NORTH STREET",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.4002513",
+    "Longitude": "-0.7740842"
+  },
+  "AddressLine2": "3 North Street",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 2HP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

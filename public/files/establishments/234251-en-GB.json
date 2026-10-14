@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "BRIGG ROAD",
-  "AddressLine3": "CAISTOR",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.4987993",
+    "Longitude": "-0.3224901"
+  },
+  "AddressLine1": "Caistor Sports & Social Club",
+  "AddressLine2": "Brigg Road",
+  "AddressLine4": "Caistor",
+  "PostCode": "LN7 6RX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

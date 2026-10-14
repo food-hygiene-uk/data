@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CLIFF ROAD",
-  "AddressLine3": "WELTON",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.3059707",
+    "Longitude": "-0.4860227"
+  },
+  "AddressLine1": "Welton Methodist Church",
+  "AddressLine2": "Cliff Road",
+  "AddressLine4": "Welton",
+  "PostCode": "LN2 3JJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

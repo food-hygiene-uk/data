@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CADE LANE",
-  "AddressLine3": "UPTON",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3764092",
+    "Longitude": "-0.6996273"
+  },
+  "AddressLine1": "Brampton Dale Farm",
+  "AddressLine2": "Cade Lane",
+  "AddressLine4": "Upton",
+  "PostCode": "DN21 5NN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "THONOCK ROAD",
-  "AddressLine3": "THONOCK",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.4228387",
+    "Longitude": "-0.7599374"
+  },
+  "AddressLine1": "Thonock Lane Farm",
+  "AddressLine2": "Thonock Road",
+  "AddressLine4": "Thonock",
+  "PostCode": "DN21 3HP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

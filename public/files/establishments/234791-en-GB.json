@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "BECK HILL",
-  "AddressLine3": "TEALBY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.40117668",
+    "Longitude": "-0.25963342"
+  },
+  "AddressLine1": "Multi Use Centre",
+  "AddressLine2": "3 Beck Hill",
+  "AddressLine4": "Tealby",
+  "PostCode": "LN8 3XS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

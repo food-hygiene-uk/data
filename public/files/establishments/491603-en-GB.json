@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "SAXILBY ROAD",
-  "AddressLine3": "BURTON",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2650994",
+    "Longitude": "-0.6239521"
+  },
+  "AddressLine1": "Odder Farm",
+  "AddressLine2": "Saxilby Road",
+  "AddressLine4": "Burton",
+  "PostCode": "LN1 2BB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

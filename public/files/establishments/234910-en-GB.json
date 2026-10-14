@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "RAND LANE",
-  "AddressLine3": "RAND",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.2895229",
+    "Longitude": "-0.3438228"
+  },
+  "AddressLine1": "Rand Farm Park White House Farm",
+  "AddressLine2": "Rand Lane",
+  "AddressLine4": "Rand",
+  "PostCode": "LN8 5NJ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

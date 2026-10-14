@@ -1,9 +1,9 @@
 {
   "FHRSID": 1978349,
   "BusinessName": "Asian Corner",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "261828",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
@@ -17,8 +17,12 @@
   "AddressLine3": "Plymouth",
   "PostCode": "PL9 7BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

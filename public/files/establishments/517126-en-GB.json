@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MAIN STREET",
-  "AddressLine3": "BRANSBY",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.3022786",
+    "Longitude": "-0.650994"
+  },
+  "AddressLine1": "Bransby Home For Rest Horses Bransby House",
+  "AddressLine2": "Main Street",
+  "AddressLine4": "Bransby",
+  "PostCode": "LN1 2PH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

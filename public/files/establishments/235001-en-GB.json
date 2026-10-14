@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "GAINSBOROUGH ROAD",
-  "AddressLine3": "SCOTTER COMMON",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.482076",
+    "Longitude": "-0.6874574"
+  },
+  "AddressLine1": "Laughton Croft Nursing Home",
+  "AddressLine2": "Scotton Road",
+  "AddressLine4": "Scotter Common",
+  "PostCode": "DN21 3JF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MAIN STREET",
-  "AddressLine3": "NORMANBY-BY-SPITAL",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.3790712",
+    "Longitude": "-0.4962401"
+  },
+  "AddressLine1": "The Olde Post House",
+  "AddressLine2": "24 Main Street",
+  "AddressLine4": "Normanby-By-Spital",
+  "PostCode": "LN8 2HE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

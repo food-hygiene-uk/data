@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "BIGBY HIGH ROAD",
-  "AddressLine3": "KETTLEBY",
-  "AddressLine4": "BRIGG",
+  "Geocode": {
+    "Latitude": "53.5498679",
+    "Longitude": "-0.4623441"
+  },
+  "AddressLine1": "Brigg Garden Centre",
+  "AddressLine2": "Bigby High Road",
+  "AddressLine4": "Kettleby",
+  "PostCode": "DN20 9HE",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

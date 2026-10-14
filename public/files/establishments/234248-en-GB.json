@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CHURCH LANE",
-  "AddressLine3": "REEPHAM",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2511961",
+    "Longitude": "-0.443753"
+  },
+  "AddressLine2": "2a Church Lane",
+  "AddressLine4": "Reepham",
+  "PostCode": "LN3 4DQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

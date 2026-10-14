@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "GAINSBOROUGH ROAD",
-  "AddressLine3": "WILLINGHAM BY STOW",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3551095",
+    "Longitude": "-0.6912843"
+  },
+  "AddressLine1": "Fox And Hounds Inn",
+  "AddressLine2": "Gainsborough Road",
+  "AddressLine4": "Willingham By Stow",
+  "PostCode": "DN21 5JX",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

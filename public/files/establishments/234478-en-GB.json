@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "WILLINGHAM ROAD",
-  "AddressLine3": "KNAITH PARK",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3618502",
+    "Longitude": "-0.7362199"
+  },
+  "AddressLine1": "Stags Head",
+  "AddressLine2": "59 Willingham Road",
+  "AddressLine4": "Knaith Park",
+  "PostCode": "DN21 5ET",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

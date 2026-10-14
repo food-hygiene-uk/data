@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HOLME DRIVE",
-  "AddressLine3": "SUDBROOKE",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2675751",
+    "Longitude": "-0.4506412"
+  },
+  "AddressLine1": "Unit 1 - 2",
+  "AddressLine2": "Holme Drive",
+  "AddressLine4": "Sudbrooke",
+  "PostCode": "LN2 2QL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "TEALBY ROAD",
-  "AddressLine3": "WALESBY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.3976521",
+    "Longitude": "-0.3137891"
+  },
+  "AddressLine1": "Poplar Farm",
+  "AddressLine2": "Tealby Road",
+  "AddressLine4": "Walesby",
+  "PostCode": "LN8 3UL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

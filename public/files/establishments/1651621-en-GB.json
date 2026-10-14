@@ -1,9 +1,9 @@
 {
   "FHRSID": 1651621,
   "BusinessName": "Woodcote Primary School Breakfast Club",
-  "BusinessType": "Hospitals/Childcare/Caring Premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "AD:56034",
-  "BusinessTypeID": 5,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "270",
   "LocalAuthorityName": "South Oxfordshire",
   "LocalAuthorityWebSite": "https://www.southoxon.gov.uk",
@@ -15,8 +15,12 @@
   "AddressLine3": "Reading",
   "PostCode": "RG8 0QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

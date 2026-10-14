@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "STATION ROAD",
-  "AddressLine3": "BARDNEY",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2092082",
+    "Longitude": "-0.3285156"
+  },
+  "AddressLine1": "The Brambles The Hawthorns",
+  "AddressLine2": "53 Station Road",
+  "AddressLine4": "Bardney",
+  "PostCode": "LN3 5UD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

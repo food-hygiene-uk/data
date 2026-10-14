@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "6 THE LANDINGS",
-  "AddressLine3": "BURTON WATERS",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2495692",
+    "Longitude": "-0.5962018"
+  },
+  "AddressLine2": "6-7 The Landings",
+  "AddressLine4": "Burton Waters",
+  "PostCode": "LN1 2TU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

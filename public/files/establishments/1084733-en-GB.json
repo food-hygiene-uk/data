@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "FISKERTON ROAD",
-  "AddressLine3": "CHERRY WILLINGHAM",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2314725",
+    "Longitude": "-0.4735879"
+  },
+  "AddressLine1": "Fen Farm",
+  "AddressLine2": "Fiskerton Road",
+  "AddressLine4": "Cherry Willingham",
+  "PostCode": "LN3 4NG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

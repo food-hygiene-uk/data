@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "SYKES LANE",
-  "AddressLine3": "SAXILBY",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2680871503571",
+    "Longitude": "-0.665127592761564"
+  },
+  "AddressLine2": "Sykes Lane",
+  "AddressLine4": "Saxilby",
+  "PostCode": "LN1 2NS",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

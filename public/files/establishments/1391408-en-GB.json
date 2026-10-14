@@ -10,14 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
   "Geocode": {
-    "Latitude": "53.39946175",
-    "Longitude": "-0.7732169"
+    "Latitude": "53.3987296",
+    "Longitude": "-0.7712435"
   },
-  "AddressLine2": "BEAUMONT STREET",
-  "AddressLine4": "GAINSBOROUGH",
+  "AddressLine1": "Unit 9 - 10 Marshalls Yard",
+  "AddressLine2": "Beaumont Street",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 2NA",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

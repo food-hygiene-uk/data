@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HUTCHINGS WAY",
-  "AddressLine3": "WELTON",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.3106415",
+    "Longitude": "-0.4885678"
+  },
+  "AddressLine1": "Diamond Place",
+  "AddressLine2": "1-62 Hutchings Way",
+  "AddressLine4": "Welton",
+  "PostCode": "LN2 3GF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

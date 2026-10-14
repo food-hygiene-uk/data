@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "MIDDLEFIELD LANE",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3881874",
+    "Longitude": "-0.7609725"
+  },
+  "AddressLine1": "Foxby Court Nursing Home",
+  "AddressLine2": "Middlefield Lane",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 1QR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

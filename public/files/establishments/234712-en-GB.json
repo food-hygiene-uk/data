@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "BARDNEY ROAD",
-  "AddressLine3": "NEWBALL",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2686361",
+    "Longitude": "-0.377612"
+  },
+  "AddressLine1": "Wood Farm",
+  "AddressLine2": "Bardney Road",
+  "AddressLine4": "Newball",
+  "PostCode": "LN3 5DQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

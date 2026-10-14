@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "TILLBRIDGE ROAD",
-  "AddressLine3": "STURTON BY STOW",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.3128774",
+    "Longitude": "-0.6653172"
+  },
+  "AddressLine2": "1 Tillbridge Road",
+  "AddressLine4": "Sturton By Stow",
+  "PostCode": "LN1 2BP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

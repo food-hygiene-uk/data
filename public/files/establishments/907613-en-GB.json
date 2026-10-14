@@ -1,13 +1,13 @@
 {
   "FHRSID": 907613,
-  "BusinessName": "Four Horseshoes/Harveys Function Room",
+  "BusinessName": "The Four Horseshoes & Harveys",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "12500",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.876407",
@@ -18,8 +18,12 @@
   "AddressLine4": "Luton",
   "PostCode": "LU1 3EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

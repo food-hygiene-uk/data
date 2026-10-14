@@ -1,24 +1,28 @@
 {
   "FHRSID": 1947138,
   "BusinessName": "Tulsi Medica",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "E9K0FT-WKZAVP-DPC2TH",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "196",
   "LocalAuthorityName": "Burnley",
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
   "Geocode": {
-    "Latitude": "53.8043345",
-    "Longitude": "-2.2418919"
+    "Latitude": "53.8011846",
+    "Longitude": "-2.2439234"
   },
-  "AddressLine1": "2 EVELYN STREET",
+  "AddressLine1": "UNIT B62  NORTHBRIDGE HOUSE BUSINESS CENTRE  ELM STREET",
   "AddressLine3": "BURNLEY",
-  "PostCode": "BB10 1QA",
+  "PostCode": "BB10 1PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CAISTOR ROAD",
-  "AddressLine3": "SOUTH KELSEY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.4672643",
+    "Longitude": "-0.4209721"
+  },
+  "AddressLine1": "Hall Farm Park",
+  "AddressLine2": "Caistor Road",
+  "AddressLine4": "South Kelsey",
+  "PostCode": "LN7 6PR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

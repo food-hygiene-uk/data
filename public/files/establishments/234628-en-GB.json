@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "WILLINGHAM ROAD",
-  "AddressLine3": "FILLINGHAM",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3604268",
+    "Longitude": "-0.579937"
+  },
+  "AddressLine1": "Fillingham Village Hall",
+  "AddressLine2": "Willingham Road",
+  "AddressLine4": "Fillingham",
+  "PostCode": "DN21 5BN",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

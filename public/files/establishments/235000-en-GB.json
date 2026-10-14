@@ -1,6 +1,6 @@
 {
   "FHRSID": 235000,
-  "BusinessName": "Ferndene Care Home",
+  "BusinessName": "Ferndene",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "1337",
   "BusinessTypeID": 5,
@@ -9,12 +9,11 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3904901",
-    "Longitude": "-0.75656635"
-  },
-  "AddressLine2": "PARK SPRINGS ROAD",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": null,
+  "AddressLine1": "Ferndene Care Home",
+  "AddressLine2": "Park Springs Road",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 1NY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

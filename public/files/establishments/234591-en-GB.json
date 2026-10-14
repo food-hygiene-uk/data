@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CHAPEL STREET",
-  "AddressLine3": "NORTH KELSEY",
-  "AddressLine4": "MARKET RASEN",
+  "Geocode": {
+    "Latitude": "53.5012914",
+    "Longitude": "-0.4299224"
+  },
+  "AddressLine1": "North Kelsey County Primary School",
+  "AddressLine2": "Chapel Street",
+  "AddressLine4": "North Kelsey",
+  "PostCode": "LN7 6EJ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CAPPER AVENUE",
-  "AddressLine3": "HEMSWELL CLIFF",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.3978415000166",
+    "Longitude": "-0.569993000125097"
+  },
+  "AddressLine2": "Capper Avenue",
+  "AddressLine4": "Hemswell Cliff",
+  "PostCode": "DN21 5XS",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

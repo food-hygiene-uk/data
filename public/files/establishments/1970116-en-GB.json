@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newcastle.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "psr@newcastle.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Hazlerrig Store Stephenson House Coach Lane",
+  "Geocode": {
+    "Latitude": "55.041328",
+    "Longitude": "-1.6341095"
+  },
+  "AddressLine1": "Hazlerrig Store Stephenson House North View",
   "AddressLine2": "Hazlerigg",
   "AddressLine3": "Newcastle Upon Tyne",
-  "PostCode": "NE13 7AS",
+  "PostCode": "NE13 7DQ",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

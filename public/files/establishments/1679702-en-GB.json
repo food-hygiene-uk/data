@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "CORRINGHAM ROAD",
-  "AddressLine4": "GAINSBOROUGH",
+  "Geocode": {
+    "Latitude": "53.405181",
+    "Longitude": "-0.7630679"
+  },
+  "AddressLine1": "Lincolnshire Cooperative Ltd",
+  "AddressLine2": "Corringham Road",
+  "AddressLine4": "Gainsborough",
+  "PostCode": "DN21 1EQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

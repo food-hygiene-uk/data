@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HIGH STREET",
-  "AddressLine3": "INGHAM",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.3397192",
+    "Longitude": "-0.5787773"
+  },
+  "AddressLine1": "Black Horse Inn",
+  "AddressLine2": "26 High Street",
+  "AddressLine4": "Ingham",
+  "PostCode": "LN1 2YW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

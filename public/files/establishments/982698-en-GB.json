@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "SKELLINGTHORPE ROAD",
-  "AddressLine3": "SAXILBY",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2617034",
+    "Longitude": "-0.6369341"
+  },
+  "AddressLine1": "Newton Court Saxilby Enterprise Park",
+  "AddressLine2": "Skellingthorpe Road",
+  "AddressLine4": "Saxilby",
+  "PostCode": "LN1 2LR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

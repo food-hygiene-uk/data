@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "WRAGBY ROAD",
-  "AddressLine3": "SUDBROOKE",
-  "AddressLine4": "LINCOLN",
+  "Geocode": {
+    "Latitude": "53.2619054",
+    "Longitude": "-0.4481857"
+  },
+  "AddressLine1": "Cherry Tree Cafe",
+  "AddressLine2": "8 Wragby Road",
+  "AddressLine4": "Sudbrooke",
+  "PostCode": "LN2 2QU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

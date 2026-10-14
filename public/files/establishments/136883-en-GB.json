@@ -1,6 +1,6 @@
 {
   "FHRSID": 136883,
-  "BusinessName": "Spar",
+  "BusinessName": "Spar Black Bull Lane",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "714",
   "BusinessTypeID": 4613,
@@ -10,19 +10,15 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
   "Geocode": {
-    "Latitude": "53.777435",
-    "Longitude": "-2.716517"
+    "Latitude": "53.7771661",
+    "Longitude": "-2.7161601"
   },
-  "AddressLine2": "1 Black Bull Lane",
+  "AddressLine2": "1-3 Black Bull Lane",
   "AddressLine3": "Preston",
   "PostCode": "PR2 3PT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-11",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
