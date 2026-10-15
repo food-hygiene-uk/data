@@ -10,17 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": {
-    "Latitude": "53.4817925",
-    "Longitude": "-2.0571158"
+    "Latitude": "53.482135",
+    "Longitude": "-2.057494"
   },
-  "AddressLine1": "The Secret Garden Drinks Tea Room And Bar",
+  "AddressLine1": "The Coffee House",
   "AddressLine2": "52 Melbourne Street",
   "AddressLine3": "Stalybridge",
   "AddressLine4": "Tameside",
   "PostCode": "SK15 2JJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

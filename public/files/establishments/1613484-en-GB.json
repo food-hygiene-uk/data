@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 7a Clapham Junction Station St Johns Hill",
+  "Geocode": {
+    "Latitude": "51.4636801",
+    "Longitude": "-0.1689213"
+  },
+  "AddressLine1": "Unit 7a The Junction Shopping Centre 20 St Johns Hill",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
-  "PostCode": "SW11 1RU",
+  "PostCode": "SW11 1SA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

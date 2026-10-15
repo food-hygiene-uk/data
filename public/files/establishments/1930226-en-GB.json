@@ -1,6 +1,6 @@
 {
   "FHRSID": 1930226,
-  "BusinessName": "Bishop's Pizza",
+  "BusinessName": "Palace Pizza",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "M76MGV-41SCL9-3R2ZVZ",
   "BusinessTypeID": 7846,
@@ -17,8 +17,12 @@
   "AddressLine3": "BISHOP AUCKLAND",
   "PostCode": "DL14 7NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

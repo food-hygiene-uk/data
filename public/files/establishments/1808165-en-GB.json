@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Home of the Selworthy Pantry",
+  "Geocode": {
+    "Latitude": "51.211565",
+    "Longitude": "-3.5701965"
+  },
+  "AddressLine1": "The Post Office",
   "AddressLine2": "Bossington Road",
   "AddressLine3": "Selworthy",
   "AddressLine4": "Minehead",

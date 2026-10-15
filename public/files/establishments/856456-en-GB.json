@@ -1,13 +1,13 @@
 {
   "FHRSID": 856456,
-  "BusinessName": "Chen's Kitchen",
+  "BusinessName": "Chen’s Kitchen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "231157",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "565",
   "LocalAuthorityName": "Pembrokeshire",
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
   "Geocode": {
     "Latitude": "51.754262",
@@ -18,12 +18,12 @@
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA62 3HB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2018-01-11",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-09-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

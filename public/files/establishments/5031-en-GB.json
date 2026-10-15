@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "507",
   "LocalAuthorityName": "Croydon",
   "LocalAuthorityWebSite": "http://www.croydon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@croydon.gov.uk",
   "Geocode": {
     "Latitude": "51.3150329589844",
@@ -18,12 +18,12 @@
   "AddressLine3": "Whyteleafe",
   "PostCode": "CR3 0EX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-09-24",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 10,
     "Structural": 5,
-    "ConfidenceInManagement": 10
+    "ConfidenceInManagement": 20
   }
 }

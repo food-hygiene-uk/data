@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "QUEENS ROAD",
-  "AddressLine3": "BLACKHILL",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.8703827",
+    "Longitude": "-1.8448559"
+  },
+  "AddressLine1": "SHOTLEY BRIDGE GENERAL HOSPITAL",
+  "AddressLine2": "SHOTLEY BRIDGE",
+  "AddressLine3": "CONSETT",
+  "PostCode": "DH8 0NB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

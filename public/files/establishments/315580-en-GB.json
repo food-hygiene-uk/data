@@ -1,18 +1,28 @@
 {
   "FHRSID": 315580,
-  "BusinessName": "Don Papa Ristorante",
+  "BusinessName": "Aventino Restaurant Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "29177",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "310",
   "LocalAuthorityName": "Runnymede",
   "LocalAuthorityWebSite": "http://www.runnymede.gov.uk/portal/site/runnymede",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@runnymede.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.37291",
+    "Longitude": "-0.483755"
+  },
+  "AddressLine2": "198 Station Road",
+  "AddressLine4": "Addlestone",
+  "PostCode": "KT15 2PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

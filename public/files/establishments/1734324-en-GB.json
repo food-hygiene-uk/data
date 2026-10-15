@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.0055503",
+    "Longitude": "-3.4003848"
+  },
   "AddressLine2": "Unit 3 The Mews",
   "AddressLine3": "Mar Road",
-  "AddressLine4": "Braemar Ballater",
+  "AddressLine4": "Braemar",
   "PostCode": "AB35 5YL",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

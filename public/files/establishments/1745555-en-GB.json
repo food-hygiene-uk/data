@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
     "Latitude": "51.6207461",
@@ -16,12 +16,12 @@
   "AddressLine1": "627 Watford Way London",
   "PostCode": "NW7 3JN",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 20,
     "ConfidenceInManagement": 10
   }
 }

@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.aberdeenshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental@aberdeenshire.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Portlethen Petrol Filling Station",
-  "AddressLine3": "City South A90 Portlethen",
-  "AddressLine4": "Abedeenshire",
-  "PostCode": "AB12 4SA",
+  "Geocode": {
+    "Latitude": "57.0761908",
+    "Longitude": "-2.1230368"
+  },
+  "AddressLine2": "Portlethen Services EG On The Move",
+  "AddressLine3": "Unit 59",
+  "AddressLine4": "Bankhead Drive City South Office Park",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
   "RatingKey": "fhis_awaiting_inspection_en-GB",

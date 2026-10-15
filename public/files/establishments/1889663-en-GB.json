@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Waiting Room Public House Northbound Platform Durham Railway Station",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7798303",
+    "Longitude": "-1.5820066"
+  },
+  "AddressLine1": "THE WAITING ROOM NORTH PLATFORM RAILWAY STATION STATION APPROACH",
+  "AddressLine3": "DURHAM",
   "PostCode": "DH1 4RB",
   "SchemeType": "FHRS",
   "RatingValue": "5",

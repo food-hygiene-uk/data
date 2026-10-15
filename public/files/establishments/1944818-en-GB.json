@@ -1,6 +1,6 @@
 {
   "FHRSID": 1944818,
-  "BusinessName": "The Spot",
+  "BusinessName": "The Spot Also T/a The Spot Kitchen",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00206/COM",
   "BusinessTypeID": 7841,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmentalhealth@tameside.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

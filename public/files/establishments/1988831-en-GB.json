@@ -1,13 +1,13 @@
 {
   "FHRSID": 1988831,
-  "BusinessName": "Lazzio Pizza",
+  "BusinessName": "Lazio Pizza",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00986/FOOD",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "149",
   "LocalAuthorityName": "Redditch",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
   "Geocode": {
     "Latitude": "52.302055",
@@ -18,8 +18,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "B98 7BL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

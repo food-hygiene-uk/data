@@ -8,17 +8,18 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.4924787",
-    "Longitude": "-2.124787"
-  },
-  "AddressLine1": "Unit S",
-  "AddressLine2": "Fens Pool Avenue",
-  "AddressLine3": "Brierley Hill",
-  "PostCode": "DY5 1QA",
+  "Geocode": null,
+  "AddressLine1": "Strike YouthSt James's Academy",
+  "AddressLine2": "22-23 St James's Road",
+  "AddressLine3": "Dudley",
+  "PostCode": "DY1 3JE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

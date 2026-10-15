@@ -8,16 +8,18 @@
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
   "NewRatingPending": false,
-  "Geocode": {
-    "Latitude": "52.45779377",
-    "Longitude": "-2.09689835"
-  },
-  "AddressLine1": "Park Road",
-  "AddressLine2": "Cradley",
+  "Geocode": null,
+  "AddressLine1": "Soccer Zones",
+  "AddressLine2": "Park Road",
+  "AddressLine3": "Cradley",
   "PostCode": "B63 2RG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

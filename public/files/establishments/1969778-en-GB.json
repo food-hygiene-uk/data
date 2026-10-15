@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.6078664",
-    "Longitude": "1.7234836"
+    "Latitude": "52.6079587",
+    "Longitude": "1.7239045"
   },
-  "AddressLine2": "1 Whitefriars Court Stonecutters Way",
-  "AddressLine3": "Great Yarmouth",
-  "AddressLine4": "Norfolk",
+  "AddressLine2": "1 Whitefriars Court",
+  "AddressLine3": "Stonecutters Way",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR30 1HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
