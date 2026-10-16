@@ -1,6 +1,6 @@
 {
   "FHRSID": 1927273,
-  "BusinessName": "Unity Centre",
+  "BusinessName": "Northstowe Hub Café",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "9214825",
   "BusinessTypeID": 1,
@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2882148",
-    "Longitude": "0.0508842"
-  },
-  "AddressLine1": "1 The Green Pathfinder Way",
+  "Geocode": null,
+  "AddressLine1": "Unity Centre The Green",
   "AddressLine3": "Northstowe",
   "AddressLine4": "Cambridgeshire",
-  "PostCode": "CB24 1FD",
+  "PostCode": "CB24 1FG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

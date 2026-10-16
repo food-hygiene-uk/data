@@ -1,9 +1,9 @@
 {
   "FHRSID": 1971087,
   "BusinessName": "COUNTRY ROADS CATERING",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "53639",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "138",
   "LocalAuthorityName": "New Forest",
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

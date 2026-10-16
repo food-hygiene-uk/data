@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.northnorfolk.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@north-norfolk.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Aurora Bar And Restaurant",
-  "AddressLine2": "New Street",
-  "AddressLine3": "Cromer",
-  "AddressLine4": "Norfolk",
+  "Geocode": {
+    "Latitude": "52.932608",
+    "Longitude": "1.299401"
+  },
+  "AddressLine1": "New Street",
+  "AddressLine2": "Cromer",
+  "AddressLine3": "Norfolk",
   "PostCode": "NR27 9HP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

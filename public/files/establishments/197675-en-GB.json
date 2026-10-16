@@ -1,13 +1,13 @@
 {
   "FHRSID": 197675,
-  "BusinessName": "Elite Pizza Hot",
+  "BusinessName": "Goole Pizza Hot",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "41413",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "863",
   "LocalAuthorityName": "East Riding of Yorkshire",
   "LocalAuthorityWebSite": "http://www.eastriding.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.services@eastriding.gov.uk",
   "Geocode": {
     "Latitude": "53.707116",
@@ -18,12 +18,12 @@
   "AddressLine3": "East Riding Of Yorkshire",
   "PostCode": "DN14 6HD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-09",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

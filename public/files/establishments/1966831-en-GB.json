@@ -1,13 +1,13 @@
 {
   "FHRSID": 1966831,
-  "BusinessName": "Orange pizza kb ltd",
+  "BusinessName": "Orange Pizza KB LTD",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "133171",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "890",
   "LocalAuthorityName": "Warrington",
   "LocalAuthorityWebSite": "http://www.warrington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@warrington.gov.uk",
   "Geocode": {
     "Latitude": "53.3979874",
@@ -16,8 +16,12 @@
   "AddressLine2": "137 Orford Lane",
   "PostCode": "WA2 7AZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-10",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

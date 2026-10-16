@@ -7,22 +7,23 @@
   "LocalAuthorityCode": "568",
   "LocalAuthorityName": "Swansea",
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
   "Geocode": {
-    "Latitude": "51.6535534130764",
-    "Longitude": "-3.91070717674153"
+    "Latitude": "51.6520982",
+    "Longitude": "-3.9120538"
   },
   "AddressLine1": "Pennard House",
   "AddressLine2": "Charter Court",
   "AddressLine4": "Swansea Enterprise Park",
+  "PostCode": "SA7 9FS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-03-02",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-09-10",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 10
   }
 }
