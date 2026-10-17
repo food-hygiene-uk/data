@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.blackburn.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@blackburn.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7402837",
-    "Longitude": "-2.4721658"
-  },
-  "AddressLine1": "12 Whitendale Crescent",
-  "AddressLine3": "Blackburn",
-  "AddressLine4": "Blackburn With Darwen",
-  "PostCode": "BB1 1RU",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

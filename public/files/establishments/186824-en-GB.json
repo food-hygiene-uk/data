@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4728649",
+    "Longitude": "-3.0103267"
+  },
   "AddressLine2": "148 High Street",
   "AddressLine3": "Lochee",
   "AddressLine4": "Dundee",
-  "PostCode": "DD4 7BS",
+  "PostCode": "DD2 3BZ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

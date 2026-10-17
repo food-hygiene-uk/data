@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4677195",
+    "Longitude": "-2.8725844"
+  },
   "AddressLine2": "128-130 Gray Street",
   "AddressLine3": "Broughty Ferry",
   "AddressLine4": "Dundee",
-  "PostCode": "DD2 3JN",
+  "PostCode": "DD5 2DG",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

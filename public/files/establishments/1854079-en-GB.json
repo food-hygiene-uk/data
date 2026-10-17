@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4752012",
+    "Longitude": "-2.9731857"
+  },
   "AddressLine1": "Dens Park",
   "AddressLine2": "Sandeman Street",
   "AddressLine3": "Dundee",
-  "PostCode": "DD3 9AX",
+  "PostCode": "DD3 7JY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

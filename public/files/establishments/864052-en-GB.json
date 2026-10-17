@@ -1,13 +1,13 @@
 {
   "FHRSID": 864052,
-  "BusinessName": "Jay's Stores",
+  "BusinessName": "Jay's General Stores",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "08/00205/FOOD",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "525",
   "LocalAuthorityName": "Newham",
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
   "Geocode": {
     "Latitude": "51.511722",
@@ -18,12 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "E16 3HX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-04-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-11",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

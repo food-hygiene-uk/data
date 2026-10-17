@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "HOUSE EXCLUDING BASEMENT 181 MARE STREET",
+  "Geocode": {
+    "Latitude": "51.5402942",
+    "Longitude": "-0.0558592"
+  },
+  "AddressLine2": "181 MARE STREET",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
   "PostCode": "E8 3QE",

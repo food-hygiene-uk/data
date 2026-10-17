@@ -1,6 +1,6 @@
 {
   "FHRSID": 1954931,
-  "BusinessName": "Plare 38 - The Sandwich Porter",
+  "BusinessName": "Plate 38 - The Sandwich Porter",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "B12HSH16EW/1",
   "BusinessTypeID": 7846,
@@ -17,8 +17,12 @@
   "AddressLine3": "St Helens",
   "PostCode": "WA9 3AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

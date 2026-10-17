@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4792372",
+    "Longitude": "-2.9426788"
+  },
   "AddressLine2": "137 Pitkerro Road",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 6QA",
+  "PostCode": "DD4 8EB",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

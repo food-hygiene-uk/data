@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.493198",
+    "Longitude": "-2.9427978"
+  },
   "AddressLine2": "121 Cheviot Crescent",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 6QA",
+  "PostCode": "DD4 9QR",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

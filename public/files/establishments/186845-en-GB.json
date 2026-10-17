@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4733983",
+    "Longitude": "-3.0372068"
+  },
   "AddressLine2": "35 Craigowan Road",
   "AddressLine3": "Dundee",
-  "PostCode": "DD2 3BZ",
+  "PostCode": "DD2 4NN",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4705723",
+    "Longitude": "-2.9756912"
+  },
   "AddressLine2": "317-319 Hilltown",
   "AddressLine3": "Dundee",
-  "PostCode": "DD5 2AH",
+  "PostCode": "DD3 7AQ",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",
   "RatingKey": "fhis_improvement_required_en-GB",

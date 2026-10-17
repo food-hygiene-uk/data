@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4609684",
+    "Longitude": "-2.971063"
+  },
   "AddressLine2": "24 Reform Street",
   "AddressLine3": "Dundee",
-  "PostCode": "DD3 8QB",
+  "PostCode": "DD1 1RH",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",
   "RatingKey": "fhis_improvement_required_en-GB",

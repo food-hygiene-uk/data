@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4724597",
+    "Longitude": "-2.8903048"
+  },
   "AddressLine2": "76 Grove Road",
   "AddressLine3": "Broughty Ferry",
   "AddressLine4": "Dundee",
-  "PostCode": "DD4 9JB",
+  "PostCode": "DD5 1JP",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

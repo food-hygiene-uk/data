@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@northwarks.gov.uk",
   "Geocode": {
-    "Latitude": "52.5732731",
-    "Longitude": "-1.5419117"
+    "Latitude": "52.5732945",
+    "Longitude": "-1.5427968"
   },
-  "AddressLine1": "4 Southlands",
+  "AddressLine1": "Outwoods Primary School Southlands",
   "AddressLine3": "Atherstone",
   "AddressLine4": "Warwickshire",
   "PostCode": "CV9 1EH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

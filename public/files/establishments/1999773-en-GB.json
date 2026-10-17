@@ -1,9 +1,9 @@
 {
   "FHRSID": 1999773,
   "BusinessName": "T’s kenkey palace",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "R5JXE8-FVEW52-ZSHZ96",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "137",
   "LocalAuthorityName": "Havant",
   "LocalAuthorityWebSite": "http://www.havant.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehealth@havant.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

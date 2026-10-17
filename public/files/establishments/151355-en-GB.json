@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4734623",
+    "Longitude": "-3.0108945"
+  },
   "AddressLine2": "163-167 High Street",
   "AddressLine3": "Lochee",
   "AddressLine4": "Dundee",
-  "PostCode": "DD4 9JB",
+  "PostCode": "DD2 3DB",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

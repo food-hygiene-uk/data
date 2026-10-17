@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4647948",
+    "Longitude": "-2.9938499"
+  },
   "AddressLine2": "51-53 Cleghorn Street",
   "AddressLine3": "Dundee",
-  "PostCode": "DD5",
+  "PostCode": "DD2 2PF",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

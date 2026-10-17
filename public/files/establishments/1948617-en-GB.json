@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.babergh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@baberghmidsuffolk.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0379456",
-    "Longitude": "0.7327042"
-  },
-  "AddressLine1": "Creative Lives 12 Borehamgate Shopping",
-  "AddressLine2": "King Street",
-  "AddressLine3": "SUDBURY",
-  "AddressLine4": "Suffolk",
-  "PostCode": "CO10 2EG",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

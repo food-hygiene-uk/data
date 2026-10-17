@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4661685",
+    "Longitude": "-2.984943"
+  },
   "AddressLine2": "10 Dudhope Terrace",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 7HA",
+  "PostCode": "DD3 6HG",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

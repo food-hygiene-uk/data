@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4657613",
+    "Longitude": "-2.9682154"
+  },
   "AddressLine2": "86 Victoria Road",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 0NX",
+  "PostCode": "DD1 2NY",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",
   "RatingKey": "fhis_improvement_required_en-GB",

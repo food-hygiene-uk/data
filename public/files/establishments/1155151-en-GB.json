@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.48239055",
+    "Longitude": "-2.92063095"
+  },
   "AddressLine2": "Drumgeith Road",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 6EZ",
+  "PostCode": "DD4 0JX",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4595287",
+    "Longitude": "-3.0508162"
+  },
   "AddressLine2": "60 Clovis Duveau Drive",
   "AddressLine3": "Dundee",
-  "PostCode": "DD4 6QN",
+  "PostCode": "DD2 5JB",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

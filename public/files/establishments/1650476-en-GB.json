@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4813387",
+    "Longitude": "-2.9285076"
+  },
   "AddressLine2": "1 Linfield Place",
   "AddressLine3": "Dundee",
-  "PostCode": "DD2 4SW",
+  "PostCode": "DD4 8LG",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

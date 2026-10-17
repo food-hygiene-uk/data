@@ -10,13 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": null,
-  "AddressLine2": "Sequentis House Unit 1 North River Road",
-  "AddressLine3": "Great Yarmouth",
-  "AddressLine4": "Norfolk",
+  "AddressLine2": "North River Road",
+  "AddressLine3": "Runham Vauxhall",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR30 1TE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

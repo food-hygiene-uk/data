@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dundeecity.gov.uk/environment/hygieneinfo/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@dundeecity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "56.4603883",
+    "Longitude": "-2.9689178"
+  },
   "AddressLine2": "6 City Square",
   "AddressLine3": "Dundee",
-  "PostCode": "DD1 4JA",
+  "PostCode": "DD1 3BA",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",
   "RatingKey": "fhis_improvement_required_en-GB",
