@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "032",
   "LocalAuthorityName": "South Cambridgeshire",
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
   "Geocode": {
     "Latitude": "52.1239134",
@@ -18,12 +18,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB22 7PG",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-04-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

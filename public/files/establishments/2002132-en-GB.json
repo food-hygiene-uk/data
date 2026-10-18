@@ -1,13 +1,13 @@
 {
-  "FHRSID": 1098920,
+  "FHRSID": 2002132,
   "BusinessName": "Horse And Jockey",
   "BusinessType": "Pub/bar/nightclub",
-  "LocalAuthorityBusinessID": "43417",
+  "LocalAuthorityBusinessID": "48657",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "436",
   "LocalAuthorityName": "Wolverhampton",
   "LocalAuthorityWebSite": "http://www.wolverhampton.gov.uk/",
-  "NewRatingPending": false,
+  "NewRatingPending": true,
   "LocalAuthorityEmailAddress": "customer.services@wolverhampton.gov.uk",
   "Geocode": {
     "Latitude": "52.565323",
@@ -19,12 +19,8 @@
   "AddressLine4": "Wolverhampton",
   "PostCode": "WV14 0AX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-01-11",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
