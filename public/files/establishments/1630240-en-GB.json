@@ -1,6 +1,6 @@
 {
   "FHRSID": 1630240,
-  "BusinessName": "The Boathouse Cafe",
+  "BusinessName": "The Boathouse",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "12696",
   "BusinessTypeID": 1,
@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.guildford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regulatoryservices@guildford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Guildford Boat House Millbrook",
+  "Geocode": {
+    "Latitude": "51.2317602",
+    "Longitude": "-0.5736761"
+  },
+  "AddressLine1": "The Boathouse Guildford Millbrook",
   "AddressLine3": "Guildford",
   "AddressLine4": "Surrey",
   "PostCode": "GU1 3XJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-08-16",
+  "RatingDate": "2026-10-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

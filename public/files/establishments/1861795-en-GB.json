@@ -1,6 +1,6 @@
 {
   "FHRSID": 1861795,
-  "BusinessName": "Strid Tea Room",
+  "BusinessName": "Strid Wood Tea Room",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx11867",
   "BusinessTypeID": 1,
@@ -14,8 +14,12 @@
   "AddressLine4": "Bolton Abbey",
   "PostCode": "BD23 6AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

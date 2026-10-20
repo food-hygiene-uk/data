@@ -9,21 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2578756",
-    "Longitude": "-1.1636835"
-  },
-  "AddressLine1": "70-72 High Street",
-  "AddressLine2": "Daventry",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": null,
+  "AddressLine1": "70 - 72 High Street",
+  "AddressLine3": "Daventry",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 4HU",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-11-06",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-17",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
   }
 }

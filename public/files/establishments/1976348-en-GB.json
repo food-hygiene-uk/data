@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976348,
-  "BusinessName": "Impact Food Group Trading As Dolce@Windlesham Village Infant",
+  "BusinessName": "Impact Food Group T/A Dolce@Windlesham Village Infant School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00094/CP",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU20 6PB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

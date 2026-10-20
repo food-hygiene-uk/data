@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2691859",
-    "Longitude": "-1.1817478"
-  },
-  "AddressLine1": "Unit 3",
-  "AddressLine2": "Stephenson Close",
+  "Geocode": null,
+  "AddressLine1": "Unit 3 Stephenson Close",
   "AddressLine3": "Daventry",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 8RF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-03-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.3063009",
-    "Longitude": "-1.1231595"
+    "Latitude": "52.6650662",
+    "Longitude": "-1.9676553"
   },
-  "AddressLine1": "Northbound Service Area",
-  "AddressLine2": "M1 Service Area Watford Gap Northbound",
-  "AddressLine3": "Station Road",
-  "AddressLine4": "Watford",
-  "PostCode": "NN6 7UZ",
+  "AddressLine1": "Norton Canes Motorway Service Area Bettys Lane",
+  "AddressLine2": "Norton Canes",
+  "AddressLine3": "Cannock",
+  "PostCode": "WS11 9UX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-09-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

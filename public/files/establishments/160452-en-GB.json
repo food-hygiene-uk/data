@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Main Street",
-  "AddressLine2": "Ashby St Ledgers",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.3087434",
+    "Longitude": "-1.1687687"
+  },
+  "AddressLine1": "The Olde Coach House Main Street",
+  "AddressLine3": "Ashby St Ledgers",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "CV23 8UN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

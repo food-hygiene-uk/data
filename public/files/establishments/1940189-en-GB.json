@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.1642194",
-    "Longitude": "-1.2080801"
-  },
-  "AddressLine1": "Slade Lays Farm",
-  "AddressLine2": "Eydon Road",
+  "Geocode": null,
+  "AddressLine1": "Slade Lays Farm Eydon Road",
   "AddressLine3": "Woodford Halse",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 3RG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

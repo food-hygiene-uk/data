@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Grooms Lane",
-  "AddressLine2": "Creaton",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.3362015",
+    "Longitude": "-0.9601115"
+  },
+  "AddressLine1": "Highgate House Grooms Lane",
+  "AddressLine3": "Creaton",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8NN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.3184191",
-    "Longitude": "-0.8977801"
+    "Latitude": "52.3184394",
+    "Longitude": "-0.898029"
   },
-  "AddressLine1": "Brixworth Country Park",
-  "AddressLine2": "Northampton Road",
+  "AddressLine1": "The Willow Tree Brixworth Country Park Northampton Road",
   "AddressLine3": "Brixworth",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 9DG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

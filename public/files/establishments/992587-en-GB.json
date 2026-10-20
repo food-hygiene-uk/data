@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.609431",
+    "Longitude": "-2.45395"
+  },
   "AddressLine1": "26 St Mary Street",
   "AddressLine3": "Weymouth",
   "AddressLine4": "Dorset",
-  "PostCode": "DT4 8PW",
+  "PostCode": "DT4 8PN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

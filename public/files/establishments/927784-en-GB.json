@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Station Road",
-  "AddressLine2": "Woodford Halse",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.169428",
+    "Longitude": "-1.2085803"
+  },
+  "AddressLine1": "Woodford Cum Membris Memorial Centre Station Road",
+  "AddressLine3": "Woodford Halse",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 3RB",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

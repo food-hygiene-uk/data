@@ -13,13 +13,16 @@
     "Latitude": "52.2963746",
     "Longitude": "-0.8918322"
   },
-  "AddressLine1": "Ts And Coffee",
-  "AddressLine2": "Pitsford Quarry",
-  "AddressLine3": "Harborough Road",
-  "AddressLine4": "Pitsford",
+  "AddressLine1": "Ts And Coffee Pitsford Quarry Harborough Road",
+  "AddressLine3": "Pitsford",
+  "AddressLine4": "West Northamptonshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-11-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

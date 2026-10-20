@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "523",
   "LocalAuthorityName": "Lewisham",
   "LocalAuthorityWebSite": "http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@lewisham.gov.uk",
   "Geocode": {
     "Latitude": "51.4359575",
@@ -19,8 +19,12 @@
   "AddressLine4": "Grove Park",
   "PostCode": "SE12 0BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Althorp Grange",
-  "AddressLine2": "Holdenby Road",
+  "Geocode": {
+    "Latitude": "52.3210334",
+    "Longitude": "-0.9611663"
+  },
+  "AddressLine1": "Althorp Grange Holdenby Road",
   "AddressLine3": "Spratton",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8LD",

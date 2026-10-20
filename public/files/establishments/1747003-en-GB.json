@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Main Street",
-  "AddressLine2": "Cold Ashby",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.3818755",
+    "Longitude": "-1.038655"
+  },
+  "AddressLine1": "Cold Ashby Village Hall Main Street",
+  "AddressLine3": "Cold Ashby",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 6EL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

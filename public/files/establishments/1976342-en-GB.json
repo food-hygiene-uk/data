@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976342,
-  "BusinessName": "Impact Food Group Trading As Dolce@Lakeside Nursery &Primary",
+  "BusinessName": "Dolce @Lakeside Nursery & Primary Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00088/CP",
   "BusinessTypeID": 7845,
@@ -16,8 +16,12 @@
   "AddressLine4": "Camberley",
   "PostCode": "GU16 6LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

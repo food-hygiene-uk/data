@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Main Street",
-  "AddressLine2": "East Haddon",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.3069644",
+    "Longitude": "-1.0232782"
+  },
+  "AddressLine1": "East Haddon Village Hall Main Street",
+  "AddressLine3": "East Haddon",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8BU",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

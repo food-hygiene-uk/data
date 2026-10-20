@@ -9,15 +9,20 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Social Centre Student Support And Hotel Services",
-  "AddressLine2": "Moulton Centre",
-  "AddressLine3": "West Street",
-  "AddressLine4": "Moulton",
-  "PostCode": "NN3 7EQ",
+  "Geocode": {
+    "Latitude": "52.2908672",
+    "Longitude": "-0.8575364"
+  },
+  "AddressLine1": "Social Centre Student Support And Hotel Services Moulton Centre West Street",
+  "AddressLine3": "Moulton",
+  "AddressLine4": "West Northamptonshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976350,
-  "BusinessName": "Impact Food Group Trading As Dolce@Heather Ridge",
+  "BusinessName": "Impact Food Group T/A Dolce@Heather Ridge Infant School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00096/CP",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "GU15 1AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

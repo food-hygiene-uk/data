@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Grand Union Canal",
-  "AddressLine2": "Braunston",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.2879445",
+    "Longitude": "-1.2114196"
+  },
+  "AddressLine1": "Braunston Marina Grand Union Canal",
+  "AddressLine3": "Braunston",
+  "AddressLine4": "West Northamptonshire",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

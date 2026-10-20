@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "281",
   "LocalAuthorityName": "Somerset",
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
   "Geocode": {
     "Latitude": "51.1252759",
@@ -19,12 +19,12 @@
   "AddressLine4": "Somerset",
   "PostCode": "BA16 0ER",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-22",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

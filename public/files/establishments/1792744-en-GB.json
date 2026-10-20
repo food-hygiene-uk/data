@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.2893616",
+    "Longitude": "-0.9296077"
+  },
+  "AddressLine1": "Pelham House Northampton Road",
+  "AddressLine3": "Chapel Brampton",
+  "AddressLine4": "West Northamptonshire",
+  "PostCode": "NN6 8AE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

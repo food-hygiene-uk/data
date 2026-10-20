@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.1745038",
-    "Longitude": "-1.2452548"
+    "Latitude": "52.1745318",
+    "Longitude": "-1.24524"
   },
   "AddressLine1": "29 High Street",
-  "AddressLine2": "Byfield",
-  "AddressLine3": "West Northamptonshire",
+  "AddressLine3": "Byfield",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 6XQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-05-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

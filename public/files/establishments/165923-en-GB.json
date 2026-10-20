@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Little Back Lane",
-  "AddressLine2": "Hellidon",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.2187712",
+    "Longitude": "-1.2461448"
+  },
+  "AddressLine1": "Hellidon Village Hall Little Back Lane",
+  "AddressLine3": "Hellidon",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 6GE",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

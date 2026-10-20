@@ -9,18 +9,19 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.324027",
-    "Longitude": "-1.2383344"
-  },
-  "AddressLine1": "J Marine Ltd",
-  "AddressLine2": "Dunchurch Pools Marina",
-  "AddressLine3": "Onley Park",
-  "AddressLine4": "Barby",
+  "Geocode": null,
+  "AddressLine1": "J Marine Ltd Dunchurch Pools Marina Onley Park",
+  "AddressLine2": "Willoughby",
+  "AddressLine3": "Rugby",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "CV23 8AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-09-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

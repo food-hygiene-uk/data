@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Brampton Lane",
-  "AddressLine2": "Boughton",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.2808113",
+    "Longitude": "-0.9208638"
+  },
+  "AddressLine1": "The Windhover Brampton Lane",
+  "AddressLine3": "Boughton",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8AA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

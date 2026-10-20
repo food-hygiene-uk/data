@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2807235717773",
-    "Longitude": "-0.908520996570587"
-  },
-  "AddressLine1": "Buckton Fields Primary School",
-  "AddressLine2": "Home Farm Drive",
+  "Geocode": null,
+  "AddressLine1": "Buckton Fields Primary School Home Farm Drive",
   "AddressLine3": "Boughton",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN2 8ES",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-11-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

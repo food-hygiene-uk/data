@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.254035949707",
-    "Longitude": "-1.17878901958466"
-  },
-  "AddressLine1": "The Grange School",
-  "AddressLine2": "Tamar Square",
+  "Geocode": null,
+  "AddressLine1": "The Grange School Tamar Square",
   "AddressLine3": "Daventry",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 4HW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-07-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

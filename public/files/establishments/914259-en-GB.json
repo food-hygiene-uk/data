@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3301563",
-    "Longitude": "-1.2049842"
-  },
-  "AddressLine1": "2 Ware Road",
-  "AddressLine2": "Barby",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": null,
+  "AddressLine1": "The Arnold Arms 2 Ware Road",
+  "AddressLine3": "Barby",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "CV23 8UE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-06-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

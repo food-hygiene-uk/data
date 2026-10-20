@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Church Street",
-  "AddressLine2": "Naseby",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.394698",
+    "Longitude": "-0.9916576"
+  },
+  "AddressLine1": "The Royal Oak Church Street",
+  "AddressLine3": "Naseby",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 6DA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

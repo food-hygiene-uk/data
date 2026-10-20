@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sandy Lane",
-  "AddressLine2": "Church Brampton",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.2816428",
+    "Longitude": "-0.9364393"
+  },
+  "AddressLine1": "Brampton Heath Golf Centre Sandy Lane",
+  "AddressLine3": "Church Brampton",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8AX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

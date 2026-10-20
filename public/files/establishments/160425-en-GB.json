@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Kelmarsh Road",
-  "AddressLine2": "Arthingworth",
-  "AddressLine3": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.4250621",
+    "Longitude": "-0.8925497"
+  },
+  "AddressLine1": "Bulls Head Inn Kelmarsh Road",
+  "AddressLine3": "Arthingworth",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "LE16 8JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-03",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-16",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

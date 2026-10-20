@@ -9,17 +9,21 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Coton",
-  "AddressLine2": "West Northamptonshire",
+  "Geocode": {
+    "Latitude": "52.3384723",
+    "Longitude": "-1.011276"
+  },
+  "AddressLine1": "Coton Manor Garden",
+  "AddressLine3": "Coton",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 8RQ",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-05-22",
+  "RatingDate": "2026-09-08",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

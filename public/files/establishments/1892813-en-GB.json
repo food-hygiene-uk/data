@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.337287902832",
-    "Longitude": "-0.798340022563934"
-  },
-  "AddressLine1": "Unit 7",
-  "AddressLine2": "Mere Farm Business Complex",
-  "AddressLine3": "Red House Lane",
-  "AddressLine4": "Hannington",
-  "PostCode": "NN6 9FP",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-01-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

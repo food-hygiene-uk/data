@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.nwleics.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nwleicestershire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.7027221",
-    "Longitude": "-1.5552124"
-  },
-  "AddressLine1": "The Cedars",
+  "Geocode": null,
+  "AddressLine1": "Street Record",
   "AddressLine2": "Burton Road",
   "AddressLine3": "Stretton En Le Field",
-  "AddressLine4": "Swadlincote",
-  "PostCode": "DE12 8AD",
+  "AddressLine4": "Derby",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

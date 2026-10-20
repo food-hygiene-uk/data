@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Costa Coffee High Street",
+  "Geocode": {
+    "Latitude": "53.8839153",
+    "Longitude": "-1.2617417"
+  },
+  "AddressLine1": "2 High Street",
   "AddressLine4": "Tadcaster",
   "PostCode": "LS24 9AT",
   "SchemeType": "FHRS",

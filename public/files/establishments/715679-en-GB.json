@@ -13,13 +13,17 @@
     "Latitude": "52.3037811",
     "Longitude": "-1.0854393"
   },
-  "AddressLine1": "2 Harbidges Lane",
-  "AddressLine2": "Long Buckby",
-  "AddressLine3": "West Northamptonshire",
+  "AddressLine1": "The Old Kings Head 2 Harbidges Lane",
+  "AddressLine3": "Long Buckby",
+  "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 7QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-02-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

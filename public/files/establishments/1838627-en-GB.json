@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.2553808",
-    "Longitude": "-1.1889605"
-  },
-  "AddressLine1": "Daventry Sports Park",
-  "AddressLine2": "Browns Road",
+  "Geocode": null,
+  "AddressLine1": "Daventry Sports Park Browns Road",
   "AddressLine3": "Daventry",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN11 4NS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-07-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

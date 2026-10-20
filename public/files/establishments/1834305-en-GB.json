@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Harlestone Heath",
-  "AddressLine2": "Harlestone Road",
+  "AddressLine1": "Harlestone Heath Harlestone Road",
   "AddressLine3": "Lower Harlestone",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN5 6UJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-11-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
