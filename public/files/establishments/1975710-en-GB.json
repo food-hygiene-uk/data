@@ -10,13 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "requestinformation@northdevon.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Tide Haven",
+  "AddressLine1": "Tide's Out",
   "AddressLine2": "Beach Road",
   "AddressLine3": "Woolacombe",
   "AddressLine4": "Devon",
+  "PostCode": "EX34 7BP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-14",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

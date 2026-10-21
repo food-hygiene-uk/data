@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.blackpool.gov.uk/Services/A-F/FoodHygiene/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodcontrol@blackpool.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "4 4 Hawes Side Lane",
-  "AddressLine2": "Blackpool",
+  "Geocode": {
+    "Latitude": "53.7998894",
+    "Longitude": "-3.0336284"
+  },
+  "AddressLine1": "4 Hawes Side Lane",
   "PostCode": "FY4 4AS",
   "SchemeType": "FHRS",
   "RatingValue": "5",

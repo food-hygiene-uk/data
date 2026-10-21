@@ -9,21 +9,19 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.3023027",
-    "Longitude": "-0.3299836"
-  },
+  "Geocode": null,
   "AddressLine1": "5 The Parade",
   "AddressLine2": "Kingston Road",
-  "AddressLine4": "Leatherhead",
+  "AddressLine3": "Leatherhead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT22 7SR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-07-20",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

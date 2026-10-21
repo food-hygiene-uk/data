@@ -10,18 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.233645",
-    "Longitude": "-0.328624"
+    "Latitude": "51.2338627",
+    "Longitude": "-0.3283661"
   },
   "AddressLine2": "245 High Street",
-  "AddressLine4": "Dorking",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 1RT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-01-22",
   "Scores": {
-    "Hygiene": 0,
+    "Hygiene": 5,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

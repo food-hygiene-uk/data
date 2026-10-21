@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.6748549",
-    "Longitude": "1.6877501"
+    "Latitude": "52.675206",
+    "Longitude": "1.68801"
   },
   "AddressLine2": "10 West Road",
-  "AddressLine3": "Great Yarmouth",
+  "AddressLine3": "Ormesby St Margaret W Scratby",
   "AddressLine4": "Norfolk",
   "PostCode": "NR29 3RP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

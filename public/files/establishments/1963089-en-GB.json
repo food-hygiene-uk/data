@@ -10,12 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Prince Of Wales",
   "AddressLine2": "Guildford Road",
-  "AddressLine4": "Westcott",
+  "AddressLine3": "Westcott",
+  "AddressLine4": "Dorking",
   "PostCode": "RH4 3QE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

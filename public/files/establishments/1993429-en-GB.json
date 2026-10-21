@@ -1,6 +1,6 @@
 {
   "FHRSID": 1993429,
-  "BusinessName": "Zetun",
+  "BusinessName": "Sweet And Sugar",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00151/MIXED",
   "BusinessTypeID": 7844,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@knowsley.gov.uk",
   "Geocode": {
-    "Latitude": "53.4278919",
-    "Longitude": "-2.7981981"
+    "Latitude": "53.4279119",
+    "Longitude": "-2.7981984"
   },
-  "AddressLine1": "Unit A Ground Floor",
-  "AddressLine2": "126 Warrington Road",
-  "AddressLine3": "Prescot",
-  "AddressLine4": "Knowsley",
+  "AddressLine1": "126 Warrington Road",
+  "AddressLine2": "Prescot",
+  "AddressLine3": "Knowsley",
   "PostCode": "L34 5RF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

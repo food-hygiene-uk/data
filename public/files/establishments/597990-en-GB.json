@@ -1,6 +1,6 @@
 {
   "FHRSID": 597990,
-  "BusinessName": "Oratory Primary School,",
+  "BusinessName": "Oratory Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000097071",
   "BusinessTypeID": 7845,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Oratory Primary School",
-  "AddressLine2": "Oliver Road",
-  "AddressLine3": "Ladywood",
-  "AddressLine4": "Birmingham",
+  "Geocode": {
+    "Latitude": "52.477002",
+    "Longitude": "-1.929697"
+  },
+  "AddressLine1": "Oliver Road",
+  "AddressLine2": "Ladywood",
+  "AddressLine3": "Birmingham",
   "PostCode": "B16 9ER",
   "SchemeType": "FHRS",
   "RatingValue": "5",

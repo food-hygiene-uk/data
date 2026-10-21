@@ -10,19 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.316514",
-    "Longitude": "-0.304405"
+    "Latitude": "51.3166862",
+    "Longitude": "-0.3039895"
   },
   "AddressLine2": "1 Craddocks Parade",
-  "AddressLine4": "Ashtead",
+  "AddressLine3": "Ashtead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT21 1QL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-02-17",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "Scores": null
 }

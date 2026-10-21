@@ -9,21 +9,19 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.144877",
-    "Longitude": "-0.364228"
-  },
+  "Geocode": null,
   "AddressLine1": "The Cricketers Arms (Ph)",
   "AddressLine2": "Stane Street",
-  "AddressLine4": "Ockley",
+  "AddressLine3": "Ockley",
+  "AddressLine4": "Dorking",
   "PostCode": "RH5 5TP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-06-16",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

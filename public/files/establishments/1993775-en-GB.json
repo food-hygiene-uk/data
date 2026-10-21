@@ -1,9 +1,9 @@
 {
   "FHRSID": 1993775,
   "BusinessName": "MEGATAN",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Importers/Exporters",
   "LocalAuthorityBusinessID": "PI/000710271",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 14,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B3 1UR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

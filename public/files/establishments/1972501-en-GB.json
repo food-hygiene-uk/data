@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2334859",
+    "Longitude": "-0.3379054"
+  },
+  "AddressLine1": "Communications House",
+  "AddressLine2": "Curtis Road",
+  "AddressLine4": "Dorking",
+  "PostCode": "RH4 1EA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

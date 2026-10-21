@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "324",
   "LocalAuthorityName": "Arun",
   "LocalAuthorityWebSite": "http://www.arun.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@arun.gov.uk",
   "Geocode": {
     "Latitude": "50.8551979064941",
@@ -18,12 +18,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN18 9PA",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-06-25",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

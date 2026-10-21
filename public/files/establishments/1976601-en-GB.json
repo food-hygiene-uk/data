@@ -1,6 +1,6 @@
 {
   "FHRSID": 1976601,
-  "BusinessName": "Barnett Wood Infant School (Aspens Services)",
+  "BusinessName": "Aspens Service Ltd",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "3441",
   "BusinessTypeID": 7845,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Barnett Wood Lane",
-  "AddressLine4": "Ashtead",
+  "Geocode": {
+    "Latitude": "51.3142499",
+    "Longitude": "-0.310264"
+  },
+  "AddressLine2": "213 Barnett Wood Lane",
+  "AddressLine3": "Ashtead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT21 2DF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

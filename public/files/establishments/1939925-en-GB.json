@@ -1,18 +1,27 @@
 {
   "FHRSID": 1939925,
-  "BusinessName": "FOL CATERING LTD",
-  "BusinessType": "Mobile caterer",
+  "BusinessName": "FOL Catering @ Silkstream Building Site",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00295/COMM",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5812661",
+    "Longitude": "-0.2438447"
+  },
+  "AddressLine1": "4 The Hyde London",
+  "PostCode": "NW9 6FZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-22",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

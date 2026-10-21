@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lower Road",
-  "AddressLine2": "Bookham",
+  "Geocode": {
+    "Latitude": "51.278305",
+    "Longitude": "-0.3768"
+  },
+  "AddressLine1": "Bookham Baptist Church",
+  "AddressLine2": "Lower Road",
+  "AddressLine3": "Bookham",
+  "AddressLine4": "Leatherhead",
   "PostCode": "KT23 4DH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

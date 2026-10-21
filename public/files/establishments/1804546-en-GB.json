@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "885",
   "LocalAuthorityName": "Slough",
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
   "Geocode": {
     "Latitude": "51.506095",
@@ -17,8 +17,12 @@
   "AddressLine3": "SLOUGH",
   "PostCode": "SL1 2BE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-27",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

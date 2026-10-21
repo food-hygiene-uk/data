@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.234103",
-    "Longitude": "-0.325499"
-  },
+  "Geocode": null,
   "AddressLine1": "Dorking Service Centre",
   "AddressLine2": "Reigate Road",
-  "AddressLine4": "Dorking",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 1SG",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1812853,
-  "BusinessName": "The Kidsclub Company (Surrey)",
+  "BusinessName": "The Kidsclub Company",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "2644",
   "BusinessTypeID": 7845,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Greville Primary",
+  "Geocode": {
+    "Latitude": "51.314575",
+    "Longitude": "-0.295967"
+  },
+  "AddressLine1": "The Greville Cp School",
   "AddressLine2": "Stonny Croft",
-  "AddressLine4": "Ashtead",
+  "AddressLine3": "Ashtead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT21 1SH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

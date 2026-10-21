@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.124752",
-    "Longitude": "-0.382416"
-  },
+  "Geocode": null,
   "AddressLine1": "Okewood Hill Village Hall",
   "AddressLine2": "Honeywood Lane",
-  "AddressLine4": "Okewood Hill",
+  "AddressLine3": "Okewood Hill",
+  "AddressLine4": "Dorking",
   "PostCode": "RH5 5PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

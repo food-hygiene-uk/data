@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.229786",
-    "Longitude": "-0.334923"
+    "Latitude": "51.2298727",
+    "Longitude": "-0.3348701"
   },
   "AddressLine2": "94 South Street",
-  "AddressLine4": "Dorking",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 2EW",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-03-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

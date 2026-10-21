@@ -10,20 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.1657676696777",
-    "Longitude": "-0.319106996059418"
+    "Latitude": "51.1653446",
+    "Longitude": "-0.3208843"
   },
   "AddressLine1": "The Lake",
   "AddressLine2": "Horsham Road",
-  "AddressLine4": "Beare Green",
+  "AddressLine3": "Beare Green",
+  "AddressLine4": "Dorking",
   "PostCode": "RH5 4PS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-05",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-09-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

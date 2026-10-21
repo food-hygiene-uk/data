@@ -10,11 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.24086405",
-    "Longitude": "-0.32467015"
+    "Latitude": "51.240603",
+    "Longitude": "-0.32406"
   },
-  "AddressLine1": "Station Approach",
-  "AddressLine2": "Dorking",
+  "AddressLine1": "Station Kiosk",
+  "AddressLine2": "Station Approach",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 1TF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
@@ -23,6 +25,6 @@
   "Scores": {
     "Hygiene": 5,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

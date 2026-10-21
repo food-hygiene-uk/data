@@ -9,7 +9,10 @@
   "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "57.1512876",
+    "Longitude": "-2.1523123"
+  },
   "AddressLine2": "Unit 6-9 Summerhill court",
   "PostCode": "AB15  6TW",
   "SchemeType": "FHIS",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1899193,
-  "BusinessName": "10 Buckingham Street",
+  "BusinessName": "Kitchen Pod 2, 10",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000635683",
   "BusinessTypeID": 7841,
@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Birmingham",
+  "Geocode": {
+    "Latitude": "52.48891993",
+    "Longitude": "-1.9024592"
+  },
+  "AddressLine1": "Buckingham Street",
+  "AddressLine2": "Birmingham",
   "PostCode": "B19 3HT",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

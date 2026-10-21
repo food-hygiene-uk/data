@@ -1,6 +1,6 @@
 {
   "FHRSID": 1977718,
-  "BusinessName": "Wibsey Community Cafe",
+  "BusinessName": "Wibsey Park Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "288310",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD6 3EY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

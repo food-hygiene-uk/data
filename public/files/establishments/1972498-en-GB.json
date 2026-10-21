@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2318598",
+    "Longitude": "-0.3323204"
+  },
+  "AddressLine1": "41-43",
+  "AddressLine2": "High Street",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
+  "PostCode": "RH4 1AR",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

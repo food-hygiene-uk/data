@@ -16,8 +16,12 @@
   "AddressLine1": "10 THE CENTRAL PRECINCT WINCHESTER ROAD CHANDLER'S FORD EASTLEIGH SO53 2GB",
   "PostCode": "SO53 2GB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

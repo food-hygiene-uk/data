@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.295611",
-    "Longitude": "-0.32725"
+    "Latitude": "51.295522",
+    "Longitude": "-0.3274614"
   },
-  "AddressLine1": "Cygnet House",
-  "AddressLine2": "45-47 High Street",
-  "AddressLine4": "Leatherhead",
+  "AddressLine1": "45-47",
+  "AddressLine2": "High Street",
+  "AddressLine3": "Leatherhead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT22 8AG",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-03-31",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

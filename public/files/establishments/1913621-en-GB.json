@@ -12,11 +12,16 @@
   "Geocode": null,
   "AddressLine1": "Harvest Community Church",
   "AddressLine2": "Stubs Hill",
-  "AddressLine4": "Dorking",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 2QD",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-02-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

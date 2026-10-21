@@ -1,6 +1,6 @@
 {
   "FHRSID": 1972499,
-  "BusinessName": "The Cavan Bakery Ltd",
+  "BusinessName": "Cavan Bakery",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "3399",
   "BusinessTypeID": 4613,
@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.31695",
-    "Longitude": "-0.304719"
+    "Latitude": "51.3169391",
+    "Longitude": "-0.3046833"
   },
   "AddressLine2": "19 Craddocks Parade",
-  "AddressLine4": "Ashtead",
+  "AddressLine3": "Ashtead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT21 1QJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

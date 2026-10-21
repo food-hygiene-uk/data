@@ -10,12 +10,13 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.277911",
+    "Latitude": "51.277912",
     "Longitude": "-0.307719"
   },
   "AddressLine1": "Cherkley Court",
   "AddressLine2": "Reigate Road",
-  "AddressLine4": "Leatherhead",
+  "AddressLine3": "Leatherhead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT22 8QX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
@@ -23,7 +24,7 @@
   "RatingDate": "2025-05-01",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1887825,
-  "BusinessName": "The Punch Bowl Inn Ltd",
+  "BusinessName": "The Punchbowl Inn Ltd",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "2941",
   "BusinessTypeID": 7843,
@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1246101",
+    "Longitude": "-0.3841841"
+  },
   "AddressLine1": "The Punchbowl Inn (Ph)",
   "AddressLine2": "Okewood Hill",
+  "AddressLine4": "Dorking",
   "PostCode": "RH5 5PU",
   "SchemeType": "FHRS",
   "RatingValue": "0",

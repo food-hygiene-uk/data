@@ -1,22 +1,30 @@
 {
   "FHRSID": 1972510,
-  "BusinessName": "Unified Academy",
-  "BusinessType": "School/college/university",
+  "BusinessName": "Connect Catering@ Unified Academy",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "3429",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "308",
   "LocalAuthorityName": "Mole Valley",
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.2221572",
+    "Longitude": "-0.3191664"
+  },
   "AddressLine1": "Unified Academy",
   "AddressLine2": "Chart Lane South",
+  "AddressLine3": "North Holmwood",
   "AddressLine4": "Dorking",
   "PostCode": "RH5 4DB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,13 +1,13 @@
 {
   "FHRSID": 122970,
-  "BusinessName": "Pizza Hut Deivery Oldham",
+  "BusinessName": "Pizza Hut Delivery Oldham",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "51423",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
     "Latitude": "53.546571",
@@ -17,8 +17,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL4 2AH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

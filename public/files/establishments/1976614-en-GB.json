@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.209197",
+    "Longitude": "-0.252529"
+  },
   "AddressLine1": "Leigh Primary School",
   "AddressLine2": "Tapners Road",
+  "AddressLine3": "Leigh",
   "AddressLine4": "Reigate",
   "PostCode": "RH2 8NN",
   "SchemeType": "FHRS",

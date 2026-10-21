@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.295495",
-    "Longitude": "-0.327914"
+    "Latitude": "51.295529",
+    "Longitude": "-0.3279488"
   },
   "AddressLine2": "37 High Street",
-  "AddressLine4": "Leatherhead",
+  "AddressLine3": "Leatherhead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT22 8AE",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-01-15",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

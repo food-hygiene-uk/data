@@ -10,11 +10,12 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
   "Geocode": {
-    "Latitude": "51.231734",
-    "Longitude": "-0.334007"
+    "Latitude": "51.2317214",
+    "Longitude": "-0.3339726"
   },
   "AddressLine2": "58 West Street",
-  "AddressLine4": "Dorking",
+  "AddressLine3": "Dorking",
+  "AddressLine4": "Surrey",
   "PostCode": "RH4 1BS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
@@ -23,6 +24,6 @@
   "Scores": {
     "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 0
+    "ConfidenceInManagement": 5
   }
 }

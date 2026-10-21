@@ -1,25 +1,27 @@
 {
   "FHRSID": 1551704,
   "BusinessName": "Ashtead Youth Club",
-  "BusinessType": "School/college/university",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "134262",
-  "BusinessTypeID": 7845,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "308",
   "LocalAuthorityName": "Mole Valley",
   "LocalAuthorityWebSite": "http://www.molevalley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.health@molevalley.gov.uk",
-  "Geocode": {
-    "Latitude": "51.314595",
-    "Longitude": "-0.30726"
-  },
+  "Geocode": null,
   "AddressLine1": "Ashtead Youth Centre",
   "AddressLine2": "Barnett Wood Lane",
-  "AddressLine4": "Ashtead",
+  "AddressLine3": "Ashtead",
+  "AddressLine4": "Surrey",
   "PostCode": "KT21 2BZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-15",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

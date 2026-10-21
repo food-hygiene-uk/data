@@ -1,9 +1,9 @@
 {
   "FHRSID": 1982557,
   "BusinessName": "Real Aston",
-  "BusinessType": "Hospitals/Childcare/Caring Premises",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000709616",
-  "BusinessTypeID": 5,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B20 3DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
