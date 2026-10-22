@@ -1,6 +1,6 @@
 {
   "FHRSID": 1994104,
-  "BusinessName": "Weston Crusaders FC (South West Crusaders)",
+  "BusinessName": "South West Crusaders FC",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "U02KWMBAYT/1",
   "BusinessTypeID": 1,
@@ -15,8 +15,12 @@
   "AddressLine4": "Weston-super-Mare",
   "PostCode": "BS22 8HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

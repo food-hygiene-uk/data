@@ -9,18 +9,14 @@
   "LocalAuthorityWebSite": "http://www.causewaycoastandglens.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@causewaycoastandglens.gov.uk",
-  "Geocode": {
-    "Latitude": "54.9238661",
-    "Longitude": "-6.9135224"
-  },
-  "AddressLine1": "8 O'Cahan Place",
-  "AddressLine2": "Dungiven",
-  "AddressLine3": "Dungiven",
-  "AddressLine4": "Londonderry",
-  "PostCode": "BT47 4SX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

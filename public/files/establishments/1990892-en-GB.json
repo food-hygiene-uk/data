@@ -1,25 +1,30 @@
 {
   "FHRSID": 1990892,
-  "BusinessName": "Swans Cafe",
+  "BusinessName": "Swan's Cafe",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00263/FPREM/D",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "181",
   "LocalAuthorityName": "Dartford",
   "LocalAuthorityWebSite": "http://www.dartford.gov.uk/foodsafety/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@dartford.gov.uk",
   "Geocode": {
     "Latitude": "51.4478513",
     "Longitude": "0.3101872"
   },
-  "AddressLine1": "43 High Street",
-  "AddressLine2": "Swanscombe",
-  "AddressLine3": "Kent",
+  "AddressLine1": "Swans Cafe",
+  "AddressLine2": "43 High Street",
+  "AddressLine3": "Swanscombe",
+  "AddressLine4": "Kent",
   "PostCode": "DA10 0AG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

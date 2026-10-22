@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.fdean.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ERS@publicagroup.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6826142",
+    "Longitude": "-2.5977194"
+  },
+  "AddressLine1": "The Hermitage",
+  "AddressLine2": "Woolaston Grange",
+  "AddressLine3": "Woolaston",
+  "AddressLine4": "Lydney",
+  "PostCode": "GL15 6PP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-07",
+  "RatingDate": "2026-09-26",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

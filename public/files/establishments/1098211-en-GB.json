@@ -1,6 +1,6 @@
 {
   "FHRSID": 1098211,
-  "BusinessName": "Wirral Autistic Society",
+  "BusinessName": "Autism Together",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/100023800",
   "BusinessTypeID": 5,
@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.3510201",
-    "Longitude": "-2.9794713"
+    "Latitude": "53.3509931",
+    "Longitude": "-2.9795347"
   },
-  "AddressLine1": "Giles Shirley Hall",
-  "AddressLine2": "York Street",
+  "AddressLine1": "Giles Shirley Hall York Street",
   "AddressLine3": "Bromborough",
   "AddressLine4": "Wirral",
   "PostCode": "CH62 4TZ",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

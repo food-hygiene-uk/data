@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.650327",
+    "Longitude": "-1.5379761"
+  },
+  "AddressLine1": "Orton House Farm",
+  "AddressLine2": "Norton Lane",
+  "AddressLine3": "Little Orton",
+  "AddressLine4": "Orton On The Hill",
+  "PostCode": "CV9 3NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

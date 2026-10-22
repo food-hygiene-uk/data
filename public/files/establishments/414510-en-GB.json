@@ -1,13 +1,13 @@
 {
   "FHRSID": 414510,
-  "BusinessName": "LA BELLE BOUCHERIE LIMITED",
+  "BusinessName": "LA BELLE BOUCHERIE",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "03/00866/COMM",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "533",
   "LocalAuthorityName": "Westminster",
   "LocalAuthorityWebSite": "http://www.westminster.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@westminster.gov.uk",
   "Geocode": {
     "Latitude": "51.5206173",
@@ -17,12 +17,12 @@
   "AddressLine3": "LONDON",
   "PostCode": "NW1 5BY",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2024-11-30",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-16",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 30
+    "Structural": 0,
+    "ConfidenceInManagement": 10
   }
 }

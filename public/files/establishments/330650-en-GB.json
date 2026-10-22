@@ -10,20 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@lincoln.gov.uk",
   "Geocode": {
-    "Latitude": "53.2348213195801",
-    "Longitude": "-0.511381983757019"
+    "Latitude": "53.2353171",
+    "Longitude": "-0.5133973"
   },
-  "AddressLine2": "Lime Kiln Way",
+  "AddressLine2": "3 Lime Kiln Way",
   "AddressLine3": "Lincoln",
   "AddressLine4": "Lincolnshire",
   "PostCode": "LN2 4US",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-09-06",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

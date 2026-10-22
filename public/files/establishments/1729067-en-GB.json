@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "136",
   "LocalAuthorityName": "Hart",
   "LocalAuthorityWebSite": "https://www.hart.gov.uk/environment/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@hart.gov.uk",
   "Geocode": {
     "Latitude": "51.278464",
@@ -18,12 +18,12 @@
   "AddressLine3": "Fleet",
   "PostCode": "GU51 3NT",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-16",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
