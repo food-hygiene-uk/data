@@ -1,25 +1,22 @@
 {
   "FHRSID": 1973106,
-  "BusinessName": "Lani Bakery",
+  "BusinessName": "Sambella Bakehouse",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000708706",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.4759626",
-    "Longitude": "-1.9139203"
-  },
-  "AddressLine1": "Apartment 176",
-  "AddressLine2": "58 Sheepcote Street",
-  "AddressLine3": "Birmingham",
-  "PostCode": "B16 8WN",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -1,28 +1,28 @@
 {
   "FHRSID": 234997,
   "BusinessName": "Corringham Service Station",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "1159",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "225",
   "LocalAuthorityName": "West Lindsey",
   "LocalAuthorityWebSite": "https://www.west-lindsey.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.healthandsafety@west-lindsey.gov.uk",
   "Geocode": {
-    "Latitude": "53.4095574",
-    "Longitude": "-0.69969919"
+    "Latitude": "53.4089643",
+    "Longitude": "-0.6953655"
   },
-  "AddressLine2": "HIGH STREET",
-  "AddressLine3": "CORRINGHAM",
-  "AddressLine4": "GAINSBOROUGH",
+  "AddressLine2": "6 High Street",
+  "AddressLine4": "Corringham",
+  "PostCode": "DN21 5QN",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-04-22",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-17",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

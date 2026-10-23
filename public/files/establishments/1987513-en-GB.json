@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "182",
   "LocalAuthorityName": "Dover",
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
   "Geocode": null,
   "AddressLine1": "Stonehall Road Lydden",
   "AddressLine3": "Dover",
   "PostCode": "CT15 7LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-01",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

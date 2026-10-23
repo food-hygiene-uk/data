@@ -1,6 +1,6 @@
 {
   "FHRSID": 1997644,
-  "BusinessName": "The Bricklayers Arms",
+  "BusinessName": "The Bricklayers Arms & Nashta House",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "EHCP/26/00551",
   "BusinessTypeID": 7843,
@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
   "Geocode": {
-    "Latitude": "51.811566",
-    "Longitude": "-0.806698"
+    "Latitude": "51.8113167",
+    "Longitude": "-0.8063064"
   },
-  "AddressLine1": "19 Walton Terrace",
-  "AddressLine2": "Aylesbury",
-  "AddressLine3": "Buckinghamshire",
+  "AddressLine1": "The Bricklayers Arms",
+  "AddressLine2": "19 Walton Terrace",
+  "AddressLine3": "Aylesbury",
+  "AddressLine4": "Buckinghamshire",
   "PostCode": "HP21 7QY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

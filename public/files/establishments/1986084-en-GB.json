@@ -1,9 +1,9 @@
 {
   "FHRSID": 1986084,
   "BusinessName": "PFS Clacket Lane East – Wild Bean Café",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "3519",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "313",
   "LocalAuthorityName": "Tandridge",
   "LocalAuthorityWebSite": "http://www.tandridge.gov.uk/",
@@ -18,8 +18,12 @@
   "AddressLine4": "Surrey",
   "PostCode": "TN16 2ER",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

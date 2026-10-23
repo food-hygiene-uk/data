@@ -9,9 +9,15 @@
   "LocalAuthorityWebSite": "http://www.lichfielddc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@lichfielddc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6127048",
+    "Longitude": "-1.70387"
+  },
   "AddressLine1": "Unit 25",
-  "AddressLine2": "TBC",
+  "AddressLine2": "Tolsons Enterprise Park",
+  "AddressLine3": "Mill Lane",
+  "AddressLine4": "Fradley",
+  "PostCode": "B78 3QD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

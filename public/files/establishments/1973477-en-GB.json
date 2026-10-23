@@ -1,9 +1,9 @@
 {
   "FHRSID": 1973477,
   "BusinessName": "Heathers Cakes",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "CP/113872",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "426",
   "LocalAuthorityName": "Solihull",
   "LocalAuthorityWebSite": "https://www.solihull.gov.uk/environment-and-animals/food-safety",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "regulatoryservices@solihull.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

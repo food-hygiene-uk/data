@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.stockton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@stockton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.551922",
+    "Longitude": "-1.303858"
+  },
+  "AddressLine2": "St Pauls Road",
+  "AddressLine4": "Thornaby",
+  "PostCode": "TS17 6HZ",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

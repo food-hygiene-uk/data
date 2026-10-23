@@ -1,6 +1,6 @@
 {
   "FHRSID": 1998916,
-  "BusinessName": "Uttam JI & Sons",
+  "BusinessName": "Uttam JI & Sons Limited",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "07040",
   "BusinessTypeID": 4613,
@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.reading.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "consumerprotection@reading.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "14 Tessa Road",
-  "AddressLine3": "Reading Berkshire",
-  "PostCode": "RG1 8HE",
+  "Geocode": {
+    "Latitude": "51.4627939",
+    "Longitude": "-0.9839305"
+  },
+  "AddressLine1": "UTTAM JI AND SONS LTD UNIT 14 TESSA ROAD",
+  "AddressLine3": "READING",
+  "PostCode": "RG1 8HH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

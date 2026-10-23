@@ -1,6 +1,6 @@
 {
   "FHRSID": 1942237,
-  "BusinessName": "Worcester Petrol Flling Station",
+  "BusinessName": "Worcester Petrol Filling Station",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00418/FOOD",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine2": "Worcester",
   "PostCode": "WR2 5PG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-14",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

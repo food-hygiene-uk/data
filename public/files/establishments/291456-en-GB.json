@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": {
-    "Latitude": "51.29258",
-    "Longitude": "0.408501"
-  },
-  "AddressLine1": "27 Water Lane",
-  "AddressLine2": "West Malling",
-  "AddressLine3": "Kent",
-  "PostCode": "ME19 6HH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-02-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
