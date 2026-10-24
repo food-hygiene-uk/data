@@ -1,6 +1,6 @@
 {
   "FHRSID": 1994329,
-  "BusinessName": "Mooboo - Maidstone (Kiosk 11, Upper Floor)",
+  "BusinessName": "Mooboo Maidstone",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/500778/MIXED",
   "BusinessTypeID": 7844,
@@ -19,8 +19,12 @@
   "AddressLine4": "Kent",
   "PostCode": "ME15 6AT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

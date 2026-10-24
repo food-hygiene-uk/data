@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6217665",
+    "Longitude": "-3.9521467"
+  },
+  "AddressLine1": "Heathfield House",
+  "AddressLine2": "91 Healthfield",
+  "AddressLine4": "Mount Pleasant",
+  "PostCode": "SA1 6EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-10-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }
