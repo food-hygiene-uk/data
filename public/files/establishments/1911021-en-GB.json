@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "212",
   "LocalAuthorityName": "Hinckley and Bosworth",
   "LocalAuthorityWebSite": "http://www.hinckley-bosworth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "esadmin@hinckley-bosworth.gov.uk",
   "Geocode": {
-    "Latitude": "52.554093",
-    "Longitude": "-1.347284"
+    "Latitude": "52.5540924072266",
+    "Longitude": "-1.34728395938873"
   },
-  "AddressLine1": "Greene King Stadium",
-  "AddressLine2": "Leicester Road Football Ground",
-  "AddressLine3": "Leicester Road",
-  "AddressLine4": "Hinckley",
+  "AddressLine1": "Leicester Road Football Ground",
+  "AddressLine2": "Leicester Road",
+  "AddressLine3": "Hinckley",
+  "AddressLine4": "Leicestershire",
   "PostCode": "LE10 3DR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }
