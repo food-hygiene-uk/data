@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine1": "Unit Mcdonnell Pub",
-  "AddressLine2": "Mcdonnell Road",
-  "AddressLine3": "Bargoed",
+  "Geocode": {
+    "Latitude": "51.6903477",
+    "Longitude": "-3.2342512"
+  },
+  "AddressLine1": "Unit",
+  "AddressLine2": "Mcdonnell Pub",
+  "AddressLine3": "Mcdonnell Road",
+  "AddressLine4": "Bargoed",
   "PostCode": "CF81 8UD",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

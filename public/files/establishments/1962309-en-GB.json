@@ -1,13 +1,13 @@
 {
   "FHRSID": 1962309,
-  "BusinessName": "Spud Guys",
+  "BusinessName": "Spud Guys also trading as Cha Cha Kitchen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "164258",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "403",
   "LocalAuthorityName": "Bolton",
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
   "Geocode": null,
   "AddressLine1": "Unit 7 Marsden House",
@@ -15,8 +15,12 @@
   "AddressLine3": "Bolton",
   "PostCode": "BL1 2AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

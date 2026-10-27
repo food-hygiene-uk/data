@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
   "Geocode": {
-    "Latitude": "51.6235705",
-    "Longitude": "-0.0583281"
+    "Latitude": "51.6168537",
+    "Longitude": "-0.057286"
   },
-  "AddressLine1": "Unit 5 Whitestar Foundation",
-  "AddressLine2": "Knights Chambers",
-  "AddressLine3": "South Mall",
+  "AddressLine1": "Whitestar Foundation inside Craig Park Youth",
+  "AddressLine2": "Unity Hub Craig Hub",
+  "AddressLine3": "Lawrence Road",
   "AddressLine4": "LONDON",
-  "PostCode": "N9 0TN",
+  "PostCode": "N18 2HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6808346",
+    "Longitude": "-3.1753972"
+  },
   "AddressLine1": "Red Diamond Chinese Take Away",
   "AddressLine2": "3 Commercial Buildings",
-  "AddressLine3": "Oakdale",
-  "AddressLine4": "Blackwood",
+  "AddressLine4": "Oakdale",
   "PostCode": "NP12 0LB",
   "SchemeType": "FHRS",
   "RatingValue": "3",

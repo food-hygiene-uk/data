@@ -10,19 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
-    "Latitude": "51.6648597717285",
-    "Longitude": "-3.14468097686768"
+    "Latitude": "51.664781",
+    "Longitude": "-3.1450028"
   },
-  "AddressLine2": "16-18 High Street",
-  "AddressLine3": "Newbridge",
+  "AddressLine1": "16-18",
+  "AddressLine2": "High Street",
+  "AddressLine4": "Newbridge",
   "PostCode": "NP11 4EZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-08-14",
+  "RatingDate": "2026-09-23",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

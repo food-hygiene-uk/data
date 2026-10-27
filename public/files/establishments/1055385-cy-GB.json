@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6857888",
+    "Longitude": "-3.1610196"
+  },
   "AddressLine1": "Penyfan Industrial Estate",
   "AddressLine2": "Fern Court",
-  "AddressLine3": "Croespenmaen",
-  "AddressLine4": "Blackwood",
+  "AddressLine4": "Hollybush",
   "PostCode": "NP11 3EH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6974259",
+    "Longitude": "-3.1568038"
+  },
   "AddressLine1": "Gelli Farm",
-  "AddressLine3": "Trinant",
-  "AddressLine4": "Newport",
+  "AddressLine4": "Trinant",
   "PostCode": "NP11 3AZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

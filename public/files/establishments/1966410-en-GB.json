@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "326",
   "LocalAuthorityName": "Crawley",
   "LocalAuthorityWebSite": "http://www.crawley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@crawley.gov.uk",
   "Geocode": {
     "Latitude": "51.1144932",
@@ -19,8 +19,12 @@
   "AddressLine4": "Crawley",
   "PostCode": "RH10 1HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
+  }
 }

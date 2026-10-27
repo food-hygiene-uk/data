@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5932431",
+    "Longitude": "-3.2154484"
+  },
   "AddressLine1": "The Parish Trust",
   "AddressLine2": "7 Roundabout Court",
-  "AddressLine3": "Bedwas House Industrial Estate",
-  "AddressLine4": "Bedwas",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 8FS",
   "SchemeType": "FHRS",
   "RatingValue": "3",

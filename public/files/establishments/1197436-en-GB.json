@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5940672",
+    "Longitude": "-3.165215"
+  },
   "AddressLine1": "Shop Unit",
   "AddressLine2": "81 Grays Gardens",
-  "AddressLine3": "Graig-Y-Rhacca",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 8TQ",
   "SchemeType": "FHRS",

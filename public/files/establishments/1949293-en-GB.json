@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@medway.gov.uk",
   "Geocode": {
-    "Latitude": "51.3704169",
-    "Longitude": "0.51842"
+    "Latitude": "51.4010556",
+    "Longitude": "0.5345943"
   },
-  "AddressLine1": "23 Wyles Road",
-  "AddressLine2": "Chatham",
-  "AddressLine3": "Medway",
-  "PostCode": "ME4 6LD",
+  "AddressLine1": "Dockside Outlet Centre",
+  "AddressLine2": "Maritime Way",
+  "AddressLine3": "Chatham Maritime",
+  "AddressLine4": "Chatham",
+  "PostCode": "ME4 3ED",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

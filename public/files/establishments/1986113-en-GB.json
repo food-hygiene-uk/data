@@ -1,9 +1,9 @@
 {
   "FHRSID": 1986113,
   "BusinessName": "Natalia's Sourdough",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "40885",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "219",
   "LocalAuthorityName": "Boston",
   "LocalAuthorityWebSite": "https://www.boston.gov.uk/",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "environmental.health@boston.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

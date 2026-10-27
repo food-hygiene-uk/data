@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "302",
   "LocalAuthorityName": "East Suffolk",
   "LocalAuthorityWebSite": "http://www.eastsuffolk.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@eastsuffolk.gov.uk",
   "Geocode": null,
   "AddressLine1": "Bramfield Church Of England Primary School",
@@ -16,8 +16,12 @@
   "AddressLine4": "Suffolk",
   "PostCode": "IP19 9HZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

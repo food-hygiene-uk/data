@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.spelthorne.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.commercial@spelthorne.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4258879",
+    "Longitude": "-0.436904"
+  },
+  "AddressLine1": "314 Feltham Hill Road",
+  "AddressLine2": "Ashford",
+  "PostCode": "TW15 1LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

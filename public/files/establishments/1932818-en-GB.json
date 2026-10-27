@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6360125",
+    "Longitude": "-3.12953"
+  },
   "AddressLine1": "Shop",
   "AddressLine2": "60 Newport Road",
-  "AddressLine3": "Cwmcarn",
+  "AddressLine4": "Cwmcarn",
   "PostCode": "NP11 7ND",
   "SchemeType": "FHRS",
   "RatingValue": "5",

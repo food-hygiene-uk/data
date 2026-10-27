@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7424312",
+    "Longitude": "-3.2593522"
+  },
   "AddressLine1": "Shop Unit",
   "AddressLine2": "1 The Green",
-  "AddressLine3": "Abertysswg",
-  "AddressLine4": "Tredegar",
+  "AddressLine4": "Rhymney",
   "PostCode": "NP22 5AH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
