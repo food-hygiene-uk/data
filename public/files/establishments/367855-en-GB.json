@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "408",
   "LocalAuthorityName": "Doncaster",
   "LocalAuthorityWebSite": "http://www.doncaster.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@doncaster.gov.uk",
   "Geocode": null,
   "AddressLine1": "Rock House Residential Home Bawtry Road",
@@ -15,12 +15,12 @@
   "AddressLine3": "Doncaster",
   "PostCode": "DN11 9EZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-08-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
   }
 }

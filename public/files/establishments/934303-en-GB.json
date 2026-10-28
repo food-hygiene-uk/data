@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.9077854",
+    "Longitude": "-1.5437396"
+  },
   "AddressLine2": "55 Station Road",
   "AddressLine3": "Mickleover",
   "AddressLine4": "Derby",
-  "PostCode": "DE3 5GJ",
+  "PostCode": "DE3 9GJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

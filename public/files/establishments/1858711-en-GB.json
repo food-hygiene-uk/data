@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.rossendale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@rossendalebc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6881398",
+    "Longitude": "-2.3378001"
+  },
   "AddressLine1": "Park Mill",
   "AddressLine2": "Holcombe Road",
   "AddressLine3": "Helmshore",
   "AddressLine4": "Rossendale",
+  "PostCode": "BB4 4NP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

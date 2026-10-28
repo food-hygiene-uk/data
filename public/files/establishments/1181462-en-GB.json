@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Level 3",
-  "AddressLine2": "West Mall",
-  "AddressLine3": "Derbion",
-  "AddressLine4": "Derby",
+  "Geocode": {
+    "Latitude": "52.919539",
+    "Longitude": "-1.473059"
+  },
+  "AddressLine1": "Unit 325 Level 3 West Mall Derbion",
+  "AddressLine2": "Traffic Street",
+  "AddressLine3": "Derby",
   "PostCode": "DE1 2PP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

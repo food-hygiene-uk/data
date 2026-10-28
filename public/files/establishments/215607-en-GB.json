@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "SU143 South Mall",
-  "AddressLine3": "Derbion",
-  "AddressLine4": "Derby",
+  "Geocode": {
+    "Latitude": "52.9195511",
+    "Longitude": "-1.4722032"
+  },
+  "AddressLine1": "Unit 143 Level 1 South Mall Derbion",
+  "AddressLine2": "Traffic Street",
+  "AddressLine3": "Derby",
   "PostCode": "DE1 2PG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

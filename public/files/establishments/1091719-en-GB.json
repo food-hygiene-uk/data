@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Unit 226 Derbion",
-  "AddressLine4": "Derby",
-  "PostCode": "DE1 2PL",
+  "Geocode": {
+    "Latitude": "52.9197944",
+    "Longitude": "-1.4731697"
+  },
+  "AddressLine1": "Unit 226 Level 2 North Mall Derbion",
+  "AddressLine2": "Traffic Street",
+  "AddressLine3": "Derby",
+  "PostCode": "DE1 2PQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

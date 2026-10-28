@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Annie Hall Centre",
+  "Geocode": {
+    "Latitude": "52.9124663",
+    "Longitude": "-1.4976935"
+  },
+  "AddressLine1": "Annie Hall Centre",
   "AddressLine2": "8 Bedford Close",
   "AddressLine3": "Derby",
   "PostCode": "DE22 3HQ",

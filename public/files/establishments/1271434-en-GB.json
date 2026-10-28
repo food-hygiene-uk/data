@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Swarkestone Road",
-  "AddressLine3": "Chellaston",
-  "AddressLine4": "Derby",
-  "PostCode": "DE73 1UD",
+  "Geocode": {
+    "Latitude": "52.8673147",
+    "Longitude": "-1.4384135"
+  },
+  "AddressLine2": "20 Swarkestone Road",
+  "AddressLine3": "Derby",
+  "PostCode": "DE73 5UA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

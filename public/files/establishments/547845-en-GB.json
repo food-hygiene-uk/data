@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.431558",
+    "Longitude": "-1.27661"
+  },
+  "AddressLine2": "4 Belford Close",
+  "AddressLine3": "Bramley",
+  "AddressLine4": "Rotherham",
+  "PostCode": "S66 3YS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2013-04-08",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

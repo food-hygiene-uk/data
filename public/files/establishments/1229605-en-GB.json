@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "703",
   "LocalAuthorityName": "Cheshire East",
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
   "Geocode": {
     "Latitude": "53.26399851",
@@ -18,12 +18,12 @@
   "AddressLine4": "Macclesfield",
   "PostCode": "SK10 4SZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

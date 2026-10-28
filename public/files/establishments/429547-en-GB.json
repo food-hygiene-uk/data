@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "257A Stenson Road",
-  "AddressLine3": "Sunnyhill",
-  "PostCode": "DE23 7JN",
+  "Geocode": {
+    "Latitude": "52.8934823",
+    "Longitude": "-1.4949396"
+  },
+  "AddressLine2": "257a Stenson Road",
+  "AddressLine3": "Derby",
+  "PostCode": "DE23 1JN",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "422",
   "LocalAuthorityName": "Salford",
   "LocalAuthorityWebSite": "http://www.salford.gov.uk/envhealth.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@salford.gov.uk",
   "Geocode": {
     "Latitude": "53.4830955",
@@ -17,12 +17,12 @@
   "AddressLine3": "Eccles",
   "PostCode": "M30 0PF",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2024-09-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-22",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 15,
-    "ConfidenceInManagement": 20
+    "Structural": 10,
+    "ConfidenceInManagement": 0
   }
 }

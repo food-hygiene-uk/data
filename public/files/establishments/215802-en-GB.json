@@ -1,6 +1,6 @@
 {
   "FHRSID": 215802,
-  "BusinessName": "Ocean Fresh at  Steves",
+  "BusinessName": "Ocean Fresh at Steves",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "103080",
   "BusinessTypeID": 7844,
@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "15 The Parade",
-  "AddressLine3": "Mickleover",
-  "AddressLine4": "Derby",
-  "PostCode": "DE3 5DA",
+  "Geocode": {
+    "Latitude": "52.9041873",
+    "Longitude": "-1.5440876"
+  },
+  "AddressLine1": "15 The Parade",
+  "AddressLine2": "Uttoxeter Road",
+  "AddressLine3": "Derby",
+  "PostCode": "DE3 0GB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

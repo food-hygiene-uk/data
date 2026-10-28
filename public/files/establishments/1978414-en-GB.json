@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "http://www.shropshire.gov.uk/foodhygienescheme",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@shropshire.gov.uk",
-  "Geocode": {
-    "Latitude": "52.6238843",
-    "Longitude": "-2.369959"
-  },
-  "AddressLine1": "Grindle House Farm Grindle Road",
-  "AddressLine2": "Grindle",
-  "AddressLine3": "Shifnal",
-  "AddressLine4": "Shropshire",
-  "PostCode": "TF11 9JR",
+  "Geocode": null,
+  "AddressLine1": "Office At 72",
+  "AddressLine2": "Buildwas",
+  "AddressLine3": "Shropshire",
+  "PostCode": "TF8 7BU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

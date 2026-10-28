@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "223",
   "LocalAuthorityName": "South Holland",
   "LocalAuthorityWebSite": "http://www.sholland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhs@sholland.gov.uk",
   "Geocode": {
     "Latitude": "52.8044286",
@@ -19,12 +19,12 @@
   "AddressLine4": "Lincolnshire",
   "PostCode": "PE12 7LR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-16",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

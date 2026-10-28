@@ -1,6 +1,6 @@
 {
   "FHRSID": 1841418,
-  "BusinessName": "Sheridan's Convenience",
+  "BusinessName": "Sheridans Convenience",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "703097",
   "BusinessTypeID": 4613,
@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.antrimandnewtownabbey.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@antrimandnewtownabbey.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.67462",
+    "Longitude": "-5.913813"
+  },
   "AddressLine1": "119 Doagh Road",
+  "AddressLine2": "Croghfern",
   "AddressLine3": "Newtownabbey",
+  "AddressLine4": "Antrim",
   "PostCode": "BT36 6AA",
   "SchemeType": "FHRS",
   "RatingValue": "4",

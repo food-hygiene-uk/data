@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.rotherham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.health&safety@rotherham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.3382302",
+    "Longitude": "-1.2767185"
+  },
+  "AddressLine2": "12 Lambrell Avenue",
+  "AddressLine3": "Kiveton Park",
+  "AddressLine4": "Sheffield",
+  "PostCode": "S26 5NS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
