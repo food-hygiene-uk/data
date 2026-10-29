@@ -7,23 +7,22 @@
   "LocalAuthorityCode": "871",
   "LocalAuthorityName": "Derby City",
   "LocalAuthorityWebSite": "http://www.derby.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.services@derby.gov.uk",
   "Geocode": {
-    "Latitude": "52.924941",
-    "Longitude": "-1.504439"
+    "Latitude": "52.9246462",
+    "Longitude": "-1.5037993"
   },
   "AddressLine2": "20 Morley Street",
-  "AddressLine3": "Mackworth",
-  "AddressLine4": "Derby Derbyshire",
+  "AddressLine3": "Derby",
   "PostCode": "DE22 3DG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-05-26",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

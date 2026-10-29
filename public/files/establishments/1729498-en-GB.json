@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "409",
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "52.469618",
     "Longitude": "-2.033002"
@@ -17,12 +17,12 @@
   "AddressLine3": "Halesowen",
   "PostCode": "B62 9LA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-02-12",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1985975,
-  "BusinessName": "Oak Farm School - Impact Food Group",
+  "BusinessName": "Cucina IFG @ Oak Farm School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "152257",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine4": "Uxbridge",
   "PostCode": "UB10 9PD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

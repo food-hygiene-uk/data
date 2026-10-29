@@ -1,6 +1,6 @@
 {
   "FHRSID": 1955486,
-  "BusinessName": "Mahdlo Mobile Food Truck",
+  "BusinessName": "Scran Van",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "71810",
   "BusinessTypeID": 7846,
@@ -18,8 +18,12 @@
   "AddressLine3": "Oldham",
   "PostCode": "OL1 3SE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

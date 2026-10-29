@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "SERCO Colchester Magistrate's Court Colchester",
+  "Geocode": {
+    "Latitude": "51.8869823",
+    "Longitude": "0.9038812"
+  },
+  "AddressLine1": "SERCO Colchester Magistrate's Court Colchester Magistrates Court",
   "AddressLine2": "St Botolphs Circus",
   "AddressLine3": "Colchester",
   "AddressLine4": "Essex",

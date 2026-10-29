@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.9330523",
+    "Longitude": "0.8996999"
+  },
+  "AddressLine1": "Sizzling Thyme Events Ltd",
+  "AddressLine2": "27 Straight Road",
+  "AddressLine3": "Boxted",
+  "AddressLine4": "Essex",
+  "PostCode": "CO4 5HN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-06-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

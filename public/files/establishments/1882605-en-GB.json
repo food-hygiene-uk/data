@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8823841",
+    "Longitude": "0.9098044"
+  },
+  "AddressLine1": "G. Neko Flat 1",
+  "AddressLine2": "94 Military Road",
+  "AddressLine3": "Colchester",
+  "AddressLine4": "Essex",
+  "PostCode": "CO1 2AN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

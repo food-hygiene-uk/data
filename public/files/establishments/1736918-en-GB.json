@@ -1,6 +1,6 @@
 {
   "FHRSID": 1736918,
-  "BusinessName": "Loaded Munch / Whispering Beans / Cow & Chick / Smashin’ Burger",
+  "BusinessName": "Loaded Munch Lunch",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "85031",
   "BusinessTypeID": 7841,
@@ -18,8 +18,12 @@
   "AddressLine3": "Kingston Upon Hull",
   "PostCode": "HU5 1SN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

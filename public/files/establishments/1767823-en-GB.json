@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "East of England Co-operative Society",
+  "Geocode": {
+    "Latitude": "51.878168",
+    "Longitude": "0.8439378"
+  },
+  "AddressLine1": "East of England Co-operative Society Supermarket",
   "AddressLine2": "Peartree Road",
   "AddressLine3": "Stanway",
   "AddressLine4": "Essex",

@@ -1,6 +1,6 @@
 {
   "FHRSID": 1585691,
-  "BusinessName": "Colchester Hospital University NHS Foundation",
+  "BusinessName": "Colchester Hospital University NHS Foundation Trust",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "FR/000001052",
   "BusinessTypeID": 5,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.colchester.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.team@colchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "ColchesterHospitalUniversityNHSFound",
+  "Geocode": {
+    "Latitude": "51.9101748",
+    "Longitude": "0.8992279"
+  },
+  "AddressLine1": "ColchesterHospitalUniversityNHSFound Colchester General Hospital",
   "AddressLine2": "Turner Road",
   "AddressLine3": "Colchester",
   "AddressLine4": "Essex",

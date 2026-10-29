@@ -1,6 +1,6 @@
 {
   "FHRSID": 1982808,
-  "BusinessName": "Little Steps Play Cafè",
+  "BusinessName": "Little Steps Play Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "603066",
   "BusinessTypeID": 1,
@@ -19,8 +19,12 @@
   "AddressLine4": "Antrim",
   "PostCode": "BT38 7AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

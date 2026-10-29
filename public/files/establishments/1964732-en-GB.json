@@ -1,6 +1,6 @@
 {
   "FHRSID": 1964732,
-  "BusinessName": "Gripps Farm (cafe)",
+  "BusinessName": "Gripps Farm Shop & Cafe",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "80083",
   "BusinessTypeID": 1,
@@ -14,8 +14,12 @@
   "AddressLine3": "Brotton",
   "PostCode": "TS12 2QU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

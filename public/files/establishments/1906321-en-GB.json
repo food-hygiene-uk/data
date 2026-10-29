@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "261",
   "LocalAuthorityName": "Broxtowe",
   "LocalAuthorityWebSite": "http://www.broxtowe.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@broxtowe.gov.uk",
   "Geocode": {
     "Latitude": "52.923715",
@@ -18,12 +18,12 @@
   "AddressLine3": "Nottinghamshire",
   "PostCode": "NG9 2AY",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-06-11",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

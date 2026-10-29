@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@gravesham.gov.uk",
   "Geocode": {
-    "Latitude": "51.435155",
-    "Longitude": "0.390397"
+    "Latitude": "51.4349235",
+    "Longitude": "0.3907012"
   },
-  "AddressLine1": "119 Rochester Road",
+  "AddressLine1": "Rear Of 119 Rochester Road",
   "AddressLine2": "Gravesend",
   "AddressLine3": "Kent",
   "PostCode": "DA12 2HU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "528",
   "LocalAuthorityName": "Southwark",
   "LocalAuthorityWebSite": "http://www.southwark.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@southwark.gov.uk",
   "Geocode": {
     "Latitude": "51.494358",
@@ -18,12 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "SE17 1EN",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-29",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }
