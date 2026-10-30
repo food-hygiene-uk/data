@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.oxford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@oxford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7478263",
+    "Longitude": "-1.237591"
+  },
+  "AddressLine1": "134A Cowley Road",
+  "AddressLine2": "Oxford",
+  "AddressLine3": "Oxfordshire",
+  "PostCode": "OX4 1JE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

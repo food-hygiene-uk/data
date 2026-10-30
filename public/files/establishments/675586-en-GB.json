@@ -13,12 +13,16 @@
     "Latitude": "53.615795",
     "Longitude": "-0.213928"
   },
-  "AddressLine2": "Kennedy Way",
+  "AddressLine2": "11 Kennedy Way",
   "AddressLine4": "Immingham",
   "PostCode": "DN40 2AB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingPublication",
-  "RatingKey": "fhrs_awaitingpublication_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

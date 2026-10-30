@@ -10,15 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
   "Geocode": {
-    "Latitude": "51.5196076",
-    "Longitude": "-0.0719623"
+    "Latitude": "51.5215521",
+    "Longitude": "-0.0723249"
   },
-  "AddressLine2": "61-63 Brick Lane",
+  "AddressLine1": "Elys Yard Food Trucks",
+  "AddressLine2": "91 Brick Lane",
   "AddressLine3": "London",
   "PostCode": "E1 6QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

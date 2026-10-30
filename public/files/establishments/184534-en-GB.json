@@ -1,6 +1,6 @@
 {
   "FHRSID": 184534,
-  "BusinessName": "St Peters Roman Catholic Primary Sch",
+  "BusinessName": "St Peters Roman Catholic Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000200597",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "West Midlands",
   "PostCode": "WS3 3LT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

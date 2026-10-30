@@ -8,15 +8,19 @@
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
+  "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
   "Geocode": null,
   "AddressLine1": "Ashton C Of E Primary School Roade Hill",
   "AddressLine3": "Ashton",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN7 2JH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

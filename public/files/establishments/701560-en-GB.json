@@ -1,6 +1,6 @@
 {
   "FHRSID": 701560,
-  "BusinessName": "Murphys",
+  "BusinessName": "Murphys of Acomb",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "38897",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "York",
   "PostCode": "YO24 3BW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-26",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

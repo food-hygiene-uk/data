@@ -7,8 +7,8 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
-  "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
+  "NewRatingPending": false,
+  "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.2591132",
     "Longitude": "-0.9002178"
@@ -18,12 +18,12 @@
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN2 7AX",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-12-05",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-24",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

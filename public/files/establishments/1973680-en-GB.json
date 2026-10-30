@@ -13,14 +13,18 @@
     "Latitude": "52.5897012",
     "Longitude": "-1.888396"
   },
-  "AddressLine1": "353 Chester Road",
-  "AddressLine2": "Aldridge",
-  "AddressLine3": "Walsall",
-  "AddressLine4": "West Midlands",
+  "AddressLine1": "The Planters Garden Centre",
+  "AddressLine2": "353 Chester Road",
+  "AddressLine3": "Aldridge",
+  "AddressLine4": "Walsall",
   "PostCode": "WS9 0PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

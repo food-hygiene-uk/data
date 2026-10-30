@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "190",
   "LocalAuthorityName": "Thanet",
   "LocalAuthorityWebSite": "http://www.thanet.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@thanet.gov.uk",
   "Geocode": {
     "Latitude": "51.375868",
@@ -18,12 +18,12 @@
   "AddressLine3": "Kent",
   "PostCode": "CT7 9RA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-10",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-24",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

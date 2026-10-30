@@ -1,6 +1,6 @@
 {
   "FHRSID": 708812,
-  "BusinessName": "Aldridge Parish Church of St Mary",
+  "BusinessName": "Aldridge Parish Church",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000202120",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "West Midlands",
   "PostCode": "WS9 8NH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

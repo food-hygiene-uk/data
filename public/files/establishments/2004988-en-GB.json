@@ -8,7 +8,7 @@
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
-  "LocalAuthorityEmailAddress": "contactus@westnorthants.gov.uk",
+  "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
   "Geocode": {
     "Latitude": "52.1962518",
     "Longitude": "-0.906599"
@@ -18,8 +18,12 @@
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN4 0AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

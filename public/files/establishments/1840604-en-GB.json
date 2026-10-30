@@ -1,6 +1,6 @@
 {
   "FHRSID": 1840604,
-  "BusinessName": "Old Town Indian Takeaways",
+  "BusinessName": "Old Town Tandoori Indian/Clapham Noodles Bar",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "25/00152/COMM",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "SW4 0HD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }
