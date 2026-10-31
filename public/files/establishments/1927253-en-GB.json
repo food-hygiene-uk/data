@@ -1,23 +1,22 @@
 {
   "FHRSID": 1927253,
   "BusinessName": "Golden Sheaf",
-  "BusinessType": "Takeaway/sandwich shop",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "26/00167/COMM",
-  "BusinessTypeID": 7844,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": {
-    "Latitude": "51.5706218",
-    "Longitude": "-0.1956645"
-  },
-  "AddressLine1": "865 Finchley Road",
-  "PostCode": "NW11 8LX",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

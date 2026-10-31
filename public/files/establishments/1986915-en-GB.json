@@ -1,6 +1,6 @@
 {
   "FHRSID": 1986915,
-  "BusinessName": "ACORN Pantry",
+  "BusinessName": "Acorn Pantry",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "26/00622/COMM",
   "BusinessTypeID": 4613,
@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.6029415",
-    "Longitude": "-0.2626887"
+    "Latitude": "51.60285",
+    "Longitude": "-0.262599"
   },
-  "AddressLine1": "102A Watling Avenue",
+  "AddressLine1": "International Gospel Church 102 Watling Avenue Edgware",
   "PostCode": "HA8 0LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

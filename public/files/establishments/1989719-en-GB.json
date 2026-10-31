@@ -7,18 +7,22 @@
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
   "Geocode": {
-    "Latitude": "54.5495737",
-    "Longitude": "-6.0239636"
+    "Latitude": "54.5497086",
+    "Longitude": "-6.0239725"
   },
-  "AddressLine3": "10 Gardenmore Walk",
+  "AddressLine3": "9 Gardenmore Walk",
   "AddressLine4": "Belfast",
   "PostCode": "BT17 0ZU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

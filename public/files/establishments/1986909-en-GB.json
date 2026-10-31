@@ -1,6 +1,6 @@
 {
   "FHRSID": 1986909,
-  "BusinessName": "CLASSIC KEBABS",
+  "BusinessName": "Classic Kebabs",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/00614/COMM",
   "BusinessTypeID": 7844,
@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5921112",
-    "Longitude": "-0.2570151"
+    "Latitude": "51.592094",
+    "Longitude": "-0.25709"
   },
-  "AddressLine1": "3 Sunnyside Terrace The Hyde",
+  "AddressLine1": "Sunnyside Terrace  The Hyde London",
   "PostCode": "NW9 5DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

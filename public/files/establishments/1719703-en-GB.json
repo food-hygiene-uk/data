@@ -9,6 +9,7 @@
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
+  "RightToReply": "&lt;p&gt;\n\tWithin our brewery we have two seperate operations ,being the brewery business, together with The Kitchen &amp;amp; Taproom business.The change in published rating arose from an inspection which took place by Liverpool City Council Environmental Health in September.&lt;/p&gt;\n&lt;p&gt;\n\tThe inspection identified various concerns, which primarily related to the Brewery operation and resulted in that operation being temporarily closed, whilst those concerns were addressed.&lt;/p&gt;\n&lt;p&gt;\n\tLiverpool City council did not request the closure of the Kitchen &amp;amp; taproom operation, but rather, they permitted it to remain open and trading.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;\n\tThe experienced leadership within the venue teams, ensures standards are held and maintained for the benefit of our customers&lt;/p&gt;\n",
   "Geocode": {
     "Latitude": "53.3966462",
     "Longitude": "-2.9830457"
@@ -17,8 +18,12 @@
   "AddressLine3": "Liverpool",
   "PostCode": "L1 0AY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-09-17",
+  "Scores": {
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
+  }
 }

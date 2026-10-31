@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6054242",
+    "Longitude": "-0.2336"
+  },
+  "AddressLine1": "75 Page Street London",
+  "PostCode": "NW7 2EE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

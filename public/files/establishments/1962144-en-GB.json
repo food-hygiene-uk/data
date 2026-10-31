@@ -1,13 +1,13 @@
 {
   "FHRSID": 1962144,
-  "BusinessName": "Bad Boys - Hemel Hempstead t/a Matteo's Cucina Italiana",
+  "BusinessName": "Bad Boys t/a Matteo's Cucina Italiana,Gyros, Wings Wraps Fries,Pasta,",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "95318",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "156",
   "LocalAuthorityName": "Dacorum",
   "LocalAuthorityWebSite": "http://www.dacorum.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ecp@dacorum.gov.uk",
   "Geocode": {
     "Latitude": "51.759",
@@ -19,8 +19,12 @@
   "AddressLine4": "Hertfordshire",
   "PostCode": "HP2 4SB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 0,
+    "ConfidenceInManagement": 20
+  }
 }

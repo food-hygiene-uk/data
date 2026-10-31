@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "233",
   "LocalAuthorityName": "South Norfolk",
   "LocalAuthorityWebSite": "https://www.southnorfolkandbroadland.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@southnorfolkandbroadland.gov.uk",
   "Geocode": null,
   "AddressLine1": "Surlingham County Primary School",
@@ -16,12 +16,12 @@
   "AddressLine4": "Norfolk",
   "PostCode": "NR14 7DQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-06",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

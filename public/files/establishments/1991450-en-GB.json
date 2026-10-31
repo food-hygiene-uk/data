@@ -15,11 +15,15 @@
   "AddressLine1": "The Compasses Inn 72 Beveley Road",
   "AddressLine2": "Oakengates",
   "AddressLine3": "Telford",
-  "AddressLine4": "Shropshire",
+  "AddressLine4": "Telford And Wrekin",
   "PostCode": "TF2 6SD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

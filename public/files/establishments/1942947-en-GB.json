@@ -1,9 +1,9 @@
 {
   "FHRSID": 1942947,
   "BusinessName": "Zoe's Fudge",
-  "BusinessType": "Mobile caterer",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "Cx14042",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

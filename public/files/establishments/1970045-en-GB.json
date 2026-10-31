@@ -1,9 +1,9 @@
 {
   "FHRSID": 1970045,
   "BusinessName": "Ye Olde Leathern Bottel",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "Cx14300",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7843,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
@@ -17,8 +17,12 @@
   "AddressLine4": "Wednesbury",
   "PostCode": "WS10 9DW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

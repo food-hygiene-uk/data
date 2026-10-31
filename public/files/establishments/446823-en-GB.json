@@ -1,6 +1,6 @@
 {
   "FHRSID": 446823,
-  "BusinessName": "Baxterstorey",
+  "BusinessName": "OCS Food Company",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "76189",
   "BusinessTypeID": 1,
@@ -9,20 +9,14 @@
   "LocalAuthorityWebSite": "http://www.n-kesteven.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTeam@n-kesteven.gov.uk",
-  "Geocode": {
-    "Latitude": "53.173882",
-    "Longitude": "-0.650164"
-  },
-  "AddressLine2": "Siemens Teal Park",
-  "AddressLine4": "Teal Park Road",
+  "Geocode": null,
+  "AddressLine1": "Feilden House",
+  "AddressLine2": "Teal Park Road",
+  "AddressLine4": "North Hykeham",
   "PostCode": "LN6 3AD",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-02",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

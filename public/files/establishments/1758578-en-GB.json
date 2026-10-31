@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "223",
   "LocalAuthorityName": "South Holland",
   "LocalAuthorityWebSite": "http://www.sholland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhs@sholland.gov.uk",
   "Geocode": {
     "Latitude": "52.8162097",
@@ -18,12 +18,12 @@
   "AddressLine3": "Spalding",
   "AddressLine4": "Lincolnshire",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-03-06",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-25",
   "Scores": {
-    "Hygiene": 15,
-    "Structural": 15,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

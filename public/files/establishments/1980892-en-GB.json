@@ -13,11 +13,15 @@
     "Latitude": "51.566425",
     "Longitude": "-0.217241"
   },
-  "AddressLine1": "Clitterhouse Farm 60 Claremont Road",
+  "AddressLine1": "Clitterhouse Farm 60 Claremont Road London",
   "PostCode": "NW2 1AP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

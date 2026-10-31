@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.northlanarkshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental-health@northlan.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "7Glencrayan Road Cumbernauld",
+  "Geocode": {
+    "Latitude": "55.94353",
+    "Longitude": "-3.97833"
+  },
+  "AddressLine1": "7 Glencryan Road",
+  "AddressLine2": "Cumbernauld",
   "PostCode": "G67 2UH",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

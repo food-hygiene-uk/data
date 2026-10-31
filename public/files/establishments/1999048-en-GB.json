@@ -1,23 +1,27 @@
 {
   "FHRSID": 1999048,
   "BusinessName": "Home Bargains",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "26/00633/COMM",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7840,
   "LocalAuthorityCode": "502",
   "LocalAuthorityName": "Barnet",
   "LocalAuthorityWebSite": "http://www.barnet.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.5698305",
-    "Longitude": "-0.2289791"
+    "Latitude": "51.570301",
+    "Longitude": "-0.229727"
   },
-  "AddressLine1": "Unit A Staples Corner Retail Park Geron Way",
+  "AddressLine1": "Staples Corner Retail Park  Geron Way London",
   "PostCode": "NW2 6LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.416251",
+    "Longitude": "-2.739205"
+  },
+  "AddressLine1": "Backwell School",
   "AddressLine2": "Station Road",
   "AddressLine3": "Backwell",
+  "AddressLine4": "Bristol",
   "PostCode": "BS48 3BX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

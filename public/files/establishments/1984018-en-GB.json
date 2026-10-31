@@ -9,17 +9,18 @@
   "LocalAuthorityWebSite": "http://www.cherwell.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "HPandCompliance@cherwell-dc.gov.uk",
-  "Geocode": {
-    "Latitude": "52.0727334",
-    "Longitude": "-1.3670182"
-  },
-  "AddressLine1": "North Oxfordshire Academy Drayton Road",
+  "Geocode": null,
+  "AddressLine1": "Little Explorers Ludlow Drive",
   "AddressLine3": "Banbury",
   "AddressLine4": "Oxfordshire",
-  "PostCode": "OX16 0UD",
+  "PostCode": "OX16 1GH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

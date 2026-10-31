@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.north-ayrshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@north-ayrshire.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "55 New Street",
+  "Geocode": {
+    "Latitude": "55.7073292",
+    "Longitude": "-4.7183958"
+  },
+  "AddressLine2": "51-55 New Street",
   "AddressLine3": "Dalry",
+  "AddressLine4": "North Ayrshire",
   "PostCode": "KA24 5AQ",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",
