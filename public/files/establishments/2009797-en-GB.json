@@ -1,8 +1,8 @@
 {
-  "FHRSID": 342420,
-  "BusinessName": "The Place",
+  "FHRSID": 2009797,
+  "BusinessName": "Costa Coffee",
   "BusinessType": "Restaurant/Cafe/Canteen",
-  "LocalAuthorityBusinessID": "128243",
+  "LocalAuthorityBusinessID": "28699",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "872",
   "LocalAuthorityName": "Bournemouth, Christchurch and Poole",
@@ -10,19 +10,15 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bcpcouncil.gov.uk",
   "Geocode": {
-    "Latitude": "50.720433",
-    "Longitude": "-1.885442"
+    "Latitude": "50.7203997",
+    "Longitude": "-1.8819239"
   },
-  "AddressLine2": "6 The Triangle",
+  "AddressLine2": "42-44 Commercial Road",
   "AddressLine3": "Bournemouth",
-  "PostCode": "BH2 5RY",
+  "PostCode": "BH2 5LP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-24",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }
