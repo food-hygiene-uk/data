@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Blandford St. Mary",
-  "AddressLine3": "Blandford Forum",
+  "Geocode": {
+    "Latitude": "50.8431837",
+    "Longitude": "-2.1521848"
+  },
+  "AddressLine1": "Littleton Park Bournemouth Road",
+  "AddressLine3": "Blandford St Mary",
+  "AddressLine4": "Dorset",
   "PostCode": "DT11 9NB",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

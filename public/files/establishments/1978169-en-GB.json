@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@reigate-banstead.gov.uk",
   "Geocode": {
-    "Latitude": "51.1726155",
-    "Longitude": "-0.162504"
+    "Latitude": "51.1725448",
+    "Longitude": "-0.1625783"
   },
-  "AddressLine1": "Serendipity Coffee Company",
-  "AddressLine2": "23 High Street",
-  "AddressLine3": "Horley",
-  "AddressLine4": "Surrey",
+  "AddressLine1": "21A High Street",
+  "AddressLine2": "Horley",
+  "AddressLine3": "Surrey",
   "PostCode": "RH6 7BH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

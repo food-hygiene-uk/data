@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bromley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@bromley.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Marys Church Hall St Mary's Avenue",
+  "Geocode": {
+    "Latitude": "51.4010615",
+    "Longitude": "0.0006255"
+  },
+  "AddressLine1": "St Marys Church House St Mary's Avenue",
   "AddressLine2": "Shortlands",
   "AddressLine3": "Bromley",
+  "PostCode": "BR2 0PU",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

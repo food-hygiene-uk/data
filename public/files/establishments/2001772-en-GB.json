@@ -1,9 +1,9 @@
 {
   "FHRSID": 2001772,
   "BusinessName": "Boots",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "2026/000185",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "029",
   "LocalAuthorityName": "Fenland",
   "LocalAuthorityWebSite": "http://www.fenland.gov.uk/article/2117/Food-Safety",
@@ -18,8 +18,12 @@
   "AddressLine3": "Cambridgeshire",
   "PostCode": "PE13 1AR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-31",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

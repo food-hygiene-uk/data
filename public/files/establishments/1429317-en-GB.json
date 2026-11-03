@@ -9,19 +9,21 @@
   "LocalAuthorityWebSite": "http://www.southhams.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@southhams.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Jenny Koo's Kitchen",
-  "AddressLine2": "Unit 15",
-  "AddressLine3": "The Market",
-  "AddressLine4": "Dartmouth",
+  "Geocode": {
+    "Latitude": "50.351515",
+    "Longitude": "-3.5803024"
+  },
+  "AddressLine1": "Unit 15",
+  "AddressLine2": "The Market",
+  "AddressLine3": "Dartmouth",
   "PostCode": "TQ6 9SE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-07-09",
+  "RatingDate": "2026-10-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

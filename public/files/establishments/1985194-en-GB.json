@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "https://www.dorsetcouncil.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@dorsetcouncil.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Maiden Newton",
-  "AddressLine3": "Dorchester",
+  "Geocode": {
+    "Latitude": "50.7765197753906",
+    "Longitude": "-2.56990909576416"
+  },
+  "AddressLine1": "Retail Unit Maiden Newton Service Station Dorchester Road",
+  "AddressLine3": "Maiden Newton",
+  "AddressLine4": "Dorset",
   "PostCode": "DT2 0BA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

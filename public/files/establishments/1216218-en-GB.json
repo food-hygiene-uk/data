@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "202",
   "LocalAuthorityName": "Preston",
   "LocalAuthorityWebSite": "http://www.preston.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@preston.gov.uk",
   "Geocode": {
     "Latitude": "53.7604904174805",
@@ -18,12 +18,12 @@
   "AddressLine3": "Preston",
   "PostCode": "PR1 2LA",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-22",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-07",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 10,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

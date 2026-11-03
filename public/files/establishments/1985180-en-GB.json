@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.derrystrabane.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@derrystrabane.com",
-  "Geocode": null,
-  "AddressLine1": "Cross",
-  "AddressLine3": "Londonderry",
+  "Geocode": {
+    "Latitude": "54.9771526",
+    "Longitude": "-7.2088204"
+  },
+  "AddressLine1": "205 Tamnaherin Road",
+  "AddressLine3": "Derry",
+  "AddressLine4": "Derry",
   "PostCode": "BT47 3HX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

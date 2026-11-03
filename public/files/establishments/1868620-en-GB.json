@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cedar Court Hotel Park Parade",
+  "Geocode": {
+    "Latitude": "53.9931151",
+    "Longitude": "-1.5283178"
+  },
+  "AddressLine1": "Park Parade",
   "AddressLine4": "Harrogate",
   "PostCode": "HG1 5AH",
   "SchemeType": "FHRS",

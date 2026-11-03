@@ -1,18 +1,22 @@
 {
   "FHRSID": 1957006,
-  "BusinessName": "Brooklands House",
+  "BusinessName": "Tirnant",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "162259",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

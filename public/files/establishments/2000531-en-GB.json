@@ -1,6 +1,6 @@
 {
   "FHRSID": 2000531,
-  "BusinessName": "Stevenson catering services",
+  "BusinessName": "Stevenson Catering at the Vale of York",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "Cx18945",
   "BusinessTypeID": 1,
@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
   "Geocode": {
-    "Latitude": "54.2281282",
-    "Longitude": "-1.3751134"
+    "Latitude": "54.1792882",
+    "Longitude": "-1.3818719"
   },
-  "AddressLine1": "VALE OF YORK CARLTON ROAD",
-  "AddressLine4": "CARLTON MINIOTT",
-  "PostCode": "YO7 4LX",
+  "AddressLine1": "28 East Lea",
+  "AddressLine4": "Topcliffe",
+  "PostCode": "YO7 3RR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

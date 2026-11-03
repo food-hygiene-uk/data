@@ -7,14 +7,18 @@
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@belfastcity.gov.uk",
   "Geocode": null,
   "AddressLine1": "Hillview Retail Park",
   "PostCode": "BT14 7EL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,21 +7,18 @@
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": {
-    "Latitude": "51.652185",
-    "Longitude": "-3.233231"
-  },
+  "Geocode": null,
   "AddressLine2": "Dan-Y-Coed",
-  "AddressLine3": "Hengoed",
+  "AddressLine4": "Gelligaer",
   "PostCode": "CF82 7LP",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-08-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-09-28",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 10,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }
