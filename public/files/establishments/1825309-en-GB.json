@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "21 Fore Street St Marychurch Torquay Devon Torquay",
+  "Geocode": {
+    "Latitude": "50.4828215",
+    "Longitude": "-3.5234169"
+  },
+  "AddressLine1": "21 Fore Street St Marychurch  Torquay",
   "PostCode": "TQ1 4PU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

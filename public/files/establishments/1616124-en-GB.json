@@ -7,24 +7,20 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
-  "Geocode": {
-    "Latitude": "52.3030548095703",
-    "Longitude": "-1.07784795761108"
-  },
-  "AddressLine1": "Long Buckby Infant School",
-  "AddressLine2": "High Street",
+  "Geocode": null,
+  "AddressLine1": "Long Buckby Infant School High Street",
   "AddressLine3": "Long Buckby",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN6 7RE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-04",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-29",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
+    "Hygiene": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

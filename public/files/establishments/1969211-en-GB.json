@@ -7,12 +7,23 @@
   "LocalAuthorityCode": "145",
   "LocalAuthorityName": "Bromsgrove",
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3821555",
+    "Longitude": "-1.9896628"
+  },
+  "AddressLine1": "400 Groveley Lane",
+  "AddressLine2": "Cofton Hackett",
+  "AddressLine3": "Worcestershire",
+  "PostCode": "B45 8UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

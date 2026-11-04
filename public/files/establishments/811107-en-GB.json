@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.33047916",
+    "Longitude": "-6.28215965"
+  },
   "AddressLine1": "Bridgewater Park",
   "AddressLine3": "Banbridge",
   "AddressLine4": "Down",
+  "PostCode": "BT32 4GJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

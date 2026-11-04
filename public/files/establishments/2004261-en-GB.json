@@ -7,23 +7,23 @@
   "LocalAuthorityCode": "236",
   "LocalAuthorityName": "West Northamptonshire",
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
   "Geocode": {
-    "Latitude": "52.2391929",
-    "Longitude": "-0.8900337"
+    "Latitude": "52.2391582",
+    "Longitude": "-0.8901664"
   },
-  "AddressLine1": "B And C 102A Abington Street",
+  "AddressLine1": "102 Abington Street",
   "AddressLine3": "Northampton",
   "AddressLine4": "West Northamptonshire",
   "PostCode": "NN1 2BP",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2025-08-05",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-29",
   "Scores": {
-    "Hygiene": 20,
-    "Structural": 20,
-    "ConfidenceInManagement": 20
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

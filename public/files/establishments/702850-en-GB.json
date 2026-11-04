@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Rushmere Retail Park",
-  "AddressLine2": "Central Way",
+  "Geocode": {
+    "Latitude": "54.4474467",
+    "Longitude": "-6.3925634"
+  },
+  "AddressLine1": "Unit 3 Rushmere Retail Park",
   "AddressLine3": "Craigavon",
+  "AddressLine4": "Armagh",
+  "PostCode": "BT64 1AA",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

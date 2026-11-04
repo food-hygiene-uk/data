@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "http://www.armaghbanbridgecraigavon.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@armaghbanbridgecraigavon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Lurgan",
+  "Geocode": {
+    "Latitude": "54.464612",
+    "Longitude": "-6.334606"
+  },
+  "AddressLine1": "10 North Street",
+  "AddressLine2": "Lurgan",
   "AddressLine3": "Lurgan",
-  "PostCode": "BT679AQ",
+  "AddressLine4": "Armagh",
+  "PostCode": "BT67 9AQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

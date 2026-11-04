@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@broxtowe.gov.uk",
   "Geocode": {
-    "Latitude": "52.9194338",
-    "Longitude": "-1.2493222"
+    "Latitude": "52.9195174",
+    "Longitude": "-1.2468965"
   },
-  "AddressLine1": "49 Eskdale Drive",
-  "AddressLine2": "Chilwell",
-  "AddressLine3": "Nottinghamshire",
-  "PostCode": "NG9 5NA",
+  "AddressLine1": "Eskdale Junior School",
+  "AddressLine2": "Eskdale Drive",
+  "AddressLine3": "Chilwell",
+  "AddressLine4": "Nottinghamshire",
+  "PostCode": "NG9 5FN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

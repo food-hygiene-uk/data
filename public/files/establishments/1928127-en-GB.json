@@ -9,10 +9,22 @@
   "LocalAuthorityWebSite": "http://www.rutland.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.727942",
+    "Longitude": "-0.59971"
+  },
+  "AddressLine1": "9 Five Counties Park",
+  "AddressLine2": "Greetham Inn Lane",
+  "AddressLine3": "Greetham",
+  "AddressLine4": "Oakham",
+  "PostCode": "LE15 7SB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

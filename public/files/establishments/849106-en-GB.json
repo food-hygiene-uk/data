@@ -10,19 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": {
-    "Latitude": "52.574767",
-    "Longitude": "-0.229301"
+    "Latitude": "52.574652",
+    "Longitude": "-0.2293377"
   },
-  "AddressLine2": "88 Star Road",
-  "AddressLine3": "Peterborough",
+  "AddressLine2": "86-88 Star Road",
+  "AddressLine3": "Eastgate",
+  "AddressLine4": "Peterborough",
   "PostCode": "PE1 5HQ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-09-03",
-  "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

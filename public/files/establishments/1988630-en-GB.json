@@ -1,26 +1,29 @@
 {
   "FHRSID": 1988630,
-  "BusinessName": "Taylormaid",
+  "BusinessName": "Taylor Maid",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00193/COMM",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "197",
   "LocalAuthorityName": "Chorley",
   "LocalAuthorityWebSite": "http://www.chorley.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Environmental.health@chorley.gov.uk",
   "Geocode": {
-    "Latitude": "53.6221182",
-    "Longitude": "-2.6615538"
+    "Latitude": "53.622702",
+    "Longitude": "-2.660205"
   },
-  "AddressLine1": "Taylor Maid",
-  "AddressLine2": "184 Spendmore Lane",
-  "AddressLine3": "Coppull",
-  "AddressLine4": "Chorley",
+  "AddressLine1": "184 Spendmore Lane",
+  "AddressLine2": "Coppull",
+  "AddressLine3": "Chorley",
   "PostCode": "PR7 5BX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }
