@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.n-somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@n-somerset.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Haberfield Park Farm",
+  "Geocode": {
+    "Latitude": "51.4652427",
+    "Longitude": "-2.6771945"
+  },
+  "AddressLine1": "Hutchison 3g Site Bs0069 At Haberfield Park Farm",
   "AddressLine2": "Pill Road",
   "AddressLine3": "Abbots Leigh",
+  "AddressLine4": "Bristol",
   "PostCode": "BS8 3RF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

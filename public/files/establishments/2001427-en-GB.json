@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bexley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@bexley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4894428",
+    "Longitude": "0.1243863"
+  },
+  "AddressLine1": "9 New Road",
+  "AddressLine2": "London",
+  "PostCode": "SE2 0QH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

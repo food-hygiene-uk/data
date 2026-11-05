@@ -1,6 +1,6 @@
 {
   "FHRSID": 484810,
-  "BusinessName": "Mario’s Pizzaz",
+  "BusinessName": "Amaan's Bd6",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "11479",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD6 2RZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

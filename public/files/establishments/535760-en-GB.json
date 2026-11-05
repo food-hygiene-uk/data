@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "513",
   "LocalAuthorityName": "Hammersmith and Fulham",
   "LocalAuthorityWebSite": "http://www.lbhf.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@lbhf.gov.uk",
   "Geocode": {
     "Latitude": "51.493705",
@@ -17,12 +17,12 @@
   "AddressLine2": "London",
   "PostCode": "W6 0RR",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2025-01-18",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-09-30",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 15,
+    "Structural": 20,
     "ConfidenceInManagement": 10
   }
 }

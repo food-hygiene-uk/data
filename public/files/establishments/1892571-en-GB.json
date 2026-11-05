@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Stroud House Care Home Rothercombe Lane",
+  "Geocode": {
+    "Latitude": "51.008072",
+    "Longitude": "-0.9720314"
+  },
+  "AddressLine1": "Stroud House Care Home 2 Rothercombe Lane",
   "AddressLine3": "Petersfield",
   "AddressLine4": "Hampshire",
   "PostCode": "GU32 3PQ",
