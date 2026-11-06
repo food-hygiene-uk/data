@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "https://www.worcsregservices.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "enquiries@worcsregservices.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.3110417",
+    "Longitude": "-2.5938706"
+  },
+  "AddressLine1": "5 Market Street",
+  "AddressLine2": "Tenbury Wells",
+  "AddressLine3": "Worcestershire",
+  "PostCode": "WR15 8BH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-03",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

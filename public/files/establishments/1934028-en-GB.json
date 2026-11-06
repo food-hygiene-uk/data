@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "410",
   "LocalAuthorityName": "Gateshead",
   "LocalAuthorityWebSite": "http://www.gateshead.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@gateshead.gov.uk",
   "Geocode": null,
   "AddressLine2": "35 Wetheral Gardens",
@@ -15,8 +15,12 @@
   "AddressLine4": "Gateshead",
   "PostCode": "NE9 6PY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
