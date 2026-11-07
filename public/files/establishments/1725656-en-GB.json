@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.pembrokeshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodratings@pembrokeshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bargain Centre Brewery Terrace",
+  "Geocode": {
+    "Latitude": "51.7102857",
+    "Longitude": "-4.6996173"
+  },
+  "AddressLine1": "4 Brewery Terrace",
   "AddressLine3": "Saundersfoot",
   "AddressLine4": "Pembrokeshire",
   "PostCode": "SA69 9HG",

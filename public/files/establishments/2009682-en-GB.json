@@ -1,24 +1,22 @@
 {
   "FHRSID": 2009682,
   "BusinessName": "Angela’s Cafe",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "164529",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "403",
   "LocalAuthorityName": "Bolton",
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": {
-    "Latitude": "53.5454964",
-    "Longitude": "-2.4731491"
-  },
-  "AddressLine2": "13 Butterfield Road",
-  "AddressLine3": "Bolton",
-  "PostCode": "BL5 1DU",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

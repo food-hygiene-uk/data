@@ -1,6 +1,6 @@
 {
   "FHRSID": 1916878,
-  "BusinessName": "Coppice Farm Primary School",
+  "BusinessName": "Coppice Farm Primary School Breakfast Club",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "4131",
   "BusinessTypeID": 7845,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.gedling.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodhealthhousinghandover@gedling.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Laver Close",
-  "AddressLine2": "Arnold",
-  "AddressLine3": "Nottinghamshire",
+  "Geocode": {
+    "Latitude": "53.001114",
+    "Longitude": "-1.107974"
+  },
+  "AddressLine1": "Coppice Farm Primary School",
+  "AddressLine2": "Laver Close",
+  "AddressLine3": "Arnold",
+  "AddressLine4": "Nottinghamshire",
   "PostCode": "NG5 7LS",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

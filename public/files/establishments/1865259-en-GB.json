@@ -1,6 +1,6 @@
 {
   "FHRSID": 1865259,
-  "BusinessName": "Foodshare",
+  "BusinessName": "Maidenhead FoodShare",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "25/00202/COM",
   "BusinessTypeID": 5,
@@ -13,14 +13,17 @@
     "Latitude": "51.5212995",
     "Longitude": "-0.7098843"
   },
-  "AddressLine1": "Thames Hospice",
-  "AddressLine2": "Unit 9 And 10",
-  "AddressLine3": "Reform Road",
-  "AddressLine4": "Maidenhead",
+  "AddressLine1": "Unit 9 And 10",
+  "AddressLine2": "Reform Road",
+  "AddressLine3": "Maidenhead",
   "PostCode": "SL6 8BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

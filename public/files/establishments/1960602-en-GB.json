@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.royalgreenwich.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Food.Concerns@royalgreenwich.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Footscray Road",
+  "Geocode": {
+    "Latitude": "51.4412402",
+    "Longitude": "0.0702241"
+  },
+  "AddressLine1": "Bardhill Club 245 Footscray Road",
   "AddressLine3": "Eltham",
   "AddressLine4": "Greenwich",
   "PostCode": "SE9 2EL",

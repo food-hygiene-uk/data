@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "https://www.westnorthants.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EnvironmentalHealth@westnorthants.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sports Ground And Premises Stanford Road",
+  "Geocode": {
+    "Latitude": "52.3774523",
+    "Longitude": "-1.0598727"
+  },
+  "AddressLine1": "Cold Ashby Sports And Social Club Pavilion Stanford Road",
   "AddressLine3": "Cold Ashby",
   "AddressLine4": "West Northamptonshire",
+  "PostCode": "NN6 6EP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

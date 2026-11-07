@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.burnley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@burnley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.7825477",
+    "Longitude": "-2.2631946"
+  },
+  "AddressLine1": "54 MELROSE AVENUE",
+  "AddressLine3": "BURNLEY",
+  "PostCode": "BB11 4DX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

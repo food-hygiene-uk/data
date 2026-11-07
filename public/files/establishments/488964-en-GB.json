@@ -1,6 +1,6 @@
 {
   "FHRSID": 488964,
-  "BusinessName": "Weobley Primary School - Caterlink",
+  "BusinessName": "Weobley Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "79438",
   "BusinessTypeID": 7845,
@@ -17,8 +17,12 @@
   "AddressLine4": "Hereford",
   "PostCode": "HR4 8ST",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2025-01-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

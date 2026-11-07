@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.cambridge.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@cambridge.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.1890141",
+    "Longitude": "0.136711"
+  },
+  "AddressLine1": "Marque House 143 Hills Road",
+  "AddressLine3": "Cambridge",
+  "AddressLine4": "Cambridgeshire",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,14 +9,17 @@
   "LocalAuthorityWebSite": "http://www.nelincs.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@nelincs.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Middlethorpe Road",
+  "Geocode": {
+    "Latitude": "53.545232",
+    "Longitude": "-0.04201"
+  },
+  "AddressLine2": "78a Middlethorpe Road",
   "AddressLine4": "Cleethorpes",
   "PostCode": "DN35 9PR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-02-22",
+  "RatingDate": "2026-10-27",
   "Scores": {
     "Hygiene": 0,
     "Structural": 5,

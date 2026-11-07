@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5200898",
+    "Longitude": "-0.5063992"
+  },
+  "AddressLine1": "41A High Street",
+  "AddressLine2": "Iver",
+  "AddressLine3": "Buckinghamshire",
+  "PostCode": "SL0 9ND",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

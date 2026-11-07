@@ -1,6 +1,6 @@
 {
   "FHRSID": 1997701,
-  "BusinessName": "Complete Sports Ltd @ Manor Farm Junior School",
+  "BusinessName": "Complete Sports Ltd at Manor Farm Junior School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "EHCP/26/00616",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Buckinghamshire",
   "PostCode": "HP15 7PH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5715059",
+    "Longitude": "-0.7791685"
+  },
+  "AddressLine1": "18 Oxford Road",
+  "AddressLine2": "Marlow",
+  "AddressLine3": "Buckinghamshire",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }
