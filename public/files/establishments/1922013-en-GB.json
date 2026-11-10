@@ -7,20 +7,24 @@
   "LocalAuthorityCode": "705",
   "LocalAuthorityName": "Cornwall",
   "LocalAuthorityWebSite": "http://www.cornwall.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "businesscompliance@cornwall.gov.uk",
   "Geocode": {
-    "Latitude": "50.296978",
-    "Longitude": "-5.2277601"
+    "Latitude": "50.298371",
+    "Longitude": "-5.228183"
   },
-  "AddressLine1": "Chapel Porth Beach",
+  "AddressLine1": "The Cafe",
   "AddressLine2": "Chapel Porth",
   "AddressLine3": "St Agnes",
   "AddressLine4": "Cornwall",
   "PostCode": "TR5 0NS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

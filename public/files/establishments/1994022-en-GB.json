@@ -1,21 +1,29 @@
 {
   "FHRSID": 1994022,
-  "BusinessName": "169 King Street",
+  "BusinessName": "Eteehad Limited trading as Brasov Supermarket",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "68168",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "229",
   "LocalAuthorityName": "Great Yarmouth",
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6064967",
+    "Longitude": "1.7275632"
+  },
   "AddressLine2": "169 King Street",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
+  "PostCode": "NR30 2PA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

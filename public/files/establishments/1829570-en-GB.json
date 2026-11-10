@@ -1,13 +1,13 @@
 {
   "FHRSID": 1829570,
-  "BusinessName": "Nisa Local",
+  "BusinessName": "Go Local",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "9104931",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "329",
   "LocalAuthorityName": "Worthing",
   "LocalAuthorityWebSite": "http://www.adur-worthing.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@adur-worthing.gov.uk",
   "Geocode": null,
   "AddressLine1": "7 - 9 Strand Parade",
@@ -15,8 +15,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "BN12 6DH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }
