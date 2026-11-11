@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.676949",
+    "Longitude": "-3.162558"
+  },
   "AddressLine1": "Croespenmaen Industrial Estate",
   "AddressLine2": "Croespenmaen Industrial Estate",
-  "AddressLine4": "Crumlin",
+  "AddressLine3": "Croespenmaen",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 3AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

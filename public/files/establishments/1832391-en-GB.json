@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6571235656738",
+    "Longitude": "-3.2330470085144"
+  },
   "AddressLine1": "Cefn Hengoed Community Centre",
   "AddressLine2": "Forest Avenue",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Cefn Hengoed",
   "PostCode": "CF82 7HZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

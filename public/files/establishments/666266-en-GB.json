@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Eaglesfield",
-  "AddressLine3": "Lockerbie",
+  "Geocode": {
+    "Latitude": "55.060074",
+    "Longitude": "-3.195308"
+  },
+  "AddressLine3": "Eaglesfield",
+  "AddressLine4": "Lockerbie",
   "PostCode": "DG11 3PA",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

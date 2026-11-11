@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.593273",
+    "Longitude": "-3.16885"
+  },
   "AddressLine1": "Flying Start Centre",
   "AddressLine2": "Addison Way",
+  "AddressLine3": "Graig-Y-Rhacca",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 8WW",
   "SchemeType": "FHRS",

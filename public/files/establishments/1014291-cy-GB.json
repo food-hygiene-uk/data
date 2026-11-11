@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6850541",
+    "Longitude": "-3.1765281"
+  },
   "AddressLine1": "Islwyn High School",
   "AddressLine2": "Waterloo",
-  "AddressLine4": "Oakdale",
+  "AddressLine3": "Oakdale",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0NU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -11,13 +11,17 @@
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": null,
   "AddressLine1": "Unit 15 & 16",
-  "AddressLine2": "Afon Court",
-  "AddressLine3": "Greenway",
+  "AddressLine2": "Afon Court  Greenway",
+  "AddressLine3": "Bedwas House Industrial Estate",
   "AddressLine4": "Bedwas",
   "PostCode": "CF83 8JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-11-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

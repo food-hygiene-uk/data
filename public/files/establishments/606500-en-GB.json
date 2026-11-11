@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6696829",
+    "Longitude": "-3.2193526"
+  },
   "AddressLine1": "Unit A2",
-  "AddressLine2": "Knights Court (Block A)",
-  "AddressLine3": "St Davids Industrial Estate",
-  "AddressLine4": "Wattsville",
+  "AddressLine2": "Knights Court (Block A)  St Davids Industrial Estate",
+  "AddressLine3": "Pengam",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 3SW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

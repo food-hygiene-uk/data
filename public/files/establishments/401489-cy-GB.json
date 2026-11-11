@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.663341",
+    "Longitude": "-3.229109"
+  },
   "AddressLine1": "Aldi",
   "AddressLine2": "New Road",
-  "AddressLine4": "Tiryberth",
+  "AddressLine3": "Tir-Y-Berth",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8AU",
   "SchemeType": "FHRS",
   "RatingValue": "1",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.703526",
+    "Longitude": "-3.207406"
+  },
   "AddressLine1": "Markham Primary School",
   "AddressLine2": "Pantycefn Road",
-  "AddressLine4": "Hollybush",
+  "AddressLine3": "Markham",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0QD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

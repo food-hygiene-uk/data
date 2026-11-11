@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7591934204102",
+    "Longitude": "-3.28623509407043"
+  },
   "AddressLine1": "Ysgol Y Lawnt",
   "AddressLine2": "The Lawn",
-  "AddressLine4": "Rhymney",
+  "AddressLine3": "Rhymney",
+  "AddressLine4": "Tredegar",
   "PostCode": "NP22 5LS",
   "SchemeType": "FHRS",
   "RatingValue": "4",

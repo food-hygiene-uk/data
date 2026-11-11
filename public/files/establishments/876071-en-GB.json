@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sanquhar Primary School",
-  "AddressLine2": "Sanquhar",
-  "AddressLine3": "Queensberry Court",
+  "Geocode": {
+    "Latitude": "55.3667706",
+    "Longitude": "-3.923552"
+  },
+  "AddressLine2": "Sanquhar Primary School",
+  "AddressLine3": "Sanquhar",
+  "AddressLine4": "Queensberry Court",
   "PostCode": "DG4 6BD",
   "SchemeType": "FHIS",
   "RatingValue": "Improvement Required",

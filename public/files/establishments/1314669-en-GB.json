@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6642877",
+    "Longitude": "-3.1944831"
+  },
   "AddressLine1": "Former St John's Ambulance Hall",
   "AddressLine2": "Gordon Road",
-  "AddressLine4": "Blackwood",
+  "AddressLine3": "Blackwood",
   "PostCode": "NP12 1DG",
   "SchemeType": "FHRS",
   "RatingValue": "4",

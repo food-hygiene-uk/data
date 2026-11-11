@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.678969",
+    "Longitude": "-3.174673"
+  },
   "AddressLine1": "Rhiw Syr Dafydd Primary School",
   "AddressLine2": "Maes-Y-Garn Road",
-  "AddressLine4": "Oakdale",
+  "AddressLine3": "Oakdale",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0NA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

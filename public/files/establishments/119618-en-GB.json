@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5872689",
+    "Longitude": "-3.2415604"
+  },
   "AddressLine1": "Lotus House",
-  "AddressLine2": "12 Shopping Parade",
-  "AddressLine3": "Troed-Y-Bryn",
-  "AddressLine4": "Penyrheol",
+  "AddressLine2": "12 Shopping Parade  Troed-Y-Bryn",
+  "AddressLine3": "Penyrheol",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 2PX",
   "SchemeType": "FHRS",
   "RatingValue": "4",

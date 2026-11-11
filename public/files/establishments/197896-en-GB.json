@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.610852",
+    "Longitude": "-3.091331"
+  },
   "AddressLine1": "Ty Sign Primary School",
   "AddressLine2": "Elm Drive",
-  "AddressLine4": "Risca",
+  "AddressLine3": "Tysign",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 6HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

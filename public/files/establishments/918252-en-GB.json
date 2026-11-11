@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6633582",
+    "Longitude": "-3.1422248"
+  },
   "AddressLine1": "Newbridge Welfare Ground",
   "AddressLine2": "Bridge Street",
-  "AddressLine4": "Newbridge",
+  "AddressLine3": "Newbridge",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",

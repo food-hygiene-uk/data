@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6031951904297",
+    "Longitude": "-3.08909702301025"
+  },
   "AddressLine1": "R/O",
   "AddressLine2": "Springfield Road",
-  "AddressLine4": "Pontymister",
+  "AddressLine3": "Pontymister",
+  "AddressLine4": "Risca",
   "PostCode": "NP11 6LY",
   "SchemeType": "FHRS",
   "RatingValue": "5",

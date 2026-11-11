@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.665317",
+    "Longitude": "-3.206853"
+  },
   "AddressLine1": "Cefn Glas",
   "AddressLine2": "Maes-Y-Coed",
+  "AddressLine3": "Highfields",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 1HD",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

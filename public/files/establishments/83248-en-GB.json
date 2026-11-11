@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.619182",
+    "Longitude": "-3.125259"
+  },
   "AddressLine1": "Waunfawr Primary School",
   "AddressLine2": "Waunfawr Road",
-  "AddressLine4": "Wattsville",
+  "AddressLine3": "Crosskeys",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 7PG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

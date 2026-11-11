@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.693231",
+    "Longitude": "-3.191434"
+  },
   "AddressLine1": "Argoed Reform Club",
   "AddressLine2": "High Street",
-  "AddressLine4": "Hollybush",
+  "AddressLine3": "Argoed",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0HQ",
   "SchemeType": "FHRS",
   "RatingValue": "3",

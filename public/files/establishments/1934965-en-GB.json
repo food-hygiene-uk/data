@@ -1,6 +1,6 @@
 {
   "FHRSID": 1934965,
-  "BusinessName": "Adel Primary Scholl",
+  "BusinessName": "Adel Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00116/COMM",
   "BusinessTypeID": 7845,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.leeds.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@leeds.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Adel Primary School",
-  "AddressLine2": "Tile Lane",
-  "AddressLine3": "Adel",
-  "AddressLine4": "Leeds",
+  "Geocode": {
+    "Latitude": "53.849937",
+    "Longitude": "-1.576901"
+  },
+  "AddressLine1": "Tile Lane",
+  "AddressLine2": "Adel",
+  "AddressLine3": "Leeds",
   "PostCode": "LS16 8DY",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

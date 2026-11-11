@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6627349853516",
+    "Longitude": "-3.25248694419861"
+  },
   "AddressLine1": "4 The Shopping Centre",
   "AddressLine2": "St Cattwg's Avenue",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Gelligaer",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8FD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

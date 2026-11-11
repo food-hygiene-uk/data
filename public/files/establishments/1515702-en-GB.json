@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Newton Stewart",
-  "AddressLine3": "Creetown",
+  "Geocode": {
+    "Latitude": "54.899656",
+    "Longitude": "-4.3815569"
+  },
+  "AddressLine2": "Castle Cary Caravan Park",
+  "AddressLine3": "Newton Stewart",
+  "AddressLine4": "Creetown",
   "PostCode": "DG8 7DQ",
   "SchemeType": "FHIS",
   "RatingValue": "Awaiting Inspection",

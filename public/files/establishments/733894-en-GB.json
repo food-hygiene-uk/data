@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.638167",
+    "Longitude": "-3.237402"
+  },
   "AddressLine1": "Trinity Fields School And Resource Centre",
   "AddressLine2": "Caerphilly Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 7XW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

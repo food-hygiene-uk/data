@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.66544",
+    "Longitude": "-3.25768"
+  },
   "AddressLine1": "Greenhill Primary School Kitchen",
   "AddressLine2": "Penywrlod",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Gelligaer",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8EU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9854126",
+    "Longitude": "-3.1811182"
+  },
+  "AddressLine1": "22 Ladysmith Road",
+  "AddressLine2": "Eastriggs",
+  "AddressLine4": "Dumfries And Galloway",
+  "PostCode": "DG12 6QD",
   "SchemeType": "FHIS",
-  "RatingValue": "Pass",
-  "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2022-01-31",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhis_exempt_en-GB",
+  "RatingDate": "2024-10-22",
   "Scores": null
 }

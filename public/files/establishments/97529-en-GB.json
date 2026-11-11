@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.640591",
+    "Longitude": "-3.234448"
+  },
   "AddressLine1": "Lewis Girls Comprehensive Scho",
   "AddressLine2": "Oakfield Street",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 7WW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

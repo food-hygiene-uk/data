@@ -1,13 +1,13 @@
 {
   "FHRSID": 252588,
-  "BusinessName": "Aramark @ Derby College Group Little Explorer's Nursery",
+  "BusinessName": "Little Explorer's Nursery",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "104401",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "066",
   "LocalAuthorityName": "Erewash",
   "LocalAuthorityWebSite": "http://www.erewash.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@erewash.gov.uk",
   "Geocode": {
     "Latitude": "52.969809",
@@ -17,8 +17,12 @@
   "AddressLine4": "Morley",
   "PostCode": "DE7 6DF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

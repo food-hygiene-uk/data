@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6473771",
+    "Longitude": "-3.2247"
+  },
   "AddressLine1": "Junction Inn",
   "AddressLine2": "9 King's Hill",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Hengoed",
   "PostCode": "CF82 7RA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

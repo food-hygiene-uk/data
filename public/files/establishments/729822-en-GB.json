@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Parkhead Court",
-  "AddressLine3": "Dumfries",
+  "Geocode": {
+    "Latitude": "55.07046255",
+    "Longitude": "-3.58564005"
+  },
+  "AddressLine3": "Parkhead Court",
+  "AddressLine4": "Dumfries",
   "PostCode": "DG1 3JF",
   "SchemeType": "FHIS",
   "RatingValue": "Pass and Eat Safe",

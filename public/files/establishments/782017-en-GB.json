@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Stranraer",
-  "AddressLine3": "Drummore",
+  "Geocode": {
+    "Latitude": "54.6357811",
+    "Longitude": "-4.8570879"
+  },
+  "AddressLine1": "Private Access From U169w To Termination At Mull Of Galloway Lighthouse",
+  "AddressLine2": "Drummore",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG9 9HP",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

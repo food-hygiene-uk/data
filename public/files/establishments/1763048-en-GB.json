@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.663698",
+    "Longitude": "-3.25662"
+  },
   "AddressLine1": "Community Centre",
   "AddressLine2": "Aneurin Bevan Avenue",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Gelligaer",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8ES",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5820846557617",
+    "Longitude": "-3.21942496299744"
+  },
   "AddressLine1": "Y Gwyndy - Ysgol Gyfun Cwm Rhymni",
   "AddressLine2": "Pontygwindy Road",
-  "AddressLine4": "Caerphilly",
+  "AddressLine3": "Caerphilly",
   "PostCode": "CF83 3HG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

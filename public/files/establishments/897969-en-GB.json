@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.658451",
+    "Longitude": "-3.235845"
+  },
   "AddressLine1": "Derwendeg Primary School",
   "AddressLine2": "Hengoed Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Cefn Hengoed",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 7HP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

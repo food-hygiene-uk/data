@@ -1,6 +1,6 @@
 {
   "FHRSID": 1959522,
-  "BusinessName": "Saipem",
+  "BusinessName": "The Genuine Dining Company",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "402364",
   "BusinessTypeID": 1,
@@ -13,14 +13,18 @@
     "Latitude": "53.3447413",
     "Longitude": "-3.319593"
   },
-  "AddressLine1": "Saipem",
+  "AddressLine1": "The Genuine Dining Company",
   "AddressLine2": "Point of Ayr Terminal",
   "AddressLine3": "Station Road Talacre",
   "AddressLine4": "Flintshire",
   "PostCode": "CH8 9RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-10-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

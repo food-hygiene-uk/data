@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Portree House",
-  "AddressLine2": "Stranraer",
-  "AddressLine3": "Portpatrick",
+  "Geocode": {
+    "Latitude": "54.8404335",
+    "Longitude": "-5.1025919"
+  },
+  "AddressLine2": "Portree House",
+  "AddressLine3": "Stranraer",
+  "AddressLine4": "Portpatrick",
   "PostCode": "DG9 9AA",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

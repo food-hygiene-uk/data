@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.648058",
+    "Longitude": "-3.132304"
+  },
   "AddressLine1": "Ysgol Gymraeg Cwm Gwyddon",
   "AddressLine2": "Gwyddon Road",
-  "AddressLine4": "Wattsville",
+  "AddressLine3": "Abercarn",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 5GX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.589654",
+    "Longitude": "-3.2246414"
+  },
   "AddressLine1": "Unit F",
   "AddressLine2": "37 Sir Alfred Owen Way",
+  "AddressLine3": "Pontygwindy Industrial Estate",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 3HU",
   "SchemeType": "FHRS",

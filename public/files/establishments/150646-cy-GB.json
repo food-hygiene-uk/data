@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5783285",
+    "Longitude": "-3.238086"
+  },
+  "AddressLine1": "88 St Cenydd Road",
   "AddressLine2": "88 Heol St Cenydd",
+  "AddressLine3": "Trecenydd",
   "AddressLine4": "Caerffili",
   "PostCode": "CF83 2TE",
   "SchemeType": "FHRS",

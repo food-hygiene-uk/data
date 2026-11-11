@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.766568",
+    "Longitude": "-3.290082"
+  },
   "AddressLine1": "Upper Rhymney Primary School",
   "AddressLine2": "Oakland Terrace",
-  "AddressLine4": "Rhymney",
+  "AddressLine3": "Rhymney",
+  "AddressLine4": "Tredegar",
   "PostCode": "NP22 5EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

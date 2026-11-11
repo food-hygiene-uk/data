@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
-    "Latitude": "51.6335751",
-    "Longitude": "-3.2409307"
+    "Latitude": "51.634237",
+    "Longitude": "-3.240069"
   },
   "AddressLine1": "Coleg Y Cymoedd - Ystrad Mynach Campus",
   "AddressLine2": "Twyn Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 7XR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-10-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

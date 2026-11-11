@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.676658",
+    "Longitude": "-3.177346"
+  },
   "AddressLine1": "Community Centre",
   "AddressLine2": "Pen-Rhiw Avenue",
-  "AddressLine4": "Oakdale",
+  "AddressLine3": "Oakdale",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0NH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

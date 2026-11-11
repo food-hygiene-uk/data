@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.582329",
+    "Longitude": "-3.248427"
+  },
   "AddressLine1": "Hendredenny Park Primary Schoo",
   "AddressLine2": "White Cross Lane",
-  "AddressLine4": "Penyrheol",
+  "AddressLine3": "Hendredenny Estate",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 2RL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

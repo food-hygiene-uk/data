@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6439096",
+    "Longitude": "-3.2321221"
+  },
   "AddressLine1": "Hengoed Gospel Hall",
   "AddressLine2": "Davies Street",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8AD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

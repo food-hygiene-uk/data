@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.647851",
+    "Longitude": "-3.13412"
+  },
   "AddressLine1": "Abercarn Working Mens Club",
   "AddressLine2": "Market Place",
-  "AddressLine4": "Abercarn",
+  "AddressLine3": "Abercarn",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 5GW",
   "SchemeType": "FHRS",
   "RatingValue": "4",

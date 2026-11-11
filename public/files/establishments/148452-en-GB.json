@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "Varlin Court",
+  "Geocode": {
+    "Latitude": "51.5699455",
+    "Longitude": "-3.2377838"
+  },
+  "AddressLine1": "Varlin Court",
+  "AddressLine3": "Western Industrial Estate",
   "AddressLine4": "Caerphilly",
   "PostCode": "CF83 1BQ",
   "SchemeType": "FHRS",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.653223",
+    "Longitude": "-3.196267"
+  },
   "AddressLine1": "Penllwyn Millennium Community Centre",
   "AddressLine2": "Penllwyn Lane",
-  "AddressLine4": "Pontllanfraith",
+  "AddressLine3": "Pontllanfraith",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 2EQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

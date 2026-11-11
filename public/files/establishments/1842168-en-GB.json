@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6168",
+    "Longitude": "-3.151169"
+  },
   "AddressLine1": "Ty Hafod Tudor",
   "AddressLine2": "Hafod Tudor Terrace",
-  "AddressLine4": "Wattsville",
+  "AddressLine3": "Wattsville",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 7QQ",
   "SchemeType": "FHRS",
   "RatingValue": "4",

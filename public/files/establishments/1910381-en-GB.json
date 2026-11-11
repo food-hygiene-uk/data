@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5901342",
+    "Longitude": "-3.2324718"
+  },
   "AddressLine1": "The Haven",
   "AddressLine2": "21 Heol Pwllypant",
-  "AddressLine4": "Penyrheol",
+  "AddressLine3": "Energlyn",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 2ND",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "Dan-Y-Coed",
-  "AddressLine4": "Gelligaer",
+  "Geocode": {
+    "Latitude": "51.6521984",
+    "Longitude": "-3.23357215"
+  },
+  "AddressLine1": "Dan-Y-Coed",
+  "AddressLine3": "Hengoed",
   "PostCode": "CF82 7LP",
   "SchemeType": "FHRS",
   "RatingValue": "4",

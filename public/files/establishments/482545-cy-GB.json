@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.587632",
+    "Longitude": "-3.241788"
+  },
   "AddressLine1": "Penyrheol Bowling Pavilion",
   "AddressLine2": "Heol Aneurin",
-  "AddressLine4": "Caerphilly",
+  "AddressLine3": "Caerphilly",
+  "AddressLine4": "M Glam",
   "PostCode": "CF83 2PG",
   "SchemeType": "FHRS",
   "RatingValue": "5",

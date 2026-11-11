@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.640088",
+    "Longitude": "-3.236053"
+  },
   "AddressLine1": "Cameron House",
   "AddressLine2": "57 Commercial Street",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
   "PostCode": "CF82 7DW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

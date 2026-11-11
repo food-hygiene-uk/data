@@ -9,8 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine3": "Thornhill",
+  "Geocode": {
+    "Latitude": "55.2822023",
+    "Longitude": "-3.7890898"
+  },
+  "AddressLine1": "C133n From A76 North Of Carronbridge To A702 Near Holestane",
+  "AddressLine2": "Thornhill",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG3 5BD",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

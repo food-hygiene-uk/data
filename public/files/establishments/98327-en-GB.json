@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.686897",
+    "Longitude": "-3.233683"
+  },
   "AddressLine1": "Park Primary School",
   "AddressLine2": "Park Crescent",
-  "AddressLine4": "Bargoed",
+  "AddressLine3": "Bargoed",
   "PostCode": "CF81 8PN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

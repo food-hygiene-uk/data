@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6563501",
+    "Longitude": "-3.251254"
+  },
   "AddressLine1": "Fox & Hounds",
   "AddressLine2": "Trosnant Crescent",
+  "AddressLine3": "Penybryn",
   "AddressLine4": "Hengoed",
   "PostCode": "CF82 7FX",
   "SchemeType": "FHRS",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.598286",
+    "Longitude": "-3.079147"
+  },
   "AddressLine1": "Rogerstone Park",
   "AddressLine2": "Azalea Road",
-  "AddressLine4": "Risca",
+  "AddressLine3": "Risca",
+  "AddressLine4": "Gwent",
   "PostCode": "NP10 9SA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.650321",
+    "Longitude": "-3.280447"
+  },
   "AddressLine1": "2 Colliers Cottages",
   "AddressLine2": "Caerphilly Road",
-  "AddressLine4": "Nelson",
+  "AddressLine3": "Nelson Treharris",
+  "AddressLine4": "Mid Glamorgan",
   "PostCode": "CF46 6NH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

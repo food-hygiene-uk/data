@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.624058",
+    "Longitude": "-3.185287"
+  },
   "AddressLine1": "Ynysddu Primary School",
   "AddressLine2": "High Street",
-  "AddressLine4": "Wattsville",
+  "AddressLine3": "Ynysddu",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 7JH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

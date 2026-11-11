@@ -1,24 +1,29 @@
 {
   "FHRSID": 2007966,
-  "BusinessName": "The Manse",
+  "BusinessName": "The Manse Care Home",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000237563",
   "BusinessTypeID": 5,
   "LocalAuthorityCode": "432",
   "LocalAuthorityName": "Wakefield",
   "LocalAuthorityWebSite": "http://www.wakefield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@wakefield.gov.uk",
   "Geocode": {
-    "Latitude": "53.709824",
-    "Longitude": "-1.241728"
+    "Latitude": "53.7097912",
+    "Longitude": "-1.2422691"
   },
-  "AddressLine1": "Ropewalk",
-  "AddressLine2": "Knottingley",
+  "AddressLine1": "The Manse",
+  "AddressLine2": "Ropewalk",
+  "AddressLine3": "Knottingley",
   "PostCode": "WF11 9AL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

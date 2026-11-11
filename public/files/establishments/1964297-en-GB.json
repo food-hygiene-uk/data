@@ -1,13 +1,13 @@
 {
   "FHRSID": 1964297,
   "BusinessName": "Pars Catering Supplies",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "PI/000708456",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
     "Latitude": "52.469385",
@@ -17,8 +17,12 @@
   "AddressLine2": "Birmingham",
   "PostCode": "B12 0SJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

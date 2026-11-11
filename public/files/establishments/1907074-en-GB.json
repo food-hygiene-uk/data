@@ -1,13 +1,13 @@
 {
   "FHRSID": 1907074,
-  "BusinessName": "Yulin Chinese Food, Gaga Xiang Chinese Food",
+  "BusinessName": "Yulin Chinese Food",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "218515",
   "BusinessTypeID": 7841,
   "LocalAuthorityCode": "530",
   "LocalAuthorityName": "Tower Hamlets",
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
   "Geocode": {
     "Latitude": "51.5263914",
@@ -18,8 +18,12 @@
   "AddressLine3": "London",
   "PostCode": "E2 0EJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

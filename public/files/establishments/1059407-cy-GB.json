@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6583701",
+    "Longitude": "-3.1758186"
+  },
   "AddressLine1": "Unit 15-19",
-  "AddressLine2": "Block C",
-  "AddressLine3": "Newbridge Road Industrial Esta",
-  "AddressLine4": "Pontllanfraith",
+  "AddressLine2": "Block C  Newbridge Road Industrial Esta",
+  "AddressLine3": "Pontllanfraith",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 2XF",
   "SchemeType": "FHRS",
   "RatingValue": "4",

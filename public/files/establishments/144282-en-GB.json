@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.708468",
+    "Longitude": "-3.266646"
+  },
   "AddressLine1": "Deri Primary School",
   "AddressLine2": "Glynmarch Street",
-  "AddressLine4": "Fochriw",
+  "AddressLine3": "Deri",
+  "AddressLine4": "Bargoed",
   "PostCode": "CF81 9HZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7630462646484",
+    "Longitude": "-3.29099297523499"
+  },
   "AddressLine1": "Whitbread Sports And Social Club",
   "AddressLine2": "The Terrace",
-  "AddressLine4": "Rhymney",
+  "AddressLine3": "Rhymney",
+  "AddressLine4": "Tredegar",
   "PostCode": "NP22 5HT",
   "SchemeType": "FHRS",
   "RatingValue": "4",

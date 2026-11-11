@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.660637",
+    "Longitude": "-3.215966"
+  },
   "AddressLine1": "Ysgol Gyfun Cwm Rhymni",
   "AddressLine2": "New Road",
-  "AddressLine4": "Fleur-de-lis",
+  "AddressLine3": "Fleur-De-Lis",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 3JQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.597395",
+    "Longitude": "-3.268909"
+  },
   "AddressLine1": "Cwmaber Junior School",
   "AddressLine2": "Brynhafod Road",
-  "AddressLine4": "Abertridwr",
+  "AddressLine3": "Abertridwr",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 4BH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

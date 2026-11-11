@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "4 Lancelyn Court Precinct",
-  "AddressLine2": "Spital Road",
+  "Geocode": {
+    "Latitude": "53.3409936",
+    "Longitude": "-3.0036783"
+  },
+  "AddressLine1": "4 Lancelyn Court Precinct Spital Road",
   "AddressLine3": "Bebington",
+  "AddressLine4": "Wirral",
   "PostCode": "CH63 9JP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-11-25",
+  "RatingDate": "2026-10-14",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
   }
 }

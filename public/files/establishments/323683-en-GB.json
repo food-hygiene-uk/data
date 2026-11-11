@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.657259",
+    "Longitude": "-3.184043"
+  },
   "AddressLine1": "Pontllanfraith Primary School",
   "AddressLine2": "Penmaen Road",
-  "AddressLine4": "Pontllanfraith",
+  "AddressLine3": "Pontllanfraith",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 2DN",
   "SchemeType": "FHRS",
   "RatingValue": "5",

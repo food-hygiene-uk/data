@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.middevon.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@middevon.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Marks & Spencers Simply Food",
-  "AddressLine2": "Phoenix Lane",
-  "AddressLine3": "Tiverton",
-  "AddressLine4": "Devon",
+  "Geocode": {
+    "Latitude": "50.90228763",
+    "Longitude": "-3.48708369"
+  },
+  "AddressLine1": "Phoenix Lane",
+  "AddressLine2": "Tiverton",
+  "AddressLine3": "Devon",
   "PostCode": "EX16 6LU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

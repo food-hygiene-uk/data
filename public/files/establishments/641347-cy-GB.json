@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "3 Woodside",
-  "AddressLine4": "Gelligaer",
+  "Geocode": {
+    "Latitude": "51.6627371",
+    "Longitude": "-3.2288014"
+  },
+  "AddressLine1": "3 Woodside",
+  "AddressLine3": "Tir-Y-Berth",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",

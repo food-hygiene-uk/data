@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine3": "Dumfries",
+  "Geocode": {
+    "Latitude": "55.1046775",
+    "Longitude": "-3.5804126"
+  },
+  "AddressLine3": "Lochar House",
+  "AddressLine4": "Dumfries",
   "PostCode": "DG1 3NU",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

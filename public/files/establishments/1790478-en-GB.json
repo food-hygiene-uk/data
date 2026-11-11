@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.7421099",
+    "Longitude": "-3.2540856"
+  },
   "AddressLine1": "Mclaren House",
   "AddressLine2": "14 Mclaren Cottages",
-  "AddressLine4": "Rhymney",
+  "AddressLine3": "Abertysswg",
+  "AddressLine4": "Tredegar",
   "PostCode": "NP22 5BH",
   "SchemeType": "FHRS",
   "RatingValue": "4",

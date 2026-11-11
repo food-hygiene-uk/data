@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6829223632813",
+    "Longitude": "-3.16320300102234"
+  },
   "AddressLine1": "Lower Ton-Y-Felin Farm",
-  "AddressLine4": "Croespenmaen",
+  "AddressLine3": "Croespenmaen",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 3BE",
   "SchemeType": "FHRS",
   "RatingValue": "5",

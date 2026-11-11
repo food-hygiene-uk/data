@@ -9,12 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Drummore Harbour",
-  "PostCode": "DG9 9PT",
+  "Geocode": {
+    "Latitude": "54.6919498",
+    "Longitude": "-4.8889898"
+  },
+  "AddressLine1": "Harbour Road",
+  "AddressLine2": "Drummore",
+  "AddressLine4": "Dumfries And Galloway",
+  "PostCode": "DG9 9QF",
   "SchemeType": "FHIS",
   "RatingValue": "Exempt",
   "RatingKey": "fhis_exempt_en-GB",
-  "RatingDate": "2020-12-01",
+  "RatingDate": "2026-09-30",
   "Scores": null
 }

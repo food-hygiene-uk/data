@@ -1,13 +1,13 @@
 {
   "FHRSID": 2005454,
-  "BusinessName": "Corner Express Shop Ltd",
+  "BusinessName": "Corner Express Shop PB Ltd",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "123918",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "888",
   "LocalAuthorityName": "Peterborough City",
   "LocalAuthorityWebSite": "http://www.peterborough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@peterborough.gov.uk",
   "Geocode": {
     "Latitude": "52.5782697",
@@ -18,8 +18,12 @@
   "AddressLine4": "Peterborough",
   "PostCode": "PE3 6EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.666537",
+    "Longitude": "-3.192945"
+  },
   "AddressLine1": "Blackwood Rugby Club",
   "AddressLine2": "Hall Street",
-  "AddressLine4": "Blackwood",
+  "AddressLine3": "Blackwood",
   "PostCode": "NP12 1NY",
   "SchemeType": "FHRS",
   "RatingValue": "3",

@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6660486",
+    "Longitude": "-3.1954162"
+  },
   "AddressLine1": "124-128",
   "AddressLine2": "124-128 Stryd Fawr",
   "AddressLine3": "Coed Duon",
-  "AddressLine4": "Blackwood",
   "PostCode": "NP12 1AF",
   "SchemeType": "FHRS",
   "RatingValue": "5",

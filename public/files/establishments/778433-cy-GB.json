@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.607049",
+    "Longitude": "-3.10181"
+  },
   "AddressLine1": "The Pavillion",
   "AddressLine2": "Fields Road",
-  "AddressLine4": "Caerphilly",
+  "AddressLine3": "Pontymister",
+  "AddressLine4": "Risca",
   "PostCode": "NP11 6BY",
   "SchemeType": "FHRS",
   "RatingValue": "5",

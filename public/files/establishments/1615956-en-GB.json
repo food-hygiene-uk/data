@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Glentrool",
-  "AddressLine3": "Newton Stewart",
+  "Geocode": {
+    "Latitude": "55.0717544",
+    "Longitude": "-4.5748803"
+  },
+  "AddressLine1": "1 Glentrool",
+  "AddressLine2": "Newton Stewart",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG8 6SY",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

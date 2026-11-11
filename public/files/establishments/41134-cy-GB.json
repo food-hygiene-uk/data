@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "Riverbank Court",
+  "Geocode": {
+    "Latitude": "51.5914475",
+    "Longitude": "-3.1817063"
+  },
+  "AddressLine1": "Riverbank Court",
+  "AddressLine3": "Newport Road",
   "AddressLine4": "Trethomas",
   "PostCode": "CF83 8BY",
   "SchemeType": "FHRS",

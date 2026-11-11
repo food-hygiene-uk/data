@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.703079",
+    "Longitude": "-3.206222"
+  },
   "AddressLine1": "King George Fields",
   "AddressLine2": "Pantycefn Road",
-  "AddressLine4": "Hollybush",
+  "AddressLine3": "Markham",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 0QX",
   "SchemeType": "FHRS",
   "RatingValue": "5",

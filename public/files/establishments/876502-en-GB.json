@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Childcare Centre London Road",
-  "AddressLine3": "Stranraer",
+  "Geocode": {
+    "Latitude": "54.9067177",
+    "Longitude": "-5.0087686"
+  },
+  "AddressLine1": "1 Cairnport Road",
+  "AddressLine2": "Stranraer",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG9 8BQ",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",

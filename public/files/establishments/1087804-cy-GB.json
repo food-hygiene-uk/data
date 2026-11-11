@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "Parkway",
-  "AddressLine4": "Croespenmaen",
+  "Geocode": {
+    "Latitude": "51.69743",
+    "Longitude": "-3.1590265"
+  },
+  "AddressLine1": "Parkway",
+  "AddressLine3": "Pen-Y-Fan Industrial Estate",
+  "AddressLine4": "Pen-Y-Fan",
   "PostCode": "NP11 3EF",
   "SchemeType": "FHRS",
   "RatingValue": "4",

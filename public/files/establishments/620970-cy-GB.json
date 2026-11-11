@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6425628662109",
+    "Longitude": "-3.23314309120178"
+  },
   "AddressLine1": "Lidl Foodstores",
   "AddressLine2": "Pengam Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 8AA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6499213",
+    "Longitude": "-3.1879954"
+  },
   "AddressLine1": "Unit 3",
-  "AddressLine2": "Blackwood Business Park",
-  "AddressLine3": "Newport Road",
-  "AddressLine4": "Pontllanfraith",
+  "AddressLine2": "Blackwood Business Park  Newport Road",
+  "AddressLine3": "Pontllanfraith",
+  "AddressLine4": "Blackwood",
   "PostCode": "NP12 2XH",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

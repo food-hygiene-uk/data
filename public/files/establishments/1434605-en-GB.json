@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "Newton Stewart",
-  "AddressLine3": "Bargrennan",
+  "Geocode": {
+    "Latitude": "55.0708042",
+    "Longitude": "-4.6012354"
+  },
+  "AddressLine1": "A714 From C46w At Bargrennan To Region Boundary",
+  "AddressLine2": "Bargrennan",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG8 6RW",
   "SchemeType": "FHIS",
   "RatingValue": "Exempt",

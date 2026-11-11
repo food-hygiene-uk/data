@@ -14,13 +14,17 @@
     "Longitude": "-3.128436"
   },
   "AddressLine1": "Protein shack",
-  "AddressLine2": "Castlefields",
+  "AddressLine2": "Flint Town United Castlefields",
   "AddressLine3": "Marsh Lane",
   "AddressLine4": "Flintshire",
   "PostCode": "CH6 5PJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

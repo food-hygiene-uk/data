@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5936287",
+    "Longitude": "-3.2111998"
+  },
   "AddressLine1": "Unit B",
   "AddressLine2": "6 Greenway",
-  "AddressLine4": "Caerphilly",
+  "AddressLine3": "Bedwas House Industrial Estate",
+  "AddressLine4": "Bedwas",
   "PostCode": "CF83 8DW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

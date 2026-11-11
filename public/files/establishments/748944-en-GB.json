@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.655578",
+    "Longitude": "-3.243963"
+  },
   "AddressLine1": "Ysgol Penalltau",
   "AddressLine2": "Cwm Calon Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Penallta",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 6AP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

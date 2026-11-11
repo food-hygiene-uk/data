@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Queens Arms Hotel 22 Main Street",
-  "AddressLine2": "Newton Stewart",
-  "AddressLine3": "Isle Of Whithorn",
+  "Geocode": {
+    "Latitude": "54.7009024",
+    "Longitude": "-4.3668973"
+  },
+  "AddressLine1": "22 Main Street",
+  "AddressLine2": "Isle Of Whithorn",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG8 8LF",
   "SchemeType": "FHIS",
   "RatingValue": "Exempt",

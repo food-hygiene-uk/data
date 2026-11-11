@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.600738",
+    "Longitude": "-3.231172"
+  },
   "AddressLine1": "Coed-Y-Brain Primary School",
   "AddressLine2": "School Street",
-  "AddressLine4": "Pwllypant",
+  "AddressLine3": "Llanbradach",
+  "AddressLine4": "Caerphilly",
   "PostCode": "CF83 3LD",
   "SchemeType": "FHRS",
   "RatingValue": "5",

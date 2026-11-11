@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.659114",
+    "Longitude": "-3.228374"
+  },
   "AddressLine1": "Glan Rhymney Farm",
   "AddressLine2": "Tir-Y-Berth",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Hengoed",
   "PostCode": "CF82 8BF",
   "SchemeType": "FHRS",
   "RatingValue": "5",

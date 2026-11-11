@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.44617629",
+    "Longitude": "-0.18941802"
+  },
   "AddressLine1": "224 Garratt Lane",
   "AddressLine3": "London",
   "AddressLine4": "Wandsworth",
-  "PostCode": "SW18 4DZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

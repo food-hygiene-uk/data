@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6806282",
+    "Longitude": "-3.1887706"
+  },
   "AddressLine1": "The Rock",
   "AddressLine2": "Tredegar Road",
-  "AddressLine4": "Blackwood",
+  "AddressLine3": "Blackwood",
   "PostCode": "NP12 1DD",
   "SchemeType": "FHRS",
   "RatingValue": "1",

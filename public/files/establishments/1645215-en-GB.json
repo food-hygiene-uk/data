@@ -9,9 +9,12 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
-  "AddressLine2": "4 King's Hill",
-  "AddressLine4": "Gelligaer",
+  "Geocode": {
+    "Latitude": "51.6478291",
+    "Longitude": "-3.2270539"
+  },
+  "AddressLine1": "4 King's Hill",
+  "AddressLine3": "Hengoed",
   "PostCode": "CF82 7NH",
   "SchemeType": "FHRS",
   "RatingValue": "5",

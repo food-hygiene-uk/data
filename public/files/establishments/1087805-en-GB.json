@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.619395",
+    "Longitude": "-3.180485"
+  },
   "AddressLine1": "Cwmfelinfach Primary School",
   "AddressLine2": "King Street",
-  "AddressLine4": "Wattsville",
+  "AddressLine3": "Cwmfelinfach",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 7HL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

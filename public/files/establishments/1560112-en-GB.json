@@ -1,18 +1,25 @@
 {
   "FHRSID": 1560112,
   "BusinessName": "Kirkcudbrightshire Honey",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Farmers/growers",
   "LocalAuthorityBusinessID": "107590",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7838,
   "LocalAuthorityCode": "770",
   "LocalAuthorityName": "Dumfries and Galloway",
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.7944072",
+    "Longitude": "-4.033776"
+  },
+  "AddressLine1": "U85s From U47s At Townhead To U48s At Dunrod Mill",
+  "AddressLine2": "Kirkcudbright",
+  "AddressLine4": "Dumfries And Galloway",
+  "PostCode": "DG6 4XQ",
   "SchemeType": "FHIS",
-  "RatingValue": "Pass",
-  "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2022-10-25",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhis_exempt_en-GB",
+  "RatingDate": "2024-10-25",
   "Scores": null
 }

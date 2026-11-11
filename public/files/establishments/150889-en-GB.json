@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.633302",
+    "Longitude": "-3.23584"
+  },
   "AddressLine1": "Ystrad Mynach Police Station",
   "AddressLine2": "Caerphilly Road",
-  "AddressLine4": "Gelligaer",
+  "AddressLine3": "Ystrad Mynach",
+  "AddressLine4": "Hengoed",
   "PostCode": "CF82 7EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

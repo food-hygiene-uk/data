@@ -1,21 +1,25 @@
 {
   "FHRSID": 1434452,
   "BusinessName": "Stair Estates Sporting Department",
-  "BusinessType": "Manufacturers/packers",
+  "BusinessType": "Farmers/growers",
   "LocalAuthorityBusinessID": "105876",
-  "BusinessTypeID": 7839,
+  "BusinessTypeID": 7838,
   "LocalAuthorityCode": "770",
   "LocalAuthorityName": "Dumfries and Galloway",
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Kennels Lochinch Castle",
-  "AddressLine3": "Stranraer",
+  "Geocode": {
+    "Latitude": "54.9147141",
+    "Longitude": "-4.9558846"
+  },
+  "AddressLine1": "The Kennels Private Access From A75 At C16w To Lochinch Castle",
+  "AddressLine2": "Stranraer",
+  "AddressLine4": "Dumfries And Galloway",
   "PostCode": "DG9 8RT",
   "SchemeType": "FHIS",
   "RatingValue": "Exempt",
   "RatingKey": "fhis_exempt_en-GB",
-  "RatingDate": "2017-11-10",
+  "RatingDate": "2026-11-02",
   "Scores": null
 }

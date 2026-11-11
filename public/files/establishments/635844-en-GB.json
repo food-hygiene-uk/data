@@ -1,29 +1,30 @@
 {
   "FHRSID": 635844,
-  "BusinessName": "Abbey Road Garage",
+  "BusinessName": "Abbey Way Services",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "05280/2000/2/000",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "125",
   "LocalAuthorityName": "Cotswold",
   "LocalAuthorityWebSite": "http://www.cotswold.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ers@Publicagroup.uk",
   "Geocode": {
-    "Latitude": "51.735445",
-    "Longitude": "-1.977751"
+    "Latitude": "51.7232927",
+    "Longitude": "-1.9738708"
   },
-  "AddressLine1": "Gloucester Street",
-  "AddressLine2": "Cirencester",
-  "AddressLine3": "Gloucestershire",
-  "PostCode": "GL7 2ND",
+  "AddressLine1": "SPAR",
+  "AddressLine2": "Abbey Road Garage",
+  "AddressLine3": "Gloucester Street",
+  "AddressLine4": "Cirencester",
+  "PostCode": "GL7 2DR",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-04-13",
+  "RatingDate": "2026-10-06",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 10,
+    "Hygiene": 5,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

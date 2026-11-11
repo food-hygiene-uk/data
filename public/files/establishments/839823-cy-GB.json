@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.621795",
+    "Longitude": "-3.127461"
+  },
   "AddressLine1": "Cross Keys Hotel",
   "AddressLine2": "High Street",
-  "AddressLine4": "Crosskeys",
+  "AddressLine3": "Crosskeys",
+  "AddressLine4": "Newport",
   "PostCode": "NP11 7BY",
   "SchemeType": "FHRS",
   "RatingValue": "3",
