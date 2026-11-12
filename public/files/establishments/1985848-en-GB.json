@@ -1,6 +1,6 @@
 {
   "FHRSID": 1985848,
-  "BusinessName": "Tesco Stores Limited",
+  "BusinessName": "Tesco Express",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "NAYF99-V4Z92R-TL1ZJ2",
   "BusinessTypeID": 7840,
@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Tesco (3306) Middleston Moor  1 Binchester House",
-  "AddressLine3": "Spennymoor  County Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.6885384",
+    "Longitude": "-1.6233654"
+  },
+  "AddressLine1": "UNIT 1 BINCHESTER HOUSE DURHAM ROAD",
+  "AddressLine3": "MIDDLESTONE MOOR",
   "PostCode": "DL16 7AP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

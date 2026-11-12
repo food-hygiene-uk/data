@@ -13,13 +13,16 @@
     "Latitude": "54.7672941",
     "Longitude": "-1.3475859"
   },
-  "AddressLine1": "One Stop York Road",
-  "AddressLine3": "Peterlee",
-  "AddressLine4": "United Kingdom",
+  "AddressLine1": "ONE STOP YORK ROAD",
+  "AddressLine3": "PETERLEE",
   "PostCode": "SR8 2DP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

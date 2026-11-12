@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "CHILTON WAY CHILTON INDUSTRIAL ESTATE",
+  "Geocode": {
+    "Latitude": "54.6657721",
+    "Longitude": "-1.5635619"
+  },
+  "AddressLine1": "CHILTON FILLING STATION CHILTON WAY",
+  "AddressLine2": "CHILTON INDUSTRIAL ESTATE",
   "AddressLine3": "FERRYHILL",
   "PostCode": "DL17 0SD",
   "SchemeType": "FHRS",

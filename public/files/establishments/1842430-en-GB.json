@@ -1,18 +1,29 @@
 {
   "FHRSID": 1842430,
-  "BusinessName": "Ray African Limited",
+  "BusinessName": "RayFoodUK",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "000215-25",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "429",
   "LocalAuthorityName": "Sunderland",
   "LocalAuthorityWebSite": "http://www.sunderland.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.health@sunderland.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.9033927",
+    "Longitude": "-1.3870107"
+  },
+  "AddressLine1": "Osas African Food",
+  "AddressLine2": "1 Derwent Street",
+  "AddressLine3": "Sunderland",
+  "PostCode": "SR1 3NT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-07",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

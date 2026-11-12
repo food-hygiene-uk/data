@@ -1,6 +1,6 @@
 {
   "FHRSID": 1975093,
-  "BusinessName": "Site Canteen",
+  "BusinessName": "Murton Converter Station Site Canteen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "MC31X7-WVE6W5-0MJXAX",
   "BusinessTypeID": 7844,
@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Murton Converter Station Spring Lane",
-  "AddressLine3": "Seaham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.8052804",
+    "Longitude": "-1.3886408"
+  },
+  "AddressLine1": "JADE BUSINESS PARK",
+  "AddressLine2": "MURTON",
+  "AddressLine3": "SEAHAM",
   "PostCode": "SR7 9DR",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Welfare House Seventh Street Horden",
-  "AddressLine3": "Peterlee",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7632021",
+    "Longitude": "-1.3148815"
+  },
+  "AddressLine1": "HORDEN SOCIAL WELFARE CENTRE SEVENTH STREET",
+  "AddressLine3": "HORDEN",
   "PostCode": "SR8 4LX",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

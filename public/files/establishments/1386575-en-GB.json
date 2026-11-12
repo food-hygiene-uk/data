@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.kingston.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@kingston.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3807428",
+    "Longitude": "-0.2973416"
+  },
+  "AddressLine1": "137 Ellerton Road",
+  "AddressLine2": "Surbiton",
+  "PostCode": "KT6 7UA",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",
   "RatingKey": "fhrs_exempt_en-GB",

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Club Union House Flass Corner",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7778645",
+    "Longitude": "-1.5852916"
+  },
+  "AddressLine1": "CLUB UNION HOUSE FLASS STREET",
+  "AddressLine3": "DURHAM",
   "PostCode": "DH1 4EF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

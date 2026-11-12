@@ -9,8 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "UNIT 1 OAKERSIDE PARK",
+  "Geocode": {
+    "Latitude": "54.7482235",
+    "Longitude": "-1.3424236"
+  },
+  "AddressLine1": "1 DURHAM WAY",
+  "AddressLine2": "OAKERSIDE PARK",
   "AddressLine3": "PETERLEE",
   "PostCode": "SR8 1QB",
   "SchemeType": "FHRS",

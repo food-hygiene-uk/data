@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Broomside Lane Belmont Industrial Estate",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.78538205",
+    "Longitude": "-1.53553517"
+  },
+  "AddressLine1": "BROOMSIDE LANE BELMONT",
+  "AddressLine3": "DURHAM",
   "PostCode": "DH1 1GG",
   "SchemeType": "FHRS",
   "RatingValue": "4",

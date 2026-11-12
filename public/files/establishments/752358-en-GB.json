@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "414",
   "LocalAuthorityName": "Liverpool",
   "LocalAuthorityWebSite": "http://www.liverpool.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@liverpool.gov.uk",
   "Geocode": {
-    "Latitude": "53.3449196",
-    "Longitude": "-2.8394943"
+    "Latitude": "53.3450549",
+    "Longitude": "-2.8394665"
   },
-  "AddressLine1": "17 Penketh Drive",
+  "AddressLine1": "11 Penketh Drive",
   "AddressLine3": "Liverpool",
   "PostCode": "L24 2WZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2019-02-19",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-14",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

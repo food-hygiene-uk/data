@@ -1,6 +1,6 @@
 {
   "FHRSID": 1936454,
-  "BusinessName": "B&Q LIMITED",
+  "BusinessName": "B&Q",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "GA9Z7S-8B43A3-K7SZE6",
   "BusinessTypeID": 4613,
@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Eden Terrace",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
-  "PostCode": "DH1 2HJ",
+  "Geocode": {
+    "Latitude": "54.7811965",
+    "Longitude": "-1.5374641"
+  },
+  "AddressLine1": "UNIT 1 DURHAM CITY RETAIL PARK MCINTYRE WAY",
+  "AddressLine3": "GILESGATE MOOR",
+  "PostCode": "DH1 2RP",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

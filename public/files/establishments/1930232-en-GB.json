@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Cook Way North West Industrial Estate",
-  "AddressLine3": "Peterlee",
+  "Geocode": {
+    "Latitude": "54.7663248",
+    "Longitude": "-1.3734014"
+  },
+  "AddressLine1": "3 COOK WAY",
+  "AddressLine2": "NORTH WEST INDUSTRIAL ESTATE",
+  "AddressLine3": "PETERLEE",
   "AddressLine4": "United Kingdom",
   "PostCode": "SR8 2HY",
   "SchemeType": "FHRS",

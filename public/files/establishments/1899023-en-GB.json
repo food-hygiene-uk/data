@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bannatyne Health Club & Spa Eden Terrace",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7849877",
+    "Longitude": "-1.5341999"
+  },
+  "AddressLine1": "BANNATYNES HEALTH AND SQUASH CLUB EDEN TERRACE",
+  "AddressLine3": "DRAGONVILLE",
   "PostCode": "DH1 2HJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

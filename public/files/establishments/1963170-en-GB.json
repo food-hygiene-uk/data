@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Hygge HQ Unit 28 Furnace Industrial Estate",
-  "AddressLine3": "Shildon",
-  "AddressLine4": "United Kingdom",
+  "AddressLine1": "UNIT 28 FURNACE INDUSTRIAL ESTATE",
+  "AddressLine3": "SHILDON",
   "PostCode": "DL4 1QB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

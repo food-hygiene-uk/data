@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Car Park Working Men Club Frederick Street South Meadowfield",
-  "AddressLine3": "Durham",
-  "PostCode": "DH7 8LZ",
+  "Geocode": {
+    "Latitude": "54.7490611",
+    "Longitude": "-1.6228633"
+  },
+  "AddressLine1": "ADJACENT MEADOWFIELD CLUB FREDERICK STREET SOUTH",
+  "AddressLine3": "MEADOWFIELD",
+  "PostCode": "DH7 8NA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercialservices@cheshireeast.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.2587149",
+    "Longitude": "-2.1263842"
+  },
   "AddressLine1": "2 Exchange Street",
   "AddressLine2": "Macclesfield",
-  "PostCode": "SK11 6YZ",
+  "PostCode": "SK11 6UZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "BANGKOK THAI COAST ROAD",
+  "Geocode": {
+    "Latitude": "54.7415002",
+    "Longitude": "-1.2767449"
+  },
+  "AddressLine1": "MALVERN COAST ROAD",
   "AddressLine3": "BLACKHALL ROCKS",
   "PostCode": "TS27 4AN",
   "SchemeType": "FHRS",

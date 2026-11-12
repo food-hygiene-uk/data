@@ -1,6 +1,6 @@
 {
   "FHRSID": 722273,
-  "BusinessName": "Nadies",
+  "BusinessName": "Raja’s Appetiser Bar",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "21090",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "Bradford",
   "PostCode": "BD3 8LG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

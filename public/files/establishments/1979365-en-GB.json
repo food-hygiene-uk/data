@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "23L2 Waldon House Mandale Park",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7898403",
+    "Longitude": "-1.5343164"
+  },
+  "AddressLine1": "UNIT 23L TO M WALDON HOUSE 23 MANDALE PARK",
+  "AddressLine2": "BELMONT INDUSTRIAL ESTATE",
+  "AddressLine3": "DURHAM",
   "PostCode": "DH1 1TH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

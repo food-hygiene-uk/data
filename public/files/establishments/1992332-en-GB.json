@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 19 City West Business Park St John's Road Meadowfield",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7461402",
+    "Longitude": "-1.6119152"
+  },
+  "AddressLine1": "UNIT 19 CITY WEST BUSINESS PARK ST JOHNS ROAD",
+  "AddressLine2": "MEADOWFIELD INDUSTRIAL ESTATE",
+  "AddressLine3": "MEADOWFIELD",
   "PostCode": "DH7 8ER",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

@@ -9,9 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Swift House Mandale Park",
-  "AddressLine3": "Durham",
+  "Geocode": {
+    "Latitude": "54.7904489",
+    "Longitude": "-1.5357101"
+  },
+  "AddressLine1": "SWIFT HOUSE 13 MANDALE PARK",
+  "AddressLine2": "BELMONT INDUSTRIAL ESTATE",
+  "AddressLine3": "DURHAM",
   "AddressLine4": "United Kingdom",
   "PostCode": "DH1 1TH",
   "SchemeType": "FHRS",

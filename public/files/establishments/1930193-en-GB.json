@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "POPPY DENE ROBSON AVENUE",
+  "Geocode": {
+    "Latitude": "54.7665587",
+    "Longitude": "-1.3330299"
+  },
+  "AddressLine1": "1 POPPY DENE",
   "AddressLine3": "PETERLEE",
   "PostCode": "SR8 5AS",
   "SchemeType": "FHRS",

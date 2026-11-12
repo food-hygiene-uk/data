@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 4 58-62 North Road",
-  "AddressLine3": "Durham",
-  "PostCode": "DH1 4SE",
+  "Geocode": {
+    "Latitude": "54.7774823",
+    "Longitude": "-1.5812689"
+  },
+  "AddressLine1": "UNIT 4 58-62 NORTH ROAD",
+  "AddressLine3": "DURHAM",
+  "PostCode": "DH1 4SQ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Community Centre Ironworks Road Tow Law",
-  "AddressLine3": "Bishop Auckland",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.7479766",
+    "Longitude": "-1.8159818"
+  },
+  "AddressLine1": "TOW LAW COMMUNITY CENTRE IRONWORKS ROAD",
+  "AddressLine3": "TOW LAW",
   "PostCode": "DL13 4AW",
   "SchemeType": "FHRS",
   "RatingValue": "5",

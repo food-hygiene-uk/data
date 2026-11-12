@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "St Giles Church Hall Church Lane Gilesgate",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.777978",
+    "Longitude": "-1.560258"
+  },
+  "AddressLine1": "ST GILES CHURCH HALL GILESGATE",
+  "AddressLine3": "DURHAM",
   "PostCode": "DH1 1QQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

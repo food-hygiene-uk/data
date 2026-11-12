@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
-  "AddressLine2": "57 East Reach",
+  "Geocode": {
+    "Latitude": "51.016303",
+    "Longitude": "-3.090283"
+  },
+  "AddressLine2": "58 East Reach",
   "AddressLine3": "Taunton",
   "AddressLine4": "Somerset",
   "PostCode": "TA1 3EZ",

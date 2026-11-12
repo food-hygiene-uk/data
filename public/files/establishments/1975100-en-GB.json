@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Roadhouse  Beamish Burn Rd  Marley Hill",
-  "AddressLine3": "Newcastle upon Tyne",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.9009805",
+    "Longitude": "-1.6782946"
+  },
+  "AddressLine1": "CAUSEY ARCH INN BEAMISHBURN ROAD",
+  "AddressLine3": "BEAMISH",
   "PostCode": "NE16 5EG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

@@ -9,10 +9,12 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Red Lion  Plawsworth",
-  "AddressLine3": "Durham",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.8816089",
+    "Longitude": "-1.5976801"
+  },
+  "AddressLine1": "RED LION HOTEL",
+  "AddressLine3": "PLAWSWORTH",
   "PostCode": "DH2 3NL",
   "SchemeType": "FHRS",
   "RatingValue": "5",

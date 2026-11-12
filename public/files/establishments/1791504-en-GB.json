@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "SAMS PIZZA OUSTON LANE",
+  "Geocode": {
+    "Latitude": "54.8780373",
+    "Longitude": "-1.60073965"
+  },
+  "AddressLine1": "OUSTON LANE",
   "AddressLine3": "OUSTON",
   "PostCode": "DH2 1QT",
   "SchemeType": "FHRS",

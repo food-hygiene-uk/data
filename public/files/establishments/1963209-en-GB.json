@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Unit 8 Block A  Durham Way South Aycliffe Business Park",
-  "AddressLine3": "Newton Aycliffe",
-  "AddressLine4": "United Kingdom",
+  "Geocode": {
+    "Latitude": "54.6033054",
+    "Longitude": "-1.5691556"
+  },
+  "AddressLine1": "UNIT 8 EVANS BUSINESS CENTRE DURHAM WAY SOUTH",
+  "AddressLine2": "AYCLIFFE BUSINESS PARK",
+  "AddressLine3": "NEWTON AYCLIFFE",
   "PostCode": "DL5 6ZF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-27",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
