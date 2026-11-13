@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "571",
   "LocalAuthorityName": "Wrexham",
   "LocalAuthorityWebSite": "http://www.wrexham.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandFarming@wrexham.gov.uk",
   "Geocode": {
     "Latitude": "53.044946",
@@ -17,12 +17,12 @@
   "AddressLine3": "Wrexham",
   "PostCode": "LL13 7LL",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2024-03-20",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_cy-gb",
+  "RatingDate": "2026-10-08",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 15,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

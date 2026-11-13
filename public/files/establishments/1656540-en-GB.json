@@ -9,14 +9,18 @@
   "LocalAuthorityWebSite": "http://www.tmbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@tmbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.3097381",
+    "Longitude": "0.4320119"
+  },
+  "AddressLine1": "340 Lunsford Lane",
+  "AddressLine2": "Larkfield",
+  "AddressLine3": "Aylesford",
+  "AddressLine4": "Kent",
+  "PostCode": "ME20 6HX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-11-03",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

@@ -7,19 +7,22 @@
   "LocalAuthorityCode": "431",
   "LocalAuthorityName": "Trafford",
   "LocalAuthorityWebSite": "http://www.trafford.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@trafford.gov.uk",
   "Geocode": {
-    "Latitude": "53.386246",
-    "Longitude": "-2.351072"
+    "Latitude": "53.3870825",
+    "Longitude": "-2.3508513"
   },
-  "AddressLine1": "Charis House",
-  "AddressLine2": "1 Central Way",
+  "AddressLine2": "1a Central Way",
   "AddressLine3": "Altrincham",
   "PostCode": "WA14 1SB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

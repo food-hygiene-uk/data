@@ -1,13 +1,13 @@
 {
   "FHRSID": 1976343,
-  "BusinessName": "Impact Food Group Trading As Dolce@Sandringham Infant &Nurse",
+  "BusinessName": "Dolce @ Sandringham Infant &Nursery Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00089/CP",
   "BusinessTypeID": 7845,
   "LocalAuthorityCode": "312",
   "LocalAuthorityName": "Surrey Heath",
   "LocalAuthorityWebSite": "http://www.surreyheath.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@surreyheath.gov.uk",
   "Geocode": {
     "Latitude": "51.3088989257813",
@@ -19,8 +19,12 @@
   "AddressLine4": "Camberley",
   "PostCode": "GU16 9YF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

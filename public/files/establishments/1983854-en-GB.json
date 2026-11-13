@@ -1,6 +1,6 @@
 {
   "FHRSID": 1983854,
-  "BusinessName": "The Park Hotel",
+  "BusinessName": "The Park Hotel Great Harwood Ltd",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "45099",
   "BusinessTypeID": 7843,
@@ -18,8 +18,12 @@
   "AddressLine3": "Lancashire",
   "PostCode": "BB6 7SN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-25",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

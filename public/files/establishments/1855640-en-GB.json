@@ -1,13 +1,13 @@
 {
   "FHRSID": 1855640,
   "BusinessName": "Junior Adventures Group UK Ltd",
-  "BusinessType": "Hospitals/Childcare/Caring Premises",
+  "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/1000000341",
-  "BusinessTypeID": 5,
+  "BusinessTypeID": 7845,
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": null,
   "AddressLine1": "HARNHAM JUNIOR SCHOOL SAXON ROAD",
@@ -15,8 +15,12 @@
   "AddressLine3": "SALISBURY",
   "PostCode": "SP2 8JZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-15",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

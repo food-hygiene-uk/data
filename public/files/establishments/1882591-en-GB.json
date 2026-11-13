@@ -1,13 +1,13 @@
 {
   "FHRSID": 1882591,
   "BusinessName": "La Doi Pasi",
-  "BusinessType": "Retailers - supermarkets/hypermarkets",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "138080",
-  "BusinessTypeID": 7840,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.8796573",
@@ -17,8 +17,12 @@
   "AddressLine4": "Luton",
   "PostCode": "LU1 2RD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -7,15 +7,19 @@
   "LocalAuthorityCode": "885",
   "LocalAuthorityName": "Slough",
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
   "Geocode": null,
   "AddressLine1": "1 SITE OF THE VILLAGE SHOPPING CENTRE HIGH STREET",
   "AddressLine3": "SLOUGH",
   "PostCode": "SL1 1HS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

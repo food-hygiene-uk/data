@@ -7,14 +7,18 @@
   "LocalAuthorityCode": "520",
   "LocalAuthorityName": "Kensington and Chelsea",
   "LocalAuthorityWebSite": "http://www.rbkc.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.hygiene@rbkc.gov.uk",
   "Geocode": null,
   "AddressLine1": "62-64 Kensington High Street",
   "AddressLine2": "LONDON",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }
