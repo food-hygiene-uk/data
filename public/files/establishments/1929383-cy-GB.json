@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.swansea.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodandSafety@swansea.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.6927205",
+    "Longitude": "-4.0124925"
+  },
+  "AddressLine2": "31 Heol Y Twyn",
+  "AddressLine4": "Pontlliw",
+  "PostCode": "SA4 9EU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_cy-gb",

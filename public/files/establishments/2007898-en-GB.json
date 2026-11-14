@@ -13,13 +13,17 @@
     "Latitude": "52.6674129",
     "Longitude": "-2.3724696"
   },
-  "AddressLine1": "Unit 10 26 Bradford Street",
+  "AddressLine1": "Unit 5 26 Bradford Street",
   "AddressLine3": "Shifnal",
   "AddressLine4": "Shropshire",
   "PostCode": "TF11 8AU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

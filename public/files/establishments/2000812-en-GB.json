@@ -10,9 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
   "Geocode": null,
+  "AddressLine1": "Mainstone Community Centre",
+  "AddressLine2": "Pattinson Drive",
+  "AddressLine3": "Plymouth",
+  "AddressLine4": "Devon",
+  "PostCode": "PL6 8RU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2004-06-08",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

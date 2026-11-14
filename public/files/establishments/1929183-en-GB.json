@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Exwick Community Centre",
-  "AddressLine2": "Kinnerton Way",
-  "AddressLine3": "Exeter",
-  "PostCode": "EX4 2PR",
+  "Geocode": {
+    "Latitude": "50.7058084",
+    "Longitude": "-3.5307391"
+  },
+  "AddressLine1": "Unit 2",
+  "AddressLine2": "Exeter Business Centre",
+  "AddressLine3": "39 Marsh Green Road West",
+  "AddressLine4": "Exeter",
+  "PostCode": "EX2 8PN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-06",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.barnsley.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@barnsley.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5692655",
+    "Longitude": "-1.5248248"
+  },
+  "AddressLine1": "Unit 46 Claycliffe Business Park",
+  "AddressLine2": "Cannon Way",
+  "AddressLine4": "Barugh Green",
+  "PostCode": "S75 1JU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

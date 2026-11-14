@@ -7,18 +7,22 @@
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehts_enquiries@sandwell.gov.uk",
   "Geocode": {
-    "Latitude": "52.5169704",
-    "Longitude": "-2.0474905"
+    "Latitude": "52.5302491",
+    "Longitude": "-2.0321723"
   },
-  "AddressLine1": "Unit 1 Cross Quays Business Park Hallbridge Way",
-  "AddressLine4": "Tividale",
-  "PostCode": "B69 3HW",
+  "AddressLine1": "Office 3 63 Great Bridge",
+  "AddressLine4": "Tipton",
+  "PostCode": "DY4 7HF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-09",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }

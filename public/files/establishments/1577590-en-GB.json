@@ -9,9 +9,11 @@
   "LocalAuthorityWebSite": "http://www.midlothian.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@midlothian.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "55.8750838",
+    "Longitude": "-3.0425489"
+  },
   "AddressLine1": "Mayfield Public Park Bogwood Court Mayfield Dalkeith EH22 5DG",
-  "PostCode": "EH22 5DG",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",

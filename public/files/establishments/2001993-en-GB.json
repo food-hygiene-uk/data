@@ -1,6 +1,6 @@
 {
   "FHRSID": 2001993,
-  "BusinessName": "Little Ls Coffee",
+  "BusinessName": "Little L's Coffee",
   "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "68216",
   "BusinessTypeID": 7846,
@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
   "Geocode": {
-    "Latitude": "52.5939127",
-    "Longitude": "1.7229786"
+    "Latitude": "52.593671",
+    "Longitude": "1.723025"
   },
-  "AddressLine2": "Unit 8-9 Suffolk Road",
+  "AddressLine2": "Suffolk Road",
   "AddressLine3": "Great Yarmouth",
   "AddressLine4": "Norfolk",
   "PostCode": "NR31 0LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }
