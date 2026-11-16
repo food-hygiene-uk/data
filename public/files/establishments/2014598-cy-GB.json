@@ -1,28 +1,26 @@
 {
-  "FHRSID": 919125,
-  "BusinessName": "Merthyr Vale Convenience Store",
+  "FHRSID": 2014598,
+  "BusinessName": "Merthyr Vale Stores",
   "BusinessType": "Retailers - other",
-  "LocalAuthorityBusinessID": "700309",
+  "LocalAuthorityBusinessID": "802908",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "561",
   "LocalAuthorityName": "Merthyr Tudful",
   "LocalAuthorityWebSite": "http://www.merthyr.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publichealth@merthyr.gov.uk",
-  "Geocode": {
-    "Latitude": "51.6877047",
-    "Longitude": "-3.3370095"
-  },
-  "AddressLine1": "Station Square Gray's Place",
+  "Geocode": null,
+  "AddressLine1": "2 Station Square Gray's Place",
   "AddressLine2": "Merthyr Vale",
   "AddressLine3": "Merthyr Tydfil",
+  "PostCode": "CF48 4RP",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2024-09-04",
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-09-29",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 10
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }
