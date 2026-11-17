@@ -7,24 +7,23 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
   "Geocode": {
-    "Latitude": "53.365291",
-    "Longitude": "-3.180562"
+    "Latitude": "53.3663206",
+    "Longitude": "-3.1831408"
   },
-  "AddressLine1": "Coronation Gardens",
-  "AddressLine2": "Banks Road",
+  "AddressLine1": "Coronation Gardens Banks Road",
   "AddressLine3": "West Kirby",
   "AddressLine4": "Wirral",
   "PostCode": "CH48 3HU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-09",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-12",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
+    "Structural": 10,
     "ConfidenceInManagement": 5
   }
 }

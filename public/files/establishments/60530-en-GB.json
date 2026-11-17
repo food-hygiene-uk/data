@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "418",
   "LocalAuthorityName": "Oldham",
   "LocalAuthorityWebSite": "https://www.oldham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FHRS@oldham.gov.uk",
   "Geocode": {
     "Latitude": "53.56856",
@@ -18,12 +18,12 @@
   "AddressLine4": "Oldham",
   "PostCode": "OL2 6NZ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2023-02-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-12",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
+    "Hygiene": 0,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

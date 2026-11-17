@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "https://www.northyorks.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "regsupport@northyorks.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Painting Pot New Lane",
-  "AddressLine4": "Selby",
-  "PostCode": "YO8 0QB",
+  "Geocode": {
+    "Latitude": "53.7835528",
+    "Longitude": "-1.0701557"
+  },
+  "AddressLine1": "B 6 New Lane",
+  "AddressLine2": "Selby",
+  "PostCode": "YO8 4QB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

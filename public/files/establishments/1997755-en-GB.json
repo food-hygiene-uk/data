@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.buckinghamshire.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@buckinghamshire.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.8194989",
+    "Longitude": "-0.8372633"
+  },
+  "AddressLine1": "The Future Centre",
+  "AddressLine2": "Smeaton Close",
+  "AddressLine3": "Aylesbury",
+  "AddressLine4": "Buckinghamshire",
+  "PostCode": "HP19 8SZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

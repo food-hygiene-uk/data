@@ -1,6 +1,6 @@
 {
   "FHRSID": 1974969,
-  "BusinessName": "Integrated Fostering Services Ltd/ IFS Global",
+  "BusinessName": "Integrated Fostering Services Ltd/ IFS Global Foundation",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "PI/000209662",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "ENFIELD",
   "PostCode": "EN3 7FJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

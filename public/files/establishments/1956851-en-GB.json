@@ -9,11 +9,13 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Former The Garden Shed",
-  "AddressLine2": "Ganny Road",
-  "AddressLine3": "Brighouse",
-  "AddressLine4": "Calderdale",
+  "Geocode": {
+    "Latitude": "53.70275797",
+    "Longitude": "-1.77951247"
+  },
+  "AddressLine1": "Ganny Road",
+  "AddressLine2": "Brighouse",
+  "PostCode": "HD6 1AX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

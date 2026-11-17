@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety@barnet.gov.uk",
   "Geocode": {
-    "Latitude": "51.621135",
-    "Longitude": "-0.2683587"
+    "Latitude": "51.619541",
+    "Longitude": "-0.268794"
   },
-  "AddressLine1": "94A  Priory Field Drive",
+  "AddressLine1": "Henry Nihill House 94 Priory Field Drive Edgware",
   "PostCode": "HA8 9PU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-01",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

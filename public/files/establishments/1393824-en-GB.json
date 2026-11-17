@@ -1,13 +1,13 @@
 {
   "FHRSID": 1393824,
-  "BusinessName": "Bevan Local",
+  "BusinessName": "Bevans Local",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "260345",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "891",
   "LocalAuthorityName": "Plymouth City",
   "LocalAuthorityWebSite": "http://www.plymouth.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodSafety.StandardsTeam@plymouth.gov.uk",
   "Geocode": {
     "Latitude": "50.4125831",
@@ -19,10 +19,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-11-04",
+  "RatingDate": "2026-10-21",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

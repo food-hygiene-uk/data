@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6919109",
+    "Longitude": "-1.823405"
+  },
   "AddressLine1": "Lowfields Business Park",
   "AddressLine2": "Lowfields Way",
   "AddressLine3": "Lowfields",
   "AddressLine4": "Elland",
+  "PostCode": "HX5 9DA",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "STREET RECORD",
-  "AddressLine2": "Bacup Road",
+  "Geocode": {
+    "Latitude": "53.7146606",
+    "Longitude": "-2.0963441"
+  },
+  "AddressLine1": "Market Hall",
+  "AddressLine2": "Brook Street",
   "AddressLine3": "Todmorden",
   "AddressLine4": "Calderdale",
+  "PostCode": "OL14 5AJ",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

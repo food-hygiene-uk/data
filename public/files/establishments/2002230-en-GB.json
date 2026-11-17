@@ -1,6 +1,6 @@
 {
   "FHRSID": 2002230,
-  "BusinessName": "Ellswoods Stores Bibertos",
+  "BusinessName": "Ellswoods Stores",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "49625",
   "BusinessTypeID": 4613,
@@ -14,8 +14,12 @@
   "AddressLine3": "Thornford",
   "PostCode": "Dt96qq",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }
