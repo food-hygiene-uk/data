@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
   "Geocode": {
-    "Latitude": "52.588443",
-    "Longitude": "-1.993638"
+    "Latitude": "52.5889905",
+    "Longitude": "-1.9947329"
   },
   "AddressLine1": "47 Birchills Street",
   "AddressLine2": "Walsall",
   "AddressLine3": "West Midlands",
+  "AddressLine4": "WS2 8NG",
   "PostCode": "WS2 8NG",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-29",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

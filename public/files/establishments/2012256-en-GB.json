@@ -10,17 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehteam@basingstoke.gov.uk",
   "Geocode": {
-    "Latitude": "51.2621863",
-    "Longitude": "-1.1293361"
+    "Latitude": "51.262112",
+    "Longitude": "-1.129435"
   },
-  "AddressLine1": "Budgens",
-  "AddressLine2": "Shell Buckskin",
-  "AddressLine3": "374 - 378 Worting Road",
-  "AddressLine4": "Basingstoke",
+  "AddressLine1": "374 - 378 Worting Road",
+  "AddressLine2": "Basingstoke",
+  "AddressLine3": "Hampshire",
   "PostCode": "RG22 5DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

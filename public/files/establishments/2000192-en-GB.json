@@ -9,17 +9,19 @@
   "LocalAuthorityWebSite": "https://www.iow.gov.uk/environment-and-planning/community-protection-services/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@iow.gov.uk",
-  "Geocode": {
-    "Latitude": "50.6941566467285",
-    "Longitude": "-1.2872040271759"
-  },
-  "AddressLine1": "St Georges Way",
-  "AddressLine2": "Newport",
-  "AddressLine3": "Isle Of Wight",
-  "PostCode": "PO30 2QH",
+  "Geocode": null,
+  "AddressLine1": "Unit 4 Newport Retail Park",
+  "AddressLine2": "Godric Road",
+  "AddressLine3": "Newport",
+  "AddressLine4": "Isle Of Wight",
+  "PostCode": "PO30 2LF",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-01",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

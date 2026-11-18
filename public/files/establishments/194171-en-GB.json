@@ -9,14 +9,22 @@
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.6214974",
+    "Longitude": "-1.981488"
+  },
+  "AddressLine1": "450 Strawberry Fields",
+  "AddressLine2": "Goscote Lane",
+  "AddressLine3": "Bloxwich",
+  "AddressLine4": "Walsall",
+  "PostCode": "WS3 4QG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-18",
+  "RatingDate": "2026-11-04",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 0,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 0
   }
 }

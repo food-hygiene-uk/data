@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "030",
   "LocalAuthorityName": "Huntingdonshire",
   "LocalAuthorityWebSite": "http://www.huntingdonshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@huntingdonshire.gov.uk",
   "Geocode": {
     "Latitude": "52.2245621",
@@ -18,12 +18,12 @@
   "AddressLine4": "Cambridgeshire",
   "PostCode": "PE19 7AU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2018-06-28",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-13",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

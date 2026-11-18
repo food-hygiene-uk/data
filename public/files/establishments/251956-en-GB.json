@@ -13,12 +13,17 @@
     "Latitude": "52.917469",
     "Longitude": "-1.322056"
   },
+  "AddressLine1": "Woodhall Park Nursing Home Risley Hall Risley Hall Park",
   "AddressLine2": "Derby Road",
   "AddressLine4": "Risley",
   "PostCode": "DE72 3SS",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-04",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

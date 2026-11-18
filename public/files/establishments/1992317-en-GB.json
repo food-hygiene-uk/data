@@ -1,18 +1,28 @@
 {
   "FHRSID": 1992317,
   "BusinessName": "China Red",
-  "BusinessType": "Distributors/Transporters",
+  "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "KX7C66-KRDLAA-1ZQ727",
-  "BusinessTypeID": 7,
+  "BusinessTypeID": 7844,
   "LocalAuthorityCode": "706",
   "LocalAuthorityName": "Durham",
   "LocalAuthorityWebSite": "http://www.durham.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehcp@durham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.7617744",
+    "Longitude": "-1.3866129"
+  },
+  "AddressLine1": "5 COWLEY STREET",
+  "AddressLine3": "SHOTTON COLLIERY",
+  "PostCode": "DH6 2LP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

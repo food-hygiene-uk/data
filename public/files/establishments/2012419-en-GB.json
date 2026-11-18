@@ -1,6 +1,6 @@
 {
   "FHRSID": 2012419,
-  "BusinessName": "Bay bakery",
+  "BusinessName": "Bay Bakery",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "2310764612489985",
   "BusinessTypeID": 1,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bay bakery BRIXHAM",
+  "Geocode": {
+    "Latitude": "50.3954856",
+    "Longitude": "-3.5148329"
+  },
+  "AddressLine1": "36 Middle Street Brixham",
   "PostCode": "TQ5 8AW",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

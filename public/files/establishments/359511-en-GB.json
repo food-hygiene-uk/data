@@ -1,13 +1,13 @@
 {
   "FHRSID": 359511,
-  "BusinessName": "Painters Arms",
+  "BusinessName": "The painters Arms",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "8253",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "869",
   "LocalAuthorityName": "Luton",
   "LocalAuthorityWebSite": "http://www.luton.gov.uk/foodscore",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@luton.gov.uk",
   "Geocode": {
     "Latitude": "51.884299",
@@ -18,12 +18,12 @@
   "AddressLine4": "Luton",
   "PostCode": "LU2 0BW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2016-08-30",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-13",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 10,
+    "ConfidenceInManagement": 5
   }
 }

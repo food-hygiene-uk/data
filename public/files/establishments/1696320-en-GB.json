@@ -7,16 +7,24 @@
   "LocalAuthorityCode": "433",
   "LocalAuthorityName": "Walsall",
   "LocalAuthorityWebSite": "http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@walsall.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.5877165",
+    "Longitude": "-2.0496099"
+  },
   "AddressLine1": "15 Newhall Street",
   "AddressLine2": "Willenhall",
   "AddressLine3": "Walsall",
-  "PostCode": "West Midla",
+  "AddressLine4": "West Midlands",
+  "PostCode": "WV13 1LN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "192",
   "LocalAuthorityName": "Tunbridge Wells",
   "LocalAuthorityWebSite": "http://www.tunbridgewells.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@Midkent.gov.uk",
   "Geocode": {
     "Latitude": "51.1791213",
@@ -19,12 +19,12 @@
   "AddressLine4": "Kent",
   "PostCode": "TN12 6DS",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2019-12-19",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-20",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
+    "Structural": 15,
     "ConfidenceInManagement": 10
   }
 }

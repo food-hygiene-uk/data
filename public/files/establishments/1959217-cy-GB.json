@@ -7,20 +7,23 @@
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerffili",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
     "Latitude": "51.6903477",
     "Longitude": "-3.2342512"
   },
   "AddressLine1": "Unit",
-  "AddressLine2": "Mcdonnell Pub",
-  "AddressLine3": "Mcdonnell Road",
-  "AddressLine4": "Bargoed",
+  "AddressLine2": "Mcdonnell Pub  Mcdonnell Road",
+  "AddressLine3": "Bargoed",
   "PostCode": "CF81 8UD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_cy-gb",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

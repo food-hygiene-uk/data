@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "709",
   "LocalAuthorityName": "Wiltshire",
   "LocalAuthorityWebSite": "http://www.wiltshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotectionwest@wiltshire.gov.uk",
   "Geocode": {
     "Latitude": "50.9927417",
@@ -17,8 +17,12 @@
   "AddressLine3": "DOWNTON",
   "PostCode": "SP5 3NH",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

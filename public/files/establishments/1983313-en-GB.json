@@ -7,19 +7,23 @@
   "LocalAuthorityCode": "512",
   "LocalAuthorityName": "Hackney",
   "LocalAuthorityWebSite": "https://hackney.gov.uk/environmental-health#food",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "technicalbusinesssupport@hackney.gov.uk",
   "Geocode": {
     "Latitude": "51.5355014",
     "Longitude": "-0.0602162"
   },
-  "AddressLine2": "Unit 7A Regent Studios 8 Andrews Road London",
+  "AddressLine2": "Kitchen 3 Unit 7A Regent Studios 8 Andrews Rd London E8 4QN UK",
   "AddressLine3": "Hackney",
   "AddressLine4": "London",
   "PostCode": "E8 4QN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

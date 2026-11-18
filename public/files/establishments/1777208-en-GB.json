@@ -7,20 +7,16 @@
   "LocalAuthorityCode": "291",
   "LocalAuthorityName": "South Staffordshire",
   "LocalAuthorityWebSite": "http://www.sstaffs.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.commercial@sstaffs.gov.uk",
-  "Geocode": {
-    "Latitude": "52.642832",
-    "Longitude": "-2.2238949"
-  },
-  "AddressLine1": "St Peters Church Hall",
-  "AddressLine2": "Whitehouse Lane",
-  "AddressLine3": "Codsall Wood",
-  "AddressLine4": "WOLVERHAMPTON",
-  "PostCode": "WV8 1QS",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 20
+  }
 }
