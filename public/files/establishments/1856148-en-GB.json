@@ -1,9 +1,9 @@
 {
   "FHRSID": 1856148,
   "BusinessName": "Universal Daycare Ltd",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "Cx13381",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 5,
   "LocalAuthorityCode": "423",
   "LocalAuthorityName": "Sandwell",
   "LocalAuthorityWebSite": "http://www.sandwell.gov.uk/foodratings",
@@ -17,8 +17,12 @@
   "AddressLine4": "Wednesbury",
   "PostCode": "WS10 7SF",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-05-28",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

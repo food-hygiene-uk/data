@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bridgend.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@bridgend.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.4791705",
+    "Longitude": "-3.7039621"
+  },
+  "AddressLine1": "4 Gwendoline Court Lias Road",
+  "AddressLine3": "Porthcawl",
+  "AddressLine4": "Bridgend",
+  "PostCode": "CF36 3AH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_ratingawaited_cy-gb",

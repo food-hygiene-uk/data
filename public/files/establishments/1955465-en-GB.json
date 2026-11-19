@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "env.health@centralbedfordshire.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Southlands Lower School",
-  "AddressLine2": "Kitelands Road",
-  "AddressLine3": "Biggleswade",
-  "AddressLine4": "Beds",
+  "AddressLine1": "Kitelands Road",
+  "AddressLine2": "Biggleswade",
+  "AddressLine3": "Beds",
   "PostCode": "SG18 8NX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-13",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

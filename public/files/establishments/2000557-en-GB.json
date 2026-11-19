@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "814",
   "LocalAuthorityName": "Newry, Mourne and Down",
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
   "Geocode": null,
   "AddressLine1": "4 Main Street",
@@ -16,8 +16,12 @@
   "AddressLine4": "Armagh",
   "PostCode": "BT35 7JG",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-14",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

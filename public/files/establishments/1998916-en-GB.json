@@ -1,6 +1,6 @@
 {
   "FHRSID": 1998916,
-  "BusinessName": "Uttam JI & Sons Limited",
+  "BusinessName": "Uttam JI & Sons",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "07040",
   "BusinessTypeID": 4613,
@@ -17,8 +17,12 @@
   "AddressLine3": "READING",
   "PostCode": "RG1 8HH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

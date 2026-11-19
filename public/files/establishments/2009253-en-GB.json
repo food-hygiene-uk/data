@@ -10,14 +10,18 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHAdmin@MidKent.gov.uk",
   "Geocode": null,
-  "AddressLine1": "15B - 15C Dolphin Park",
-  "AddressLine2": "Upper Field Road",
-  "AddressLine3": "Eurolink",
-  "AddressLine4": "Sittingbourne",
+  "AddressLine1": "Unit 12A-12D",
+  "AddressLine2": "Eurolink Way",
+  "AddressLine3": "Sittingbourne",
+  "AddressLine4": "Kent",
   "PostCode": "ME10 3RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-16",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
