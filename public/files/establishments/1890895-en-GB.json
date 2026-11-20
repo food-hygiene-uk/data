@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.3679114",
-    "Longitude": "-1.4958438"
+    "Latitude": "53.3678278",
+    "Longitude": "-1.4954204"
   },
-  "AddressLine2": "220-228 Sharrow Vale Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "220-228 Sharrow Vale Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S11 8ZH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-04-22",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-03-12",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

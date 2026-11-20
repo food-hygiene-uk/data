@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3464781",
-    "Longitude": "-1.3664801"
-  },
-  "AddressLine2": "131 Delves Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 131 Delves Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S12 4AH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-20",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-08-17",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

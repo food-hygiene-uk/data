@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.365057",
-    "Longitude": "-1.465703"
-  },
-  "AddressLine1": "City College Olive Grove Cen",
-  "AddressLine2": "Olive Grove Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "City College Olive Grove Cen                                                                         Olive Grove Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S2 3GE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-06-25",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-28",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

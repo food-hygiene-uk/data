@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.386989",
-    "Longitude": "-1.499047"
-  },
-  "AddressLine2": "203 Springvale Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 203 Springvale Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S10 1LG",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-07-15",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

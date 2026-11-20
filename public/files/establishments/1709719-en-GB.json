@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Church Drive Primary School Church Drive",
+  "Geocode": {
+    "Latitude": "53.35533257",
+    "Longitude": "-2.99694031"
+  },
+  "AddressLine1": "Church Drive",
   "AddressLine3": "Port Sunlight",
   "AddressLine4": "Wirral",
   "PostCode": "CH62 5EF",

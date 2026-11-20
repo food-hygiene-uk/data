@@ -13,13 +13,16 @@
     "Latitude": "53.3792781",
     "Longitude": "-1.4729983"
   },
-  "AddressLine1": "Cambridge Street Collective",
-  "AddressLine2": "11 Backfields",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Cambridge Street Collective                                                                          11 Backfields",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 4HJ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-03-09",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2025-11-13",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

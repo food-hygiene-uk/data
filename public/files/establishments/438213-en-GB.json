@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3781846",
-    "Longitude": "-1.4650182"
-  },
-  "AddressLine2": "57 Howard Street",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 57 Howard Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 2LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-09-11",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

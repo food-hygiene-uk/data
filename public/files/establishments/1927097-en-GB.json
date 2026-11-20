@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3886165",
-    "Longitude": "-1.4627126"
-  },
-  "AddressLine2": "35 Walker Street",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 35 Walker Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S3 8GZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

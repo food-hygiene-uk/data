@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.368724822998",
-    "Longitude": "-1.49705195426941"
-  },
-  "AddressLine2": "537-541 Ecclesall Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "537-541 Ecclesall Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S11 8PR",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-06-11",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-14",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

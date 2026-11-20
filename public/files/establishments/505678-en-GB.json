@@ -10,16 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.482086",
-    "Longitude": "-1.592878"
+    "Latitude": "53.4819223",
+    "Longitude": "-1.5920077"
   },
-  "AddressLine2": "465 Manchester Road",
-  "AddressLine3": "Stocksbridge",
+  "AddressLine1": " 465 Manchester Road",
+  "AddressLine2": "Stocksbridge",
   "AddressLine4": "Sheffield",
   "PostCode": "S36 1DH",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-11-21",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2025-10-03",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

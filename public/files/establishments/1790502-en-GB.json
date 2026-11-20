@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.342078",
-    "Longitude": "-1.396915"
+    "Latitude": "53.3426836",
+    "Longitude": "-1.3966324"
   },
-  "AddressLine2": "5 Birley Moor Crescent",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 5 Birley Moor Crescent",
+  "AddressLine2": "Sheffield",
   "PostCode": "S12 3AS",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-07-02",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-07-07",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

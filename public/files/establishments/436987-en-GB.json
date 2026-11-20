@@ -9,21 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.392485",
-    "Longitude": "-1.454533"
-  },
-  "AddressLine1": "Fairway Works",
-  "AddressLine2": "75-129 Carlisle Street",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "75-129 Carlisle Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S4 7LJ",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2024-12-19",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-09-07",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 10,
-    "ConfidenceInManagement": 10
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 20
   }
 }

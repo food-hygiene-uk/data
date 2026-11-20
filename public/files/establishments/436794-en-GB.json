@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.4148635864258",
-    "Longitude": "-1.41011905670166"
+    "Latitude": "53.4139086",
+    "Longitude": "-1.4137961"
   },
-  "AddressLine1": "Former 60 The Oasis Meadowhall Centre",
-  "AddressLine2": "Meadowhall Way",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Former 60 The Oasis Meadowhall Centre                                                               Meadowhall Way",
+  "AddressLine2": "Sheffield",
   "PostCode": "S9 1EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
   "RatingDate": "2026-08-20",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

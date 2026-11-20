@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.361405",
-    "Longitude": "-1.430136"
+    "Latitude": "53.3618107",
+    "Longitude": "-1.4306807"
   },
-  "AddressLine2": "912 City Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 912 City Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S2 1GQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

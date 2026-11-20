@@ -1,6 +1,6 @@
 {
   "FHRSID": 1752774,
-  "BusinessName": "S.K’s – By Baked By S.k",
+  "BusinessName": "Street Dogs",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "54768",
   "BusinessTypeID": 1,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.383719",
-    "Longitude": "-1.507821"
-  },
-  "AddressLine2": "160 Crookes",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 160 Crookes",
+  "AddressLine2": "Sheffield",
   "PostCode": "S10 1UH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-02",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

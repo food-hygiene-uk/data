@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.3800430297852",
-    "Longitude": "-1.47449004650116"
+    "Latitude": "53.3801695",
+    "Longitude": "-1.4736863"
   },
-  "AddressLine2": "26-30 Division Street",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "26-30 Division Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 4GF",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
   "RatingDate": "2026-05-22",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

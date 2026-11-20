@@ -9,18 +9,18 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.380765",
-    "Longitude": "-1.456757"
-  },
-  "AddressLine1": "Church Of God Of Prophecy",
-  "AddressLine2": "123-131 Duke Street",
-  "AddressLine3": "Park Hill",
+  "Geocode": null,
+  "AddressLine1": "123-131 Duke Street",
+  "AddressLine2": "Park Hill",
   "AddressLine4": "Sheffield",
   "PostCode": "S2 5QL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-22",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 10
+  }
 }

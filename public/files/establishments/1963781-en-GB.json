@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.462485",
-    "Longitude": "-1.46784"
+    "Latitude": "53.4623625",
+    "Longitude": "-1.4676441"
   },
-  "AddressLine2": "1 Lound Side",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 1 Lound Side",
+  "AddressLine2": "Sheffield",
   "PostCode": "S35 2UQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

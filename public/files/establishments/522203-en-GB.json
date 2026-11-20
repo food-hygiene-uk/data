@@ -1,6 +1,6 @@
 {
   "FHRSID": 522203,
-  "BusinessName": "Big bite grill",
+  "BusinessName": "Curry Up",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "40182",
   "BusinessTypeID": 7844,
@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.374928",
-    "Longitude": "-1.440568"
-  },
-  "AddressLine2": "4 Boundary Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": " 4 Boundary Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S2 5FE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

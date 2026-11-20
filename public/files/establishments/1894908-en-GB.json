@@ -1,6 +1,6 @@
 {
   "FHRSID": 1894908,
-  "BusinessName": "Madresfield CE Primary School",
+  "BusinessName": "Madresfield CE Primary School + Breakfast + After School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "25/00888/FOOD",
   "BusinessTypeID": 7845,
@@ -15,8 +15,12 @@
   "AddressLine3": "Worcestershire",
   "PostCode": "WR13 5AA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

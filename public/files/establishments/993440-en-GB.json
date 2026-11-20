@@ -10,12 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine2": "92 Burton Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 92 Burton Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S3 8DA",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-04-29",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

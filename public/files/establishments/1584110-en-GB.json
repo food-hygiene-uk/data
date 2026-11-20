@@ -10,19 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.37795844",
-    "Longitude": "-1.49972656"
+    "Latitude": "53.3780007",
+    "Longitude": "-1.4998361"
   },
-  "AddressLine2": "184 Whitham Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 184 Whitham Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S10 2SS",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-07-27",
+  "RatingDate": "2025-01-27",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
+    "Hygiene": 15,
+    "Structural": 5,
     "ConfidenceInManagement": 10
   }
 }

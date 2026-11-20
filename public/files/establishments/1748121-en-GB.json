@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.406893",
-    "Longitude": "-1.452484"
-  },
-  "AddressLine2": "502-504 Barnsley Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "502-504 Barnsley Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S5 7AE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-09-16",
+  "RatingDate": "2026-08-27",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Structural": 0,
+    "ConfidenceInManagement": 5
   }
 }

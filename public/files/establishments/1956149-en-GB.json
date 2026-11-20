@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Unit KL42 and KL43",
-  "AddressLine2": "Meadowhall Shopping Centre",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Unit KL42 and KL43                                                                                   Meadowhall Shopping Centre",
+  "AddressLine2": "Sheffield",
   "PostCode": "S9 1EP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-28",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

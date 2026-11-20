@@ -9,16 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3605054",
-    "Longitude": "-1.4791219"
-  },
-  "AddressLine2": "335-337 Abbeydale Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "335-337 Abbeydale Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S7 1FS",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2024-10-16",
-  "Scores": null
+  "RatingDate": "2023-06-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

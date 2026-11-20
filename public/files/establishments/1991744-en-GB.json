@@ -1,6 +1,6 @@
 {
   "FHRSID": 1991744,
-  "BusinessName": "Jemima Mepham",
+  "BusinessName": "Jemima Mepham (In love with)",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "FR/202600197",
   "BusinessTypeID": 7841,
@@ -9,17 +9,14 @@
   "LocalAuthorityWebSite": "http://www.elmbridge.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@elmbridge.gov.uk",
-  "Geocode": {
-    "Latitude": "51.369879",
-    "Longitude": "-0.438572"
-  },
-  "AddressLine1": "16 Woodland Grove",
-  "AddressLine2": "Weybridge",
-  "AddressLine3": "Surrey",
-  "PostCode": "KT13 9EQ",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-18",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

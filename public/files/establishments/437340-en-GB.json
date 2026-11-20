@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.392507",
-    "Longitude": "-1.550486"
+    "Latitude": "53.392726",
+    "Longitude": "-1.5498607"
   },
-  "AddressLine2": "96 Uppergate Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 96 Uppergate Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S6 6BY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-08-26",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

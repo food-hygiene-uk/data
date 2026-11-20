@@ -9,21 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3808202",
-    "Longitude": "-1.4711276"
-  },
-  "AddressLine1": "New Oxford House",
-  "AddressLine2": "30 Barker's Pool",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "New Oxford House                                                                                     30 Barker's Pool",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 2HB",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-02-03",
+  "RatingDate": "2026-09-21",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 10,
     "ConfidenceInManagement": 10
   }
 }

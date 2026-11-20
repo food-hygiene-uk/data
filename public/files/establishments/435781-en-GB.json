@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.403573",
-    "Longitude": "-1.50314"
+    "Latitude": "53.4037234",
+    "Longitude": "-1.5032177"
   },
-  "AddressLine2": "49 Middlewood Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 49 Middlewood Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S6 4GW",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",
   "RatingDate": "2026-07-14",
-  "Scores": null
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.376875",
-    "Longitude": "-1.500459"
+    "Latitude": "53.3770697",
+    "Longitude": "-1.5012399"
   },
-  "AddressLine2": "494 Glossop Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 494 Glossop Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S10 2QA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

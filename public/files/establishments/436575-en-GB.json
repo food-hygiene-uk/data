@@ -10,16 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.381452",
-    "Longitude": "-1.471647"
+    "Latitude": "53.3814966",
+    "Longitude": "-1.4716303"
   },
-  "AddressLine1": "Unit 4",
-  "AddressLine2": "Leopold Square",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Unit 4                                                                                               Leopold Square",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 2JG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-09-10",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2025-06-05",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

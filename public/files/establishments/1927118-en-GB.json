@@ -10,14 +10,17 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Now Church",
-  "AddressLine2": "Tannery Street",
-  "AddressLine3": "Woodhouse",
+  "AddressLine1": "Now Church                                                                                           Tannery Street",
+  "AddressLine2": "Woodhouse",
   "AddressLine4": "Sheffield",
   "PostCode": "S13 7LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-07-30",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

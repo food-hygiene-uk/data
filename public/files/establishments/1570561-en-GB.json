@@ -13,12 +13,16 @@
     "Latitude": "53.3682321",
     "Longitude": "-1.4763314"
   },
-  "AddressLine2": "220 London Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 220 London Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S2 4LW",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-10-07",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-23",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

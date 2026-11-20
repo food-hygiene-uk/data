@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Centre in the Park Norfolk Heritage Park",
-  "AddressLine2": "Guildford Avenue",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Centre In The Park Norfolk Heritage Park                                                            Guildford Avenue",
+  "AddressLine2": "Sheffield",
   "PostCode": "S2 2PL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-05",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

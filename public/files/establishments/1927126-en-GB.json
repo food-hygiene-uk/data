@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Broomhall Centre",
-  "AddressLine2": "Broomspring Lane",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Broomhall Centre                                                                                     Broomspring Lane",
+  "AddressLine2": "Sheffield",
   "PostCode": "S10 2FD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-09-30",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

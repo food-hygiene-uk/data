@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "188",
   "LocalAuthorityName": "Folkestone and Hythe",
   "LocalAuthorityWebSite": "http://www.folkestone-hythe.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodteam@folkestone-hythe.gov.uk",
   "Geocode": {
     "Latitude": "51.0802287",
@@ -17,12 +17,12 @@
   "AddressLine3": "FOLKESTONE",
   "PostCode": "CT20 1DZ",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2021-04-29",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-15",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

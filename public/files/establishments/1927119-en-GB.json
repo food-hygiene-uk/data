@@ -13,13 +13,16 @@
     "Latitude": "53.3488246",
     "Longitude": "-1.3453713"
   },
-  "AddressLine1": "Crystal Peaks Church",
-  "AddressLine2": "103 Robin Lane",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Crystal Peaks Church                                                                                 103 Robin Lane",
+  "AddressLine2": "Sheffield",
   "PostCode": "S20 1BB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

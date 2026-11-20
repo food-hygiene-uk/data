@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.4161663",
-    "Longitude": "-1.4732723"
+    "Latitude": "53.41650681",
+    "Longitude": "-1.47120687"
   },
-  "AddressLine2": "Southey Avenue",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " Southey Avenue",
+  "AddressLine2": "Sheffield",
   "PostCode": "S5 7NN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-09-24",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

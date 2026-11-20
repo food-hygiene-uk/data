@@ -9,10 +9,15 @@
   "LocalAuthorityWebSite": "http://www.ardsandnorthdown.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodenquiries@ardsandnorthdown.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.645551",
+    "Longitude": "-5.690431"
+  },
   "AddressLine1": "173 Clandeboye Road",
+  "AddressLine2": "Ballyvarnet",
   "AddressLine3": "Bangor",
-  "PostCode": "BT196AA",
+  "AddressLine4": "Down",
+  "PostCode": "BT19 1AA",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

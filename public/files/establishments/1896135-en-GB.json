@@ -10,12 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "KL12a Meadowhall Centre",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "KL12a Meadowhall Centre                                                                            ",
+  "AddressLine2": "Sheffield",
   "PostCode": "S9 1EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-05-01",
-  "Scores": null
+  "RatingDate": "2026-08-21",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

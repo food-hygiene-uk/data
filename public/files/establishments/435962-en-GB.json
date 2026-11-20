@@ -9,21 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.420982",
-    "Longitude": "-1.520136"
-  },
-  "AddressLine1": "Forest Lodge",
-  "AddressLine2": "5 Forest Close",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "Forest Lodge                                                                                         5 Forest Close",
+  "AddressLine2": "Sheffield",
   "PostCode": "S35 0JW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-12",
+  "RatingDate": "2026-08-13",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

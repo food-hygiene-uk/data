@@ -9,17 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3752975463867",
-    "Longitude": "-1.46870100498199"
-  },
-  "AddressLine1": "Alsop Fields",
-  "AddressLine2": "Sidney Street",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "Alsop Fields                                                                                         Sidney Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S1 4RG",
   "SchemeType": "FHRS",
-  "RatingValue": "3",
-  "RatingKey": "fhrs_3_en-GB",
-  "RatingDate": "2026-02-10",
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2025-12-04",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

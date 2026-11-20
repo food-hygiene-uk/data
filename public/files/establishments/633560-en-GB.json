@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.346539",
-    "Longitude": "-1.428487"
+    "Latitude": "53.345963",
+    "Longitude": "-1.4269015"
   },
-  "AddressLine2": "861 Gleadless Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 861 Gleadless Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S12 2LG",
   "SchemeType": "FHRS",
-  "RatingValue": "4",
-  "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-10-28",
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-08-28",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 5
+  }
 }

@@ -9,22 +9,18 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3258247375488",
-    "Longitude": "-1.34027099609375"
-  },
-  "AddressLine1": "New Hope Community Church",
-  "AddressLine2": "Old Lane",
-  "AddressLine3": "Halfway",
+  "Geocode": null,
+  "AddressLine1": "New Hope Community Church                                                                            Old Lane",
+  "AddressLine2": "Halfway",
   "AddressLine4": "Sheffield",
   "PostCode": "S20 3GZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-26",
+  "RatingDate": "2026-07-29",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 0,
+    "Hygiene": 0,
+    "Structural": 5,
     "ConfidenceInManagement": 5
   }
 }

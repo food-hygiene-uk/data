@@ -10,15 +10,19 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.405153",
-    "Longitude": "-1.439675"
+    "Latitude": "53.4051449",
+    "Longitude": "-1.4396131"
   },
-  "AddressLine2": "455 Petre Street",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 455 Petre Street",
+  "AddressLine2": "Sheffield",
   "PostCode": "S4 8NB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-10-20",
-  "Scores": null
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-05-21",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
+  }
 }

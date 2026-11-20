@@ -10,13 +10,16 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": null,
-  "AddressLine1": "Sharrow Community Forum",
-  "AddressLine2": "South View Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": "Sharrow Community Forum                                                                              South View Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S7 1DB",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-06-11",
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-01-27",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

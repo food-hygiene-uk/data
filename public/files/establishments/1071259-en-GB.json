@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3583498",
-    "Longitude": "-1.4754923"
-  },
-  "AddressLine2": "47-49 Chesterfield Road",
-  "AddressLine3": "Sheffield",
+  "Geocode": null,
+  "AddressLine1": "47-49 Chesterfield Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S8 0RL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-05-07",
+  "RatingDate": "2026-06-09",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
+    "Hygiene": 5,
+    "Structural": 0,
     "ConfidenceInManagement": 5
   }
 }
