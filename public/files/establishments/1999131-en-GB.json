@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.exeter.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@exeter.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7395041",
+    "Longitude": "-3.4832763"
+  },
+  "AddressLine1": "5 Shales Road",
+  "AddressLine2": "Exeter",
+  "PostCode": "EX4 8FW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

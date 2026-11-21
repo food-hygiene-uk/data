@@ -1,13 +1,13 @@
 {
   "FHRSID": 2006152,
-  "BusinessName": "Yaprak restaurant",
+  "BusinessName": "Yaprak Restaurant",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "73087",
   "BusinessTypeID": 1,
   "LocalAuthorityCode": "887",
   "LocalAuthorityName": "Wokingham",
   "LocalAuthorityWebSite": "http://www.wokingham.gov.uk/welcome/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@wokingham.gov.uk",
   "Geocode": {
     "Latitude": "51.4519409",
@@ -17,8 +17,12 @@
   "AddressLine3": "Woodley",
   "PostCode": "RG5 3JP",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.scambs.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "commercial.envhealth@scambs.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "The Papworth Day Nursery Ermine Street North",
+  "Geocode": {
+    "Latitude": "52.2506835",
+    "Longitude": "-0.1198283"
+  },
+  "AddressLine1": "The Old School House Ermine Street North",
   "AddressLine3": "Papworth Everard",
   "AddressLine4": "Cambridgeshire",
   "PostCode": "CB23 3UY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-09",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

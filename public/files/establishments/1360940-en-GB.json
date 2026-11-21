@@ -1,6 +1,6 @@
 {
   "FHRSID": 1360940,
-  "BusinessName": "Little Bao Boy",
+  "BusinessName": "The Chiswick Cinema",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "170918",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine3": "Chiswick",
   "PostCode": "W4 1SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2024-04-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

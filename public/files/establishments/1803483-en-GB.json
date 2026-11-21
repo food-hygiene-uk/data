@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.newrymournedown.org",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@nmandd.org",
-  "Geocode": null,
-  "AddressLine1": "Warrenpoint",
-  "AddressLine3": "Newry",
+  "Geocode": {
+    "Latitude": "54.127607",
+    "Longitude": "-6.263759"
+  },
+  "AddressLine1": "71 Milltown Street",
+  "AddressLine2": "Burren",
+  "AddressLine3": "Warrenpoint",
+  "AddressLine4": "Down",
   "PostCode": "BT34 3PU",
   "SchemeType": "FHRS",
   "RatingValue": "5",

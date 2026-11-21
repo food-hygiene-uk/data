@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.345038",
-    "Longitude": "-1.445735"
+    "Latitude": "53.34499",
+    "Longitude": "-1.4462078"
   },
-  "AddressLine2": "177 Blackstock Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 177 Blackstock Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S14 1FX",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-03-14",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-10-16",
   "Scores": {
     "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

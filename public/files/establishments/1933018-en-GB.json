@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.herefordshire.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "info@herefordshire.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Manor Farm",
+  "Geocode": {
+    "Latitude": "52.346188",
+    "Longitude": "-2.927451"
+  },
+  "AddressLine1": "The Bookery Manor Farm",
   "AddressLine4": "Brampton Bryan",
   "PostCode": "SY7 0DH",
   "SchemeType": "FHRS",

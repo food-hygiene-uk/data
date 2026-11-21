@@ -1,6 +1,6 @@
 {
   "FHRSID": 1970434,
-  "BusinessName": "Green Lane Cafe",
+  "BusinessName": "Green Lane Cafe At Desborough Bowls Club",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "26/00174/COM",
   "BusinessTypeID": 1,
@@ -17,8 +17,12 @@
   "AddressLine2": "Maidenhead",
   "PostCode": "SL6 1XZ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-16",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

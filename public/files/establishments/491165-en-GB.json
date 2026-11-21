@@ -1,6 +1,6 @@
 {
   "FHRSID": 491165,
-  "BusinessName": "Curry Leaf",
+  "BusinessName": "Curry Leaf / Grove Park Fish and Chips",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "8604",
   "BusinessTypeID": 7844,
@@ -17,8 +17,12 @@
   "AddressLine3": "Chiswick",
   "PostCode": "W4 3JY",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2022-03-03",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 5
+  }
 }

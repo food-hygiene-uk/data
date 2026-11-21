@@ -1,6 +1,6 @@
 {
   "FHRSID": 1968837,
-  "BusinessName": "St Gerard's Catholic Primary & Nursery School, After School Club",
+  "BusinessName": "St Gerard's Catholic Primary & Nursery School, BeforeAfter School Club",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "90515",
   "BusinessTypeID": 7845,
@@ -17,8 +17,12 @@
   "AddressLine2": "Widnes",
   "PostCode": "WA8 6DD",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }
