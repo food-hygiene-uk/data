@@ -1,13 +1,13 @@
 {
   "FHRSID": 1320203,
-  "BusinessName": "Euro Supermarket",
+  "BusinessName": "Miami Local",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "348660",
   "BusinessTypeID": 4613,
   "LocalAuthorityCode": "531",
   "LocalAuthorityName": "Waltham Forest",
   "LocalAuthorityWebSite": "http://www.walthamforest.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@walthamforest.gov.uk",
   "Geocode": {
     "Latitude": "51.5754922",
@@ -18,12 +18,12 @@
   "AddressLine4": "London",
   "PostCode": "E10 6AP",
   "SchemeType": "FHRS",
-  "RatingValue": "0",
-  "RatingKey": "fhrs_0_en-GB",
-  "RatingDate": "2026-03-14",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-17",
   "Scores": {
-    "Hygiene": 25,
+    "Hygiene": 15,
     "Structural": 15,
-    "ConfidenceInManagement": 30
+    "ConfidenceInManagement": 20
   }
 }
