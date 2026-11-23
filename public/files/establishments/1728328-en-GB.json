@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "874",
   "LocalAuthorityName": "Darlington",
   "LocalAuthorityWebSite": "http://www.darlington.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@darlington.gov.uk",
   "Geocode": null,
   "AddressLine1": "Petrol Filling Station",
@@ -15,12 +15,12 @@
   "AddressLine3": "Morton Park Way",
   "AddressLine4": "Darlington",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-24",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-22",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Hygiene": 10,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }
