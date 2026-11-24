@@ -1,6 +1,6 @@
 {
   "FHRSID": 214789,
-  "BusinessName": "Elmwood House Care Home",
+  "BusinessName": "Bramble House Care",
   "BusinessType": "Hospitals/Childcare/Caring Premises",
   "LocalAuthorityBusinessID": "PI/000001129",
   "BusinessTypeID": 5,
@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.chesterfield.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@chesterfield.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Elmwood House Care Home",
+  "Geocode": {
+    "Latitude": "53.258688",
+    "Longitude": "-1.3842779"
+  },
+  "AddressLine1": "Bramble House",
   "AddressLine2": "Elm Street",
   "AddressLine4": "Chesterfield",
   "PostCode": "S43 2LQ",

@@ -1,13 +1,13 @@
 {
   "FHRSID": 1547129,
-  "BusinessName": "Golden Fleece",
+  "BusinessName": "The Golden Fleece",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "21/01091/COMM",
   "BusinessTypeID": 7843,
   "LocalAuthorityCode": "406",
   "LocalAuthorityName": "Calderdale",
   "LocalAuthorityWebSite": "http://www.calderdale.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@calderdale.gov.uk",
   "Geocode": {
     "Latitude": "53.6720012",
@@ -19,8 +19,12 @@
   "AddressLine4": "Elland",
   "PostCode": "HX5 0TE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2026-01-20",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-11-02",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

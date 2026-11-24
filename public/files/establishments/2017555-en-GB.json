@@ -9,22 +9,10 @@
   "LocalAuthorityWebSite": "http://www.southribble.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@southribble.gov.uk",
-  "Geocode": {
-    "Latitude": "53.7477728",
-    "Longitude": "-2.7372834"
-  },
-  "AddressLine1": "117 Liverpool Road",
-  "AddressLine2": "Penwortham",
-  "AddressLine3": "Preston",
-  "AddressLine4": "Lancashire",
-  "PostCode": "PR1 0QH",
+  "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2022-03-23",
-  "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
-  }
+  "RatingValue": "AwaitingInspection",
+  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingDate": null,
+  "Scores": null
 }

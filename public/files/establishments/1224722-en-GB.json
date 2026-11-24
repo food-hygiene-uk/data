@@ -7,24 +7,20 @@
   "LocalAuthorityCode": "435",
   "LocalAuthorityName": "Wirral",
   "LocalAuthorityWebSite": "http://www.wirral.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@wirral.gov.uk",
-  "Geocode": {
-    "Latitude": "53.3747711181641",
-    "Longitude": "-3.04078888893127"
-  },
-  "AddressLine1": "St Joseph R C Primary School",
-  "AddressLine2": "Woodchurch Road",
+  "Geocode": null,
+  "AddressLine1": "St Joseph R C Primary School Woodchurch Road",
   "AddressLine3": "Oxton",
   "AddressLine4": "Wirral",
   "PostCode": "CH43 5UT",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2020-02-12",
+  "RatingDate": "2026-10-19",
   "Scores": {
     "Hygiene": 10,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 0
   }
 }

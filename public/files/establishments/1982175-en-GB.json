@@ -1,6 +1,6 @@
 {
   "FHRSID": 1982175,
-  "BusinessName": "Date Palm Nursery",
+  "BusinessName": "Date Palm Foundation Nursery",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "CP/002879",
   "BusinessTypeID": 7845,
@@ -9,10 +9,14 @@
   "LocalAuthorityWebSite": "http://www.southglos.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandhealth@southglos.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "7 Moravian Road",
-  "AddressLine2": "Kingswood",
-  "AddressLine3": "South Gloucestershire",
+  "Geocode": {
+    "Latitude": "51.4617805",
+    "Longitude": "-2.5076518"
+  },
+  "AddressLine1": "Date Palm Nursery",
+  "AddressLine2": "7 Moravian Road",
+  "AddressLine3": "Kingswood",
+  "AddressLine4": "South Gloucestershire",
   "PostCode": "BS15 8LY",
   "SchemeType": "FHRS",
   "RatingValue": "5",

@@ -9,10 +9,16 @@
   "LocalAuthorityWebSite": "http://www.dover.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "publicprotection@dover.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.212087",
+    "Longitude": "1.3805192"
+  },
+  "AddressLine1": "15 Douglas Road",
+  "AddressLine3": "Deal",
+  "PostCode": "CT14 9HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "558",
   "LocalAuthorityName": "Carmarthenshire",
   "LocalAuthorityWebSite": "http://www.carmarthenshire.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "PublicProtection@carmarthenshire.gov.uk",
   "Geocode": {
     "Latitude": "51.72182",
@@ -18,12 +18,12 @@
   "AddressLine4": "Kidwelly",
   "PostCode": "SA17 4DG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2023-01-12",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_cy-gb",
+  "RatingDate": "2026-10-19",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 0,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

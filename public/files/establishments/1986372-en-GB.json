@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.slough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@slough.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Units 1 & 2 Langley Connect",
-  "AddressLine2": "3 Langley Park Road",
-  "AddressLine3": "Slough",
+  "Geocode": {
+    "Latitude": "51.5090773",
+    "Longitude": "-0.5416472"
+  },
+  "AddressLine1": "1-2 LANGLEY CONNECT STATION ROAD",
+  "AddressLine2": "LANGLEY",
+  "AddressLine3": "SLOUGH",
   "PostCode": "SL3 6EG",
   "SchemeType": "FHRS",
   "RatingValue": "Exempt",

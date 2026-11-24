@@ -1,29 +1,27 @@
 {
   "FHRSID": 727985,
-  "BusinessName": "The Yard Caf? Ltd",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessName": "The Yard Cafe Ltd",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000178576",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "510",
   "LocalAuthorityName": "Enfield",
   "LocalAuthorityWebSite": "http://www.enfield.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@enfield.gov.uk",
-  "Geocode": {
-    "Latitude": "51.618214",
-    "Longitude": "-0.11041"
-  },
-  "AddressLine1": "Palmers Green Railway Station",
-  "AddressLine2": "Aldermans Hill",
-  "AddressLine3": "LONDON",
+  "Geocode": null,
+  "AddressLine1": "The Yard Caf Ltd",
+  "AddressLine2": "Palmers Green Railway Station",
+  "AddressLine3": "Aldermans Hill",
+  "AddressLine4": "LONDON",
   "PostCode": "N13 4PN",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",
-  "RatingDate": "2025-06-16",
+  "RatingDate": "2026-10-19",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }
