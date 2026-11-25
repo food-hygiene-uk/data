@@ -1,6 +1,6 @@
 {
   "FHRSID": 1979233,
-  "BusinessName": "Bow AAC",
+  "BusinessName": "Bow AAC : Burston Meadows Kitchen",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "26/227/FOOD",
   "BusinessTypeID": 7844,
@@ -14,8 +14,12 @@
   "AddressLine2": "Bow",
   "AddressLine3": "Devon",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-12",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

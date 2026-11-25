@@ -7,8 +7,9 @@
   "LocalAuthorityCode": "187",
   "LocalAuthorityName": "Sevenoaks",
   "LocalAuthorityWebSite": "http://www.sevenoaks.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@sevenoaks.gov.uk",
+  "RightToReply": "&lt;div&gt;\n\tWe acted promptly to address the inspection findings, completing cleaning and improving food storage. We purchased a new commercial fridge, with the smaller fridge now dedicated to dairy-free food.&lt;/div&gt;\n&lt;div&gt;\n\tBeyond our existing pest-control contract, we funded comprehensive pest-proofing throughout the whole nursery, extending beyond the areas identified during inspection. This was completed within 14 days of the initial EHO visit, with additional ongoing professional support and monitoring.&lt;/div&gt;\n&lt;div&gt;\n\tA clearance company removed all items left by the previous tenant in the garage area, which is now clear, with photographs available. We also had the boiler serviced following the officer&amp;rsquo;s comments about noise.&lt;/div&gt;\n&lt;div&gt;\n\tWe will request a re-rating inspection at the earliest opportunity.&lt;/div&gt;\n&lt;div&gt;\n\t&amp;nbsp;&lt;/div&gt;\n",
   "Geocode": {
     "Latitude": "51.2088231",
     "Longitude": "0.0418103"
@@ -19,8 +20,12 @@
   "AddressLine4": "Edenbridge",
   "PostCode": "TN8 6LH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-11-03",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

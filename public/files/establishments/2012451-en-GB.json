@@ -1,6 +1,6 @@
 {
   "FHRSID": 2012451,
-  "BusinessName": "'O' Hara's Coffee House",
+  "BusinessName": "O'Hara's Coffee House",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00182/FOOD",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "Gloucestershire",
   "PostCode": "GL50 3LA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-12",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

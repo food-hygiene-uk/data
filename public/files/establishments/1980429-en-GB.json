@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "552",
   "LocalAuthorityName": "Blaenau Gwent",
   "LocalAuthorityWebSite": "http://www.blaenau-gwent.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@blaenau-gwent.gov.uk",
   "Geocode": {
     "Latitude": "51.7496787",
@@ -21,10 +21,10 @@
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2026-07-10",
+  "RatingDate": "2026-10-20",
   "Scores": {
     "Hygiene": 5,
-    "Structural": 10,
-    "ConfidenceInManagement": 5
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

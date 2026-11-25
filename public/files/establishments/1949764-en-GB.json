@@ -1,6 +1,6 @@
 {
   "FHRSID": 1949764,
-  "BusinessName": "Huw Davies",
+  "BusinessName": "Huw Davies (Bee Keeper)",
   "BusinessType": "Farmers/growers",
   "LocalAuthorityBusinessID": "9103491",
   "BusinessTypeID": 7838,
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "foodsafety-healthandsafety@conwy.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_cy-gb",
+  "RatingDate": "2026-11-11",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

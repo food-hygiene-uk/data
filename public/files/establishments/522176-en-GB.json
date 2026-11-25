@@ -1,28 +1,28 @@
 {
   "FHRSID": 522176,
-  "BusinessName": "Sanam Kebabish",
+  "BusinessName": "Prime Bites",
   "BusinessType": "Takeaway/sandwich shop",
   "LocalAuthorityBusinessID": "39309",
   "BusinessTypeID": 7844,
   "LocalAuthorityCode": "425",
   "LocalAuthorityName": "Sheffield",
   "LocalAuthorityWebSite": "https://www.sheffield.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@sheffield.gov.uk",
   "Geocode": {
-    "Latitude": "53.386432",
-    "Longitude": "-1.412181"
+    "Latitude": "53.3864972",
+    "Longitude": "-1.4127263"
   },
-  "AddressLine2": "667 Staniforth Road",
-  "AddressLine3": "Sheffield",
+  "AddressLine1": " 667 Staniforth Road",
+  "AddressLine2": "Sheffield",
   "PostCode": "S9 4RE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-09-30",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-20",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

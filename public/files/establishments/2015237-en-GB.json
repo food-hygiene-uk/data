@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.bradford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh.admin@bradford.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Units 8 To 10 Pitcliffe Way Industrial Estate",
+  "Geocode": {
+    "Latitude": "53.7841313",
+    "Longitude": "-1.7493822"
+  },
+  "AddressLine1": "Unit 23 Pitcliffe Way Industrial Estate",
   "AddressLine2": "Upper Castle Street",
   "AddressLine3": "Bradford",
   "PostCode": "BD5 7SG",

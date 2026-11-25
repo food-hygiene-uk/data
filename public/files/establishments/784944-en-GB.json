@@ -7,22 +7,22 @@
   "LocalAuthorityCode": "555",
   "LocalAuthorityName": "Caerphilly",
   "LocalAuthorityWebSite": "http://www.caerphilly.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "FoodHealthSafety@CAERPHILLY.GOV.UK",
   "Geocode": {
-    "Latitude": "51.688853",
-    "Longitude": "-3.228875"
+    "Latitude": "51.6888884",
+    "Longitude": "-3.2287949"
   },
-  "AddressLine2": "24 Hanbury Road",
+  "AddressLine1": "24 Hanbury Road",
   "AddressLine3": "Bargoed",
   "PostCode": "CF81 8QT",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_cy-gb",
-  "RatingDate": "2025-05-07",
+  "RatingDate": "2026-10-20",
   "Scores": {
-    "Hygiene": 10,
+    "Hygiene": 5,
     "Structural": 5,
-    "ConfidenceInManagement": 5
+    "ConfidenceInManagement": 10
   }
 }

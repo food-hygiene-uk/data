@@ -9,10 +9,18 @@
   "LocalAuthorityWebSite": "http://www.somerset.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "somersetenquiries@somerset.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.0260798",
+    "Longitude": "-3.1254648"
+  },
+  "AddressLine1": "3 Marco Polo House",
+  "AddressLine2": "Cook Way",
+  "AddressLine3": "Staplegrove",
+  "AddressLine4": "Taunton",
+  "PostCode": "TA2 6BJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

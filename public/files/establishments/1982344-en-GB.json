@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "536A Hob Moor Road",
+  "Geocode": {
+    "Latitude": "52.4675464",
+    "Longitude": "-1.8124302"
+  },
+  "AddressLine1": "536 Hob Moor Road",
   "AddressLine2": "Yardley",
   "AddressLine3": "Birmingham",
   "PostCode": "B25 8TN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-10",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

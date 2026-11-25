@@ -1,6 +1,6 @@
 {
   "FHRSID": 1993662,
-  "BusinessName": "WHSmith Costa / WHSmith Costa Outpatients",
+  "BusinessName": "Costa Outpatients / Costa Main Entrance",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "PI/000710121",
   "BusinessTypeID": 1,
@@ -18,8 +18,12 @@
   "AddressLine3": "Birmingham",
   "PostCode": "B15 2TH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-11",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

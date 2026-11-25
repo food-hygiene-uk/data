@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.lisburncastlereagh.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Env.Health@lisburncastlereagh.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.5309637",
+    "Longitude": "-6.0795839"
+  },
+  "AddressLine1": "59 Sir Richard Wallace Road",
+  "AddressLine3": "Lisburn",
+  "PostCode": "BT28 3ZH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
