@@ -9,9 +9,14 @@
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
-  "Geocode": null,
-  "AddressLine1": "51 Main Street Derrylin",
-  "AddressLine3": "Enniskillen",
+  "Geocode": {
+    "Latitude": "54.200442",
+    "Longitude": "-7.581746"
+  },
+  "AddressLine1": "51 Main Street",
+  "AddressLine2": "Derrygurdry",
+  "AddressLine3": "Derrylin",
+  "AddressLine4": "Fermanagh",
   "PostCode": "BT92 9JZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",

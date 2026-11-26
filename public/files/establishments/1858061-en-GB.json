@@ -9,10 +9,13 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Land At Little Metlands Farm",
-  "AddressLine2": "Limekiln Lane",
-  "AddressLine3": "Bishops Waltham",
+  "Geocode": {
+    "Latitude": "51.0053712",
+    "Longitude": "-1.2762375"
+  },
+  "AddressLine1": "Whites Hill Farm",
+  "AddressLine2": "Whites Hill",
+  "AddressLine3": "Owslebury",
   "AddressLine4": "Hampshire",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",

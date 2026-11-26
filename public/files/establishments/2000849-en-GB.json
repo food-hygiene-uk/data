@@ -1,6 +1,6 @@
 {
   "FHRSID": 2000849,
-  "BusinessName": "Stir Food Limited",
+  "BusinessName": "Stir Food Ltd At Priors Hall A Learning Community",
   "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "26/00126/FOODHS",
   "BusinessTypeID": 7841,
@@ -19,8 +19,12 @@
   "AddressLine4": "Corby",
   "PostCode": "NN17 5EB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 0
+  }
 }

@@ -1,6 +1,6 @@
 {
   "FHRSID": 2000842,
-  "BusinessName": "Cottingham Church Of England Primary School",
+  "BusinessName": "The Pantry UK Ltd. At Cottingham CofE Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00119/FOODC",
   "BusinessTypeID": 7845,
@@ -19,8 +19,12 @@
   "AddressLine4": "Market Harborough",
   "PostCode": "LE16 8XB",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

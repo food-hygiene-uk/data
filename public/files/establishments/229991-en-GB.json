@@ -1,6 +1,6 @@
 {
   "FHRSID": 229991,
-  "BusinessName": "Heron  Frozen Foods",
+  "BusinessName": "Heron Foods",
   "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "PI/000006229",
   "BusinessTypeID": 4613,
@@ -10,20 +10,20 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmentalhealth@cumberland.gov.uk",
   "Geocode": {
-    "Latitude": "54.548982",
-    "Longitude": "-3.588493"
+    "Latitude": "54.5486446",
+    "Longitude": "-3.5888042"
   },
   "AddressLine1": "20-21 King Street",
   "AddressLine2": "Whitehaven",
   "AddressLine3": "Cumbria",
-  "PostCode": "CA28 7LA",
+  "AddressLine4": "CA28 7LA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-04-18",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-04-17",
   "Scores": {
     "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 0
+    "Structural": 5,
+    "ConfidenceInManagement": 10
   }
 }

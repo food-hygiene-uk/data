@@ -1,6 +1,6 @@
 {
   "FHRSID": 1993280,
-  "BusinessName": "Majors Manors",
+  "BusinessName": "Majors Manor",
   "BusinessType": "Pub/bar/nightclub",
   "LocalAuthorityBusinessID": "80360",
   "BusinessTypeID": 7843,
@@ -17,8 +17,12 @@
   "AddressLine3": "Redcar",
   "PostCode": "TS10 3DL",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

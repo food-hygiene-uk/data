@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.newforest.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "hygiene.rating@nfdc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "50.7708981",
+    "Longitude": "-1.5479528"
+  },
+  "AddressLine1": "UNIT 610",
+  "AddressLine2": "AMPRESS LANE",
+  "AddressLine3": "LYMINGTON",
+  "PostCode": "SO41 8LW",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhrs_exempt_en-GB",
   "RatingDate": null,
   "Scores": null
 }

@@ -9,14 +9,21 @@
   "LocalAuthorityWebSite": "http://www.great-yarmouth.gov.uk/live/index.htm",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "health@great-yarmouth.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.615293",
+    "Longitude": "1.721625"
+  },
   "AddressLine2": "North River Road",
-  "AddressLine3": "Great Yarmouth",
-  "AddressLine4": "Norfolk",
+  "AddressLine3": "Runham Vauxhall",
+  "AddressLine4": "Great Yarmouth",
   "PostCode": "NR30 1SH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-20",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

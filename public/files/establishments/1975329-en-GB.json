@@ -1,6 +1,6 @@
 {
   "FHRSID": 1975329,
-  "BusinessName": "Impact Food Group@Rockingham Primary School",
+  "BusinessName": "Impact Food Group At Rockingham Primary School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00091/FOODHS",
   "BusinessTypeID": 7845,
@@ -15,8 +15,12 @@
   "AddressLine3": "Corby",
   "PostCode": "NN17 1AJ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-17",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

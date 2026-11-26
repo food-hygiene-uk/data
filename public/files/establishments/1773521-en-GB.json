@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.ashford.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@ashford.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.1295625",
+    "Longitude": "0.8811139"
+  },
+  "AddressLine1": "7 White Willow Close",
+  "AddressLine3": "Willesborough",
+  "PostCode": "TN24 0RX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

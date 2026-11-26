@@ -1,6 +1,6 @@
 {
   "FHRSID": 1998322,
-  "BusinessName": "Bishops Waltham Junior School - Aspens",
+  "BusinessName": "Bishops Waltham Junior School",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00241/FOOD",
   "BusinessTypeID": 7845,
@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.winchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "eh@winchester.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Bishops Waltham Junior School",
-  "AddressLine2": "Oak Road",
-  "AddressLine3": "Bishops Waltham",
-  "AddressLine4": "Southampton",
+  "Geocode": {
+    "Latitude": "50.95485",
+    "Longitude": "-1.204323"
+  },
+  "AddressLine1": "Oak Road",
+  "AddressLine2": "Bishops Waltham",
+  "AddressLine3": "Southampton",
+  "AddressLine4": "Hampshire",
   "PostCode": "SO32 1EP",
   "SchemeType": "FHRS",
   "RatingValue": "5",

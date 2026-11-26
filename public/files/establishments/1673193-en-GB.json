@@ -9,10 +9,17 @@
   "LocalAuthorityWebSite": "http://www.dumgal.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "contact@dumgal.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.8686442",
+    "Longitude": "-4.4426776"
+  },
+  "AddressLine1": "11 North Main Street",
+  "AddressLine2": "Wigtown",
+  "AddressLine4": "Dumfries And Galloway",
+  "PostCode": "DG8 9HN",
   "SchemeType": "FHIS",
-  "RatingValue": "Awaiting Inspection",
-  "RatingKey": "fhis_awaiting_inspection_en-GB",
-  "RatingDate": "2023-08-23",
+  "RatingValue": "Exempt",
+  "RatingKey": "fhis_exempt_en-GB",
+  "RatingDate": "2026-11-23",
   "Scores": null
 }

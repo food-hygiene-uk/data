@@ -1,6 +1,6 @@
 {
   "FHRSID": 1975331,
-  "BusinessName": "Impact Food Group@ Lodge Park Academy",
+  "BusinessName": "Impact Food Group At Lodge Park Academy",
   "BusinessType": "School/college/university",
   "LocalAuthorityBusinessID": "26/00093/FOODC",
   "BusinessTypeID": 7845,
@@ -18,8 +18,12 @@
   "AddressLine3": "Corby",
   "PostCode": "NN17 2JH",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-20",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

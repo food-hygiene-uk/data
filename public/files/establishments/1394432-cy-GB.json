@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "551",
   "LocalAuthorityName": "Ynys Môn",
   "LocalAuthorityWebSite": "http://www.ynysmon.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "iechydyramgylchedd@ynysmon.gov.uk",
   "Geocode": {
     "Latitude": "53.3103972",
@@ -18,8 +18,12 @@
   "AddressLine4": "Isle Of Anglesey",
   "PostCode": "LL65 1RN",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_ratingawaited_cy-gb",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-10-21",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

@@ -9,11 +9,15 @@
   "LocalAuthorityWebSite": "http://www.fermanaghomagh.com",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "fs@fermanaghomagh.com",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.392751",
+    "Longitude": "-7.642044"
+  },
   "AddressLine1": "62 Killadeas Road",
   "AddressLine2": "Trory",
   "AddressLine3": "Enniskillen",
   "AddressLine4": "Fermanagh",
+  "PostCode": "BT94 2FH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
