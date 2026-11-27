@@ -9,20 +9,17 @@
   "LocalAuthorityWebSite": "https://www.ealing.gov.uk/info/201150/food_hygiene_and_safety",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@ealing.gov.uk",
-  "Geocode": {
-    "Latitude": "51.505395",
-    "Longitude": "-0.304594"
-  },
+  "Geocode": null,
   "AddressLine1": "35 St Marys Road",
   "AddressLine2": "Ealing",
   "PostCode": "W5 5RG",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-10-14",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-11-09",
   "Scores": {
-    "Hygiene": 10,
-    "Structural": 15,
-    "ConfidenceInManagement": 10
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }

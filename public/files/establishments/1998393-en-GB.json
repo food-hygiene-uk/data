@@ -1,9 +1,9 @@
 {
   "FHRSID": 1998393,
   "BusinessName": "Mavka Herbs",
-  "BusinessType": "Other catering premises",
+  "BusinessType": "Importers/Exporters",
   "LocalAuthorityBusinessID": "97569",
-  "BusinessTypeID": 7841,
+  "BusinessTypeID": 14,
   "LocalAuthorityCode": "870",
   "LocalAuthorityName": "Milton Keynes",
   "LocalAuthorityWebSite": "http://www.milton-keynes.gov.uk",
@@ -11,8 +11,12 @@
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": null,
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-10",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

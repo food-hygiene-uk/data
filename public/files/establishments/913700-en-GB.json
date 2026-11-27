@@ -9,11 +9,14 @@
   "LocalAuthorityWebSite": "http://www.towerhamlets.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@towerhamlets.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Smokestak  Unit 11 Avant Garde",
-  "AddressLine2": "Sclater Street",
+  "Geocode": {
+    "Latitude": "51.5236848",
+    "Longitude": "-0.0731001"
+  },
+  "AddressLine1": "Smokestak",
+  "AddressLine2": "35 Sclater Street",
   "AddressLine3": "London",
-  "PostCode": "E1 6HZ",
+  "PostCode": "E1 6LB",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

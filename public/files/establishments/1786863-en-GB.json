@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "220",
   "LocalAuthorityName": "East Lindsey",
   "LocalAuthorityWebSite": "http://www.e-lindsey.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "customerservices@e-lindsey.gov.uk",
   "Geocode": {
     "Latitude": "53.1420048",
@@ -17,12 +17,12 @@
   "AddressLine2": "Skegness",
   "PostCode": "PE25 3NA",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-12-12",
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-10-22",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 25,
+    "Structural": 25,
+    "ConfidenceInManagement": 30
   }
 }

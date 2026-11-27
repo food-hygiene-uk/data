@@ -1,9 +1,9 @@
 {
   "FHRSID": 1877781,
   "BusinessName": "MMG/Panza Mia/Putcha/VP/WMS/LG",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Other catering premises",
   "LocalAuthorityBusinessID": "PI/000494702",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 7841,
   "LocalAuthorityCode": "532",
   "LocalAuthorityName": "Wandsworth",
   "LocalAuthorityWebSite": "http://www.wandsworth.gov.uk",
@@ -18,8 +18,12 @@
   "AddressLine4": "Wandsworth",
   "PostCode": "SW8 4DE",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2025-11-04",
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2025-10-17",
+  "Scores": {
+    "Hygiene": 10,
+    "Structural": 5,
+    "ConfidenceInManagement": 20
+  }
 }

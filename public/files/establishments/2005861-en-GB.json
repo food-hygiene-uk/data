@@ -1,13 +1,13 @@
 {
   "FHRSID": 2005861,
   "BusinessName": "Al Mughni Limited / Al-Mughni Wholesale Limited",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "PI/000710403",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
   "Geocode": {
     "Latitude": "52.5136375427246",
@@ -19,8 +19,12 @@
   "AddressLine4": "Birmingham",
   "PostCode": "B6 7EU",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-22",
+  "Scores": {
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
+  }
 }

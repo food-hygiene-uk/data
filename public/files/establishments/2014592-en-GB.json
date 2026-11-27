@@ -9,10 +9,21 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.7861367",
+    "Longitude": "-1.6311544"
+  },
+  "AddressLine1": "148 Short Street",
+  "AddressLine2": "Stapenhill",
+  "AddressLine3": "Burton upon Trent",
+  "PostCode": "DE15 9LT",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-05",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

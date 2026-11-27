@@ -1,9 +1,9 @@
 {
   "FHRSID": 1962266,
   "BusinessName": "Bazaar",
-  "BusinessType": "Restaurant/Cafe/Canteen",
+  "BusinessType": "Retailers - other",
   "LocalAuthorityBusinessID": "Cx20463",
-  "BusinessTypeID": 1,
+  "BusinessTypeID": 4613,
   "LocalAuthorityCode": "703",
   "LocalAuthorityName": "Cheshire East",
   "LocalAuthorityWebSite": "http://www.cheshireeast.gov.uk/",
@@ -18,8 +18,12 @@
   "AddressLine4": "Cheshire East",
   "PostCode": "SK9 1HT",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-23",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

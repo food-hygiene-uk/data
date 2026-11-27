@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.eaststaffsbc.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehsupport@eaststaffsbc.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "52.8200812",
+    "Longitude": "-1.6398601"
+  },
+  "AddressLine1": "1 Horninglow Croft",
+  "AddressLine2": "Burton upon Trent",
+  "PostCode": "DE13 0SJ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

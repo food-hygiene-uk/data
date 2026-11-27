@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "132",
   "LocalAuthorityName": "East Hampshire",
   "LocalAuthorityWebSite": "http://www.easthants.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehealth@easthants.gov.uk",
   "Geocode": null,
   "AddressLine1": "Hawkley Inn Pococks Lane",
@@ -16,12 +16,12 @@
   "AddressLine4": "Hampshire",
   "PostCode": "GU33 6NE",
   "SchemeType": "FHRS",
-  "RatingValue": "1",
-  "RatingKey": "fhrs_1_en-GB",
-  "RatingDate": "2026-10-02",
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-11-04",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 0,
     "Structural": 5,
-    "ConfidenceInManagement": 20
+    "ConfidenceInManagement": 10
   }
 }

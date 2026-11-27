@@ -1,9 +1,9 @@
 {
   "FHRSID": 2006425,
   "BusinessName": "Oseedy @ St Mary's Church",
-  "BusinessType": "Retailers - other",
+  "BusinessType": "Mobile caterer",
   "LocalAuthorityBusinessID": "PI/000310241",
-  "BusinessTypeID": 4613,
+  "BusinessTypeID": 7846,
   "LocalAuthorityCode": "519",
   "LocalAuthorityName": "Islington",
   "LocalAuthorityWebSite": "http://www.islington.gov.uk",
@@ -16,8 +16,12 @@
   "AddressLine4": "London",
   "PostCode": "N1 2TX",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-19",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 0,
+    "ConfidenceInManagement": 0
+  }
 }

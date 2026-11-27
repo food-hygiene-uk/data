@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "325",
   "LocalAuthorityName": "Chichester",
   "LocalAuthorityWebSite": "http://www.chichester.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "healthprotection@chichester.gov.uk",
   "Geocode": {
     "Latitude": "50.732137",
@@ -19,8 +19,12 @@
   "AddressLine4": "West Sussex",
   "PostCode": "PO20 0QE",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_en-GB",
+  "RatingDate": "2026-10-22",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 20,
+    "ConfidenceInManagement": 10
+  }
 }

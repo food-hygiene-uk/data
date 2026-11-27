@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5428105",
+    "Longitude": "0.049872"
+  },
+  "AddressLine1": "305 High Street North",
+  "AddressLine2": "Manor Park",
+  "AddressLine3": "London",
+  "PostCode": "E12 6SL",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

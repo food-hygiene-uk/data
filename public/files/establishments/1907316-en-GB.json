@@ -10,16 +10,21 @@
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ehfst@milton-keynes.gov.uk",
   "Geocode": {
-    "Latitude": "52.0079954",
-    "Longitude": "-0.7175949"
+    "Latitude": "52.0079528",
+    "Longitude": "-0.7175718"
   },
-  "AddressLine2": "5 Mount Avenue",
+  "AddressLine1": "Unit 5",
+  "AddressLine2": "Mount Avenue",
   "AddressLine3": "Bletchley",
   "AddressLine4": "Milton Keynes",
   "PostCode": "MK1 1LS",
   "SchemeType": "FHRS",
-  "RatingValue": "Exempt",
-  "RatingKey": "fhrs_exempt_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "4",
+  "RatingKey": "fhrs_4_en-GB",
+  "RatingDate": "2026-03-25",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 10
+  }
 }

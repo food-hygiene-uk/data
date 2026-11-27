@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "https://www.newham.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food@newham.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5461267",
+    "Longitude": "0.0571891"
+  },
+  "AddressLine1": "63 Browning Road",
+  "AddressLine2": "Manor Park",
+  "AddressLine3": "London",
+  "PostCode": "E12 6RA",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

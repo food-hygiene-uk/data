@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "868",
   "LocalAuthorityName": "York",
   "LocalAuthorityWebSite": "http://www.york.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "public.protection@york.gov.uk",
   "Geocode": {
     "Latitude": "53.967159",
@@ -17,11 +17,11 @@
   "AddressLine3": "York",
   "PostCode": "YO31 7EL",
   "SchemeType": "FHRS",
-  "RatingValue": "2",
-  "RatingKey": "fhrs_2_en-GB",
-  "RatingDate": "2026-07-30",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-22",
   "Scores": {
-    "Hygiene": 15,
+    "Hygiene": 10,
     "Structural": 10,
     "ConfidenceInManagement": 10
   }
