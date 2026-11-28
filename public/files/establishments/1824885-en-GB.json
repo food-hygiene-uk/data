@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5822689",
+    "Longitude": "-2.4541043"
+  },
+  "AddressLine2": "66 Queensgate",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 4EA",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

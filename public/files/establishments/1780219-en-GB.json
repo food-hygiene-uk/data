@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.middlesbrough.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "EHTS@middlesbrough.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "54.563929",
+    "Longitude": "-1.225461"
+  },
+  "AddressLine1": "Marton Road",
+  "AddressLine2": "Middlesbrough",
+  "PostCode": "TS4 2NT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

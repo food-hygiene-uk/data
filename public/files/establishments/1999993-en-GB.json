@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5620347",
+    "Longitude": "-2.4301845"
+  },
+  "AddressLine2": "77 Rupert Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2DB",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

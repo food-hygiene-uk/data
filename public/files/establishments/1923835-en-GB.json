@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5632464",
+    "Longitude": "-2.4550176"
+  },
+  "AddressLine2": "21 Minnie Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 4EF",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

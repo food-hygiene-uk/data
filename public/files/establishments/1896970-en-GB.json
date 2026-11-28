@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5837426",
+    "Longitude": "-2.3933375"
+  },
+  "AddressLine2": "93 Withins Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 5DY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.600687",
+    "Longitude": "-2.586929"
+  },
+  "AddressLine2": "A6 Blackrod Bypass",
+  "AddressLine3": "Blackrod",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 5HX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

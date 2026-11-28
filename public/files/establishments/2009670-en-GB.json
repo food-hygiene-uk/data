@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.580225",
+    "Longitude": "-2.4282398"
+  },
+  "AddressLine2": "26 Deansgate",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 1BG",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

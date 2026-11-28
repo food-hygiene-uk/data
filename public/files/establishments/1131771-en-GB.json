@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.553035",
+    "Longitude": "-2.4232857"
+  },
+  "AddressLine2": "15 Springfield Road",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 0HN",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

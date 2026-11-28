@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "409",
   "LocalAuthorityName": "Dudley",
   "LocalAuthorityWebSite": "http://www.dudley.gov.uk",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "Geocode": {
     "Latitude": "52.45709",
     "Longitude": "-2.113315"
@@ -17,8 +17,12 @@
   "AddressLine3": "Stourbridge",
   "PostCode": "DY9 8LQ",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "0",
+  "RatingKey": "fhrs_0_en-GB",
+  "RatingDate": "2026-10-23",
+  "Scores": {
+    "Hygiene": 20,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
+  }
 }

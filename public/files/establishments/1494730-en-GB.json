@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.560725",
+    "Longitude": "-2.422036"
+  },
+  "AddressLine2": "32 Walker Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2DU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5676654",
+    "Longitude": "-2.4389692"
+  },
+  "AddressLine2": "25 Heap Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 6SY",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

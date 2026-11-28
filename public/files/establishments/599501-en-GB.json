@@ -1,29 +1,25 @@
 {
   "FHRSID": 599501,
-  "BusinessName": "Asda Smallheath Superstore",
+  "BusinessName": "859 Coventry Road",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "PI/000278302",
   "BusinessTypeID": 7840,
   "LocalAuthorityCode": "402",
   "LocalAuthorityName": "Birmingham",
   "LocalAuthorityWebSite": "http://www.birmingham.gov.uk/environmental-health",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "Admin.EH@birmingham.gov.uk",
-  "Geocode": {
-    "Latitude": "52.464179",
-    "Longitude": "-1.842655"
-  },
-  "AddressLine1": "859 Coventry Road",
-  "AddressLine2": "South Yardley",
-  "AddressLine3": "Birmingham",
+  "Geocode": null,
+  "AddressLine1": "South Yardley",
+  "AddressLine2": "Birmingham",
   "PostCode": "B10 0HH",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-07-24",
+  "RatingValue": "2",
+  "RatingKey": "fhrs_2_en-GB",
+  "RatingDate": "2026-10-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 0,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 10
   }
 }

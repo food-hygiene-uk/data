@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6169512",
+    "Longitude": "-2.420751"
+  },
+  "AddressLine2": "6 Stonesteads Way",
+  "AddressLine3": "Bromley Cross",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL7 9LD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.563934",
+    "Longitude": "-2.4490612"
+  },
+  "AddressLine1": "Rumworth Mill",
+  "AddressLine2": "St Helens Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3PR",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

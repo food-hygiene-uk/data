@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.thurrock.gov.uk/food",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodsafety@thurrock.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "51.5169546",
+    "Longitude": "0.4190594"
+  },
+  "AddressLine1": "29 Brookfield Drive",
+  "AddressLine2": "Stanford Le Hope",
+  "AddressLine3": "Essex",
+  "PostCode": "SS17 0GF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

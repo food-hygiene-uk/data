@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5610534",
+    "Longitude": "-2.4153193"
+  },
+  "AddressLine2": "3 Green Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2JX",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

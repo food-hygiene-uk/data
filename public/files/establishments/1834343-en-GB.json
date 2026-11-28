@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5429463",
+    "Longitude": "-2.416696"
+  },
+  "AddressLine2": "187 St James Street",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 9RG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

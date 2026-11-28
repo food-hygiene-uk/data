@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5749505",
+    "Longitude": "-2.4098226"
+  },
+  "AddressLine2": "26a Bradford Park Drive",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 1PA",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.60521",
+    "Longitude": "-2.4264979"
+  },
+  "AddressLine2": "124 Ashworth Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 8RR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

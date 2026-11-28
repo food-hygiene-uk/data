@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5647361",
+    "Longitude": "-2.3753"
+  },
+  "AddressLine2": "95 Lever Street",
+  "AddressLine3": "Little Lever",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL3 1BA",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6211322",
+    "Longitude": "-2.4304381"
+  },
+  "AddressLine2": "20 Fairfields",
+  "AddressLine3": "Egerton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL7 9EE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

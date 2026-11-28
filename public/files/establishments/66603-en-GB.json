@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.582698",
+    "Longitude": "-2.417965"
+  },
+  "AddressLine1": "Cubbins Caravan Park",
+  "AddressLine2": "6 Mill Hill Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 2AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

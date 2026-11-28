@@ -1,6 +1,6 @@
 {
   "FHRSID": 72917,
-  "BusinessName": "Peggy Scott",
+  "BusinessName": "Peggy Scott's",
   "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "16654",
   "BusinessTypeID": 1,
@@ -9,12 +9,15 @@
   "LocalAuthorityWebSite": "http://www.angus.gov.uk/fhis/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "ENVHEALTH@angus.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Restaurant Finavon Forfar",
+  "Geocode": {
+    "Latitude": "56.7063162",
+    "Longitude": "-2.8245123"
+  },
+  "AddressLine1": "Finavon Forfar",
   "PostCode": "DD8 3QD",
   "SchemeType": "FHIS",
   "RatingValue": "Pass",
   "RatingKey": "fhis_pass_en-GB",
-  "RatingDate": "2024-11-15",
+  "RatingDate": "2026-11-19",
   "Scores": null
 }

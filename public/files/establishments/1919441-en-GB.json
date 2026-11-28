@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5794878",
+    "Longitude": "-2.4374864"
+  },
+  "AddressLine1": "77 Minerva Mill",
+  "AddressLine2": "Queens Park Walk",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 4GT",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

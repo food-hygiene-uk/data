@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5347459",
+    "Longitude": "-2.5247204"
+  },
+  "AddressLine2": "151 Hindley Road",
+  "AddressLine3": "Westhoughton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 2HN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

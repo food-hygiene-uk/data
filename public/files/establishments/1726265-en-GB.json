@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.55151105",
+    "Longitude": "-2.50024965"
+  },
+  "AddressLine2": "Manchester Road",
+  "AddressLine3": "Over Hulton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 3JF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

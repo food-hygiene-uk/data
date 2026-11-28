@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.571524",
+    "Longitude": "-2.4208652"
+  },
+  "AddressLine1": "Unit 1",
+  "AddressLine2": "Lever Grove",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 1AU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

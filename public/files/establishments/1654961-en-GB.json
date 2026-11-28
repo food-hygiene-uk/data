@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5583305358887",
+    "Longitude": "-2.46453809738159"
+  },
+  "AddressLine2": "339 Hulton Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 4LH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

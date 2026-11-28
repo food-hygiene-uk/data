@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5599917",
+    "Longitude": "-2.4233402"
+  },
+  "AddressLine2": "82 Newport Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2DT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

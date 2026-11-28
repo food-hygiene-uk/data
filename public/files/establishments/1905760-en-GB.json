@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5937969",
+    "Longitude": "-2.4104886"
+  },
+  "AddressLine2": "14 Haroldene Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 2JY",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5957941",
+    "Longitude": "-2.5547429"
+  },
+  "AddressLine2": "6 Vale Avenue",
+  "AddressLine3": "Horwich",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 5RQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6062656",
+    "Longitude": "-2.4475308"
+  },
+  "AddressLine2": "129 Wilkinson Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 7BE",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

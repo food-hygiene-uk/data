@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5653831",
+    "Longitude": "-2.4533041"
+  },
+  "AddressLine2": "10 Oakford Walk",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 4DL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

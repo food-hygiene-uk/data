@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5543403625488",
+    "Longitude": "-2.4097158908844"
+  },
+  "AddressLine2": "36 Campbell Street",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 7HH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

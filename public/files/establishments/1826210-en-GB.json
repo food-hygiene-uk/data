@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "892",
   "LocalAuthorityName": "Torbay",
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
   "Geocode": {
     "Latitude": "50.4831227",
@@ -16,12 +16,12 @@
   "AddressLine1": "55 Fore Street Torquay",
   "PostCode": "TQ1 4PU",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-11-26",
+  "RatingValue": "3",
+  "RatingKey": "fhrs_3_en-GB",
+  "RatingDate": "2026-10-27",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 0
+    "Hygiene": 5,
+    "Structural": 10,
+    "ConfidenceInManagement": 10
   }
 }

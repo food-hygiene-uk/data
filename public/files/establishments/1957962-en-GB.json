@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.561242",
+    "Longitude": "-2.435885"
+  },
+  "AddressLine2": "143 Paulhan Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3DT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

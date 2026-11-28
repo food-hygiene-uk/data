@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5774768",
+    "Longitude": "-2.4448704"
+  },
+  "AddressLine1": "Queens Park Lodge Queens Park",
+  "AddressLine2": "Park Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 4RU",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",

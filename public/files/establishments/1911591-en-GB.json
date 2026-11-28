@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5915795",
+    "Longitude": "-2.4148937"
+  },
+  "AddressLine2": "8 Wealdstone Grove",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 2JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

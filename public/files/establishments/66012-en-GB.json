@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.593544",
+    "Longitude": "-2.458171"
+  },
+  "AddressLine2": "18 Harpers Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 6HR",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

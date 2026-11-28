@@ -1,6 +1,6 @@
 {
   "FHRSID": 1825402,
-  "BusinessName": "Co-Operative - Paignton - Palace Avenue",
+  "BusinessName": "Co-operative Group",
   "BusinessType": "Retailers - supermarkets/hypermarkets",
   "LocalAuthorityBusinessID": "143361735642989",
   "BusinessTypeID": 7840,
@@ -9,15 +9,18 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "60-66 Winner Street Roundham With Hyde Paignton Torbay",
+  "Geocode": {
+    "Latitude": "50.4357467",
+    "Longitude": "-3.5714884"
+  },
+  "AddressLine1": "60-66 Winner Street Paignton",
   "PostCode": "TQ3 3EW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2024-10-29",
+  "RatingDate": "2026-11-26",
   "Scores": {
-    "Hygiene": 5,
+    "Hygiene": 0,
     "Structural": 5,
     "ConfidenceInManagement": 5
   }

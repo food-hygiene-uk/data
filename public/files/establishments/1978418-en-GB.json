@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6067598",
+    "Longitude": "-2.5410577"
+  },
+  "AddressLine2": "40 Cotswold Drive",
+  "AddressLine3": "Horwich",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 7DE",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

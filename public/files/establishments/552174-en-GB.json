@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.586475",
+    "Longitude": "-2.4197984"
+  },
+  "AddressLine1": "4 Hiltop",
+  "AddressLine2": "Longson Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 2TL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

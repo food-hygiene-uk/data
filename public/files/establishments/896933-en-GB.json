@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.559889",
+    "Longitude": "-2.42224"
+  },
+  "AddressLine2": "24 Hampton Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2DX",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

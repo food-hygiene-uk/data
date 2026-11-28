@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5680454",
+    "Longitude": "-2.4432009"
+  },
+  "AddressLine2": "32 Howcroft Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 5LP",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

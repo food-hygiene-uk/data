@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.560691",
+    "Longitude": "-2.43911"
+  },
+  "AddressLine2": "4 Cobham Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3DY",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

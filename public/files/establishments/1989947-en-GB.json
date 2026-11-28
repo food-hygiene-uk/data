@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6032753",
+    "Longitude": "-2.5521658"
+  },
+  "AddressLine2": "15 Catherine Street West",
+  "PostCode": "BL6 7JY",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

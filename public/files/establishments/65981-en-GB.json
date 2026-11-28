@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.564914",
+    "Longitude": "-2.538607"
+  },
+  "AddressLine1": "Blue Bell Farm",
+  "AddressLine2": "Chorley Road",
+  "AddressLine3": "Westhoughton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 3NS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

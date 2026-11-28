@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5639163",
+    "Longitude": "-2.451371"
+  },
+  "AddressLine1": "Morris Green Business Park",
+  "AddressLine2": "Fearnhead Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3PE",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

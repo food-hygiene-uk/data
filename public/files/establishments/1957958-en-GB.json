@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5963659",
+    "Longitude": "-2.5612323"
+  },
+  "AddressLine2": "18 Ashness Close",
+  "AddressLine3": "Horwich",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 5RL",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

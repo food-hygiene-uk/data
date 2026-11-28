@@ -7,7 +7,7 @@
   "LocalAuthorityCode": "554",
   "LocalAuthorityName": "Gwynedd",
   "LocalAuthorityWebSite": "http://www.gwynedd.llyw.cymru",
-  "NewRatingPending": true,
+  "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "BwydaIechydaDiogelwch@gwynedd.llyw.cymru",
   "Geocode": null,
   "AddressLine1": "Bryn Derwen Bryn Hynog",
@@ -15,12 +15,12 @@
   "AddressLine4": "Gwynedd",
   "PostCode": "LL53 5UG",
   "SchemeType": "FHRS",
-  "RatingValue": "5",
-  "RatingKey": "fhrs_5_cy-gb",
-  "RatingDate": "2025-09-12",
+  "RatingValue": "1",
+  "RatingKey": "fhrs_1_cy-gb",
+  "RatingDate": "2026-10-23",
   "Scores": {
-    "Hygiene": 0,
-    "Structural": 5,
-    "ConfidenceInManagement": 5
+    "Hygiene": 15,
+    "Structural": 15,
+    "ConfidenceInManagement": 20
   }
 }

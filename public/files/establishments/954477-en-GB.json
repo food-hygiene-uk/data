@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5746465",
+    "Longitude": "-2.4171591"
+  },
+  "AddressLine2": "57 Hilden Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 1JD",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

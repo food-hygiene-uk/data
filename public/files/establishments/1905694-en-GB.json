@@ -1,6 +1,6 @@
 {
   "FHRSID": 1905694,
-  "BusinessName": "WHARF LONDON LTD",
+  "BusinessName": "BioHerb",
   "BusinessType": "Distributors/Transporters",
   "LocalAuthorityBusinessID": "25/05316/MIXED",
   "BusinessTypeID": 7,
@@ -13,8 +13,12 @@
   "AddressLine1": "Unit 3 Bulleigh Barton Farm Barns Ipplepen",
   "PostCode": "TQ12 5UA",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-10-08",
+  "Scores": {
+    "Hygiene": 0,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

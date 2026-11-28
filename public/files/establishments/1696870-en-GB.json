@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5440506",
+    "Longitude": "-2.4012238"
+  },
+  "AddressLine2": "13 Langdale Street",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 9NR",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

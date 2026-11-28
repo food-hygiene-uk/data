@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.56986",
+    "Longitude": "-2.429089"
+  },
+  "AddressLine1": "Fishermans Wharf",
+  "AddressLine2": "Nile Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 6BW",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5886376",
+    "Longitude": "-2.3833974"
+  },
+  "AddressLine2": "17 Duddon Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 5EZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

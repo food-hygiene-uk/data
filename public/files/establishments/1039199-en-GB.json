@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5919771",
+    "Longitude": "-2.4792878"
+  },
+  "AddressLine2": "53 Johnson Fold Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 5SF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

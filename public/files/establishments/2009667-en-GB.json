@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5540456",
+    "Longitude": "-2.4065713"
+  },
+  "AddressLine1": "Bolton Textile Mill",
+  "AddressLine2": "Cawor Street",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 7EA",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

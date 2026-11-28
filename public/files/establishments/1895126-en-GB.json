@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5719221",
+    "Longitude": "-2.4472885"
+  },
+  "AddressLine2": "20 Alberta Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 5JD",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

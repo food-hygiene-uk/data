@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6087694",
+    "Longitude": "-2.4058277"
+  },
+  "AddressLine2": "60 Rigby Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 3EQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5919888",
+    "Longitude": "-2.4435877"
+  },
+  "AddressLine2": "143 Eskrick Street",
+  "PostCode": "BL1 3JB",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

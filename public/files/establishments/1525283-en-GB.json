@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5390293",
+    "Longitude": "-2.5236116"
+  },
+  "AddressLine2": "99 St Georges Avenue",
+  "AddressLine3": "Westhoughton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 2EZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5614665",
+    "Longitude": "-2.4137304"
+  },
+  "AddressLine2": "38 Cotton Drive",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2GF",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5656132",
+    "Longitude": "-2.4446551"
+  },
+  "AddressLine2": "25 Sunning Hill Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 6LX",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5981128",
+    "Longitude": "-2.4354622"
+  },
+  "AddressLine2": "25 Ashbee Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 6NT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

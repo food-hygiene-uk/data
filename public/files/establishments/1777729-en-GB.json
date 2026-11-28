@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5787877",
+    "Longitude": "-2.4100712"
+  },
+  "AddressLine2": "36 Cemetery Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 6AG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6104161",
+    "Longitude": "-2.3918021"
+  },
+  "AddressLine2": "31 Birchfield",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 4AH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

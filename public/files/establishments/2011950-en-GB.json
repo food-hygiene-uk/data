@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5796118",
+    "Longitude": "-2.4313669"
+  },
+  "AddressLine1": "Apartment 27 Velvet Works",
+  "AddressLine2": "82-100 Deansgate",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 1EU",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

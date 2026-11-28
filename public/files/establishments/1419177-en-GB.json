@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5567757",
+    "Longitude": "-2.3992611"
+  },
+  "AddressLine1": "Caravan 1 Fylde Street Caravan Park",
+  "AddressLine2": "Fylde Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2QF",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

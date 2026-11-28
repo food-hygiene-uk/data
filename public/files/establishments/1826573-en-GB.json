@@ -9,8 +9,11 @@
   "LocalAuthorityWebSite": "http://www.torbay.gov.uk/",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "food.safety@torbay.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Marks & Spencer Nicholson Road Torquay",
+  "Geocode": {
+    "Latitude": "50.48859935",
+    "Longitude": "-3.55795381"
+  },
+  "AddressLine1": "Nicholson Road Torquay",
   "PostCode": "TQ2 7XA",
   "SchemeType": "FHRS",
   "RatingValue": "5",

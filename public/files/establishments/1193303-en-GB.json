@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6089481",
+    "Longitude": "-2.4416345"
+  },
+  "AddressLine2": "15 The Beeches",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 7BS",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

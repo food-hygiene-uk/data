@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.586219",
+    "Longitude": "-2.5336812"
+  },
+  "AddressLine2": "35 Holmebrook Drive",
+  "AddressLine3": "Horwich",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 6RH",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

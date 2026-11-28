@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5935851",
+    "Longitude": "-2.4093383"
+  },
+  "AddressLine2": "80 Le Gendre Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 2NT",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.570755",
+    "Longitude": "-2.385291"
+  },
+  "AddressLine2": "659 Radcliffe Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 1AN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

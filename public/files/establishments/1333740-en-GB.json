@@ -9,7 +9,15 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5425091",
+    "Longitude": "-2.5453996"
+  },
+  "AddressLine1": "Caravan 14 Caravan Site",
+  "AddressLine2": "Old Fold Road",
+  "AddressLine3": "Westhoughton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 2BU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,12 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5976288",
+    "Longitude": "-2.4199997"
+  },
+  "AddressLine2": "11 Hallbridge Gardens",
+  "PostCode": "BL1 8UT",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

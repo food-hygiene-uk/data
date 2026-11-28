@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5942273",
+    "Longitude": "-2.476231"
+  },
+  "AddressLine2": "10 Gargrave Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 5UQ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

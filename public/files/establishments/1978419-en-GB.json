@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5391012",
+    "Longitude": "-2.372568"
+  },
+  "AddressLine2": "6 Walker Close",
+  "AddressLine3": "Kearsley",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 8QZ",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

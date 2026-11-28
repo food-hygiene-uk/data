@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5575607",
+    "Longitude": "-2.4540056"
+  },
+  "AddressLine2": "55 Normanby Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3QR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

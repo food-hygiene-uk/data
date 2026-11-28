@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.582928",
+    "Longitude": "-2.439387"
+  },
+  "AddressLine2": "1 Thomas Holden Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 2QG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

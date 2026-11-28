@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6291778",
+    "Longitude": "-2.4448852"
+  },
+  "AddressLine2": "29 Dewhurst Clough Road",
+  "AddressLine3": "Egerton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL7 9TY",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

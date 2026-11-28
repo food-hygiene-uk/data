@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5519756",
+    "Longitude": "-2.5230168"
+  },
+  "AddressLine2": "7 Lord Street",
+  "AddressLine3": "Westhoughton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL5 3SE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.manchester.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "envhealth@manchester.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5265127",
+    "Longitude": "-2.2027557"
+  },
+  "AddressLine2": "19 Earby Grove",
+  "AddressLine3": "Manchester",
+  "PostCode": "M9 6LL",
   "SchemeType": "FHRS",
   "RatingValue": "4",
   "RatingKey": "fhrs_4_en-GB",

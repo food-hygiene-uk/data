@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5398986",
+    "Longitude": "-2.3790484"
+  },
+  "AddressLine2": "35 Thomas More Close",
+  "AddressLine3": "Kearsley",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 8ND",
   "SchemeType": "FHRS",
   "RatingValue": "AwaitingInspection",
   "RatingKey": "fhrs_awaitinginspection_en-GB",

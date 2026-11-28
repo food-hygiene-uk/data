@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5354033",
+    "Longitude": "-2.382237"
+  },
+  "AddressLine2": "6 Queensway",
+  "AddressLine3": "Kearsley",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 8LP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

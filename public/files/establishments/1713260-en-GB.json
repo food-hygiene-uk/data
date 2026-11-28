@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5768313",
+    "Longitude": "-2.4771834"
+  },
+  "AddressLine1": "Hulme Lodge",
+  "AddressLine2": "Ladybridge Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 5DE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

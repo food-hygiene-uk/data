@@ -9,18 +9,21 @@
   "LocalAuthorityWebSite": "http://www.richmond.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "foodandsafety@merton.gov.uk",
-  "Geocode": null,
-  "AddressLine1": "Sainsbury's Supermarket Manor Road",
+  "Geocode": {
+    "Latitude": "51.4668018",
+    "Longitude": "-0.2868413"
+  },
+  "AddressLine1": "Sainsburys 361 Lower Richmond Road",
   "AddressLine3": "Richmond",
   "AddressLine4": "Richmond Upon Thames",
-  "PostCode": "TW9 1YB",
+  "PostCode": "TW9 4NZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",
-  "RatingDate": "2023-05-19",
+  "RatingDate": "2026-11-17",
   "Scores": {
-    "Hygiene": 5,
-    "Structural": 5,
+    "Hygiene": 0,
+    "Structural": 0,
     "ConfidenceInManagement": 0
   }
 }

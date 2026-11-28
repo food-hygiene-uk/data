@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5610123",
+    "Longitude": "-2.4219464"
+  },
+  "AddressLine2": "10 Lowick Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2DS",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

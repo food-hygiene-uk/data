@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.621046",
+    "Longitude": "-2.437213"
+  },
+  "AddressLine2": "10 Shorefield Mount",
+  "AddressLine3": "Egerton",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL7 9EN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

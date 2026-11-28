@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5960002",
+    "Longitude": "-2.4181863"
+  },
+  "AddressLine2": "66 Kentfield Drive",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 8FU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

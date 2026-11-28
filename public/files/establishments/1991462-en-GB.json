@@ -1,9 +1,9 @@
 {
   "FHRSID": 1991462,
-  "BusinessName": "The Grill",
-  "BusinessType": "Mobile caterer",
+  "BusinessName": "The Grill Catering",
+  "BusinessType": "Restaurant/Cafe/Canteen",
   "LocalAuthorityBusinessID": "277361",
-  "BusinessTypeID": 7846,
+  "BusinessTypeID": 1,
   "LocalAuthorityCode": "807",
   "LocalAuthorityName": "Belfast City",
   "LocalAuthorityWebSite": "http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx",
@@ -17,8 +17,12 @@
   "AddressLine4": "Belfast",
   "PostCode": "BT1 3NR",
   "SchemeType": "FHRS",
-  "RatingValue": "AwaitingInspection",
-  "RatingKey": "fhrs_awaitinginspection_en-GB",
-  "RatingDate": null,
-  "Scores": null
+  "RatingValue": "5",
+  "RatingKey": "fhrs_5_en-GB",
+  "RatingDate": "2026-11-19",
+  "Scores": {
+    "Hygiene": 5,
+    "Structural": 5,
+    "ConfidenceInManagement": 5
+  }
 }

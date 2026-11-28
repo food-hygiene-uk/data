@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5668192",
+    "Longitude": "-2.458574"
+  },
+  "AddressLine2": "265 Willows Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 4HE",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

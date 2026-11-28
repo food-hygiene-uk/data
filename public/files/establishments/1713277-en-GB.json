@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5585265",
+    "Longitude": "-2.4078371"
+  },
+  "AddressLine2": "8 Ashby Close",
+  "AddressLine3": "Farnworth",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL4 7TS",
   "SchemeType": "FHRS",
   "RatingValue": "2",
   "RatingKey": "fhrs_2_en-GB",

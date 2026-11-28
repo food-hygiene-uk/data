@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5609101",
+    "Longitude": "-2.4572119"
+  },
+  "AddressLine2": "49 Longfellow Avenue",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3TH",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

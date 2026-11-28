@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.591903",
+    "Longitude": "-2.3963896"
+  },
+  "AddressLine2": "32 Monks Lane",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL2 5BW",
   "SchemeType": "FHRS",
   "RatingValue": "3",
   "RatingKey": "fhrs_3_en-GB",

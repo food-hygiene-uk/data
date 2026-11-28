@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5719849",
+    "Longitude": "-2.442472"
+  },
+  "AddressLine2": "36 Cannon Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 5AP",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

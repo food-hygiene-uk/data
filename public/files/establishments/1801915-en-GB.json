@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5684238",
+    "Longitude": "-2.4305968"
+  },
+  "AddressLine2": "12 Moorby Walk",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 6YG",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

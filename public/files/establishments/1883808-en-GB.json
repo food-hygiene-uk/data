@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.6122114",
+    "Longitude": "-2.4266289"
+  },
+  "AddressLine2": "24 Dales Brow",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 7RU",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

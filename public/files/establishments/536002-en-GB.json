@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.596135",
+    "Longitude": "-2.553132"
+  },
+  "AddressLine2": "88 Greenstone Avenue",
+  "AddressLine3": "Horwich",
+  "AddressLine4": "Bolton",
+  "PostCode": "BL6 5SJ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

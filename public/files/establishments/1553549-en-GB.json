@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.561659",
+    "Longitude": "-2.417275"
+  },
+  "AddressLine2": "52 Woodgate Street",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 2HN",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

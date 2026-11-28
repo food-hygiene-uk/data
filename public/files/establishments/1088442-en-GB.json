@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5881669",
+    "Longitude": "-2.4583974"
+  },
+  "AddressLine2": "6 Stanley Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL1 5JZ",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

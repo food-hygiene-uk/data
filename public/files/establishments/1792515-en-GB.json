@@ -9,7 +9,14 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.5539733",
+    "Longitude": "-2.4298913"
+  },
+  "AddressLine1": "Chadwick Car Park Royal Bolton Hospital",
+  "AddressLine2": "Minerva Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL4 0JR",
   "SchemeType": "FHRS",
   "RatingValue": "5",
   "RatingKey": "fhrs_5_en-GB",

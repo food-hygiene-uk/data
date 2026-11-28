@@ -9,7 +9,13 @@
   "LocalAuthorityWebSite": "http://www.bolton.gov.uk",
   "NewRatingPending": false,
   "LocalAuthorityEmailAddress": "environmental.health@bolton.gov.uk",
-  "Geocode": null,
+  "Geocode": {
+    "Latitude": "53.56103515625",
+    "Longitude": "-2.43109798431396"
+  },
+  "AddressLine2": "77 Calvert Road",
+  "AddressLine3": "Bolton",
+  "PostCode": "BL3 3BT",
   "SchemeType": "FHRS",
   "RatingValue": "1",
   "RatingKey": "fhrs_1_en-GB",
